@@ -9,6 +9,8 @@ on:
 jobs:
   run-news-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # PENTING: Supaya boleh save file
     
     steps:
     - name: Checkout Code
@@ -17,9 +19,17 @@ jobs:
     - name: Run PowerShell Script
       shell: pwsh
       env:
-        TELEGRAM_TOKEN: '8248679184:AAFnxVYCy3r3CJR23cJc5sdzxZ4EiLAdqzA'
-        TELEGRAM_TOKEN_2: '8096914003:AAHc4XFQuVub-kth1Qpn_aV8KNix43OMlKk'
-        TELEGRAM_CHAT_ID: '484973817'
-        TELEGRAM_CHAT_ID_2: '484973817'
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        TELEGRAM_TOKEN_2: ${{ secrets.TELEGRAM_TOKEN_2 }}
+        TELEGRAM_CHAT_ID_2: ${{ secrets.TELEGRAM_CHAT_ID_2 }}
       run: |
         ./fetch_news_cloud.ps1
+
+    - name: Commit and Push News JSON
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add news.json
+        git commit -m "Update news.json" || exit 0
+        git push
