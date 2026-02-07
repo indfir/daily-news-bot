@@ -17,7 +17,7 @@ jobs:
     - name: Run PowerShell Script
       shell: pwsh
       env:
-        TELEGRAM_TOKEN: ${{8248679184:AAFnxVYCy3r3CJR23cJc5sdzxZ4EiLAdqzA}}
-        TELEGRAM_CHAT_ID: ${{484973817}}
+        TELEGRAM_TOKEN: '8248679184:AAFnxVYCy3r3CJR23cJc5sdzxZ4EiLAdqzA'
+        TELEGRAM_CHAT_ID: '484973817'
       run: |
         ./fetch_news_cloud.ps1
