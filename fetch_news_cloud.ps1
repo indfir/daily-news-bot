@@ -10,11 +10,25 @@ $topics = @{
 }
 
 # Read Secrets from Environment Variables (GitHub Secrets)
+# Primary Bot
 $botToken = $env:TELEGRAM_TOKEN
 $chatId = $env:TELEGRAM_CHAT_ID
 
-if (-not $botToken -or -not $chatId) {
-    Write-Error "Missing TELEGRAM_TOKEN or TELEGRAM_CHAT_ID environment variables."
+# Secondary Bot (Optional - for OpenClaw)
+$botToken2 = $env:TELEGRAM_TOKEN_2
+$chatId2 = $env:TELEGRAM_CHAT_ID_2
+
+# Build List of Targets
+$targets = @()
+if ($botToken -and $chatId) {
+    $targets += @{ Token = $botToken; ChatId = $chatId }
+}
+if ($botToken2 -and $chatId2) {
+    $targets += @{ Token = $botToken2; ChatId = $chatId2 }
+}
+
+if ($targets.Count -eq 0) {
+    Write-Error "No valid TELEGRAM_TOKEN or TELEGRAM_CHAT_ID found."
     exit 1
 }
 
@@ -51,21 +65,28 @@ function Send-TelegramMessage {
     param (
         [string]$Message
     )
-    $url = "https://api.telegram.org/bot" + $botToken + "/sendMessage"
     
-    $body = @{
-        chat_id                  = $chatId
-        text                     = $Message
-        parse_mode               = "HTML"
-        disable_web_page_preview = "true"
-    }
-    
-    try {
-        Invoke-RestMethod -Uri $url -Method Post -Body $body -ErrorAction Stop | Out-Null
-        Write-Host "Sent message."
-    }
-    catch {
-        Write-Host "Failed to send Telegram message: $($_.Exception.Message)"
+    # Send to ALL targets
+    foreach ($target in $script:targets) {
+        $tToken = $target.Token
+        $tChatId = $target.ChatId
+        
+        $url = "https://api.telegram.org/bot" + $tToken + "/sendMessage"
+        
+        $body = @{
+            chat_id                  = $tChatId
+            text                     = $Message
+            parse_mode               = "HTML"
+            disable_web_page_preview = "true"
+        }
+        
+        try {
+            Invoke-RestMethod -Uri $url -Method Post -Body $body -ErrorAction Stop | Out-Null
+            Write-Host "Sent message to ChatID: $tChatId"
+        }
+        catch {
+            Write-Host "Failed to send to $tChatId : $($_.Exception.Message)"
+        }
     }
 }
 
