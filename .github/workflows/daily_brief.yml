@@ -1,0 +1,23 @@
+name: Daily News Brief
+
+on:
+  schedule:
+    # Runs at 23:00 UTC = 06:00 WIB (Next Day)
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-news-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+      
+    - name: Run PowerShell Script
+      shell: pwsh
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        ./fetch_news_cloud.ps1
