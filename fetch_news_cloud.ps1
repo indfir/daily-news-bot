@@ -1,10 +1,9 @@
-# Cloud Version of News Fetcher for GitHub Actions
-# Uses Environment Variables for Secrets
+# News Fetcher for GitHub Actions
 # Sources:
-# - Bing News RSS (search)
-# - GDELT DOC API RSS (global)
-# Requirement:
-# - Broadcast ONLY English articles (filter at source for GDELT, and heuristic filter for Bing)
+# - Bing News RSS (open language)
+# - GDELT DOC API RSS (global, English-only via sourcelang:english) [web:64]
+# Feature:
+# - Daily dedup: do not broadcast the same news twice across days (persistent history file)
 
 $topics = @{
     "Astronomy"  = "Astronomy"
@@ -14,13 +13,12 @@ $topics = @{
     "Movies"     = "Movies"
 }
 
-# Read Secrets from Environment Variables (GitHub Secrets)
+# Telegram secrets
 $botToken  = $env:TELEGRAM_TOKEN
 $chatId    = $env:TELEGRAM_CHAT_ID
 $botToken2 = $env:TELEGRAM_TOKEN_2
 $chatId2   = $env:TELEGRAM_CHAT_ID_2
 
-# Build List of Targets
 $targets = @()
 if ($botToken -and $chatId)   { $targets += @{ Token = $botToken;  ChatId = $chatId  } }
 if ($botToken2 -and $chatId2) { $targets += @{ Token = $botToken2; ChatId = $chatId2 } }
@@ -31,10 +29,57 @@ if ($targets.Count -eq 0) {
 }
 
 $currentDate = Get-Date -Format "MMMM dd, yyyy"
-
-# User Agent
 $userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
+# ---------------------------
+# Persistent history (dedup)
+# ---------------------------
+$historyPath = Join-Path $PSScriptRoot "sent_links.json"
+
+function Load-History {
+    if (Test-Path $script:historyPath) {
+        try {
+            $raw = Get-Content $script:historyPath -Raw -ErrorAction Stop
+            if ($raw.Trim().Length -eq 0) { return @{} }
+            $obj = $raw | ConvertFrom-Json
+            # Convert PSCustomObject -> hashtable
+            $ht = @{}
+            foreach ($p in $obj.PSObject.Properties) { $ht[$p.Name] = [bool]$p.Value }
+            return $ht
+        } catch {
+            return @{}
+        }
+    }
+    return @{}
+}
+
+function Save-History {
+    param([hashtable]$History)
+    # keep file deterministic
+    $History | ConvertTo-Json -Depth 3 | Out-File $script:historyPath -Encoding UTF8
+}
+
+function Get-Fingerprint {
+    param(
+        [string]$FinalUrl,
+        [string]$Title
+    )
+
+    # Prefer URL as key
+    if ($FinalUrl) {
+        return ("url:" + $FinalUrl.Trim().ToLowerInvariant())
+    }
+
+    # Fallback: title+host if URL missing
+    $t = ($Title ?? "").Trim().ToLowerInvariant()
+    return ("title:" + $t)
+}
+
+$sentHistory = Load-History
+
+# ---------------------------
+# Helpers
+# ---------------------------
 function Get-GoogleTranslation {
     param([string]$Text, [string]$TargetLanguage = "id")
 
@@ -103,29 +148,7 @@ function SafeHtml {
     return $Text.Replace("<","&lt;").Replace(">","&gt;")
 }
 
-function LooksLikeEnglish {
-    param([string]$Text)
-
-    if (-not $Text) { return $false }
-
-    # Quick heuristic:
-    # - If contains lots of non-ASCII letters (common in many non-English scripts), reject.
-    # - If has some common English stopwords, accept.
-    $t = $Text.Trim()
-
-    $nonLatin = [regex]::Matches($t, "[\u0100-\uFFFF]").Count
-    if ($nonLatin -gt 0) { return $false }
-
-    $lower = $t.ToLowerInvariant()
-    $hits = 0
-    foreach ($w in @(" the "," and "," to "," of "," in "," for "," with "," on "," from "," by "," as ")) {
-        if ($lower.Contains($w)) { $hits++ }
-    }
-    return ($hits -ge 1)
-}
-
-# GDELT DOC API RSS (global)
-# Use sourcelang to force original publication language. GDELT docs show sourcelang:spanish and explain it filters original language; we apply sourcelang:english. [web:64][web:67]
+# GDELT DOC API RSS (global, English-only in query) [web:64]
 function Get-GdeltRssUrl {
     param(
         [Parameter(Mandatory)][string]$Query,
@@ -139,11 +162,12 @@ function Get-GdeltRssUrl {
     return "https://api.gdeltproject.org/api/v2/doc/doc?query=$q&mode=artlist&format=rss&timespan=$Timespan&maxrecords=$MaxRecords&sort=hybridrel"
 }
 
-# Header
+# ---------------------------
+# Start
+# ---------------------------
 $headerMsg = "<b>Daily News Brief - $currentDate</b>"
 Send-TelegramMessage -Message $headerMsg
 
-# JSON export
 $allNewsData = @()
 
 foreach ($topicName in $topics.Keys) {
@@ -153,28 +177,18 @@ foreach ($topicName in $topics.Keys) {
     $topicContent = "<b>$topicName</b>`n`n"
     $allItems = @()
 
-    # -----------------------
-    # Source 1: Bing News RSS
-    # We bias toward English by adding "language:en" keyword to query (best-effort),
-    # then apply a heuristic filter on title/description to reduce non-English leakage.
-    # -----------------------
+    # Bing RSS
     try {
-        $bingQuery = "$rawQuery language:en"
-        $bingUrl = "https://www.bing.com/news/search?q=$([uri]::EscapeDataString($bingQuery))&format=rss"
+        $bingUrl = "https://www.bing.com/news/search?q=$encodedQuery&format=rss"
         $response = Invoke-WebRequest -Uri $bingUrl -UseBasicParsing -UserAgent $userAgent -ErrorAction Stop
         [xml]$rssXml = $response.Content
 
         if ($rssXml.rss.channel.item) {
             foreach ($item in $rssXml.rss.channel.item) {
-                $title = [string]$item.title
-                $desc  = [string]$item.description
-
-                if (-not (LooksLikeEnglish "$title $desc")) { continue }
-
                 $allItems += [PSCustomObject]@{
-                    Title       = $title
+                    Title       = [string]$item.title
                     Link        = [string]$item.link
-                    Description = $desc
+                    Description = [string]$item.description
                     PubDate     = [string]$item.pubDate
                     Source      = "Bing"
                 }
@@ -184,9 +198,7 @@ foreach ($topicName in $topics.Keys) {
         Write-Host "Bing Error for $topicName : $($_.Exception.Message)"
     }
 
-    # -----------------------
-    # Source 2: GDELT Global RSS (English-only enforced by sourcelang:english) [web:64][web:67]
-    # -----------------------
+    # GDELT RSS (English-only) [web:64]
     try {
         $gdeltUrl = Get-GdeltRssUrl -Query $rawQuery -Timespan "7d" -MaxRecords 50
         $response = Invoke-WebRequest -Uri $gdeltUrl -UseBasicParsing -UserAgent $userAgent -ErrorAction Stop
@@ -207,51 +219,61 @@ foreach ($topicName in $topics.Keys) {
         Write-Host "GDELT Error for $topicName : $($_.Exception.Message)"
     }
 
-    # --- Filter & Sort (last 30 days, top 5) ---
+    # Filter last 30 days, sort desc
     $cutoffDate = (Get-Date).AddDays(-30)
-
-    $finalItems = $allItems | Where-Object {
-        try {
-            $d = [DateTime]::Parse($_.PubDate)
-            $d -ge $cutoffDate
-        } catch { $true }
+    $sortedItems = $allItems | Where-Object {
+        try { ([DateTime]::Parse($_.PubDate)) -ge $cutoffDate } catch { $true }
     } | Sort-Object {
         try { [DateTime]::Parse($_.PubDate) } catch { Get-Date }
-    } -Descending | Select-Object -First 5
+    } -Descending
 
-    if ($finalItems) {
-        $counter = 1
-        foreach ($item in $finalItems) {
-            $title   = $item.Title
-            $rawDesc = $item.Description
-            $source  = $item.Source
+    # Build message: take first 5 that are NOT in history
+    $counter = 1
+    foreach ($item in $sortedItems) {
+        if ($counter -gt 5) { break }
 
-            $link = Resolve-FinalUrl -Url $item.Link
+        $title   = $item.Title
+        $rawDesc = $item.Description
+        $source  = $item.Source
 
-            # Translate Description -> Indonesian
-            $translatedDesc = Get-GoogleTranslation -Text $rawDesc
+        $finalLink = Resolve-FinalUrl -Url $item.Link
+        $fp = Get-Fingerprint -FinalUrl $finalLink -Title $title
 
-            $allNewsData += [PSCustomObject]@{
-                Topic          = $topicName
-                Title          = $title
-                SummaryEncoded = $translatedDesc
-                Link           = $link
-                Source         = $source
-                Date           = (Get-Date).ToString("yyyy-MM-dd HH:mm")
-            }
-
-            $safeTitle = SafeHtml $title
-            $safeDesc  = SafeHtml $translatedDesc
-
-            $topicContent += "$counter. <b>$safeTitle</b> <i>($source)</i>`n$safeDesc`n<a href='$link'>Baca Selengkapnya</a>`n`n"
-            $counter++
+        if ($sentHistory.ContainsKey($fp)) {
+            continue
         }
-    } else {
-        $topicContent += "No fresh English news found in last 30 days (Bing/GDELT).`n"
+
+        # Mark as sent immediately (avoid duplicates within same run)
+        $sentHistory[$fp] = $true
+
+        $translatedDesc = Get-GoogleTranslation -Text $rawDesc
+
+        $allNewsData += [PSCustomObject]@{
+            Topic          = $topicName
+            Title          = $title
+            SummaryEncoded = $translatedDesc
+            Link           = $finalLink
+            Source         = $source
+            Date           = (Get-Date).ToString("yyyy-MM-dd HH:mm")
+        }
+
+        $safeTitle = SafeHtml $title
+        $safeDesc  = SafeHtml $translatedDesc
+
+        $topicContent += "$counter. <b>$safeTitle</b> <i>($source)</i>`n$safeDesc`n<a href='$finalLink'>Baca Selengkapnya</a>`n`n"
+        $counter++
+    }
+
+    if ($counter -eq 1) {
+        $topicContent += "No new (deduped) news found.`n"
     }
 
     Send-TelegramMessage -Message $topicContent
 }
+
+# Save history (must persist across runs via commit/artifact/cache)
+Save-History -History $sentHistory
+Write-Host "Saved dedup history to $historyPath"
 
 # Export to JSON
 $jsonPath = Join-Path $PSScriptRoot "news.json"
