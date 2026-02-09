@@ -1,8 +1,10 @@
 # Cloud Version of News Fetcher for GitHub Actions
 # Uses Environment Variables for Secrets
 # Sources:
-# - Bing News RSS
-# - GDELT 2.1 DOC API (RSS mode=artlist)
+# - Bing News RSS (search)
+# - GDELT DOC API RSS (global)
+# Requirement:
+# - Broadcast ONLY English articles (filter at source for GDELT, and heuristic filter for Bing)
 
 $topics = @{
     "Astronomy"  = "Astronomy"
@@ -95,8 +97,35 @@ function Resolve-FinalUrl {
     }
 }
 
-# GDELT DOC 2.1 -> RSS (artlist)
-# DOC API supports query syntax and timespans like "30d", and can return RSS. [web:64]
+function SafeHtml {
+    param([string]$Text)
+    if (-not $Text) { return "" }
+    return $Text.Replace("<","&lt;").Replace(">","&gt;")
+}
+
+function LooksLikeEnglish {
+    param([string]$Text)
+
+    if (-not $Text) { return $false }
+
+    # Quick heuristic:
+    # - If contains lots of non-ASCII letters (common in many non-English scripts), reject.
+    # - If has some common English stopwords, accept.
+    $t = $Text.Trim()
+
+    $nonLatin = [regex]::Matches($t, "[\u0100-\uFFFF]").Count
+    if ($nonLatin -gt 0) { return $false }
+
+    $lower = $t.ToLowerInvariant()
+    $hits = 0
+    foreach ($w in @(" the "," and "," to "," of "," in "," for "," with "," on "," from "," by "," as ")) {
+        if ($lower.Contains($w)) { $hits++ }
+    }
+    return ($hits -ge 1)
+}
+
+# GDELT DOC API RSS (global)
+# Use sourcelang to force original publication language. GDELT docs show sourcelang:spanish and explain it filters original language; we apply sourcelang:english. [web:64][web:67]
 function Get-GdeltRssUrl {
     param(
         [Parameter(Mandatory)][string]$Query,
@@ -104,19 +133,13 @@ function Get-GdeltRssUrl {
         [int]$MaxRecords = 50
     )
 
-    # We use: mode=artlist (list of articles), format=rss.
-    # Docs: query operators and timespan usage are described in DOC 2.1 API notes. [web:64]
-    $q = [uri]::EscapeDataString($Query)
+    $finalQuery = "($Query) sourcelang:english"
+    $q = [uri]::EscapeDataString($finalQuery)
+
     return "https://api.gdeltproject.org/api/v2/doc/doc?query=$q&mode=artlist&format=rss&timespan=$Timespan&maxrecords=$MaxRecords&sort=hybridrel"
 }
 
-function SafeHtml {
-    param([string]$Text)
-    if (-not $Text) { return "" }
-    return $Text.Replace("<","&lt;").Replace(">","&gt;")
-}
-
-# Send Header Message
+# Header
 $headerMsg = "<b>Daily News Brief - $currentDate</b>"
 Send-TelegramMessage -Message $headerMsg
 
@@ -132,18 +155,26 @@ foreach ($topicName in $topics.Keys) {
 
     # -----------------------
     # Source 1: Bing News RSS
+    # We bias toward English by adding "language:en" keyword to query (best-effort),
+    # then apply a heuristic filter on title/description to reduce non-English leakage.
     # -----------------------
     try {
-        $bingUrl = "https://www.bing.com/news/search?q=$encodedQuery&format=rss"
+        $bingQuery = "$rawQuery language:en"
+        $bingUrl = "https://www.bing.com/news/search?q=$([uri]::EscapeDataString($bingQuery))&format=rss"
         $response = Invoke-WebRequest -Uri $bingUrl -UseBasicParsing -UserAgent $userAgent -ErrorAction Stop
         [xml]$rssXml = $response.Content
 
         if ($rssXml.rss.channel.item) {
             foreach ($item in $rssXml.rss.channel.item) {
+                $title = [string]$item.title
+                $desc  = [string]$item.description
+
+                if (-not (LooksLikeEnglish "$title $desc")) { continue }
+
                 $allItems += [PSCustomObject]@{
-                    Title       = [string]$item.title
+                    Title       = $title
                     Link        = [string]$item.link
-                    Description = [string]$item.description
+                    Description = $desc
                     PubDate     = [string]$item.pubDate
                     Source      = "Bing"
                 }
@@ -154,22 +185,19 @@ foreach ($topicName in $topics.Keys) {
     }
 
     # -----------------------
-    # Source 2: GDELT Global RSS
+    # Source 2: GDELT Global RSS (English-only enforced by sourcelang:english) [web:64][web:67]
     # -----------------------
     try {
-        # Broaden query a bit for global coverage:
-        # - Keep raw query, rely on GDELT query engine. [web:64]
         $gdeltUrl = Get-GdeltRssUrl -Query $rawQuery -Timespan "7d" -MaxRecords 50
         $response = Invoke-WebRequest -Uri $gdeltUrl -UseBasicParsing -UserAgent $userAgent -ErrorAction Stop
         [xml]$rssXml = $response.Content
 
         if ($rssXml.rss.channel.item) {
             foreach ($item in $rssXml.rss.channel.item) {
-                # GDELT RSS item typically contains title/link/pubDate/description
                 $allItems += [PSCustomObject]@{
                     Title       = [string]$item.title
                     Link        = [string]$item.link
-                    Description = ([string]$item.description)
+                    Description = [string]$item.description
                     PubDate     = [string]$item.pubDate
                     Source      = "GDELT"
                 }
@@ -200,7 +228,7 @@ foreach ($topicName in $topics.Keys) {
 
             $link = Resolve-FinalUrl -Url $item.Link
 
-            # Translate (description can be HTML-ish; we just translate raw string)
+            # Translate Description -> Indonesian
             $translatedDesc = Get-GoogleTranslation -Text $rawDesc
 
             $allNewsData += [PSCustomObject]@{
@@ -219,12 +247,13 @@ foreach ($topicName in $topics.Keys) {
             $counter++
         }
     } else {
-        $topicContent += "No fresh news found in last 30 days (Bing/GDELT).`n"
+        $topicContent += "No fresh English news found in last 30 days (Bing/GDELT).`n"
     }
 
     Send-TelegramMessage -Message $topicContent
 }
 
+# Export to JSON
 $jsonPath = Join-Path $PSScriptRoot "news.json"
 $allNewsData | ConvertTo-Json -Depth 5 | Out-File $jsonPath -Encoding UTF8
 Write-Host "Exported news to $jsonPath"
