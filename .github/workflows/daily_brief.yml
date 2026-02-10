@@ -10,7 +10,7 @@ jobs:
   run-news-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # perlu untuk commit/push ke repo [web:23]
+      contents: write  # PENTING: supaya boleh commit/push file [web:23]
 
     steps:
       - name: Checkout Code
@@ -26,22 +26,22 @@ jobs:
         run: |
           pwsh -File ./fetch_news_cloud.ps1
 
-      - name: Commit and Push Outputs (news + history)
+      - name: Commit and Push Outputs
         shell: bash
         run: |
           set -e
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          # Persist keduanya supaya dedup antar-hari jalan
+          # Add BOTH outputs so dedup history persists
           git add news.json sent_links_history.json
 
-          # Commit hanya kalau ada perubahan
+          # Commit only if there are staged changes
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: update news outputs"
+          git commit -m "Update news outputs"
           git push
