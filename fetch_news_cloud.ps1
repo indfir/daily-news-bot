@@ -9,9 +9,6 @@
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
-# ---------------------------
-# Topics
-# ---------------------------
 $topics = @{
     "Astronomy"  = "Astronomy"
     "Science"    = "Science"
@@ -20,15 +17,11 @@ $topics = @{
     "Movies"     = "Movies"
 }
 
-# ---------------------------
-# Secrets from Environment Variables (GitHub Secrets)
-# ---------------------------
 $botToken  = $env:TELEGRAM_TOKEN
 $chatId    = $env:TELEGRAM_CHAT_ID
 $botToken2 = $env:TELEGRAM_TOKEN_2
 $chatId2   = $env:TELEGRAM_CHAT_ID_2
 
-# Build List of Targets
 $script:targets = @()
 if ($botToken -and $chatId)   { $script:targets += @{ Token = $botToken;  ChatId = $chatId  } }
 if ($botToken2 -and $chatId2) { $script:targets += @{ Token = $botToken2; ChatId = $chatId2 } }
@@ -39,13 +32,28 @@ if ($script:targets.Count -eq 0) {
 }
 
 $currentDate = Get-Date -Format "MMMM dd, yyyy"
-
-# User Agent
 $script:userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
-# ---------------------------
-# Translation
-# ---------------------------
+function Send-TelegramMessage {
+    param([Parameter(Mandatory)][string]$Message)
+
+    foreach ($target in $script:targets) {
+        $url = "https://api.telegram.org/bot$($target.Token)/sendMessage"
+        $body = @{
+            chat_id                  = $target.ChatId
+            text                     = $Message
+            parse_mode               = "HTML"
+            disable_web_page_preview = "true"
+        }
+        try {
+            Invoke-RestMethod -Uri $url -Method Post -Body $body -ErrorAction Stop | Out-Null
+            Write-Host "Sent message to ChatID: $($target.ChatId)"
+        } catch {
+            Write-Host "Failed to send to $($target.ChatId) : $($_.Exception.Message)"
+        }
+    }
+}
+
 function Get-GoogleTranslation {
     param(
         [Parameter(Mandatory)][string]$Text,
@@ -58,49 +66,14 @@ function Get-GoogleTranslation {
     try {
         $response = Invoke-RestMethod -Uri $url -Method Get -ErrorAction Stop
         if ($response -and $response.Count -gt 0 -and $response[0].Count -gt 0) {
-            $translatedText = ""
-            foreach ($segment in $response[0]) {
-                if ($segment[0]) { $translatedText += $segment[0] }
-            }
-            return $translatedText
+            $out = ""
+            foreach ($seg in $response[0]) { if ($seg[0]) { $out += $seg[0] } }
+            return $out
         }
-    } catch {
-        return $Text
-    }
-
+    } catch { }
     return $Text
 }
 
-# ---------------------------
-# Telegram
-# ---------------------------
-function Send-TelegramMessage {
-    param([Parameter(Mandatory)][string]$Message)
-
-    foreach ($target in $script:targets) {
-        $tToken  = $target.Token
-        $tChatId = $target.ChatId
-
-        $url = "https://api.telegram.org/bot$($tToken)/sendMessage"
-        $body = @{
-            chat_id                  = $tChatId
-            text                     = $Message
-            parse_mode               = "HTML"
-            disable_web_page_preview = "true"
-        }
-
-        try {
-            Invoke-RestMethod -Uri $url -Method Post -Body $body -ErrorAction Stop | Out-Null
-            Write-Host "Sent message to ChatID: $tChatId"
-        } catch {
-            Write-Host "Failed to send to $tChatId : $($_.Exception.Message)"
-        }
-    }
-}
-
-# ---------------------------
-# URL helpers
-# ---------------------------
 function Resolve-FinalUrl {
     param([Parameter(Mandatory)][string]$Url)
 
@@ -114,7 +87,7 @@ function Resolve-FinalUrl {
             $r = Invoke-WebRequest -Uri $Url -Method Get -MaximumRedirection 10 -UserAgent $script:userAgent -ErrorAction Stop
             if ($r.BaseResponse.ResponseUri) { return $r.BaseResponse.ResponseUri.AbsoluteUri }
             if ($r.BaseResponse.RequestMessage.RequestUri) { return $r.BaseResponse.RequestMessage.RequestUri.AbsoluteUri }
-        } catch {}
+        } catch { }
         return $Url
     }
 }
@@ -130,7 +103,6 @@ function Get-CanonicalUrlKey {
         $query  = $u.Query
         if ([string]::IsNullOrWhiteSpace($query)) { $query = "" }
 
-        # Drop a few tracking params (conservative)
         if ($query) {
             $pairs = $query.TrimStart("?").Split("&") | Where-Object { $_ -ne "" }
             $keep = @()
@@ -142,7 +114,6 @@ function Get-CanonicalUrlKey {
             $query = if ($keep.Count -gt 0) { "?" + ($keep -join "&") } else { "" }
         }
 
-        # IMPORTANT FIX: use ${} so "$scheme://..." doesn't parse as $scheme:
         return "${scheme}://${host}${path}${query}"
     } catch {
         return $Url.Trim()
@@ -150,33 +121,33 @@ function Get-CanonicalUrlKey {
 }
 
 # ---------------------------
-# Persistent dedup (across runs)
+# Persistent history (null-safe)
 # ---------------------------
 $script:historyPath = Join-Path $PSScriptRoot "sent_links_history.json"
 $script:historyRetentionDays = 30
 
 function Get-SentLinksHistory {
-    if (Test-Path $script:historyPath) {
-        try {
-            $raw = Get-Content $script:historyPath -Raw -Encoding UTF8
-            if ([string]::IsNullOrWhiteSpace($raw)) { return @() }
-            $obj = $raw | ConvertFrom-Json
-            return @($obj)
-        } catch {
-            return @()
-        }
+    if (-not (Test-Path $script:historyPath)) { return @() }
+
+    try {
+        $raw = Get-Content $script:historyPath -Raw -Encoding UTF8
+        if ([string]::IsNullOrWhiteSpace($raw)) { return @() }
+
+        $obj = $raw | ConvertFrom-Json
+
+        # IMPORTANT: ConvertFrom-Json can yield $null for "[]" in pwsh 7.x -> force array [web:94]
+        if ($null -eq $obj) { return @() }
+
+        return @($obj)
+    } catch {
+        return @()
     }
-    return @()
-}
-
-function Save-SentLinksHistory {
-    param([Parameter(Mandatory)]$History)
-
-    $History | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 }
 
 function Prune-SentLinksHistory {
-    param([Parameter(Mandatory)]$History)
+    param($History)
+
+    if ($null -eq $History) { $History = @() }
 
     $cutoff = (Get-Date).AddDays(-1 * $script:historyRetentionDays)
     return @($History | Where-Object {
@@ -184,12 +155,17 @@ function Prune-SentLinksHistory {
     })
 }
 
-function Test-LinkAlreadySent {
-    param(
-        [Parameter(Mandatory)][string]$CanonicalKey,
-        [Parameter(Mandatory)]$History
-    )
+function Save-SentLinksHistory {
+    param($History)
 
+    if ($null -eq $History) { $History = @() }
+    $History | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
+}
+
+function Test-LinkAlreadySent {
+    param([Parameter(Mandatory)][string]$CanonicalKey, $History)
+
+    if ($null -eq $History) { return $false }
     return ($History.CanonicalKey -contains $CanonicalKey)
 }
 
@@ -200,8 +176,10 @@ function Add-LinkToHistory {
         [Parameter(Mandatory)][string]$Title,
         [Parameter(Mandatory)][string]$Topic,
         [Parameter(Mandatory)][string]$Source,
-        [Parameter(Mandatory)]$History
+        $History
     )
+
+    if ($null -eq $History) { $History = @() }
 
     $History += [PSCustomObject]@{
         CanonicalKey = $CanonicalKey
@@ -215,14 +193,13 @@ function Add-LinkToHistory {
 }
 
 # ---------------------------
-# Google News decode (publisher URL)
-# Reverse-engineered: batchexecute rpc Fbv4je -> garturlres [web:22]
+# Google News decode (publisher URL) - best effort
+# Mechanism: batchexecute rpc Fbv4je -> garturlres [web:22]
 # ---------------------------
 $script:GoogleDecodeCache = @{}
 
 function Get-GnArtIdFromGoogleRssUrl {
     param([Parameter(Mandatory)][string]$Url)
-
     try {
         $u = [Uri]$Url
         $parts = $u.AbsolutePath.Trim("/").Split("/")
@@ -230,9 +207,7 @@ function Get-GnArtIdFromGoogleRssUrl {
         if ($parts.Length -lt 2) { return $null }
         if ($parts[$parts.Length - 2] -ne "articles") { return $null }
         return $parts[$parts.Length - 1]
-    } catch {
-        return $null
-    }
+    } catch { return $null }
 }
 
 function Get-GoogleNewsDecodingParams {
@@ -242,23 +217,17 @@ function Get-GoogleNewsDecodingParams {
     $resp = Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent -ErrorAction Stop
     $html = $resp.Content
 
-    $sig = $null
-    $ts  = $null
-
     $m1 = [regex]::Match($html, 'data-n-a-sg="([^"]+)"')
-    if ($m1.Success) { $sig = $m1.Groups[1].Value }
-
     $m2 = [regex]::Match($html, 'data-n-a-ts="([^"]+)"')
-    if ($m2.Success) { $ts = $m2.Groups[1].Value }
 
-    if (-not $sig -or -not $ts) {
+    if (-not $m1.Success -or -not $m2.Success) {
         throw "Could not extract signature/timestamp for Google News article id."
     }
 
-    return [PSCustomObject]@{
+    [PSCustomObject]@{
         gn_art_id  = $GnArtId
-        signature  = $sig
-        timestamp  = [int64]$ts
+        signature  = $m1.Groups[1].Value
+        timestamp  = [int64]$m2.Groups[1].Value
     }
 }
 
@@ -287,7 +256,6 @@ function Decode-GoogleNewsUrlToPublisher {
         $articlesReq = @("Fbv4je", $inner)
         $fReqObj = @(@($articlesReq))
         $fReqJson = ($fReqObj | ConvertTo-Json -Compress -Depth 10)
-
         $body = "f.req=" + [uri]::EscapeDataString($fReqJson)
 
         $headers = @{
@@ -302,13 +270,11 @@ function Decode-GoogleNewsUrlToPublisher {
         $chunks = $text -split "(\r?\n){2}"
         if ($chunks.Count -lt 2) { throw "Unexpected batchexecute response format." }
 
-        $jsonBlock = $chunks[1]
-        $arr = $jsonBlock | ConvertFrom-Json
-
+        $arr = ($chunks[1] | ConvertFrom-Json)
         $first = $arr | Select-Object -First 1
         if (-not $first -or -not $first[2]) { throw "No garturlres payload found." }
 
-        $innerArr = $first[2] | ConvertFrom-Json
+        $innerArr = ($first[2] | ConvertFrom-Json)
         $decodedUrl = $innerArr[1]
 
         if (-not $decodedUrl -or ($decodedUrl -like "*news.google.com*")) {
@@ -317,26 +283,21 @@ function Decode-GoogleNewsUrlToPublisher {
 
         $script:GoogleDecodeCache[$SourceUrl] = $decodedUrl
         return $decodedUrl
-    }
-    catch {
+    } catch {
         $script:GoogleDecodeCache[$SourceUrl] = $SourceUrl
         return $SourceUrl
     }
 }
 
 # ---------------------------
-# Start messaging
+# Run
 # ---------------------------
 Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>"
 
-# Load & prune history
 $sentHistory = Get-SentLinksHistory
-$sentHistory = Prune-SentLinksHistory -History $sentHistory
+$sentHistory = Prune-SentLinksHistory $sentHistory
 
-# Per-run set (avoid duplicates within same run)
 $runSeen = [System.Collections.Generic.HashSet[string]]::new()
-
-# For JSON export
 $allNewsData = @()
 
 foreach ($topicName in $topics.Keys) {
@@ -346,7 +307,6 @@ foreach ($topicName in $topics.Keys) {
     $topicContent = "<b>$topicName</b>`n`n"
     $allItems = @()
 
-    # --- Bing News RSS ---
     try {
         $bingUrl = "https://www.bing.com/news/search?q=$encodedQuery&format=rss"
         $response = Invoke-WebRequest -Uri $bingUrl -UseBasicParsing -UserAgent $script:userAgent -ErrorAction Stop
@@ -367,7 +327,6 @@ foreach ($topicName in $topics.Keys) {
         Write-Host "Bing Error for $topicName : $($_.Exception.Message)"
     }
 
-    # --- Google News RSS ---
     try {
         $googleUrl = "https://news.google.com/rss/search?q=$encodedQuery+when:30d&hl=en-ID&gl=ID&ceid=ID:en"
         $response = Invoke-WebRequest -Uri $googleUrl -UseBasicParsing -UserAgent $script:userAgent -ErrorAction Stop
@@ -388,7 +347,6 @@ foreach ($topicName in $topics.Keys) {
         Write-Host "Google Error for $topicName : $($_.Exception.Message)"
     }
 
-    # Candidate items (take 10 first; later send max 5 unique)
     $cutoffDate = (Get-Date).AddDays(-30)
     $candidateItems = $allItems | Where-Object {
         try { ([DateTime]::Parse($_.PubDate)) -ge $cutoffDate } catch { $true }
@@ -406,27 +364,14 @@ foreach ($topicName in $topics.Keys) {
         $rawDesc = $item.Description
         $source  = $item.Source
 
-        # Resolve / decode link
         $link = $item.Link
-        if ($source -eq "Google") {
-            $link = Decode-GoogleNewsUrlToPublisher -SourceUrl $link -MinDelayMs 450
-        } else {
-            $link = Resolve-FinalUrl -Url $link
-        }
+        if ($source -eq "Google") { $link = Decode-GoogleNewsUrlToPublisher -SourceUrl $link -MinDelayMs 450 }
+        else { $link = Resolve-FinalUrl -Url $link }
 
         $canonicalKey = Get-CanonicalUrlKey -Url $link
 
-        # Dedup in this run
-        if ($runSeen.Contains($canonicalKey)) {
-            Write-Host "Skip duplicate (run): $canonicalKey"
-            continue
-        }
-
-        # Dedup across runs
-        if (Test-LinkAlreadySent -CanonicalKey $canonicalKey -History $sentHistory) {
-            Write-Host "Skip duplicate (history): $canonicalKey"
-            continue
-        }
+        if ($runSeen.Contains($canonicalKey)) { continue }
+        if (Test-LinkAlreadySent -CanonicalKey $canonicalKey -History $sentHistory) { continue }
 
         [void]$runSeen.Add($canonicalKey)
 
@@ -447,7 +392,6 @@ foreach ($topicName in $topics.Keys) {
         $safeDesc  = $translatedDesc.Replace("<", "&lt;").Replace(">", "&gt;")
 
         $topicContent += "$counter. <b>$safeTitle</b> <i>($source)</i>`n$safeDesc`n<a href='$link'>Baca Selengkapnya</a>`n`n"
-
         $counter++
         $sentCount++
     }
@@ -459,11 +403,12 @@ foreach ($topicName in $topics.Keys) {
     Send-TelegramMessage -Message $topicContent
 }
 
-# Save history + export json
-$sentHistory = Prune-SentLinksHistory -History $sentHistory
-Save-SentLinksHistory -History $sentHistory
-Write-Host "Updated history: $historyPath"
+$sentHistory = Prune-SentLinksHistory $sentHistory
+Save-SentLinksHistory $sentHistory
 
 $jsonPath = Join-Path $PSScriptRoot "news.json"
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File $jsonPath -Encoding UTF8
 Write-Host "Exported news to $jsonPath"
+Write-Host "Updated history: $($script:historyPath)"
+
+
