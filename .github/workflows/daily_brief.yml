@@ -10,26 +10,38 @@ jobs:
   run-news-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # PENTING: Supaya boleh save file
-    
-    steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
-      
-    - name: Run PowerShell Script
-      shell: pwsh
-      env:
-        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        TELEGRAM_TOKEN_2: ${{ secrets.TELEGRAM_TOKEN_2 }}
-        TELEGRAM_CHAT_ID_2: ${{ secrets.TELEGRAM_CHAT_ID_2 }}
-      run: |
-        ./fetch_news_cloud.ps1
+      contents: write  # perlu untuk commit/push ke repo [web:23]
 
-    - name: Commit and Push News JSON
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add news.json
-        git commit -m "Update news.json" || exit 0
-        git push
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run PowerShell Script
+        shell: pwsh
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOKEN_2: ${{ secrets.TELEGRAM_TOKEN_2 }}
+          TELEGRAM_CHAT_ID_2: ${{ secrets.TELEGRAM_CHAT_ID_2 }}
+        run: |
+          pwsh -File ./fetch_news_cloud.ps1
+
+      - name: Commit and Push Outputs (news + history)
+        shell: bash
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Persist keduanya supaya dedup antar-hari jalan
+          git add news.json sent_links_history.json
+
+          # Commit hanya kalau ada perubahan
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update news outputs"
+          git push
