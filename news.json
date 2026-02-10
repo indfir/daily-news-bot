@@ -1,51 +1,187 @@
 [
   {
+    "Topic": "Technology",
+    "Title": "CEC welcomes technology centres as new associate members - World Footwear",
+    "SummaryEncoded": "CEC menyambut pusat teknologi sebagai anggota asosiasi baru - World Footwear",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1pyN2ROLVRqclA0SS02LUtfOGJ0UnZfaWh6VERWRzhJOUtxYktaZk16a0RBeXl2NE5VVHVoRWhjN0JYSzVEbWpxNUMwUlV2WW8xUHNlNDI1ZEdmNmpNSEJqNUxoRHl3ZHBrWFFLQ1pCMFE2RUFISzRDckxvdVJDMWV1Zk1sNEdTSHFqT0dHVDFaRnBLVXJIZmd5eWNjMXJNMG9RWQ?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "GLOBAL MARKETS-Stock Indexes Gain with US Technology Shares, Yen Strengthens - KONTAN",
+    "SummaryEncoded": "PASAR GLOBAL-Indeks Saham Menguat seiring Saham Teknologi AS, Yen Menguat - KONTAN",
+    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGFmWEp6RU5OREdwZ1BlUVNRVFhMNnhEQnlWTFZkRmtOTHRYR0VXRFJPSjNrUDdVcFhWQVZSWjZuS2hqZGEzek9OUEplWHJKemZ1WExUOUhuekZ4UFgyTS1WNVdhdTdjeVFJblhLVVJpdzJRZlR5OG9fWXo0ZF9vM1hHSmVzQVBJMnU4VkpTdkVTRUl5UElId3hsbXpUOEdwSHRvOEN0d2FCUzhjdnc?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Chinese technology underpins Iran’s internet control, report finds - The Guardian",
+    "SummaryEncoded": "Teknologi Tiongkok mendasari kendali internet di Iran, demikian temuan laporan - The Guardian",
+    "Link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFpVWncwVFZGTjhmcTlnZVJWd1RteWlOYUpxQklSTEo1ZERfaXVMcS1PX3Q0TF9NN2htajVQU3J0Y0xBRm9WM19ORVIxTHl5VGl5bnB1NXV4NnVoMzNFaFVwc1p1Wld6dml4Mk5hZGJRckFYZGtVNnBjYnB3Uk9UZm9UWFA3eGRKZndMNg?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Technology and older people: bridging the digital divide with empathy, innovation and purpose - telefonica.com",
+    "SummaryEncoded": "Teknologi dan lansia: menjembatani kesenjangan digital dengan empati, inovasi, dan tujuan - telefonica.com",
+    "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUxhWnJGSm5lTTVxZEszelg4NTlOYWdXYXBDLUxYWW1PUUZXN1A5UW9DV2JlbGRRQ3h5aDlHMDlmSXY2SElzS1JwZjJmRW4tSy1HMEt2X2QtMFFfcnBsLXY5WDFFMUdveUt3UW5RWW5qc21LUnNZWEZLd1dzZjJaejBNZzA2dktHbjFfQnhkQzRNTDNaOWNEN1Iyc2FzTWFYWHp0UmUtYWRfZw?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Technology, Trust, and Travel Trends: Hospitality Takeaways from FITUR 2026 | By Florencia Cueto Pedrotti - Hospitality Net",
+    "SummaryEncoded": "Teknologi, Kepercayaan, dan Tren Perjalanan: Perhotelan Takeaways dari FITUR 2026 | Oleh Florencia Cueto Pedrotti - Jaringan Perhotelan",
+    "Link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NNnJpTW1WQzFkdFk2aTlJN2hUSzkwUFZROG05dmFveDFRVnR1MWQ0MmJwVDd1b3dPLVhsRkhzMFk4bUlmUGhBZE1mcDlGbFFFLWtaT3VGbUtpVVRmUW5tdw?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Columbia Engineering Announces New Program: Master of Science in Artificial Intelligence | Newswise - Newswise",
+    "SummaryEncoded": "Columbia Engineering Mengumumkan Program Baru: Magister Sains dalam Kecerdasan Buatan | Bijaksana Berita - Bijaksana Berita",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZoS2lZZ3AxY0x6ajc4OFFlcVFKcmtVbzc2TTJvR18tUTJRSFdLdU5aeGpoN01rTGl1MzRUMDVzNEZpb0hDd29tRmY5RVYteHBWemRWMjl2cUx6ME9tR2MxT1dfYnBDWDZKZ3FnNmdWQ01ZTDZkclUwQ09QTzZqOEY2Ry1KdXlkTERDUXpfb3N2LUN6eHhzMm1UQWRjYjFxVk40d2RVTmo2Q3RfVG5odC0xXzYyLVNoaDRadVhn0gG-AUFVX3lxTE5rdmhLaVlncDFjTHpqNzg4UWVxUUpya1VvNzZNMm9HXy1RMlFIV0t1Tlp4amg3TWtMaXUzNFQwNXM0RmlvSEN3b21GZjlFVi14cFZ6ZFYyOXZxTHowT21HYzFPV19icENYNkpncWc2Z1ZDTVlMNmRyVTBDT1BPNmo4RjZHLUp1eWRMRENRel9vc3YtQ3p4eHMybVRBZGNiMXFWTjR3ZFVOajZDdF9Ubmh0LTFfNjItU2hoNFp1WGc?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Machine Learning Lessons I’ve Learned Last Month - Towards Data Science",
+    "SummaryEncoded": "Pelajaran Machine Learning yang Saya Pelajari Bulan Lalu - Menuju Ilmu Data",
+    "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk9lMnFBYnpwRjJkU2RpMmlQOU5RRldnOVRGaHhRQUN0TGw2VU5JWHplOXBheGU5WGczczFzYzk3OE11SHNfbWVfckI5SE9mQVIzanc1aWpRLUlPanI5djhDc2w5SUdLYVVzR243dWw1R1pHb2NmUTByNGduVVZRbWxUUTlxR2dxdjVN?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Tanzania Deepens Investment in AI and Data Science to Power Knowledge-Based Economic Transformation - Trendsnafrica",
+    "SummaryEncoded": "Tanzania Memperdalam Investasi dalam AI dan Ilmu Data untuk Mendukung Transformasi Ekonomi Berbasis Pengetahuan - Trendsnafrica",
+    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQk9YaXZlbldIb3lYbndVbU14RVN3eUN4SDBFNW9OQnhlNktNaUJUTUdlU2NsbnNTQ0lzdGNPOEg5MU5yNXhuSXRmSzh6MVpiODR6YXJ6N1dUaWNRX2tnMDRSMlNTNUNEMWR5bXZ5emlRV3I2OFVhcVZXcTNjN1Z6czc5Rjg2ZXNhcmZCODdaN250Sjd4VHVWLTZhNmM5SVJxTkZTdlR0QmVzN1lWb3VDa2JyZzgyTW9LUHFrSTZJSUJoNldm0gHMAUFVX3lxTFAyd0k0dUpzdU1KTzNOcDJDbURhSXJlR2lSd25DTmZLNjFLZXhHdDJqaGZyclVpbTNmajNtVHNnMmxqMmhSZi04eENITVZDdkl2bTMxYUxnSEJRbEstczhPMHRRdllqdjNoVm8tSjdZdVVNWl9FUEV1cVNoVlNRNU5QWjhLVzBrejVNMGhKWlNla2Y3ejI0XzN5MG1jWm1NVUs3X2toQWI5UlZVQnhydF8yYTlsSkR4aUhNa3pZYk9qOFFmMDloRHpEZ2MyZw?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
     "Topic": "Data / AI",
     "Title": "MSU provides Bachelors/Master’s Degree Program for Ai Intelligence",
     "SummaryEncoded": "Saat Amazon mengirimi Anda saran, atau saat iklan dari situs sepatu yang Anda lihat muncul di situs berita yang Anda lihat, itu adalah bentuk Kecerdasan Buatan atau AI yang sedang bekerja. Tapi, itu juga...",
     "Link": "https://www.wcbi.com/msu-provides-bachelors-masters-degree-program-for-ai-intelligence/",
     "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Date": "2026-02-10 03:02"
   },
   {
     "Topic": "Data / AI",
-    "Title": "The Manning College reckons with artificial intelligence",
-    "SummaryEncoded": "Manning College of Information and Computer Sciences (CICS) di University of Massachusetts sedang mencari cara untuk mengadaptasi program-programnya seiring dengan kecerdasan buatan (AI) yang membentuk kembali industri dan ...",
-    "Link": "https://dailycollegian.com/2026/02/the-manning-college-reckons-with-artificial-intelligence/",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Title": "Why Real-Time Became the Default — and How Data Teams Are Actually Using It - HPCwire",
+    "SummaryEncoded": "Mengapa Real-Time Menjadi Default — dan Bagaimana Tim Data Sebenarnya Menggunakannya - HPCwire",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekZ4ZHlucWcwUDlDRGJfS3FaLWUzYzdZWnhZMzJQa1M0ODBYUktkTUZEbWh0TDlJOU1kdnFFQU1wNGVhMXVPT1ZsczFrQWp1TkVLWGVjX0FSN0ZXTXVzTEJ1WTNvSG10VTZGVlk2ZWpCWnY1cVNibnVNT1FldUE0WHE0UzBDX19qaUFQcl9lTzV1VGpMc1c4S1VNUzZKMG9pbXdlUEUtSHY3NWtXdHB1WEJ6MjZWMkZZc0MtLWh3?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Is artificial general intelligence already here? A new case that today's LLMs meet key tests",
-    "SummaryEncoded": "Akankah kecerdasan buatan mampu berpikir, belajar, dan memecahkan masalah pada tingkat yang sebanding dengan manusia? Para ahli di Universitas California San Diego yakin jawabannya adalah ya—dan ...",
-    "Link": "https://www.msn.com/en-us/news/technology/is-artificial-general-intelligence-already-here-a-new-case-that-today-s-llms-meet-key-tests/ar-AA1VTbxJ",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Topic": "Astronomy",
+    "Title": "Astronomers determine how \"super Jupiters\" around remote star took shape - EurekAlert!",
+    "SummaryEncoded": "Para astronom menentukan bagaimana \"super Jupiter\" terbentuk di sekitar bintang terpencil - EurekAlert!",
+    "Link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XMHdjMERVUzFRTXNiTng5eEFjNkZCV19MOEhkakR6Y2JJUmNiNTdFR3gxZFZlNExfTlhiTHcxSjZKa2UtMHBZQ1ZuQUdQd0Fmc29DNFVpUlEzSERE?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Artificial Intelligence in Cybersecurity: Practical Perspectives from Sudhir Kumar Rai",
-    "SummaryEncoded": "Kecerdasan buatan telah menjadi bagian integral dari operasi keamanan siber modern. Seiring dengan meningkatnya skala dan kompleksitas ancaman digital, organisasi semakin bergantung pada sistem berbasis data ...",
-    "Link": "https://www.thehansindia.com/technology/tech-news/artificial-intelligence-in-cybersecurity-practical-perspectives-from-sudhir-kumar-rai-1046095",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Topic": "Astronomy",
+    "Title": "Unusual astronomical event might be a ‘superkilonova’ - Physics World",
+    "SummaryEncoded": "Peristiwa astronomi yang tidak biasa mungkin adalah 'superkilonova' - Dunia Fisika",
+    "Link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG9CVS1GWk0yaXNrcDVVU0pyWjFSZVBCVXlVX0hNRkc2d2UyMnU5ekI1QXZBWmZ3aEYtUmNST2NrTllQel91Mm13Z0l4Q1NwcVJNNlh6ZDkzUUdIUWVpQ3ppcGNPaUdPVU52VmFKb19EVko0amFCRFBGXzdlTTNkUXF5X2g3dw?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Penn GSE to invest $26 million in educational artificial intelligence",
-    "SummaryEncoded": "Catalyst @ Penn GSE menyatakan bahwa mereka akan bergabung dengan Digital Promise untuk mengembangkan alat AI generatif yang dapat diakses publik untuk digunakan oleh distrik sekolah.",
-    "Link": "https://www.thedp.com/article/2026/02/penn-graduate-school-education-artificial-intelligence-grant-program",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Topic": "Astronomy",
+    "Title": "This Week in Astronomy with Dave Eicher: The Moon meets Antares - Astronomy Magazine",
+    "SummaryEncoded": "Minggu Ini dalam Astronomi bersama Dave Eicher: Bulan bertemu Antares - Majalah Astronomi",
+    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUtENFdTYWZzcnNSdnhKZmhzY0Jyb0JrUGJBS0ZHenM4a3ZOaU1ka1BVQ1NtRHlxUUJvQnhyZDk4X1k3ZnNlVzRYLXV0YnFfODBGSnBWbUpsdDduUkZNamFsRW1VYkoxOGhTZlF5bEU3SlhnTUJWME1GSnc0Wkxjcm1DdzNxTjd5bFM2MElFcEdHaEgzZWJwSTF2a09Gd2pVaHow?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "How did ancient astronomers predict solar eclipses? - Astronomy Magazine",
+    "SummaryEncoded": "Bagaimana para astronom kuno memprediksi gerhana matahari? - Majalah Astronomi",
+    "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXZRUjRFRWdDTTA0NUw2YWs5ZWdaUnMyT012SGhSWVpiWHgtNmdyd21CN1l2TVlsSS1QRmdvdXp6UFV6Q05nLUhSWG1Pem55Q01hTk1oOEMwdkZXSVItN3RjRHMxeUR0SllTVnZDeGxxVU5ZYlhfMFh0VmY5VjA3SVBtR01nRWxXaC1r?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Feb. 9, 1913: The Great Meteor Procession - Astronomy Magazine",
+    "SummaryEncoded": "9 Februari 1913: Prosesi Meteor Besar - Majalah Astronomi",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0hGcUpsVmx0blg1WFFhRTlTS2ZMSTdWQ3FzVzVkVW1mSmRCT0lxZVdIdFlHUTZKcnk3YTRXSE9XbWZQVmZqM21HX3ROb2JhbEhPVU5JaFVlMlRLbVhicnhEWS1rOVduRmpiaFNXcGpHR1QzVXlPaUlzeTBrdUhYLWZDamJfLTJ4cU9MYlNyblY3S2toOVEzYnA4WG5mSWNa?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The Example of Prof. Djohansjah “Unbreakable” Marzoeki, Born to Guard Science - KBA News",
+    "SummaryEncoded": "Teladan Prof Djohansjah Marzoeki “Unbreakable”, Lahir Untuk Mengawal Ilmu Pengetahuan - KBA News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGExN04ySkV1NkM0Nk9Qbl8yWVVnazJTYmEzQUl4UWpQOG1fWkh1dU9nbHB1SXF4V1JsbDV3YUdQWXVZQzZmOGE1YmZjTzI3aU45QTVUeWM3MHNpb0ZEVmhVMTlGU2JMUWEzQldTY2hwTDF5NjZBWnZCZzB1Rjh3Wi1rdkRWeDkxS3JhbWZwOW15SU9mTXRadzlIMERDNEo4c0lsVDlLNDBpbUFfWU1r?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Winners of International Quantum Year science-journalism competition picked - Physics World",
+    "SummaryEncoded": "Pemenang kompetisi jurnalisme sains Tahun Kuantum Internasional dipilih - Dunia Fisika",
+    "Link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbC1McWdERUQ1Q3NyX0ZjMWt6TWhfZWNXaTl2YTRXdEtOTG51aXZrWkU3NXZkZnhlRkRWQVRQWVYzMlNVUERTVnhTX0s4LWtCdXdSWHE5Z3FTVDEtY1pTdWFVMWhNcDVnYjBZYzJGNGVTZEJqcml6UDcwb3A5S3FNOWgwZi1acldxX28zTE9KZkdOUHhacUdGQk5QSUJhS3VTem91UUdB?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Buffalo Museum of Science hosts 7th annual Black Doll exhibit - Buffalo Toronto Public Media",
+    "SummaryEncoded": "Buffalo Museum of Science mengadakan pameran Black Doll tahunan ke-7 - Buffalo Toronto Public Media",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmdYUjJFR3JEYllxRWJUdngwNFRCUHB4SXpGdFNnSklfYW9la1NQUkdmaHVySkJSTUVuRXlEWklBcG5xS2RmelVDdWtJX1g1cVpoTjIyeFZVdFFfSU1fcy1sV3d1U0U0TmdxdmZMZkRvMF9TQlpmeElyMU9LN010dlJlSHhfYlM0Rnl1UnJZcFhUeXc5T0tSSnpZSXpMX2cy?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "How scientists and artists can collaborate to cut through ‘ecofatigue’ and inspire positive action - The Conversation",
+    "SummaryEncoded": "Bagaimana ilmuwan dan seniman dapat berkolaborasi untuk menghilangkan ‘kelelahan lingkungan’ dan menginspirasi tindakan positif - The Conversation",
+    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGNwZ1dpUk1Dc3QxWGdEMmtENEhGZG5OZVctU3VhVDgzcHRtVVU2SmR0ZkFsTXVOVkdHYkVEajNmYVQ2QUtSdGNNOHRzMnRHWWRUYU5yWV9XeUx6b2ZuNnlQb1lJUEx4WWJsYnFXcmh5d05hcm54eHhZeV8zUE9TeHh0NWxsOEtyZ0J4dTg5aU5OQlVWWnlJZDd3Tm9VRG9DWllEanA0ZDlsV2ZGZFhtUzFwWWlWdmY5VmxvS0NyRzQ5V1lESnNTOFZ2RQ?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Get to Know the Name: Huayuan Is a Major New Cambrian Fossil Site Found in China - Science and Culture Today",
+    "SummaryEncoded": "Mengenal Namanya: Huayuan Adalah Situs Fosil Utama Kambrium Baru yang Ditemukan di Tiongkok - Sains dan Budaya Saat Ini",
+    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUhDWllsakt5b2VFM3dMeUZTOWF1ZGhuMjJXclNSMVB0MU92eEw1emxzUHNzMGNjNnljSUdaMUpyVGZmMnJ6TzA2UzJEUGxpZnVUWmRkaHU5Skh2MEFUTFpBbXdzU0ItaFBkaUxjRnFYSVhlYS15a2xnVmMwMXJJUk9ZRnhpRzd3eDFQUHE1WGFKaFRZUW5Td1hXTFZOSGZucVpMU1VDZG1SZmxzOEM4bEE5XzJKQkI2N3c?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   },
   {
     "Topic": "Movies",
-    "Title": "10 Movies From 1981 That Are Now Considered Classics",
-    "SummaryEncoded": "Blow Out, Raiders of the Lost Ark, dan Chariots of Fire adalah beberapa film terbaik tahun 1981 yang pantas disebut klasik.",
-    "Link": "https://collider.com/best-1981-movies-classics/",
+    "Title": "New On Netflix, Disney+ And More: 6 Streaming Shows And Movies To Watch This Week (February 9 - 15)",
+    "SummaryEncoded": "Februari dimulai dengan baik minggu lalu berkat acara menyenangkan seperti The Muppet Show spesial dan kembalinya The Lincoln Lawyer. Masih ada beberapa serial dan film hebat yang akan ditayangkan ...",
+    "Link": "https://www.yahoo.com/entertainment/tv/articles/netflix-disney-more-6-streaming-173133453.html",
     "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "7 new to Netflix shows and movies you need to stream this week (Feb. 9-15)",
+    "SummaryEncoded": "Pelajari semua acara TV dan film Netflix baru yang tayang di Netflix minggu ini, termasuk \"How to Get to Heaven from Belfast\", \"Love Is Blind\" musim 10, dan masih banyak lagi.",
+    "Link": "https://www.yahoo.com/entertainment/tv/articles/7-netflix-shows-movies-stream-070000561.html",
+    "Source": "Bing",
+    "Date": "2026-02-10 03:02"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "From Spielberg to Tarantino: the year’s big Super Bowl movie trailers - The Guardian",
+    "SummaryEncoded": "Dari Spielberg hingga Tarantino: trailer film Super Bowl terbesar tahun ini - The Guardian",
+    "Link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03WWZBb2l5aUxPRnZ6WWpTWDdYTjkyM1V4bG5SLVRlTDVTNGZMTkRkaHVtVFFydENoN0s1cUpuaWNWT1BQS1JBNUF3STJJOE50YmxkYmdRdFdDWjlQbm1WaGpIQmtKMy1kVFFzaDRnN2lyTy1acmFtQXd3?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   },
   {
     "Topic": "Movies",
@@ -53,70 +189,14 @@
     "SummaryEncoded": "Pendosa, Marie Antoinette, Pertempuran demi Pertempuran, dan banyak lagi.",
     "Link": "https://www.msn.com/en-us/entertainment/movies/the-30-best-movies-on-hbo-max-right-now/ar-BB14LvfR",
     "Source": "Bing",
-    "Date": "2026-02-09 23:35"
+    "Date": "2026-02-10 03:02"
   },
   {
     "Topic": "Movies",
-    "Title": "Hit Spider-Man Movie Finds Streaming Success Amid DC Movies on HBO Max",
-    "SummaryEncoded": "Film Marvel Cinematic Universe meraih kesuksesan streaming besar-besaran di HBO Max setelah hadir di platform dan memperluas jangkauan pemirsanya. Berkat penayangan yang kuat, Spider-Man: Homecoming ...",
-    "Link": "https://www.yahoo.com/entertainment/movies/articles/hit-spider-man-movie-finds-162300293.html",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "These 10 Western Movies Are a Masterclass in Filmmaking",
-    "SummaryEncoded": "Mahakarya yang dicintai dan diakui seperti High Noon dan Touchstone adalah permata asli pembuatan film yang membentuk genre Barat hingga menjadi seperti sekarang ini.",
-    "Link": "https://collider.com/western-movies-masterclass-in-filmmaking/",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Let's talk about Mean Girls stars Rachel McAdams and Lacey Chabert making movies with the same plot",
-    "SummaryEncoded": "Bisakah kita bicara tentang bintang Mean Girls Rachel McAdams dan Lacey Chabert yang memiliki film horor (Send Help) dan film Hallmark (Lost in Paradise) dengan plot yang sama?",
-    "Link": "https://www.msn.com/en-us/movies/news/let-s-talk-about-mean-girls-stars-rachel-mcadams-and-lacey-chabert-making-movies-with-the-same-plot/ar-AA1VZ0LO",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "How big can a planet be? With very large gas giants, it can be hard to tell",
-    "SummaryEncoded": "Raksasa gas adalah planet besar yang sebagian besar terdiri dari helium dan/atau hidrogen. Meskipun planet-planet ini memiliki inti yang padat, namun permukaannya tidak keras. Jupiter dan Saturnus adalah raksasa gas di tata surya kita...",
-    "Link": "https://www.msn.com/en-us/news/technology/how-big-can-a-planet-be-with-very-large-gas-giants-it-can-be-hard-to-tell/ar-AA1VZqSx",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "This week in astronomy with Dave Eicher: The moon meets Antares",
-    "SummaryEncoded": "Dalam episode ini, Editor majalah Astronomi Emeritus Dave Eicher mengundang Anda untuk keluar pada dini hari tanggal 11 Februari untuk melihat Bulan melintas cukup dekat dengan bintang berkekuatan 1 Antares ...",
-    "Link": "https://www.msn.com/en-us/entertainment/general/this-week-in-astronomy-with-dave-eicher-the-moon-meets-antares/ar-AA1VZmnC",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:36"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "'Weird' debris discs may help scientists find hidden planets in far-off solar systems",
-    "SummaryEncoded": "Dengan survei baru ini, para astronom dapat mengintip tahapan pembentukan sistem planet ekstrasurya yang belum mereka jelajahi sepenuhnya ...",
-    "Link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=698a6f5edf4143b691f4522561371c7c&url=https%3a%2f%2fhub.jhu.edu%2f2026%2f02%2f09%2fdebris-disc-and-hidden-planets%2f&c=7299399952996816622&mkt=en-us",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:36"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronomers move closer to pinpointing where giant black holes merge",
-    "SummaryEncoded": "Di suatu tempat di alam semesta, lubang hitam raksasa berputar satu sama lain dengan sangat lambat sehingga ...",
-    "Link": "https://www.msn.com/en-us/news/technology/astronomers-move-closer-to-pinpointing-where-giant-black-holes-merge/ar-AA1VTcuN",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:36"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Giant dark matter 'sheet' may shape galactic motion in the Milky Way",
-    "SummaryEncoded": "Pada malam yang cerah, Bima Sakti dan galaksi Andromeda terlihat seperti tetangga dekat. Di luar angkasa, mereka memang benar adanya.",
-    "Link": "https://www.yahoo.com/news/articles/giant-dark-matter-sheet-may-170700600.html",
-    "Source": "Bing",
-    "Date": "2026-02-09 23:36"
+    "Title": "Keep making movies, even if they’re awful - dailycampus.com",
+    "SummaryEncoded": "Teruslah membuat film, meskipun jelek - dailycampus.com",
+    "Link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDFmSGhNd0FUWVNxajM2RGZqZUFpRlpYVVo0VkJLYkRDWWE5U2NzU19QV3RjUjhOcHl6aXNReFdrdUk2R3NtdDdDNm9wNE1ReGhJLXJpTFY5SGprekZWdUF3ZDVWOWFYQUVtYkdaMjdocHVwU25RNG9XNHE5S1BzZw?oc=5",
+    "Source": "Google",
+    "Date": "2026-02-10 03:02"
   }
 ]
