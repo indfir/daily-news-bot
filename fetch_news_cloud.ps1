@@ -1,11 +1,11 @@
 # fetch_news_cloud.ps1
-# Daily News Fetcher: Fixed Syntax & Strict-Mode Safe
+# Daily News Fetcher: Randomized, Anti-Paywall, and Anti-Event (Seminar/Talk)
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
 # ---------------------------
-# 1. CONFIG & PAYWALL BLOCKLIST
+# 1. CONFIG & BLOCKLISTS
 # ---------------------------
 $topics = @{
     "Astronomy"  = "Astronomy"
@@ -15,10 +15,18 @@ $topics = @{
     "Movies"     = "Movies"
 }
 
+# Filter Website Paywall
 $paywallBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com", 
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
     "barrons.com", "businessinsider.com", "nikkei.com", "kompas.id", "tempo.co"
+)
+
+# Filter Kata Kunci Event (Agar tidak muncul undangan seminar/pendaftaran)
+$eventBlocklist = @(
+    "Register", "Admission", "Seminar", "Webinar", "Workshop", "Talk", 
+    "Conference", "Symposium", "Registration", "Tickets", "Eventbrite", 
+    "Call for papers", "Live stream"
 )
 
 $script:userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
@@ -40,14 +48,13 @@ if ($script:targets.Count -eq 0) {
 }
 
 # ---------------------------
-# 3. HELPER FUNCTIONS (FIXED SYNTAX)
+# 3. HELPER FUNCTIONS
 # ---------------------------
 
 function Get-SafeProp {
     param($Obj, [string]$Name)
     if ($null -eq $Obj) { return $null }
     $p = $Obj.PSObject.Properties[$Name]
-    # Menggunakan Ternary Operator PS 7+
     return ($null -ne $p ? $p.Value : $null)
 }
 
@@ -70,29 +77,22 @@ function Get-CanonicalUrlKey {
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
-function Test-IsPaywall {
-    param([string]$Url)
+# Fungsi Cek Paywall & Event
+function Test-ShouldBlock {
+    param([string]$Url, [string]$Title)
+    # Cek Paywall
     foreach ($domain in $paywallBlocklist) {
         if ($Url -like "*$domain*") { return $true }
+    }
+    # Cek Event (Seminar/Talk)
+    foreach ($word in $eventBlocklist) {
+        if ($Title -like "*$word*") { return $true }
     }
     return $false
 }
 
 # ---------------------------
-# 4. HISTORY MANAGEMENT
-# ---------------------------
-function Get-SentLinksHistory {
-    if (-not (Test-Path $script:historyPath)) { return @() }
-    try {
-        $raw = Get-Content $script:historyPath -Raw -Encoding UTF8
-        if ([string]::IsNullOrWhiteSpace($raw)) { return @() }
-        $json = ConvertFrom-Json $raw
-        return ($null -ne $json ? @($json) : @())
-    } catch { return @() }
-}
-
-# ---------------------------
-# 5. TRANSLATION & TELEGRAM
+# 4. TRANSLATION & TELEGRAM
 # ---------------------------
 function Get-GoogleTranslation {
     param([string]$Text)
@@ -122,17 +122,21 @@ function Send-TelegramMessage {
 }
 
 # ---------------------------
-# 6. MAIN ENGINE
+# 5. MAIN ENGINE
 # ---------------------------
 
-$sentHistory = Get-SentLinksHistory
+# Load & Prune History
+if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath }
+$rawHistory = Get-Content $script:historyPath -Raw -Encoding UTF8
+$sentHistory = if ([string]::IsNullOrWhiteSpace($rawHistory)) { @() } else { @(ConvertFrom-Json $rawHistory) }
+
 $cutoff = (Get-Date).AddDays(-$script:historyRetentionDays)
 $sentHistory = @($sentHistory | Where-Object { 
     $d = Get-SafeProp -Obj $_ -Name "SentDate"
     if ($d) { [DateTime]$d -gt $cutoff } else { $false }
 })
 
-Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection, No Paywalls)"
+Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection, No Events/Paywalls)"
 
 $allNewsData = @()
 $runSeen = [System.Collections.Generic.HashSet[string]]::new()
@@ -142,11 +146,14 @@ foreach ($topicName in $topics.Keys) {
     $items = @()
 
     try {
+        # Fetch Google News RSS (Ambil berita seminggu terakhir)
         $url = "https://news.google.com/rss/search?q=$encodedQuery+when:7d&hl=en-ID&gl=ID&ceid=ID:en"
         [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
         if ($null -ne $xml.rss.channel.item) {
             foreach ($node in $xml.rss.channel.item) {
-                $items += [PSCustomObject]@{ Title = $node.title; Link = $node.link; Desc = $node.title }
+                # Membersihkan judul dari nama sumber di belakang (misal: "Judul - Detikcom" menjadi "Judul")
+                $cleanTitle = $node.title -replace " - [^-]+$", ""
+                $items += [PSCustomObject]@{ Title = $cleanTitle; Link = $node.link }
             }
         }
     } catch { Write-Host "Error fetching $topicName" }
@@ -160,12 +167,14 @@ foreach ($topicName in $topics.Keys) {
     foreach ($item in $randomItems) {
         if ($sentCount -ge 5) { break }
 
+        # 1. Resolve URL Asli
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
 
-        if (Test-IsPaywall -Url $fullLink) { continue }
+        # 2. Filter: Paywall & Event Keywords
+        if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
 
-        # Cek History
+        # 3. Filter: History (Anti-Duplicate)
         $alreadySent = $false
         foreach ($h in $sentHistory) {
             if ((Get-SafeProp -Obj $h -Name "CanonicalKey") -eq $canonicalKey) {
@@ -174,11 +183,14 @@ foreach ($topicName in $topics.Keys) {
         }
         if ($alreadySent -or $runSeen.Contains($canonicalKey)) { continue }
 
+        # Lolos filter
         [void]$runSeen.Add($canonicalKey)
-        $translatedDesc = Get-GoogleTranslation -Text $item.Desc
-        $safeTitle = $item.Title.Replace("<", "&lt;").Replace(">", "&gt;")
+        
+        # Terjemahkan Judul
+        $translatedTitle = Get-GoogleTranslation -Text $item.Title
+        $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
 
-        $topicContent += "$($sentCount + 1). <b>$safeTitle</b>`n$translatedDesc`n<a href='$fullLink'>Baca Selengkapnya</a>`n`n"
+        $topicContent += "$($sentCount + 1). <b>$safeTitle</b>`n<a href='$fullLink'>Baca Selengkapnya</a>`n`n"
 
         $sentDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
         $sentHistory += [PSCustomObject]@{ CanonicalKey = $canonicalKey; SentDate = $sentDate }
@@ -194,7 +206,7 @@ foreach ($topicName in $topics.Keys) {
 }
 
 # ---------------------------
-# 7. PERSISTENCE
+# 6. PERSISTENCE
 # ---------------------------
 $sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
