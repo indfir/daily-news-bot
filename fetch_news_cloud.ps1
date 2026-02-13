@@ -1,5 +1,5 @@
 # fetch_news_cloud.ps1
-# Daily News Fetcher: Randomized, Anti-Paywall, Full URL, and Strict-Mode Safe
+# Daily News Fetcher: Fixed Syntax & Strict-Mode Safe
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -15,7 +15,6 @@ $topics = @{
     "Movies"     = "Movies"
 }
 
-# Daftar domain paywall atau yang mengharuskan login
 $paywallBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com", 
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
@@ -24,13 +23,11 @@ $paywallBlocklist = @(
 
 $script:userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 $currentDate = Get-Date -Format "MMMM dd, yyyy"
-
-# File history untuk dedup
 $script:historyPath = Join-Path $PSScriptRoot "sent_links_history.json"
 $script:historyRetentionDays = 30
 
 # ---------------------------
-# 2. TELEGRAM TARGETS (Support Multiple)
+# 2. TELEGRAM TARGETS
 # ---------------------------
 $script:targets = @()
 if ($env:TELEGRAM_TOKEN -and $env:TELEGRAM_CHAT_ID) { 
@@ -38,33 +35,31 @@ if ($env:TELEGRAM_TOKEN -and $env:TELEGRAM_CHAT_ID) {
 }
 
 if ($script:targets.Count -eq 0) {
-    Write-Error "No valid TELEGRAM_TOKEN found in Environment Variables."
+    Write-Error "No valid TELEGRAM_TOKEN found."
     exit 1
 }
 
 # ---------------------------
-# 3. HELPER FUNCTIONS
+# 3. HELPER FUNCTIONS (FIXED SYNTAX)
 # ---------------------------
 
-# Mengambil nilai properti secara aman (Strict-Mode safe)
 function Get-SafeProp {
     param($Obj, [string]$Name)
     if ($null -eq $Obj) { return $null }
     $p = $Obj.PSObject.Properties[$Name]
-    return if ($p) { $p.Value } else { $null }
+    # Menggunakan Ternary Operator PS 7+
+    return ($null -ne $p ? $p.Value : $null)
 }
 
-# Mendapatkan URL akhir (mengikuti redirect/bitly/aggregator)
 function Resolve-FinalUrl {
     param([string]$Url)
     try {
         $r = Invoke-WebRequest -Uri $Url -Method Head -MaximumRedirection 10 -UserAgent $script:userAgent -ErrorAction Stop
         $final = $r.BaseResponse.ResponseUri.AbsoluteUri
-        return if ($final) { $final } else { $Url }
+        return ($null -ne $final ? $final : $Url)
     } catch { return $Url }
 }
 
-# Membersihkan URL untuk kunci duplikasi (tanpa parameter utm_xxx)
 function Get-CanonicalUrlKey {
     param([string]$Url)
     try {
@@ -75,7 +70,6 @@ function Get-CanonicalUrlKey {
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
-# Cek apakah link termasuk paywall
 function Test-IsPaywall {
     param([string]$Url)
     foreach ($domain in $paywallBlocklist) {
@@ -85,7 +79,7 @@ function Test-IsPaywall {
 }
 
 # ---------------------------
-# 4. HISTORY MANAGEMENT (ANTI-DUPLICATE)
+# 4. HISTORY MANAGEMENT
 # ---------------------------
 function Get-SentLinksHistory {
     if (-not (Test-Path $script:historyPath)) { return @() }
@@ -93,7 +87,7 @@ function Get-SentLinksHistory {
         $raw = Get-Content $script:historyPath -Raw -Encoding UTF8
         if ([string]::IsNullOrWhiteSpace($raw)) { return @() }
         $json = ConvertFrom-Json $raw
-        return if ($json) { @($json) } else { @() }
+        return ($null -ne $json ? @($json) : @())
     } catch { return @() }
 }
 
@@ -131,7 +125,6 @@ function Send-TelegramMessage {
 # 6. MAIN ENGINE
 # ---------------------------
 
-# Load & Prune History
 $sentHistory = Get-SentLinksHistory
 $cutoff = (Get-Date).AddDays(-$script:historyRetentionDays)
 $sentHistory = @($sentHistory | Where-Object { 
@@ -148,12 +141,13 @@ foreach ($topicName in $topics.Keys) {
     $encodedQuery = [uri]::EscapeDataString($topics[$topicName])
     $items = @()
 
-    # Fetch from Google News RSS
     try {
         $url = "https://news.google.com/rss/search?q=$encodedQuery+when:7d&hl=en-ID&gl=ID&ceid=ID:en"
         [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
-        foreach ($node in $xml.rss.channel.item) {
-            $items += [PSCustomObject]@{ Title = $node.title; Link = $node.link; Desc = $node.title }
+        if ($null -ne $xml.rss.channel.item) {
+            foreach ($node in $xml.rss.channel.item) {
+                $items += [PSCustomObject]@{ Title = $node.title; Link = $node.link; Desc = $node.title }
+            }
         }
     } catch { Write-Host "Error fetching $topicName" }
 
@@ -166,14 +160,12 @@ foreach ($topicName in $topics.Keys) {
     foreach ($item in $randomItems) {
         if ($sentCount -ge 5) { break }
 
-        # 1. Resolve URL Asli
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
 
-        # 2. Filter: Paywall
         if (Test-IsPaywall -Url $fullLink) { continue }
 
-        # 3. Filter: History (Anti-Duplicate) - Strict-Mode Safe Check
+        # Cek History
         $alreadySent = $false
         foreach ($h in $sentHistory) {
             if ((Get-SafeProp -Obj $h -Name "CanonicalKey") -eq $canonicalKey) {
@@ -182,14 +174,12 @@ foreach ($topicName in $topics.Keys) {
         }
         if ($alreadySent -or $runSeen.Contains($canonicalKey)) { continue }
 
-        # Lolos filter
         [void]$runSeen.Add($canonicalKey)
         $translatedDesc = Get-GoogleTranslation -Text $item.Desc
         $safeTitle = $item.Title.Replace("<", "&lt;").Replace(">", "&gt;")
 
         $topicContent += "$($sentCount + 1). <b>$safeTitle</b>`n$translatedDesc`n<a href='$fullLink'>Baca Selengkapnya</a>`n`n"
 
-        # Update History & Export Data
         $sentDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
         $sentHistory += [PSCustomObject]@{ CanonicalKey = $canonicalKey; SentDate = $sentDate }
         $allNewsData += [PSCustomObject]@{ Topic = $topicName; Title = $item.Title; Link = $fullLink; Date = $sentDate }
