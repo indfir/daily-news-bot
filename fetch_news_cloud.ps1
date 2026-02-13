@@ -1,5 +1,5 @@
 # fetch_news_cloud.ps1
-# Daily News Fetcher: No Paywalls, No Events, No Podcasts
+# Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 3 Items
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -42,6 +42,9 @@ $script:targets = @()
 if ($env:TELEGRAM_TOKEN -and $env:TELEGRAM_CHAT_ID) { 
     $script:targets += @{ Token = $env:TELEGRAM_TOKEN; ChatId = $env:TELEGRAM_CHAT_ID } 
 }
+if ($env:TELEGRAM_TOKEN_2 -and $env:TELEGRAM_CHAT_ID_2) { 
+    $script:targets += @{ Token = $env:TELEGRAM_TOKEN_2; ChatId = $env:TELEGRAM_CHAT_ID_2 } 
+}
 
 if ($script:targets.Count -eq 0) {
     Write-Error "No valid TELEGRAM_TOKEN found."
@@ -78,16 +81,13 @@ function Get-CanonicalUrlKey {
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
-# Fungsi Cek Konten yang Harus Diblokir
 function Test-ShouldBlock {
     param([string]$Url, [string]$Title)
-    # 1. Cek Domain (Paywall/Podcast Platforms)
     foreach ($domain in $domainBlocklist) {
         if ($Url -like "*$domain*") { return $true }
     }
-    # 2. Cek Kata Kunci (Event/Podcast/Episode)
     foreach ($word in $contentBlocklist) {
-        if ($Title -match "\b$word\b") { return $true } # Menggunakan regex \b agar akurat
+        if ($Title -match "\b$word\b") { return $true }
     }
     return $false
 }
@@ -126,7 +126,7 @@ function Send-TelegramMessage {
 # 5. MAIN ENGINE
 # ---------------------------
 
-# Load & Prune History
+# Load History
 if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath }
 $rawHistory = Get-Content $script:historyPath -Raw -Encoding UTF8
 $sentHistory = if ([string]::IsNullOrWhiteSpace($rawHistory)) { @() } else { @(ConvertFrom-Json $rawHistory) }
@@ -137,7 +137,7 @@ $sentHistory = @($sentHistory | Where-Object {
     if ($d) { [DateTime]$d -gt $cutoff } else { $false }
 })
 
-Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection, No Podcasts/Paywalls)"
+Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection - 3 Items per Topic)"
 
 $allNewsData = @()
 $runSeen = [System.Collections.Generic.HashSet[string]]::new()
@@ -147,7 +147,6 @@ foreach ($topicName in $topics.Keys) {
     $items = @()
 
     try {
-        # Ambil berita seminggu terakhir
         $url = "https://news.google.com/rss/search?q=$encodedQuery+when:7d&hl=en-ID&gl=ID&ceid=ID:en"
         [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
         if ($null -ne $xml.rss.channel.item) {
@@ -165,15 +164,15 @@ foreach ($topicName in $topics.Keys) {
     $topicContent = "<b>$topicName</b>`n`n"
 
     foreach ($item in $randomItems) {
-        if ($sentCount -ge 5) { break }
+        # --- PERUBAHAN DI SINI: LIMIT MENJADI 3 ---
+        if ($sentCount -ge 3) { break }
 
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
 
-        # FILTER: Paywall, Event, Podcast
         if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
 
-        # FILTER: History (Anti-Duplicate)
+        # Filter History
         $alreadySent = $false
         foreach ($h in $sentHistory) {
             if ((Get-SafeProp -Obj $h -Name "CanonicalKey") -eq $canonicalKey) {
@@ -184,7 +183,7 @@ foreach ($topicName in $topics.Keys) {
 
         [void]$runSeen.Add($canonicalKey)
         
-        # Terjemahkan Judul
+        # Terjemahan Judul
         $translatedTitle = Get-GoogleTranslation -Text $item.Title
         $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
 
