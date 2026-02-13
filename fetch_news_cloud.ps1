@@ -1,5 +1,5 @@
 # fetch_news_cloud.ps1
-# Daily News Fetcher: Randomized, Anti-Paywall, and Anti-Event (Seminar/Talk)
+# Daily News Fetcher: No Paywalls, No Events, No Podcasts
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -15,18 +15,19 @@ $topics = @{
     "Movies"     = "Movies"
 }
 
-# Filter Website Paywall
-$paywallBlocklist = @(
+# Filter Website Paywall & Media Non-Berita
+$domainBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com", 
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
-    "barrons.com", "businessinsider.com", "nikkei.com", "kompas.id", "tempo.co"
+    "barrons.com", "businessinsider.com", "nikkei.com", "kompas.id", "tempo.co",
+    "spotify.com", "apple.com", "podcasts.google.com", "podbean.com", "soundcloud.com", "youtube.com"
 )
 
-# Filter Kata Kunci Event (Agar tidak muncul undangan seminar/pendaftaran)
-$eventBlocklist = @(
+# Filter Kata Kunci Event & Podcast
+$contentBlocklist = @(
     "Register", "Admission", "Seminar", "Webinar", "Workshop", "Talk", 
     "Conference", "Symposium", "Registration", "Tickets", "Eventbrite", 
-    "Call for papers", "Live stream"
+    "Podcast", "Episode", "Ep.", "Listen", "Audio", "Season", "Stream", "Show"
 )
 
 $script:userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
@@ -77,16 +78,16 @@ function Get-CanonicalUrlKey {
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
-# Fungsi Cek Paywall & Event
+# Fungsi Cek Konten yang Harus Diblokir
 function Test-ShouldBlock {
     param([string]$Url, [string]$Title)
-    # Cek Paywall
-    foreach ($domain in $paywallBlocklist) {
+    # 1. Cek Domain (Paywall/Podcast Platforms)
+    foreach ($domain in $domainBlocklist) {
         if ($Url -like "*$domain*") { return $true }
     }
-    # Cek Event (Seminar/Talk)
-    foreach ($word in $eventBlocklist) {
-        if ($Title -like "*$word*") { return $true }
+    # 2. Cek Kata Kunci (Event/Podcast/Episode)
+    foreach ($word in $contentBlocklist) {
+        if ($Title -match "\b$word\b") { return $true } # Menggunakan regex \b agar akurat
     }
     return $false
 }
@@ -136,7 +137,7 @@ $sentHistory = @($sentHistory | Where-Object {
     if ($d) { [DateTime]$d -gt $cutoff } else { $false }
 })
 
-Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection, No Events/Paywalls)"
+Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection, No Podcasts/Paywalls)"
 
 $allNewsData = @()
 $runSeen = [System.Collections.Generic.HashSet[string]]::new()
@@ -146,12 +147,11 @@ foreach ($topicName in $topics.Keys) {
     $items = @()
 
     try {
-        # Fetch Google News RSS (Ambil berita seminggu terakhir)
+        # Ambil berita seminggu terakhir
         $url = "https://news.google.com/rss/search?q=$encodedQuery+when:7d&hl=en-ID&gl=ID&ceid=ID:en"
         [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
         if ($null -ne $xml.rss.channel.item) {
             foreach ($node in $xml.rss.channel.item) {
-                # Membersihkan judul dari nama sumber di belakang (misal: "Judul - Detikcom" menjadi "Judul")
                 $cleanTitle = $node.title -replace " - [^-]+$", ""
                 $items += [PSCustomObject]@{ Title = $cleanTitle; Link = $node.link }
             }
@@ -167,14 +167,13 @@ foreach ($topicName in $topics.Keys) {
     foreach ($item in $randomItems) {
         if ($sentCount -ge 5) { break }
 
-        # 1. Resolve URL Asli
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
 
-        # 2. Filter: Paywall & Event Keywords
+        # FILTER: Paywall, Event, Podcast
         if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
 
-        # 3. Filter: History (Anti-Duplicate)
+        # FILTER: History (Anti-Duplicate)
         $alreadySent = $false
         foreach ($h in $sentHistory) {
             if ((Get-SafeProp -Obj $h -Name "CanonicalKey") -eq $canonicalKey) {
@@ -183,7 +182,6 @@ foreach ($topicName in $topics.Keys) {
         }
         if ($alreadySent -or $runSeen.Contains($canonicalKey)) { continue }
 
-        # Lolos filter
         [void]$runSeen.Add($canonicalKey)
         
         # Terjemahkan Judul
