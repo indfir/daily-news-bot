@@ -2,8 +2,8 @@ name: Daily News Brief
 
 on:
   schedule:
-    # Runs at 23:00 UTC = 06:00 WIB (Next Day)
-    - cron: '0 23 * * *'
+    # Runs at 21:15 UTC = 04:15 WIB (Next Day)
+    - cron: '15 21 * * *'
   workflow_dispatch:
 
 jobs:
