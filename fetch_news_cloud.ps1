@@ -13,6 +13,7 @@ $topics = @{
     "Technology" = "Technology"
     "Data / AI"  = "Artificial Intelligence Data Science"
     "Movies"     = "Movies"
+    "Economy"    = "Economy Business Finance"
 }
 
 # Filter Website Paywall & Media Non-Berita
@@ -207,3 +208,4 @@ foreach ($topicName in $topics.Keys) {
 # ---------------------------
 $sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
+
