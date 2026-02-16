@@ -1,5 +1,6 @@
 # fetch_news_cloud.ps1
 # Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 3 Items
+# Updated: Added Economy & Trading, Extended to 14 Days
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -8,12 +9,12 @@ $ErrorActionPreference = "Stop"
 # 1. CONFIG & BLOCKLISTS
 # ---------------------------
 $topics = @{
-    "Astronomy"  = "Astronomy"
-    "Science"    = "Science"
-    "Technology" = "Technology"
-    "Data / AI"  = "Artificial Intelligence Data Science"
-    "Movies"     = "Movies"
-    "Economy"    = "Economy Business Finance"
+    "Astronomy"        = "Astronomy"
+    "Science"          = "Science"
+    "Technology"       = "Technology"
+    "Data / AI"        = "Artificial Intelligence Data Science"
+    "Movies"           = "Movies"
+    "Economy"          = "Economy Business Finance"
     "Trading & Crypto" = "Trading Forex Bitcoin Cryptocurrency Market-Analysis"
 }
 
@@ -149,7 +150,8 @@ foreach ($topicName in $topics.Keys) {
     $items = @()
 
     try {
-        $url = "https://news.google.com/rss/search?q=$encodedQuery+when:7d&hl=en-ID&gl=ID&ceid=ID:en"
+        # --- PERUBAHAN: DARI when:7d MENJADI when:14d ---
+        $url = "https://news.google.com/rss/search?q=$encodedQuery+when:14d&hl=en-ID&gl=ID&ceid=ID:en"
         [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
         if ($null -ne $xml.rss.channel.item) {
             foreach ($node in $xml.rss.channel.item) {
@@ -166,7 +168,6 @@ foreach ($topicName in $topics.Keys) {
     $topicContent = "<b>$topicName</b>`n`n"
 
     foreach ($item in $randomItems) {
-        # --- PERUBAHAN DI SINI: LIMIT MENJADI 3 ---
         if ($sentCount -ge 3) { break }
 
         $fullLink = Resolve-FinalUrl -Url $item.Link
@@ -209,5 +210,3 @@ foreach ($topicName in $topics.Keys) {
 # ---------------------------
 $sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
-
-
