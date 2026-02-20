@@ -102,27 +102,23 @@ function Get-ArticleImage {
             -UserAgent $script:userAgent -TimeoutSec 8 -ErrorAction Stop
         $html = $response.Content
 
-        # og:image — property lalu content
-        if ($html -match '<meta[^>]+property=["\']og:image["\'][^>]+content=["'']([^"'']+)["'']') {
-            return $matches[1]
-        }
-        # og:image — content lalu property (urutan atribut terbalik)
-        if ($html -match '<meta[^>]+content=["'']([^"'']+)["''][^>]+property=["\']og:image["\']') {
-            return $matches[1]
-        }
-        # Fallback: twitter:image — name lalu content
-        if ($html -match '<meta[^>]+name=["\']twitter:image["\'][^>]+content=["'']([^"'']+)["'']') {
-            return $matches[1]
-        }
-        # Fallback: twitter:image — content lalu name
-        if ($html -match '<meta[^>]+content=["'']([^"'']+)["''][^>]+name=["\']twitter:image["\']') {
-            return $matches[1]
-        }
+        # Gunakan variabel regex untuk hindari konflik quote
+        $r1 = '<meta[^>]+property=["\x27]og:image["\x27][^>]+content=["\x27]([^">\x27]+)["\x27]'
+        $r2 = '<meta[^>]+content=["\x27]([^">\x27]+)["\x27][^>]+property=["\x27]og:image["\x27]'
+        $r3 = '<meta[^>]+name=["\x27]twitter:image["\x27][^>]+content=["\x27]([^">\x27]+)["\x27]'
+        $r4 = '<meta[^>]+content=["\x27]([^">\x27]+)["\x27][^>]+name=["\x27]twitter:image["\x27]'
+
+        if ($html -match $r1) { return $Matches[1] }
+        if ($html -match $r2) { return $Matches[1] }
+        if ($html -match $r3) { return $Matches[1] }
+        if ($html -match $r4) { return $Matches[1] }
+
     } catch {
         Write-Host "  [og:image] Failed: $Url"
     }
     return $null
 }
+
 
 function Get-WikipediaImage {
     param([string]$Title)
@@ -320,3 +316,4 @@ foreach ($topicName in $topics.Keys) {
 $sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
 Write-Host "Done. Exported $($allNewsData.Count) items to news.json"
+
