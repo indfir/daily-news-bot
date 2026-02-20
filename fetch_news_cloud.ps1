@@ -1,6 +1,6 @@
 # fetch_news_cloud.ps1
 # Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 3 Items
-# Updated: Added Economy & Trading, Extended to 14 Days
+# Updated: Feature Image (og:image + Wikipedia fallback), ImageSource tracking
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -18,35 +18,33 @@ $topics = @{
     "Trading & Crypto" = "Trading Forex Bitcoin Cryptocurrency Market-Analysis"
 }
 
-# Filter Website Paywall & Media Non-Berita
 $domainBlocklist = @(
-    "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com", 
+    "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com",
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
     "barrons.com", "businessinsider.com", "nikkei.com", "kompas.id", "tempo.co",
     "spotify.com", "apple.com", "podcasts.google.com", "podbean.com", "soundcloud.com", "youtube.com"
 )
 
-# Filter Kata Kunci Event & Podcast
 $contentBlocklist = @(
-    "Register", "Admission", "Seminar", "Webinar", "Workshop", "Talk", 
-    "Conference", "Symposium", "Registration", "Tickets", "Eventbrite", 
+    "Register", "Admission", "Seminar", "Webinar", "Workshop", "Talk",
+    "Conference", "Symposium", "Registration", "Tickets", "Eventbrite",
     "Podcast", "Episode", "Ep.", "Listen", "Audio", "Season", "Stream", "Show"
 )
 
 $script:userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-$currentDate = Get-Date -Format "MMMM dd, yyyy"
-$script:historyPath = Join-Path $PSScriptRoot "sent_links_history.json"
+$currentDate      = Get-Date -Format "MMMM dd, yyyy"
+$script:historyPath          = Join-Path $PSScriptRoot "sent_links_history.json"
 $script:historyRetentionDays = 30
 
 # ---------------------------
 # 2. TELEGRAM TARGETS
 # ---------------------------
 $script:targets = @()
-if ($env:TELEGRAM_TOKEN -and $env:TELEGRAM_CHAT_ID) { 
-    $script:targets += @{ Token = $env:TELEGRAM_TOKEN; ChatId = $env:TELEGRAM_CHAT_ID } 
+if ($env:TELEGRAM_TOKEN -and $env:TELEGRAM_CHAT_ID) {
+    $script:targets += @{ Token = $env:TELEGRAM_TOKEN; ChatId = $env:TELEGRAM_CHAT_ID }
 }
-if ($env:TELEGRAM_TOKEN_2 -and $env:TELEGRAM_CHAT_ID_2) { 
-    $script:targets += @{ Token = $env:TELEGRAM_TOKEN_2; ChatId = $env:TELEGRAM_CHAT_ID_2 } 
+if ($env:TELEGRAM_TOKEN_2 -and $env:TELEGRAM_CHAT_ID_2) {
+    $script:targets += @{ Token = $env:TELEGRAM_TOKEN_2; ChatId = $env:TELEGRAM_CHAT_ID_2 }
 }
 
 if ($script:targets.Count -eq 0) {
@@ -68,7 +66,8 @@ function Get-SafeProp {
 function Resolve-FinalUrl {
     param([string]$Url)
     try {
-        $r = Invoke-WebRequest -Uri $Url -Method Head -MaximumRedirection 10 -UserAgent $script:userAgent -ErrorAction Stop
+        $r = Invoke-WebRequest -Uri $Url -Method Head -MaximumRedirection 10 `
+            -UserAgent $script:userAgent -TimeoutSec 10 -ErrorAction Stop
         $final = $r.BaseResponse.ResponseUri.AbsoluteUri
         return ($null -ne $final ? $final : $Url)
     } catch { return $Url }
@@ -77,10 +76,11 @@ function Resolve-FinalUrl {
 function Get-CanonicalUrlKey {
     param([string]$Url)
     try {
-        $u = [Uri]$Url
-        $host = $u.Host.ToLowerInvariant().Replace("www.", "")
-        $path = $u.AbsolutePath.TrimEnd("/")
-        return "$($u.Scheme)://$host$path".ToLowerInvariant()
+        $u      = [Uri]$Url
+        $host   = $u.Host.ToLowerInvariant().Replace("www.", "")
+        $path   = $u.AbsolutePath.TrimEnd("/")
+        $scheme = $u.Scheme
+        return "$($scheme)://$host$path".ToLowerInvariant()
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
@@ -95,15 +95,74 @@ function Test-ShouldBlock {
     return $false
 }
 
+function Get-ArticleImage {
+    param([string]$Url)
+    try {
+        $response = Invoke-WebRequest -Uri $Url -UseBasicParsing `
+            -UserAgent $script:userAgent -TimeoutSec 8 -ErrorAction Stop
+        $html = $response.Content
+
+        # og:image — property lalu content
+        if ($html -match '<meta[^>]+property=["\']og:image["\'][^>]+content=["'']([^"'']+)["'']') {
+            return $matches[1]
+        }
+        # og:image — content lalu property (urutan atribut terbalik)
+        if ($html -match '<meta[^>]+content=["'']([^"'']+)["''][^>]+property=["\']og:image["\']') {
+            return $matches[1]
+        }
+        # Fallback: twitter:image — name lalu content
+        if ($html -match '<meta[^>]+name=["\']twitter:image["\'][^>]+content=["'']([^"'']+)["'']') {
+            return $matches[1]
+        }
+        # Fallback: twitter:image — content lalu name
+        if ($html -match '<meta[^>]+content=["'']([^"'']+)["''][^>]+name=["\']twitter:image["\']') {
+            return $matches[1]
+        }
+    } catch {
+        Write-Host "  [og:image] Failed: $Url"
+    }
+    return $null
+}
+
+function Get-WikipediaImage {
+    param([string]$Title)
+    try {
+        # Ambil 4 kata pertama sebagai keyword
+        $keywords = ($Title -split '\s+' | Select-Object -First 4) -join ' '
+        $encoded  = [uri]::EscapeDataString($keywords)
+
+        # Cari halaman Wikipedia paling relevan
+        $searchUrl    = "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=$encoded&format=json&srlimit=1"
+        $searchResult = Invoke-RestMethod -Uri $searchUrl -UseBasicParsing -TimeoutSec 8 -ErrorAction Stop
+
+        $pageTitle = Get-SafeProp -Obj ($searchResult.query.search | Select-Object -First 1) -Name "title"
+        if (-not $pageTitle) { return $null }
+
+        # Ambil thumbnail dari halaman Wikipedia
+        $encodedTitle = [uri]::EscapeDataString($pageTitle)
+        $thumbUrl     = "https://en.wikipedia.org/w/api.php?action=query&titles=$encodedTitle&prop=pageimages&format=json&pithumbsize=800"
+        $thumbResult  = Invoke-RestMethod -Uri $thumbUrl -UseBasicParsing -TimeoutSec 8 -ErrorAction Stop
+
+        $pages = $thumbResult.query.pages.PSObject.Properties | Select-Object -First 1
+        $thumb = Get-SafeProp -Obj $pages.Value -Name "thumbnail"
+        if ($thumb) { return (Get-SafeProp -Obj $thumb -Name "source") }
+
+    } catch {
+        Write-Host "  [wiki-img] Failed for: $Title"
+    }
+    return $null
+}
+
 # ---------------------------
 # 4. TRANSLATION & TELEGRAM
 # ---------------------------
+
 function Get-GoogleTranslation {
     param([string]$Text)
     $encoded = [uri]::EscapeDataString($Text)
-    $url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=id&dt=t&q=$encoded"
+    $url     = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=id&dt=t&q=$encoded"
     try {
-        $response = Invoke-RestMethod -Uri $url -Method Get
+        $response   = Invoke-RestMethod -Uri $url -Method Get
         $translated = ""
         foreach ($seg in $response[0]) { if ($seg[0]) { $translated += $seg[0] } }
         return $translated
@@ -114,14 +173,17 @@ function Send-TelegramMessage {
     param([string]$Message)
     foreach ($target in $script:targets) {
         $body = @{
-            chat_id = $target.ChatId
-            text = $Message
-            parse_mode = "HTML"
+            chat_id                  = $target.ChatId
+            text                     = $Message
+            parse_mode               = "HTML"
             disable_web_page_preview = "false"
         }
         try {
-            Invoke-RestMethod -Uri "https://api.telegram.org/bot$($target.Token)/sendMessage" -Method Post -Body $body | Out-Null
-        } catch { Write-Host "Failed to send to $($target.ChatId)" }
+            Invoke-RestMethod -Uri "https://api.telegram.org/bot$($target.Token)/sendMessage" `
+                -Method Post -Body $body | Out-Null
+        } catch {
+            Write-Host "Failed to send message to $($target.ChatId)"
+        }
     }
 }
 
@@ -129,80 +191,127 @@ function Send-TelegramMessage {
 # 5. MAIN ENGINE
 # ---------------------------
 
-# Load History
-if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath }
-$rawHistory = Get-Content $script:historyPath -Raw -Encoding UTF8
+# Load & prune history
+if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath -Encoding UTF8 }
+$rawHistory  = Get-Content $script:historyPath -Raw -Encoding UTF8
 $sentHistory = if ([string]::IsNullOrWhiteSpace($rawHistory)) { @() } else { @(ConvertFrom-Json $rawHistory) }
 
-$cutoff = (Get-Date).AddDays(-$script:historyRetentionDays)
-$sentHistory = @($sentHistory | Where-Object { 
+$cutoff      = (Get-Date).AddDays(-$script:historyRetentionDays)
+$sentHistory = @($sentHistory | Where-Object {
     $d = Get-SafeProp -Obj $_ -Name "SentDate"
     if ($d) { [DateTime]$d -gt $cutoff } else { $false }
 })
 
-Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n(Random Selection - 3 Items per Topic)"
+# Header broadcast
+Send-TelegramMessage -Message "<b>📰 Daily News Brief - $currentDate</b>`n<i>Random Selection • 3 Items per Topic</i>"
 
 $allNewsData = @()
-$runSeen = [System.Collections.Generic.HashSet[string]]::new()
+$runSeen     = [System.Collections.Generic.HashSet[string]]::new()
 
 foreach ($topicName in $topics.Keys) {
     $encodedQuery = [uri]::EscapeDataString($topics[$topicName])
-    $items = @()
+    $items        = @()
 
     try {
-        # --- PERUBAHAN: DARI when:7d MENJADI when:14d ---
-        $url = "https://news.google.com/rss/search?q=$encodedQuery+when:14d&hl=en-ID&gl=ID&ceid=ID:en"
-        [xml]$xml = (Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $script:userAgent).Content
+        $rssUrl = "https://news.google.com/rss/search?q=$encodedQuery+when:14d&hl=en-ID&gl=ID&ceid=ID:en"
+        [xml]$xml = (Invoke-WebRequest -Uri $rssUrl -UseBasicParsing -UserAgent $script:userAgent).Content
         if ($null -ne $xml.rss.channel.item) {
             foreach ($node in $xml.rss.channel.item) {
                 $cleanTitle = $node.title -replace " - [^-]+$", ""
                 $items += [PSCustomObject]@{ Title = $cleanTitle; Link = $node.link }
             }
         }
-    } catch { Write-Host "Error fetching $topicName" }
+    } catch {
+        Write-Host "Error fetching RSS for: $topicName"
+    }
 
-    # RANDOMIZE
+    # Randomize
     $randomItems = $items | Sort-Object { Get-Random }
+    $sentCount   = 0
 
-    $sentCount = 0
-    $topicContent = "<b>$topicName</b>`n`n"
+    # Kirim header topik
+    if (($randomItems | Measure-Object).Count -gt 0) {
+        $topicEmoji = switch ($topicName) {
+            "Astronomy"        { "🔭" }
+            "Science"          { "🔬" }
+            "Technology"       { "💻" }
+            "Data / AI"        { "🤖" }
+            "Movies"           { "🎬" }
+            "Economy"          { "📈" }
+            "Trading & Crypto" { "₿" }
+            default            { "📌" }
+        }
+        Send-TelegramMessage -Message "$topicEmoji <b>$topicName</b>"
+        Start-Sleep -Seconds 1
+    }
 
     foreach ($item in $randomItems) {
         if ($sentCount -ge 3) { break }
 
-        $fullLink = Resolve-FinalUrl -Url $item.Link
-        $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
+        $fullLink      = Resolve-FinalUrl -Url $item.Link
+        $canonicalKey  = Get-CanonicalUrlKey -Url $fullLink
 
         if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
 
-        # Filter History
+        # Cek history
         $alreadySent = $false
         foreach ($h in $sentHistory) {
-            if ((Get-SafeProp -Obj $h -Name "CanonicalKey") -eq $canonicalKey) {
+            $hKey = Get-SafeProp -Obj $h -Name "CanonicalKey"
+            if ($null -ne $hKey -and $hKey -eq $canonicalKey) {
                 $alreadySent = $true; break
             }
         }
         if ($alreadySent -or $runSeen.Contains($canonicalKey)) { continue }
 
         [void]$runSeen.Add($canonicalKey)
-        
-        # Terjemahan Judul
+
+        # Terjemahan judul
         $translatedTitle = Get-GoogleTranslation -Text $item.Title
-        $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
+        $safeTitle       = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
 
-        $topicContent += "$($sentCount + 1). <b>$safeTitle</b>`n<a href='$fullLink'>Baca Selengkapnya</a>`n`n"
+        # --- Ambil Feature Image ---
+        # Step 1: og:image dari halaman artikel
+        $imageUrl     = Get-ArticleImage -Url $fullLink
+        $imageSource  = "og:image"
+        Start-Sleep -Milliseconds 300
 
-        $sentDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
-        $sentHistory += [PSCustomObject]@{ CanonicalKey = $canonicalKey; SentDate = $sentDate }
-        $allNewsData += [PSCustomObject]@{ Topic = $topicName; Title = $item.Title; Link = $fullLink; Date = $sentDate }
+        # Step 2: fallback Wikipedia thumbnail
+        if (-not $imageUrl) {
+            Write-Host "  [img] og:image not found, trying Wikipedia fallback..."
+            $imageUrl    = Get-WikipediaImage -Title $item.Title
+            $imageSource = "wikipedia"
+            Start-Sleep -Milliseconds 200
+        }
+
+        # Step 3: tetap null kalau dua-duanya gagal
+        if (-not $imageUrl) {
+            $imageSource = "none"
+        }
+
+        # Kirim ke Telegram (teks + link artikel, gambar disimpan di JSON)
+        $caption = "<b>$($sentCount + 1). $safeTitle</b>`n<a href='$fullLink'>🔗 Baca Selengkapnya</a>"
+        Send-TelegramMessage -Message $caption
+        Start-Sleep -Seconds 1
+
+        # Simpan ke history & data output
+        $sentDate     = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+        $sentHistory += [PSCustomObject]@{
+            CanonicalKey = $canonicalKey
+            SentDate     = $sentDate
+        }
+        $allNewsData += [PSCustomObject]@{
+            Topic       = $topicName
+            Title       = $item.Title
+            Link        = $fullLink
+            ImageUrl    = $imageUrl
+            ImageSource = $imageSource
+            Date        = $sentDate
+        }
 
         $sentCount++
     }
 
-    if ($sentCount -gt 0) {
-        Send-TelegramMessage -Message $topicContent
-        Start-Sleep -Seconds 2
-    }
+    if ($sentCount -gt 0) { Start-Sleep -Seconds 2 }
 }
 
 # ---------------------------
@@ -210,3 +319,4 @@ foreach ($topicName in $topics.Keys) {
 # ---------------------------
 $sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
 $allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
+Write-Host "Done. Exported $($allNewsData.Count) items to news.json"
