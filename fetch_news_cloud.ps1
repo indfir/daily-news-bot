@@ -1,6 +1,6 @@
 # fetch_news_cloud.ps1
 # Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 3 Items
-# Updated: Feature Image (og:image + Wikipedia fallback), ImageSource tracking
+# Updated: WIB Timezone (UTC+7), Feature Image (og:image + Wikipedia fallback), ImageSource tracking
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -56,6 +56,16 @@ if ($script:targets.Count -eq 0) {
 # 3. HELPER FUNCTIONS
 # ---------------------------
 
+function Get-WIBTime {
+    try {
+        $wibZone = [System.TimeZoneInfo]::FindSystemTimeZoneById("SE Asia Standard Time")
+    } catch {
+        # Fallback for Linux runners (GitHub Actions Ubuntu)
+        $wibZone = [System.TimeZoneInfo]::FindSystemTimeZoneById("Asia/Jakarta")
+    }
+    return [System.TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $wibZone)
+}
+
 function Get-SafeProp {
     param($Obj, [string]$Name)
     if ($null -eq $Obj) { return $null }
@@ -80,7 +90,7 @@ function Get-CanonicalUrlKey {
         $host   = $u.Host.ToLowerInvariant().Replace("www.", "")
         $path   = $u.AbsolutePath.TrimEnd("/")
         $scheme = $u.Scheme
-        return "$($scheme)://$host$path".ToLowerInvariant()
+        return "${scheme}://${host}${path}".ToLowerInvariant()
     } catch { return $Url.Trim().ToLowerInvariant() }
 }
 
@@ -187,11 +197,14 @@ if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath 
 $rawHistory  = Get-Content $script:historyPath -Raw -Encoding UTF8
 $sentHistory = if ([string]::IsNullOrWhiteSpace($rawHistory)) { @() } else { @(ConvertFrom-Json $rawHistory) }
 
-$cutoff      = (Get-Date).AddDays(-$script:historyRetentionDays)
+$cutoff      = ([DateTime]::UtcNow).AddDays(-$script:historyRetentionDays)
 $sentHistory = @($sentHistory | Where-Object {
     $d = Get-SafeProp -Obj $_ -Name "SentDate"
     if ($d) { [DateTime]$d -gt $cutoff } else { $false }
 })
+
+$wibNow      = Get-WIBTime
+$currentDate = $wibNow.ToString("MMMM dd, yyyy")
 
 Send-TelegramMessage -Message "<b>📰 Daily News Brief - $currentDate</b>`n<i>Random Selection • 3 Items per Topic</i>"
 
@@ -237,66 +250,4 @@ foreach ($topicName in $topics.Keys) {
         if ($sentCount -ge 3) { break }
 
         $fullLink     = Resolve-FinalUrl -Url $item.Link
-        $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
-
-        if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
-
-        $alreadySent = $false
-        foreach ($h in $sentHistory) {
-            $hKey = Get-SafeProp -Obj $h -Name "CanonicalKey"
-            if ($null -ne $hKey -and $hKey -eq $canonicalKey) {
-                $alreadySent = $true; break
-            }
-        }
-        if ($alreadySent -or $runSeen.Contains($canonicalKey)) { continue }
-
-        [void]$runSeen.Add($canonicalKey)
-
-        $translatedTitle = Get-GoogleTranslation -Text $item.Title
-        $safeTitle       = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
-
-        # Step 1: og:image dari artikel
-        $imageUrl    = Get-ArticleImage -Url $fullLink
-        $imageSource = "og:image"
-        Start-Sleep -Milliseconds 300
-
-        # Step 2: fallback Wikipedia
-        if (-not $imageUrl) {
-            Write-Host "  [img] Trying Wikipedia fallback for: $($item.Title)"
-            $imageUrl    = Get-WikipediaImage -Title $item.Title
-            $imageSource = "wikipedia"
-            Start-Sleep -Milliseconds 200
-        }
-
-        if (-not $imageUrl) { $imageSource = "none" }
-
-        $caption = "<b>$($sentCount + 1). $safeTitle</b>`n<a href='$fullLink'>🔗 Baca Selengkapnya</a>"
-        Send-TelegramMessage -Message $caption
-        Start-Sleep -Seconds 1
-
-        $sentDate     = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
-        $sentHistory += [PSCustomObject]@{
-            CanonicalKey = $canonicalKey
-            SentDate     = $sentDate
-        }
-        $allNewsData += [PSCustomObject]@{
-            Topic       = $topicName
-            Title       = $item.Title
-            Link        = $fullLink
-            ImageUrl    = $imageUrl
-            ImageSource = $imageSource
-            Date        = $sentDate
-        }
-
-        $sentCount++
-    }
-
-    if ($sentCount -gt 0) { Start-Sleep -Seconds 2 }
-}
-
-# ---------------------------
-# 6. PERSISTENCE
-# ---------------------------
-$sentHistory | ConvertTo-Json -Depth 6 | Out-File $script:historyPath -Encoding UTF8
-$allNewsData | ConvertTo-Json -Depth 6 | Out-File (Join-Path $PSScriptRoot "news.json") -Encoding UTF8
-Write-Host "Done. Exported $($allNewsData.Count) items to news.json"
+        $canonicalKey = Get-CanonicalUrlKey -Url
