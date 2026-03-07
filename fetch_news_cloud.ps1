@@ -9,6 +9,8 @@
 # - Feature image: og:image/twitter:image + Wikipedia fallback
 # - Date output in WIB (Asia/Jakarta / SE Asia Standard Time)
 # - Added Source Domain in caption
+# - Disabled Telegram Web Page Preview for clean look
+# - Fixed XML parsing issue for CDATA titles
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -64,7 +66,7 @@ $topics = @{
         "https://daily.social/feed/"
     )
     "Astronomy" = @(
-        "https://www.nasa.gov/rss/dyn/breaking_news.rss", "https://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+        "https://www.nasa.gov/rss/dyn/breaking_news.rss",
         "https://www.esa.int/var/esa/storage/plain/esa_multimedia/ESS/ESA_RSS_Feed.xml", "https://www.jaxa.jp/pr/press/press_xml_e.xml",
         "https://www.space.com/feeds/rss/all.xml", "https://www.space.com/feeds/all", "https://spacenews.com/feed",
         "https://www.skyandtelescope.com/astronomy-news/feed/", "https://www.skyandtelescope.com/feed/", "https://www.astronomy.com/feed/",
@@ -106,7 +108,6 @@ $topics = @{
     )
 }
 
-# Hapus domain di bawah ini jika Anda ingin membaca berita dari mereka (karena ada di daftar feed Anda di atas)
 $domainBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com",
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
@@ -265,7 +266,7 @@ function Send-TelegramMessage {
             chat_id                  = $target.ChatId
             text                     = $Message
             parse_mode               = "HTML"
-            disable_web_page_preview = "false"
+            disable_web_page_preview = "true"
         }
         try {
             Invoke-RestMethod -Uri "https://api.telegram.org/bot$($target.Token)/sendMessage" -Method Post -Body $body -TimeoutSec 15 | Out-Null
@@ -327,7 +328,18 @@ foreach ($topicName in $topics.Keys) {
 
             if ($nodes) {
                 foreach ($node in $nodes) {
-                    $title = $node.title
+                    
+                    # Ekstrak judul yang formatnya berupa XML Element (seperti CDATA) agar tidak tampil System.Xml.XmlElement
+                    $title = $null
+                    if ($node.title -is [string]) { 
+                        $title = $node.title 
+                    } elseif ($node.title.InnerText) { 
+                        $title = $node.title.InnerText 
+                    } elseif ($node.title."#cdata-section") {
+                        $title = $node.title."#cdata-section"
+                    } elseif ($node.title."#text") {
+                        $title = $node.title."#text"
+                    }
                     
                     # Handle Atom link (bisa berupa object href, array, dll) vs RSS link (string)
                     $link = $null
@@ -387,7 +399,7 @@ foreach ($topicName in $topics.Keys) {
 
         $translatedTitle = Get-GoogleTranslation -Text $item.Title
         # Mengamankan karakter HTML agar tidak error saat dikirim via Telegram (HTML parse mode)
-        $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
+        $safeTitle = $translatedTitle.Replace("<", "<").Replace(">", ">")
 
         $imageUrl = Get-ArticleImage -Url $fullLink
         $imageSource = "og:image"
