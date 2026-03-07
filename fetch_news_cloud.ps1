@@ -1,12 +1,14 @@
 # fetch_news_cloud.ps1
-# Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 3 Items
+# Daily News Fetcher: Randomized, No Paywall, No Podcast, Limit 5 Items
 # Features:
-# - Google News RSS per topic (14 days window)
+# - Custom RSS Feeds per topic (Universal RSS/Atom Parser)
+# - Feed Randomizer (picks random feeds per run for performance)
 # - Domain + content blocklist
 # - Dedup per-run + lintas-run (history 30 hari)
 # - Translate title to Indonesian (Google translate gtx)
 # - Feature image: og:image/twitter:image + Wikipedia fallback
 # - Date output in WIB (Asia/Jakarta / SE Asia Standard Time)
+# - Added Source Domain in caption
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -14,16 +16,97 @@ $ErrorActionPreference = "Stop"
 # ---------------------------
 # 1. CONFIG & BLOCKLISTS
 # ---------------------------
+
+# Maksimal feed yang dicek per topik dalam 1x run agar tidak timeout
+$maxFeedsPerTopic = 5
+
 $topics = @{
-    "Astronomy"        = "Astronomy"
-    "Science"          = "Science"
-    "Technology"       = "Technology"
-    "Data / AI"        = "Artificial Intelligence Data Science"
-    "Movies"           = "Movies"
-    "Economy"          = "Economy Business Finance"
-    "Trading & Crypto" = "Trading Forex Bitcoin Cryptocurrency Market-Analysis"
+    "Economy" = @(
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html", "https://www.bloomberg.com/feed/podcast/law.xml", "https://www.ft.com/?format=rss",
+        "https://www.reutersagency.com/feed/", "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "https://www.forbes.com/business/feed/",
+        "https://fortune.com/feed", "https://www.businessinsider.com/rss", "https://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+        "https://www.economist.com/the-world-this-week/rss.xml", "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+        "https://www.business-standard.com/rss/home_page_top_stories.rss", "https://www.financialexpress.com/feed/",
+        "https://www.moneycontrol.com/rss/latestnews.xml", "https://feeds.feedburner.com/ndtvnews-top-stories",
+        "https://www.livemint.com/rss/homepage", "https://www.businesslive.co.za/rss/", "https://www.afr.com/rss",
+        "money.kompas.com/feed", "https://finance.detik.com/feed", "https://www.kontan.co.id/rss",
+        "https://www.bisnis.com/rss", "https://bisnis.tempo.co/rss", "https://www.cnbcindonesia.com/rss"
+    )
+    "Trading & Crypto" = @(
+        "https://www.coindesk.com/arc/outboundfeeds/rss/", "https://cointelegraph.com/rss", "https://decrypt.co/feed",
+        "https://www.theblockcrypto.com/rss", "https://www.ig.com/en/news-and-trade-ideas", "https://bitcoinmagazine.com/.rss/feed/index.xml",
+        "https://cryptoslate.com/feed/", "https://www.coinbureau.com/feed/"
+    )
+    "Science" = @(
+        "https://www.nature.com/nature.rss", "https://www.science.org/action/showFeed?type=ac_topnews", "https://www.scientificamerican.com/science/rss/",
+        "https://rss.sciam.com/sciam/60secsciencepodcast", "http://rss.sciam.com/ScientificAmerican-Global", "https://www.newscientist.com/subject/space/feed/",
+        "https://www.newscientist.com/feed/home/", "https://phys.org/rss-feed/", "https://www.sciencedaily.com/rss/all.xml",
+        "https://www.sciencedaily.com/rss/top.xml", "https://www.sciencenews.org/feed", "https://arstechnica.com/science/feed/",
+        "https://www.livescience.com/feeds/rss/home.xml", "https://gizmodo.com/tag/science/rss", "https://theconversation.com/science/articles?format=rss",
+        "https://www.pnas.org/action/showFeed?jc=pnas", "https://journals.plos.org/plosone/feed", "https://www.cell.com/cell/current.rss",
+        "https://www.nejm.org/rss/current", "https://feeds.npr.org/510308/podcast.xml", "https://feeds.npr.org/510307/podcast.xml",
+        "http://feeds.wnyc.org/radiolab", "https://sciencebasedmedicine.org/feed/", "https://flowingdata.com/feed", "https://www.kdnuggets.com/feed",
+        "https://towardsdatascience.com/feed", "https://machinelearningmastery.com/feed/", "https://sains.kompas.com/feed",
+        "https://www.detik.com/sains/feed", "https://riset.kompas.com/feed"
+    )
+    "Technology" = @(
+        "https://techcrunch.com/feed/", "https://www.theverge.com/rss/index.xml", "https://www.wired.com/feed/rss",
+        "https://www.wired.com/feed/category/science/latest/rss", "https://arstechnica.com/feed/", "https://www.engadget.com/rss.xml",
+        "https://www.cnet.com/rss/news/", "https://gizmodo.com/rss", "https://mashable.com/feeds/rss/all", "https://thenextweb.com/feed/",
+        "https://readwrite.com/feed/", "https://news.ycombinator.com/rss", "http://rss.slashdot.org/Slashdot/slashdotMain",
+        "https://www.infoq.com/feed", "https://dev.to/feed", "https://stackoverflow.com/feeds", "https://github.blog/feed/",
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "https://artificialintelligence-news.com/feed/",
+        "https://venturebeat.com/category/ai/feed/", "https://www.oreilly.com/ai/rss.xml", "https://openai.com/blog/rss/",
+        "https://deepmind.com/blog/rss.xml", "https://atp.fm/rss", "https://www.relay.fm/analogue/feed", "https://www.relay.fm/clockwise/feed",
+        "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips", "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+        "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy", "http://stratechery.com/feed/", "https://www.blog.google/rss/",
+        "https://tim.blog/feed/", "https://tekno.kompas.com/feed", "https://inet.detik.com/feed", "https://www.techinasia.com/id/feed",
+        "https://daily.social/feed/"
+    )
+    "Astronomy" = @(
+        "https://www.nasa.gov/rss/dyn/breaking_news.rss", "https://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+        "https://www.esa.int/var/esa/storage/plain/esa_multimedia/ESS/ESA_RSS_Feed.xml", "https://www.jaxa.jp/pr/press/press_xml_e.xml",
+        "https://www.space.com/feeds/rss/all.xml", "https://www.space.com/feeds/all", "https://spacenews.com/feed",
+        "https://www.skyandtelescope.com/astronomy-news/feed/", "https://www.skyandtelescope.com/feed/", "https://www.astronomy.com/feed/",
+        "https://www.universetoday.com/feed/", "https://www.theguardian.com/science/space/rss", "https://www.newscientist.com/subject/space/feed/",
+        "https://reddit.com/r/space/.rss?format=xml", "https://www.reddit.com/r/astronomy/.rss", "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+        "https://www.blueorigin.com/rss/", "https://www.planetary.org/feed/articles.xml"
+    )
+    "Movies" = @(
+        "https://variety.com/feed/", "https://www.hollywoodreporter.com/feed/", "https://www.indiewire.com/feed",
+        "https://deadline.com/feed/", "https://screenrant.com/feed/", "https://collider.com/feed/", "https://www.empireonline.com/movies/feed/rss/",
+        "https://editorial.rottentomatoes.com/feed/", "https://feeds2.feedburner.com/slashfilm", "https://www.aintitcool.com/node/feed/",
+        "https://www.comingsoon.net/feed", "https://filmschoolrejects.com/feed/", "https://www.firstshowing.net/feed/",
+        "https://film.avclub.com/rss", "https://www.bleedingcool.com/movies/feed/", "https://ew.com/feed/", "https://www.vulture.com/feed.xml",
+        "https://www.tmz.com/rss.xml", "https://people.com/rss/index.xml", "https://www.streamingmedia.com/rss/feed.asp",
+        "https://www.cordcuttersnews.com/rss/", "https://decider.com/feed/", "https://www.layar-21.com/feed/", "https://www.filmapik.com/feed/",
+        "https://www.duniaku.net/feed"
+    )
+    "Data / AI" = @(
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "https://artificialintelligence-news.com/feed/",
+        "https://venturebeat.com/category/ai/feed/", "https://www.oreilly.com/ai/rss.xml", "https://openai.com/blog/rss/",
+        "https://deepmind.com/blog/rss.xml", "https://www.anthropic.com/rss", "https://www.kdnuggets.com/feed", "https://towardsdatascience.com/feed",
+        "https://machinelearningmastery.com/feed/", "https://www.datasciencecentral.com/profiles/blog/feed", "https://www.analyticsvidhya.com/blog/feed/",
+        "https://www.datacamp.com/community/rss", "https://www.oreilly.com/data/rss.xml", "https://arxiv.org/rss/cs.AI",
+        "https://arxiv.org/rss/cs.LG", "https://arxiv.org/rss/cs.CV", "https://paperswithcode.com/latest",
+        "https://ml-compiled.readthedocs.io/en/latest/rss.xml", "https://www.forbes.com/ai/feed/", "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+        "https://www.infoworld.com/rss.xml"
+    )
+    "General News" = @(
+        "http://feeds.bbci.co.uk/news/rss.xml", "http://rss.cnn.com/rss/edition.rss", "https://www.reutersagency.com/feed/",
+        "https://apnews.com/rss", "https://www.theguardian.com/world/rss", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "https://feeds.washingtonpost.com/rss/national", "https://www.npr.org/rss/rss.php?id=1001", "https://www.nbcnews.com/rss",
+        "https://abcnews.go.com/abcnews/topstories", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms", "https://www.thehindu.com/feeder/default.rss",
+        "https://www.straitstimes.com/rss", "https://www.scmp.com/rss/91/feed", "https://www.japantimes.co.jp/feed/topstories/",
+        "https://english.kyodonews.net/rss/all.xml", "https://rss.dw.com/rdf/rss-en-all", "http://newsfeed.zeit.de/index",
+        "https://rss.focus.de/fol/XML/rss_folnews.xml", "http://www.tagesschau.de/xml/rss2", "https://feeds.thelocal.com/rss",
+        "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "https://www.lemonde.fr/rss/une.xml", "https://www.france24.com/en/rss",
+        "https://www.kompas.id/rss", "https://www.detik.com/feed", "https://www.tempo.co/rss", "https://www.antaranews.com/rss",
+        "https://www.republika.co.id/rss/", "https://www.tribunnews.com/rss", "https://www.merdeka.com/feed/", "https://www.suara.com/rss"
+    )
 }
 
+# Hapus domain di bawah ini jika Anda ingin membaca berita dari mereka (karena ada di daftar feed Anda di atas)
 $domainBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com",
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
@@ -61,8 +144,6 @@ if ($script:targets.Count -eq 0) {
 # ---------------------------
 
 function Get-WIBTime {
-    # Convert from UTC to Asia/Jakarta (WIB, UTC+7)
-    # TimeZoneInfo uses Windows registry IDs on Windows and ICU IDs (IANA) on Linux/macOS. [web:54][web:55][web:63]
     try {
         $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById("SE Asia Standard Time")
     } catch {
@@ -106,21 +187,17 @@ function Get-CanonicalUrlKey {
 
 function Test-ShouldBlock {
     param([string]$Url, [string]$Title)
-
     foreach ($domain in $domainBlocklist) {
         if ($Url -like "*$domain*") { return $true }
     }
-
     foreach ($word in $contentBlocklist) {
         if ($Title -match "\b$word\b") { return $true }
     }
-
     return $false
 }
 
 function Get-ArticleImage {
     param([string]$Url)
-
     try {
         $response = Invoke-WebRequest -Uri $Url -UserAgent $script:userAgent -TimeoutSec 10 -ErrorAction Stop
         $html = $response.Content
@@ -134,18 +211,14 @@ function Get-ArticleImage {
         if ($html -match $r2) { return $Matches[1] }
         if ($html -match $r3) { return $Matches[1] }
         if ($html -match $r4) { return $Matches[1] }
-    } catch {
-        # ignore
-    }
-
+    } catch { }
     return $null
 }
 
 function Get-WikipediaImage {
     param([string]$Title)
-
     try {
-        $keywords = ($Title -split "s+" | Select-Object -First 4) -join " "
+        $keywords = ($Title -split "\s+" | Select-Object -First 4) -join " "
         $encoded  = [uri]::EscapeDataString($keywords)
 
         $searchUrl    = "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=$encoded&format=json&srlimit=1"
@@ -163,16 +236,12 @@ function Get-WikipediaImage {
 
         $thumb = Get-SafeProp -Obj $pagesProp.Value -Name "thumbnail"
         if ($thumb) { return (Get-SafeProp -Obj $thumb -Name "source") }
-    } catch {
-        # ignore
-    }
-
+    } catch { }
     return $null
 }
 
 function Get-GoogleTranslation {
     param([string]$Text)
-
     $encoded = [uri]::EscapeDataString($Text)
     $url     = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=id&dt=t&q=$encoded"
 
@@ -191,7 +260,6 @@ function Get-GoogleTranslation {
 
 function Send-TelegramMessage {
     param([string]$Message)
-
     foreach ($target in $script:targets) {
         $body = @{
             chat_id                  = $target.ChatId
@@ -199,7 +267,6 @@ function Send-TelegramMessage {
             parse_mode               = "HTML"
             disable_web_page_preview = "false"
         }
-
         try {
             Invoke-RestMethod -Uri "https://api.telegram.org/bot$($target.Token)/sendMessage" -Method Post -Body $body -TimeoutSec 15 | Out-Null
         } catch {
@@ -212,23 +279,15 @@ function Send-TelegramMessage {
 # 4. MAIN ENGINE
 # ---------------------------
 
-# Load history (ensure array)
-if (-not (Test-Path $script:historyPath)) {
-    "[]" | Out-File $script:historyPath -Encoding UTF8
-}
+if (-not (Test-Path $script:historyPath)) { "[]" | Out-File $script:historyPath -Encoding UTF8 }
 
 $rawHistory = Get-Content $script:historyPath -Raw -Encoding UTF8
 $sentHistory = @()
 if (-not [string]::IsNullOrWhiteSpace($rawHistory)) {
-    try {
-        $sentHistory = @(ConvertFrom-Json $rawHistory)
-    } catch {
-        # if history corrupted, reset safely
-        $sentHistory = @()
-    }
+    try { $sentHistory = @(ConvertFrom-Json $rawHistory) } 
+    catch { $sentHistory = @() }
 }
 
-# Prune old history by comparing SentDate (string) to cutoff (UTC-ish comparison is OK for retention)
 $cutoff = (Get-WIBTime).AddDays(-$script:historyRetentionDays)
 $sentHistory = @(
     $sentHistory | Where-Object {
@@ -241,31 +300,52 @@ $sentHistory = @(
 $wibNow = Get-WIBTime
 $currentDate = $wibNow.ToString("MMMM dd, yyyy")
 
-Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n<i>Random Selection • 3 Items per Topic</i>"
+Send-TelegramMessage -Message "<b>Daily News Brief - $currentDate</b>`n<i>Random Selection • 5 Items per Topic</i>"
 
 $allNewsData = @()
 $runSeen = [System.Collections.Generic.HashSet[string]]::new()
 
 foreach ($topicName in $topics.Keys) {
-
-    $encodedQuery = [uri]::EscapeDataString($topics[$topicName])
+    
     $items = @()
+    # Acak feed di topik ini, dan batasi jumlah request agar proses script tidak berjalan berjam-jam
+    $shuffledFeeds = $topics[$topicName] | Sort-Object { Get-Random } | Select-Object -First $maxFeedsPerTopic
 
-    try {
-        $rssUrl = "https://news.google.com/rss/search?q=$encodedQuery+when:14d&hl=en-ID&gl=ID&ceid=ID:en"
-        [xml]$xml = (Invoke-WebRequest -Uri $rssUrl -UserAgent $script:userAgent -TimeoutSec 15 -ErrorAction Stop).Content
+    foreach ($feedUrl in $shuffledFeeds) {
+        try {
+            # Tambahkan "https://" jika user lupa menulisnya (misal: "money.kompas.com/feed")
+            $safeUrl = $feedUrl
+            if (-not ($safeUrl -match "^https?://")) { $safeUrl = "https://$safeUrl" }
 
-        if ($null -ne $xml.rss.channel.item) {
-            foreach ($node in $xml.rss.channel.item) {
-                $cleanTitle = $node.title -replace " - [^-]+$", ""
-                $items += [PSCustomObject]@{
-                    Title = [string]$cleanTitle
-                    Link  = [string]$node.link
+            [xml]$xml = (Invoke-WebRequest -Uri $safeUrl -UserAgent $script:userAgent -TimeoutSec 10 -ErrorAction Stop).Content
+            $nodes = $null
+
+            # Universal parser untuk RSS / Atom / RDF
+            if ($xml.rss.channel.item) { $nodes = $xml.rss.channel.item }
+            elseif ($xml.feed.entry) { $nodes = $xml.feed.entry }
+            elseif ($xml.RDF.item) { $nodes = $xml.RDF.item }
+
+            if ($nodes) {
+                foreach ($node in $nodes) {
+                    $title = $node.title
+                    
+                    # Handle Atom link (bisa berupa object href, array, dll) vs RSS link (string)
+                    $link = $null
+                    if ($node.link -is [string]) { $link = $node.link }
+                    elseif ($node.link.href) { $link = $node.link.href }
+                    elseif ($node.link[0].href) { $link = $node.link[0].href }
+
+                    if ($title -and $link) {
+                        $items += [PSCustomObject]@{
+                            Title = [string]$title
+                            Link  = [string]$link
+                        }
+                    }
                 }
             }
+        } catch {
+            Write-Host "Warning: Could not fetch or parse $feedUrl"
         }
-    } catch {
-        Write-Host "Error fetching RSS for: $topicName"
     }
 
     $randomItems = $items | Sort-Object { Get-Random }
@@ -280,6 +360,7 @@ foreach ($topicName in $topics.Keys) {
             "Movies"           { "🎬" }
             "Economy"          { "📈" }
             "Trading & Crypto" { "₿" }
+            "General News"     { "📰" }
             default            { "📌" }
         }
 
@@ -288,8 +369,7 @@ foreach ($topicName in $topics.Keys) {
     }
 
     foreach ($item in $randomItems) {
-
-        if ($sentCount -ge 3) { break }
+        if ($sentCount -ge 5) { break }
 
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
@@ -306,6 +386,7 @@ foreach ($topicName in $topics.Keys) {
         [void]$runSeen.Add($canonicalKey)
 
         $translatedTitle = Get-GoogleTranslation -Text $item.Title
+        # Mengamankan karakter HTML agar tidak error saat dikirim via Telegram (HTML parse mode)
         $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
 
         $imageUrl = Get-ArticleImage -Url $fullLink
@@ -320,7 +401,10 @@ foreach ($topicName in $topics.Keys) {
 
         if (-not $imageUrl) { $imageSource = "none" }
 
-        $caption = "<b>$($sentCount + 1). $safeTitle</b>`n<a href='$fullLink'>Baca Selengkapnya</a>"
+        # Ekstrak nama domain dari URL dan format pesan untuk Telegram
+        $sourceDomain = ([uri]$fullLink).Host.Replace("www.", "")
+        $caption = "<b>$($sentCount + 1). $safeTitle</b>`n<a href='$fullLink'>Baca Selengkapnya</a>`nSource : $sourceDomain"
+        
         Send-TelegramMessage -Message $caption
         Start-Sleep -Seconds 1
 
