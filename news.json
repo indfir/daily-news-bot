@@ -1,322 +1,266 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-    "Link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-    "ImageUrl": "https://media.wired.com/photos/69a8da68f44c9fe92207597a/191:100/w_1280,c_limit/security_IranConnectivity_GettyImages-2263888462.jpg",
+    "Topic": "General News",
+    "Title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+    "Link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330100858-20230330-rory-mcllroy-masters-restricted.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:12"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Online harassment is entering its AI era",
-    "Link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:15"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Best Prepaid Phone Plans for 2026",
-    "Link": "https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/",
-    "ImageUrl": "https://www.cnet.com/a/img/resize/a5f1ea9065901666f36cdb50dece49caba17a996/hub/2021/11/18/d1fe7f41-a733-4c0d-b9e1-281d05f3be09/cricket-mint-boost-metro-tracfone-google-fi-wireless-carriers-cnet-2021.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:18"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "When AI Companies Go to War, Safety Gets Left Behind",
-    "Link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
-    "ImageUrl": "https://media.wired.com/photos/69a8b9445f6b1f7116a8d6d2/191:100/w_1280,c_limit/Backchannel-AI-Pentagon-Business-2166909594..jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:20"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Norton Coupon Codes and Discounts: Up to 58% Off",
-    "Link": "https://www.wired.com/story/norton-coupon-code/",
-    "ImageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:23"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin buyers are cashing out fast after short-lived jump to $74,000",
-    "Link": "https://www.coindesk.com/markets/2026/03/06/bitcoin-falls-below-usd70-000-as-short-term-holders-take-profits",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f8f78d7146c6bd8f0f0cbfcba44c5eb188eb062a-1280x720.webp?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:32"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Latin America’s crypto user growth outpaced U.S. by 3x in 2025, report shows",
-    "Link": "https://www.coindesk.com/markets/2026/03/07/latin-america-s-crypto-user-growth-outpaced-u-s-by-3x-in-2025-report-shows",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/554717552cb9e135b343a670e6b7949429d885fb-1920x1080.jpg?auto=format",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:35"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto’s Rock ’n’ Roll Era Is Over",
-    "Link": "https://www.coindesk.com/opinion/2026/03/08/crypto-s-rock-n-roll-era-is-over",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dd336cc2ffdb6e91b3631e55446d890c1824f277-1920x1080.jpg?auto=format",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:37"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "'No deal with Iran': Trump demands unconditional surrender, sending oil surging, bitcoin and stocks lower ",
-    "Link": "https://www.coindesk.com/markets/2026/03/06/no-deal-with-iran-trump-demands-unconditional-surrender-sending-oil-surging-bitcoin-and-stocks-lower",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5533b845762561aae8717a69c1cd6477a1ae2648-1920x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin funding rates just flashed one of the bleakest signals in months before one macro number changed everything",
-    "Link": "https://cryptoslate.com/bitcoin-funding-rates-turned-deeply-negative-what-it-meant-before-jobs-hit/",
-    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/03/bitcoin-funding-rate-.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The Bride! First Reviews: A Wild, Divisive Bonnie and Clyde Fever Dream",
-    "Link": "https://editorial.rottentomatoes.com/article/the-bride-first-reviews/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/THE_BRIDE_Reviews-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:49"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Revisiting the Oscars: How Braveheart Overtook the Biggest Frontrunners of 1996",
-    "Link": "https://editorial.rottentomatoes.com/article/revisiting-the-oscars-how-braveheart-overook-the-biggest-frontrunners-of-1996/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/02/RT_Editorial_Oscars1995_600x314.png?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:52"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The 5 Most Anticipated TV and Streaming Shows of March",
-    "Link": "https://editorial.rottentomatoes.com/article/most-anticipated-tv-of-march-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/02/Most_Anticipated_TV_March_2026-Rep2.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:54"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Blackpink’s Jisoo Lives a K-Drama Fan’s Fantasy in Boyfriend On Demand",
-    "Link": "https://editorial.rottentomatoes.com/article/blackpink-jisoo-lives-a-k-drama-fans-fantasy-in-boyfriend-on-demand/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/Boyfriend_on_Demand_Jisoo2.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The Scary Movie Franchise Ranked",
-    "Link": "https://editorial.rottentomatoes.com/guide/the-scary-movie-franchise-ranked/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/SCARY-MOVIE-thumb.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:36:58"
+    "Date": "2026-03-10 04:46:29"
   },
   {
     "Topic": "General News",
-    "Title": "« C’est difficile d’admettre qu’il ne se fera bientôt plus de papier ici » : en Dorgogne, les Papeteries de Condat reprises par le groupe français SPB",
-    "Link": "https://www.lemonde.fr/economie/article/2026/03/08/c-est-difficile-d-admettre-qu-il-ne-se-fera-bientot-plus-de-papier-ici-en-dorgogne-les-papeteries-de-condat-reprises-par-le-groupe-francais-spb_6670010_3234.html",
-    "ImageUrl": "https://img.lemde.fr/2026/03/08/0/0/3984/2656/1440/960/60/0/d8e90f2_upload-1-vz3ssdoicaa5-maxnewsspecialtwo486160.jpg",
+    "Title": "HSBC's top execs face tense shareholders calling for a breakup",
+    "Link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403074317-01-hsbc-hong-kong-032023-restricted.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:07"
+    "Date": "2026-03-10 04:46:32"
   },
   {
     "Topic": "General News",
-    "Title": "Kapal Feri Mudik Gratis Pemprov Jatim Angkut 331 Penumpang ke Pulau Raas",
-    "Link": "https://news.republika.co.id/berita/tblivc7130000/kapal-feri-mudik-gratis-pemprov-jatim-angkut-331-penumpang-ke-pulau-raas",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/024438900-1772999112-IMG-20260309-WA0003_1jpg.jpg",
+    "Title": "Haberman reveals why Trump attacked judge and his family in speech",
+    "Link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230405085526-maggie-haberman.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:10"
+    "Date": "2026-03-10 04:46:35"
   },
   {
     "Topic": "General News",
-    "Title": "Jadwal Imsakiyah Hari Ini: 9 Maret 2026 di Semarang, Raih Keberkahan dengan Sahur ",
-    "Link": "https://khazanah.republika.co.id/berita/tblhpl152909629/jadwal-imsakiyah-hari-ini-9-maret-2026-di-semarang-raih-keberkahan-dengan-sahur",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/masjid-raya-al-azhom-di-tangerang-banten-menampilkan-corak-khas_240911080058-254.jpg",
+    "Title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+    "Link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330111655-marjorie-taylor-greene-0329.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:14"
+    "Date": "2026-03-10 04:46:38"
   },
   {
     "Topic": "General News",
-    "Title": "Jadwal Imsakiyah Hari Ini, 9 Maret 2026, Semarakan Pagi di Bandung ",
-    "Link": "https://khazanah.republika.co.id/berita/tblirw45545968/jadwal-imsakiyah-hari-ini-9-maret-2026-semarakan-pagi-di-bandung",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/ilustrasi-duduk-di-antara-dua_241009162420-983.jpg",
+    "Title": "CEOs are tired of being held responsible for gun regulation",
+    "Link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330103817-01-nashville-school-shooting-weapons.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:17"
+    "Date": "2026-03-10 04:46:41"
   },
   {
-    "Topic": "General News",
-    "Title": "Erdogan's political fate may be determined by Turkey's Kurds ",
-    "Link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403105239-mime-turkey-kurds-elections.jpg?c=16x9&q=w_800,c_fill",
+    "Topic": "Science",
+    "Title": "GLP-1 diabetes medications lower risk of all kinds of substance use disorders, study finds",
+    "Link": "https://www.scientificamerican.com/article/glp-1-diabetes-medications-lower-risk-of-all-kinds-of-substance-use/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/m/af0225a0078d15b/original/GettyImages-2158955395_smoking-alcohol.jpg?m=1772557179.863&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:19"
+    "Date": "2026-03-10 04:46:49"
   },
   {
-    "Topic": "Economy",
-    "Title": "Former Blue Jays Starter Ends MLB Career In World Baseball Classic Update",
-    "Link": "https://www.forbes.com/sites/peterchawaga/2026/03/08/former-blue-jays-starter-ends-mlb-career-in-world-baseball-classic-update/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:37:27"
+    "Topic": "Science",
+    "Title": "Michael Pollan explains why AI will never replicate human consciousness",
+    "Link": "https://www.scientificamerican.com/article/michael-pollan-explains-why-ai-will-never-replicate-human-consciousness/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/m/285f89e9e222c787/original/Vector-illustration-of-human-head-on-starry-space-background-Artificial-intelligence-or-cosmic-consciousness-concept-stock-illustration.jpg?m=1772748168.259&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:46:51"
   },
   {
-    "Topic": "Economy",
-    "Title": "Female Founders In Fashion: Brands Leading The Way At Bicester Village",
-    "Link": "https://www.forbes.com/sites/katehardcastle/2026/03/08/female-founders-in-fashion-brands-leading-the-way-at-bicester-village/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:37:29"
+    "Topic": "Science",
+    "Title": "A clever math shortcut could reveal your problem-solving superpower",
+    "Link": "https://www.scientificamerican.com/article/a-clever-math-shortcut-could-reveal-your-problem-solving-superpower/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/m/5479cbcd3ee142d5/webimage-saw0426Adva_adding_it_up_lead.png?m=1772724730.452&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:46:54"
   },
   {
-    "Topic": "Economy",
-    "Title": "Glen Powell’s ‘How To Make A Killing’ Gets Streaming Date, Report Says",
-    "Link": "https://www.forbes.com/sites/timlammers/2026/03/08/glen-powells-how-to-make-a-killing-gets-streaming-date-report-says/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Glen_Powell_by_Gage_Skidmore.jpg/960px-Glen_Powell_by_Gage_Skidmore.jpg",
+    "Topic": "Science",
+    "Title": "Newly discovered ripples in spacetime put Einstein’s general relativity to the test",
+    "Link": "https://www.scientificamerican.com/article/newly-discovered-ripples-in-spacetime-put-einsteins-general-relativity-to/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/m/58e1638c6ffdfb8/original/Black-Holes-and-Gravitational-Waves-stock-illustration.jpg?m=1772729890.401&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:46:56"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Your zodiac sign is likely wrong. Here’s how to find the correct one",
+    "Link": "https://www.scientificamerican.com/article/your-zodiac-sign-is-likely-wrong-heres-how-to-find-the-correct-one/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/m/32c3610223fdd9dc/original/Screenshot-2026-03-06-at-12-46-51-PM.png?m=1772819390.208&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:46:59"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Our vision for building a universal AI assistant",
+    "Link": "https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiVision_SocialShare.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:10"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "A new era of intelligence with Gemini 3",
+    "Link": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:14"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Introducing Gemma 3",
+    "Link": "https://deepmind.google/blog/introducing-gemma-3/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma3_KeywordBlog_RD3_V01b_SocialShare.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "Link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+    "Link": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+    "ImageUrl": "https://lh3.googleusercontent.com/dMX-NWqRTUb0n79tmSHEBiBGJT7THkkAf9dxVviw9zXMF4YYTUl8K4s1reIPTYNvOer7-_aAlIMFQLdcTscYaHtS7Uw2BIkzh6gPmvwUVzThkjf46h4=w1200-h630-n-nu-rw",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:23"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Pixar: Monsters Inc. 3 Confirmed, 2 New Original Films In Development",
+    "Link": "https://bleedingcool.com/movies/pixar-monsters-inc-3-confirmed-2-new-original-films-in-development/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/shutterstock_1244441050-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Community Scribe Discusses the Delayed Movie for Peacock",
+    "Link": "https://bleedingcool.com/movies/community-scribe-discusses-the-delayed-movie-for-peacock/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/04/MixCollage-08-Apr-2025-11-20-AM-4265-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:34"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Yoshi, Mario & More Fight Cosmic War With Bowser In Nintendo's Super Mario Galaxy Movie Trailer",
+    "Link": "https://screenrant.com/the-super-mario-galaxy-movie-nintendo-final-trailer-release/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/luigi-and-mario-in-ponchos-flanked-by-skeletons-in-sombreros-in-the-super-mario-galaxy-movie.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:38"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Boba Fett \"On The Shelf\" But Temuera Morrison Is Keeping Hope Alive",
+    "Link": "https://bleedingcool.com/tv/boba-fett-on-the-shelf-but-temuera-morrison-is-keeping-hope-alive/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2021/12/BUC-003962_R-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:40"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Tomorrow, And Tomorrow, And Tomorrow: Daisy Edgar-Jones To Star",
+    "Link": "https://bleedingcool.com/movies/tomorrow-and-tomorrow-and-tomorrow-daisy-edgar-jones-to-star/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/tomorrow-and-tomorrow-and-tomorrow-daisy-edgar-jones-feature-image-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:43"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Vienna-based Startup Launches AI Pipeline Builder for Gaming Studios",
+    "Link": "https://decrypt.co/360385/vienna-startup-ai-pipeline-builder-gaming-studios",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:51"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Price Bounces, But Bears Are Still in Control: Analysis",
+    "Link": "https://decrypt.co/360448/bitcoin-price-bounces-bears-in-control-analysis",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin ETF Flows Cool to $619 Million as Oil Prices Spike",
+    "Link": "https://decrypt.co/360410/bitcoin-etf-flows-cool-to-619-million-as-oil-prices-spike",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:57"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin ETFs Shed $228M, But Longer-Term Flows Stabilize",
+    "Link": "https://decrypt.co/360238/bitcoin-etfs-shed-228m-but-longer-term-flows-stabilize",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:47:59"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "CFO Gets Prison Time After Losing $35 Million of Company Money in Crypto Side Hustle",
+    "Link": "https://decrypt.co/360270/cfo-gets-prison-time-losing-35-million-company-money-crypto-side-hustle",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "Link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/02/false-mirror-cr-smoke2.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:09"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+    "Link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/triad-version.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:12"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Black Box Problem: Why AI-Generated Code Stops Being Maintainable",
+    "Link": "https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/two-architectures-diagram.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:14"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How to Create Production-Ready Code with Claude Code",
+    "Link": "https://towardsdatascience.com/how-to-create-production-ready-code-with-claude-code/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-71-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:17"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Escaping the Prototype Mirage: Why Enterprise AI Stalls",
+    "Link": "https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-39.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-10 04:48:20"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "This Week's Sky at a Glance, March 6 – 15",
+    "Link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-march-6-15/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Velvet_Sky_2010.jpg/960px-Velvet_Sky_2010.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-09 04:37:32"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "WrestleMania 42 Card: Every Confirmed Match For Day 1 And Day 2",
-    "Link": "https://www.forbes.com/sites/brianmazique/2026/03/08/wrestlemania-42-card-every-confirmed-match-for-day-1-and-day-2/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:37:35"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The Real-Life Story Behind ‘Nuremberg’ And Psychiatrist Douglas Kelley",
-    "Link": "https://www.forbes.com/sites/monicamercuri/2026/03/08/the-real-life-story-behind-nuremberg-and-psychiatrist-douglas-kelley/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:37:39"
-  },
-  {
-    "Topic": "Science",
-    "Title": "We’ve glimpsed before the big bang and it’s not what we expected",
-    "Link": "https://www.newscientist.com/article/2514293-weve-glimpsed-before-the-big-bang-and-its-not-what-we-expected/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/10115720/SEI_284199702.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:45"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Stop Tuning Hyperparameters. Start Tuning Your Problem.",
-    "Link": "https://towardsdatascience.com/stop-tuning-hyperparameters-start-tuning-your-problem/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-56.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:48"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A simple hand photo may be the key to detecting a serious disease",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260303201807.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/hand-image-ai-diagnose-acromegaly.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:51"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why the sleep industry has got us worrying about the wrong things",
-    "Link": "https://www.newscientist.com/article/mg26935843-000-why-the-sleep-industry-has-got-us-worrying-about-the-wrong-things/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/23150631/SEI_285379308.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:54"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The best new popular science books of March 2026",
-    "Link": "https://www.newscientist.com/article/2518407-the-best-new-popular-science-books-of-march-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06152716/sei287827902.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:37:57"
+    "Date": "2026-03-10 04:48:31"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-    "Link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:38:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Sierra Space raises $550 million in Series C funding",
-    "Link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:38:09"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Musk changes course on Mars quest and shoots for moon – again",
-    "Link": "https://www.theguardian.com/science/2026/feb/16/elon-musk-moon-mars-trump-spacex",
-    "ImageUrl": "https://i.guim.co.uk/img/media/74684dd3476ec54def537b9bb07ce99bec3d3ed3/542_0_5417_4335/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa8ec8acf54461dc00c06ee6ccde58c5",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:11"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "General Galactic aims to become “the galaxy’s energy and logistics company”",
-    "Link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-09 04:38:14"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities",
-    "Link": "https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Setting_up_for_the_inaugural_Bluedot_Festival._Jodrell_Bank_Observatory_-_geograph.org.uk_-_5237151.jpg/960px-Setting_up_for_the_inaugural_Bluedot_Festival._Jodrell_Bank_Observatory_-_geograph.org.uk_-_5237151.jpg",
+    "Title": "Dawn Delight: Total Lunar Eclipse on March 3rd",
+    "Link": "https://skyandtelescope.org/astronomy-news/dawn-delight-total-lunar-eclipse-on-march-3rd/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PIA21219_-_Juno_Captures_Jupiter_%27Pearl%27.jpg/960px-PIA21219_-_Juno_Captures_Jupiter_%27Pearl%27.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-09 04:38:17"
+    "Date": "2026-03-10 04:48:35"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Building a Simple MCP Server in Python",
-    "Link": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-building-simple-mcp-server-python-feature-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:25"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline",
-    "Link": "https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-llm-embeddings-tf-idf-metadata-scikit-learn-pipeline-feature-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:27"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introduction to Small Language Models: The Complete Guide for 2026",
-    "Link": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-small-language-models-complete-guide-2026-feature-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:29"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-    "Link": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-ai-agents-production-deployment-roadmap-feature-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:32"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
-    "Link": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-beyond-accuracy-5-metrics-actually-matter-ai-agents-feature.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-09 04:38:34"
+    "Topic": "Astronomy",
+    "Title": "Dwarf Galaxy Has \"Too Many\" Satellites",
+    "Link": "https://skyandtelescope.org/astronomy-news/dwarf-galaxy-has-too-many-satellites/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-03-10 04:48:39"
   }
 ]
