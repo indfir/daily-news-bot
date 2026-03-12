@@ -1,298 +1,322 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "The MacBook Neo",
-    "Link": "https://daringfireball.net/2026/03/the_macbook_neo",
-    "ImageUrl": "https://daringfireball.net/graphics/df-wide-card.png",
+    "Topic": "General News",
+    "Title": "NASA targets April 1 to launch astronauts around the moon",
+    "Link": "https://www.nbcnews.com/science/space/nasa-artemis-moon-mission-launch-astronauts-april-1-rcna262569",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260311-NASAs-Artemis-II--vsb-1850-678e2e.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:47:43"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
-    "Link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-invertocat-logo.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:47:46"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Meticulous (YC S21) is hiring to redefine software dev",
-    "Link": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
-    "ImageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/d03449d5-6886-4ac8-b07d-309ac2d152f2/21a863a4-46d6-4e90-a765-186f9fec1b8a/62c77fa2-b485-40ac-8124-a2068b53346e.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:47:49"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
-    "Link": "https://www.sentrial.com/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-12 04:47:52"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Personal Computer by Perplexity",
-    "Link": "https://www.perplexity.ai/personal-computer-waitlist",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andy_Konwinski.jpg/960px-Andy_Konwinski.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-03-12 04:47:56"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "This startup is helping tech giants and real estate developers find land for data centers—and using its own GPU cluster to do it",
-    "Link": "https://fortune.com/2026/03/11/land-startup-gpus-ai/",
-    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1408371429-e1773248244747.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:04"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Israeli president’s message to CEOs in D.C.: ‘We need to be steadfast, take a deep breath, and finish the undermining of Iran’",
-    "Link": "https://fortune.com/2026/03/11/israeli-president-message-undermining-of-iran/",
-    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2260607738.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:07"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "King penguins are a rare species seemingly benefiting from climate change. Here’s why",
-    "Link": "https://fortune.com/2026/03/11/king-penguins-rare-specifies-climate-change-adapting/",
-    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/AP26070615968319-e1773258750578.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:09"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Trump says the U.S. will open its first new oil refinery in nearly 50 years as the U.S. military avoids bombing Iran’s oil infrastructure",
-    "Link": "https://fortune.com/2026/03/11/trump-us-open-first-new-oil-refinery-50-years-iran-bombing-oil-infrastructure/",
-    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265657251-e1773255804378.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:13"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The Strait of Hormuz isn’t totally closed. Meet the ‘shadow fleet’",
-    "Link": "https://fortune.com/2026/03/11/what-is-shadow-fleet-strait-of-hormuz/",
-    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2262961669_5d9df3-e1773243017921.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:15"
-  },
-  {
-    "Topic": "Science",
-    "Title": "SETI may have missed alien signals because of space weather",
-    "Link": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/09112443/SEI_288470212.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:23"
-  },
-  {
-    "Topic": "Science",
-    "Title": "NASA’s DART spacecraft changed an asteroid’s orbit around the sun",
-    "Link": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/030526_LG_asteroid_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:26"
-  },
-  {
-    "Topic": "Science",
-    "Title": "How to spot the lunar X and V",
-    "Link": "https://www.newscientist.com/article/mg26935791-600-how-to-spot-the-lunar-x-and-v/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/19152522/SEI_280653443.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:30"
-  },
-  {
-    "Topic": "Science",
-    "Title": "What would Russia's inability to launch crewed missions mean for ISS?",
-    "Link": "https://www.newscientist.com/article/2506455-what-would-russias-inability-to-launch-crewed-missions-mean-for-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/01185432/SEI_276386893.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:35"
-  },
-  {
-    "Topic": "Science",
-    "Title": "What to read this week: Ripples on the Cosmic Ocean by Dagomar Degroot",
-    "Link": "https://www.newscientist.com/article/mg26935840-300-what-to-read-this-week-ripples-on-the-cosmic-ocean-by-dagomar-degroot/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/23104452/SEI_285518121.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "I checked out one of the biggest anti-AI protests yet",
-    "Link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/PXL_20260228_140922914-EDIT.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:47"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "KV Caching in LLMs: A Guide for Developers",
-    "Link": "https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-kv-caching-llms-eliminating-redundancy.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:50"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-    "Link": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-turning-raw-text-into-ml-features-with-llms-1024x571.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:53"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-    "Link": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-agentic-memory-vector-vs-graph-1024x571.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:56"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI is rewiring how the world’s best Go players think",
-    "Link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:48:59"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "SXSW Preview + Hot List: Steven Spielberg, Gavin Newsom, Demi Moore, Andy Cohen & More Head To Austin",
-    "Link": "https://deadline.com/2026/03/sxsw-movie-preview-hot-list-1236749645/",
-    "ImageUrl": "https://deadline.com/wp-content/uploads/2026/03/SXSW-2026-Opener.jpg?w=1024",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Disney’s New Star Wars Series Begins on April 6",
-    "Link": "https://collider.com/star-wars-maul-shadow-lord-disney-plus-release-date-april-6-2026/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/starwars-logo.jpg?w=1200&amp;h=675&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:19"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Mama June's Daughter Pumpkin Launches OnlyFans Account",
-    "Link": "https://www.tmz.com/2026/03/11/mama-june-daughter-pumpkin-starts-onlyfans/",
-    "ImageUrl": "https://imagez.tmz.com/image/48/16by9/2026/03/11/4841b24d3acd4409a44e37fa6c6e8abe_xl.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:22"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Louis Garrel, Matthew Goode, Rose Leslie, Martha Plimpton And Irene Jacob Join Sydney Sweeney In ‘The Custom Of The Country’",
-    "Link": "https://deadline.com/2026/03/sydney-sweeney-customs-of-the-country-dominic-west-1236750186/",
-    "ImageUrl": "https://deadline.com/wp-content/uploads/2026/03/Louis-Garrel-Matthew-Goode-Rose-Leslie-Martha-Plimpton-And-Irene-Jacob.jpg?w=1024",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:25"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Paris Jackson Stuns As She Arrives To Face Off With Late Dad's Estate Over Money",
-    "Link": "https://www.tmz.com/2026/03/11/paris-jackson-stylish-heading-into-court/",
-    "ImageUrl": "https://imagez.tmz.com/image/50/16by9/2026/03/11/506ef417ba634d01a7179a6351926ab4_xl.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:29"
+    "Date": "2026-03-13 04:48:07"
   },
   {
     "Topic": "General News",
-    "Title": "What OPEC's surprise oil cut means for gas prices",
-    "Link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230126154624-us-gas-station-0123.jpg?c=16x9&q=w_800,c_fill",
+    "Title": "Europa League, Achtelfinale: Stuttgart verliert Achtelfinalhinspiel gegen Porto",
+    "Link": "https://www.zeit.de/sport/2026-03/europa-league-stuttgart-freiburg-achtelfinale",
+    "ImageUrl": "https://img.zeit.de/sport/2026-03/europa-league-stuttgart-freiburg-achtelfinale-bild/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:38"
+    "Date": "2026-03-13 04:48:10"
   },
   {
     "Topic": "General News",
-    "Title": "Nahost-Liveblog: ++ UN-Sicherheitsrat verurteilt iranische Angriffe ++",
-    "Link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html",
-    "ImageUrl": "https://images.tagesschau.de/image/ec5c691d-4b94-4507-a5c8-1dcd2e1b1458/AAABnN6hVis/AAABmyZE0EA/16x9-big/un-sicherheitsrat-366.jpg?width=1280",
+    "Title": "Großeinsatz: Brand in Chemnitzer Altenheim - ein Toter",
+    "Link": "https://www.zeit.de/news/2026-03/12/brand-in-chemnitzer-altenheim-ein-toter",
+    "ImageUrl": "https://img.zeit.de/news/2026-03/12/brand-in-chemnitzer-altenheim-ein-toter-image-group/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:41"
+    "Date": "2026-03-13 04:48:13"
   },
   {
     "Topic": "General News",
-    "Title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-    "Link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402102934-03-mens-march-madness-final-preview-2023.jpg?c=16x9&q=w_800,c_fill",
+    "Title": "White House compares deadly conflict with video games and movies in memeified videos",
+    "Link": "https://www.nbcnews.com/politics/white-house/white-house-iran-war-social-media-videos-video-games-football-baseball-rcna263194",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260312-tehran-stirkes-ONETIMEUSEmn-1230-ce41e7.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:45"
+    "Date": "2026-03-13 04:48:16"
   },
   {
     "Topic": "General News",
-    "Title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
-    "Link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/210823173440-drinking-water-stock.jpg?q=x_642,y_246,h_803,w_1428,c_crop/w_800",
+    "Title": "Kopfhörerkabel: Nur so legt man sein Handy an die Kette",
+    "Link": "https://www.zeit.de/digital/2026-03/kopfhoererkabel-retro-trend-bluetooth-digitalisierung",
+    "ImageUrl": "https://img.zeit.de/feuilleton/2026-03/kopfhoererkabel-retro-trend-bluetooth-digitalisierung-bild/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:47"
+    "Date": "2026-03-13 04:48:19"
   },
   {
-    "Topic": "General News",
-    "Title": "Janosch - der Vater der Tigerente wird 95",
-    "Link": "https://www.tagesschau.de/kultur/janosch-portrait-geburtstag-95-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/6998642b-2a6b-4940-b163-132dbd4baa89/AAABnNxE66E/AAABmyZE0EA/16x9-big/janosch-107.jpg?width=1280",
+    "Topic": "Trading & Crypto",
+    "Title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
+    "Link": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
+    "ImageUrl": "https://cdn.jwplayer.com/v2/media/Iv1NIhI4/poster.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:49:51"
+    "Date": "2026-03-13 04:48:27"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Circle’s outperformance highlights USDC’s staying power, says bullish Wall Street analyst",
+    "Link": "https://www.coindesk.com/markets/2026/03/12/circle-s-outperformance-highlights-usdc-s-staying-power-says-bullish-wall-street-analyst",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/13963e0d3858e00fbf1de77c79da7c5226d29b5a-1920x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ripple Begins Buying Back Shares at $50 Billion Valuation: Bloomberg",
+    "Link": "https://decrypt.co/360763/ripple-buying-back-shares-50-billion-valuation-bloomberg",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Singapore Jails Man Over $6.9M SafeX Crypto Theft Case",
+    "Link": "https://decrypt.co/360861/singapore-jails-man-over-6-9m-safex-crypto-theft-case",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:34"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin steady near $70,000 as rising open interest hints at cautious, bearish positioning",
+    "Link": "https://www.coindesk.com/markets/2026/03/12/bitcoin-steady-near-usd70-000-as-rising-open-interest-hints-at-cautious-bearish-positioning",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/29d96f9e4250c835d84de02f4cd58e9d9093063e-1920x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:37"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Super-Bright Supernovae Are Magnetar Birth Cries",
-    "Link": "https://skyandtelescope.org/astronomy-news/super-bright-supernovae-are-magnetar-birth-cries/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Artist%E2%80%99s_impression_of_the_magnetar_in_the_star_cluster_Westerlund_1.jpg/960px-Artist%E2%80%99s_impression_of_the_magnetar_in_the_star_cluster_Westerlund_1.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-03-12 04:50:00"
+    "Title": "I'm calling it – 2026 is going to be the year of the galaxy",
+    "Link": "https://www.newscientist.com/article/mg26935770-100-im-calling-it-2026-is-going-to-be-the-year-of-the-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/05104138/SEI_278890686.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:46"
   },
   {
     "Topic": "Astronomy",
-    "Title": "The Solar Cycle Leaves Its Fingerprint on the Sun’s Interior",
-    "Link": "https://skyandtelescope.org/astronomy-news/the-solar-cycle-leaves-its-fingerprint-on-the-suns-interior/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg/960px-The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-03-12 04:50:03"
+    "Title": "BepiColombo mission will start to unpick Mercury's secrets in 2026",
+    "Link": "https://www.newscientist.com/article/2508106-bepicolombo-mission-will-start-to-unpick-mercurys-secrets-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/10171457/SEI_277537875.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:48:49"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Meta Acquires Moltbook, the Viral Social Network for AI Agents: Report",
-    "Link": "https://decrypt.co/360594/meta-acquires-moltbook-viral-social-network-ai-agents",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png",
+    "Topic": "Astronomy",
+    "Title": "TOI-6255 b: a planet on the edge of destruction",
+    "Link": "https://www.astronomy.com/science/toi-6255-b-a-planet-on-the-edge-of-destruction/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/03/Ultra-short_period_planet.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:50:21"
+    "Date": "2026-03-13 04:48:52"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Ripple Seeks Australian Financial License to 'Scale' Payments Across the Region",
-    "Link": "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Sydney-gID_7.jpg",
+    "Topic": "Astronomy",
+    "Title": "What is a galaxy? That's a surprisingly difficult question to answer",
+    "Link": "https://www.newscientist.com/article/2517610-what-is-a-galaxy-thats-a-surprisingly-difficult-question-to-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/02130426/SEI_286855991.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:50:24"
+    "Date": "2026-03-13 04:48:54"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Justin Sun Deal Complicates SEC's Crypto Stance, Legal Experts Say",
-    "Link": "https://decrypt.co/360721/justin-sun-settlement-sec-crypto-agenda-analysis",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
+    "Topic": "Astronomy",
+    "Title": "The stargazing events to look forward to in 2026",
+    "Link": "https://www.newscientist.com/article/mg26835731-300-the-stargazing-events-to-look-forward-to-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/08093929/SEI_276375002.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:50:26"
+    "Date": "2026-03-13 04:48:58"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin stuck under $70,000 as investors play it safe before U.S. inflation report",
-    "Link": "https://www.coindesk.com/daybook-us/2026/03/11/bitcoin-stuck-under-usd70-000-as-investors-play-it-safe-before-u-s-inflation-report",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/38c30f7e1d41efffde6c36b181b94de9ce03f860-1920x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "Topic": "Data / AI",
+    "Title": "How the Fourier Transform Converts Sound Into Frequencies",
+    "Link": "https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-11.43.10-AM.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:50:30"
+    "Date": "2026-03-13 04:49:05"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Wells Fargo signals deeper push into crypto, filing trademark for WFUSD",
-    "Link": "https://www.coindesk.com/business/2026/03/11/wells-fargo-signals-deeper-push-into-crypto-filing-trademark-for-wfusd",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/864a121f38f46e6f8837de1a0d7813e7aa6782b9-1000x667.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "Topic": "Data / AI",
+    "Title": "I Stole a Wall Street Trick to Solve a Google Trends Data Problem",
+    "Link": "https://towardsdatascience.com/i-stole-a-wall-street-trick-to-solve-a-google-trends-data-problem-2/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Copy-of-GUILTY.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-12 04:50:34"
+    "Date": "2026-03-13 04:49:07"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building a Like-for-Like solution for Stores in Power BI",
+    "Link": "https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/tem-rysh-F6-U5fGAOik-unsplash-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:09"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why you probably shouldn't tell a chatbot everything about your health",
+    "Link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/3102f2bd4a0302ccfe8d65b9977306dc3d56e9d4/2026/03/12/e0c456db-309d-4fe1-9d70-8a7d55e356d7/gettyimages-2207571664.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:12"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why Moltbook and OpenClaw are the fool's gold in our AI boom",
+    "Link": "https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/fa748642a59fbec3d2379fa21ba89743fa4fb5dd/2026/03/11/af8867e4-58fa-4794-81c4-162a0f669da7/goldbroken-gettyimages-2222204565.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New Sense and Sensibility Movie Release Date Delayed for Daisy Edgar-Jones Adaptation",
+    "Link": "https://www.comingsoon.net/movies/news/2107226-new-sense-and-sensibility-movie-release-date-delayed-daisy-edgar-jones-adaptation",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/daisy-edgar-joness.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:23"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The 2026 Oscars Should Have Happened Already and People Are Tired of Waiting",
+    "Link": "https://www.comingsoon.net/movies/features/2107259-2026-oscars-should-have-happened-too-late-march",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/2026-oscars-should-have-happened-too-late-march.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:25"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Reminders of Him: Colleen Hoover Movie Is Best Enjoyed Knowing This Beforehand",
+    "Link": "https://www.comingsoon.net/movies/features/2106712-reminders-of-him-colleen-hoover-movie-best-enjoyed-knowing-this-beforehand",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/Untitled-design-2026-03-11T153855.728.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:27"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Jenna Ortega's New Remake Of Cult Classic 34-Year-Old Crime Thriller Gets Major Boost In New Update",
+    "Link": "https://screenrant.com/jenna-ortega-single-white-female-remake-writer-producers-update/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/jenna-ortega-at-an-event.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:30"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "This Netflix Movie Is Expected to Win 3 Oscars Despite Being Snubbed",
+    "Link": "https://www.comingsoon.net/movies/features/2107205-netflix-movie-expected-win-3-oscars-academy-awards-2026",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/netflix-movie-expected-win-3-oscars-academy-awards-2026.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:32"
+  },
+  {
+    "Topic": "Science",
+    "Title": "When we interbred with Neanderthals, they were usually the fathers",
+    "Link": "https://www.newscientist.com/article/2517239-when-we-interbred-with-neanderthals-they-were-usually-the-fathers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/26150041/SEI_286870196.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:39"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A crisis in cosmology may mean hidden dimensions really exist",
+    "Link": "https://www.newscientist.com/article/2515631-a-crisis-in-cosmology-may-mean-hidden-dimensions-really-exist/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/13142556/SEI_284878399.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:42"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The world’s most elusive colour is worth billions – if we can find it",
+    "Link": "https://www.newscientist.com/article/2514410-the-worlds-most-elusive-colour-is-worth-billions-if-we-can-find-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/04172944/SEI_283523208.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:45"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Why African striped mice can be the best of dads — or the worst",
+    "Link": "https://www.sciencenews.org/article/african-striped-mice-male-caregiving",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/030526_VC_caregivers_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:48"
+  },
+  {
+    "Topic": "Science",
+    "Title": "How worried should you be about an asteroid smashing into Earth?",
+    "Link": "https://www.newscientist.com/article/2517120-how-worried-should-you-be-about-an-asteroid-smashing-into-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/27102438/SEI_286871509.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:49:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "We study pandemics, and the resurgence of measles is a grim sign of what’s coming",
+    "Link": "https://arstechnica.com/science/2026/03/we-study-pandemics-and-the-resurgence-of-measles-is-a-grim-sign-of-whats-coming/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2201696919-2560x1440.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:07"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Remembering the 30-year-old computer game that introduced me to Star Wars",
+    "Link": "https://arstechnica.com/gaming/2026/03/30-years-later-star-wars-shadows-of-the-empire-is-a-relic-of-a-lost-era/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/hero-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:10"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+    "Link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3655-1152x648.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:13"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April",
+    "Link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/rog-xbox-ally-1152x648.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:15"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
+    "Link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/live-nation-1152x648-1773346289.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:17"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Shark Tank’s Daymond John revealed the rapper Ice-T taught him to quit cutting corners at work because ‘the time you think you saved today becomes the wall you face tomorrow’",
+    "Link": "https://fortune.com/2026/03/12/shark-tank-multimillionaire-daymond-john-career-advice-from-ice-t-never-cut-corners-work-life-balance/",
+    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2257997110.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:26"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Exxon, Chevron, and other US oil and gas producers and refiners hit all-time-high stock values amid Iran war while consumers pay the price",
+    "Link": "https://fortune.com/2026/03/12/exxon-chevron-us-oil-gas-producers-refiners-all-time-high-stock-values-iran-war/",
+    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265567308-e1773341147448.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:28"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "‘Proceed with caution’: Elon Musk offers warning after Amazon reportedly had mandatory meeting to address ‘high blast radius’ and AI-related incidents",
+    "Link": "https://fortune.com/2026/03/11/elon-musk-amazon-outage-ai-relate-incident-meeting-report-cybersecurity/",
+    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256969963-e1773256160209.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Goldman just raised recession odds to 25%. Here’s what Trump’s war economy is doing to jobs",
+    "Link": "https://fortune.com/2026/03/12/will-economy-enter-recession-goldman-jobs-war-economy/",
+    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265550091-e1773338124634.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:34"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Trump might get away with his new tariffs: The law he’s relying on survived over 3,600 legal challenges, and even Biden used it",
+    "Link": "https://fortune.com/2026/03/12/section-301-tariff-investigation-donald-trump-jamieson-greer/",
+    "ImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2264582726-e1773333750909.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-13 04:50:36"
   }
 ]
