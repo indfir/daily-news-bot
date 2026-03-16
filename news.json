@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Economy",
-    "Title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
-    "Link": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108219348-1761833138642-gettyimages-2244075207-ah807504_cqdgdrpq.jpeg?v=1761833176&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:23"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history",
-    "Link": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108277927-1773423163926-gettyimages-1242540983-NYC_PARKING.jpeg?v=1773423204&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:29"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
-    "Link": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108277151-17733168172026-03-12t104845z_1538507488_rc2x2kab12nx_rtrmadp_0_iran-crisis-tankers-india.jpeg?v=1773316858&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:33"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Asia-Pacific markets fall as oil hovers near $100 amid escalating U.S.-Iran tensions",
-    "Link": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108263029-1770601041611-gettyimages-2260105692-JAPAN_STOCKS.jpeg?v=1770601052&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "These women pursued a skilled trade — here's what they told us about their experience in a male-dominated world",
-    "Link": "https://www.cnbc.com/2026/03/15/more-women-are-pursuing-the-skilled-trades-here-are-their-stories.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108275342-1773058574666-Unknown.jpg?v=1773081903&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Scalability, Part 3: On Metacoin History and Multichain",
-    "Link": "https://blog.ethereum.org/en/2014/11/13/scalability-part-3-metacoin-history-multichain",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:48"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Gav’s Ethereum ÐΞV Update III",
-    "Link": "https://blog.ethereum.org/en/2014/11/18/gavs-dev-update-iii",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Ethereum network is currently undergoing a DoS attack",
-    "Link": "https://blog.ethereum.org/en/2016/09/22/ethereum-network-currently-undergoing-dos-attack",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:55"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum Protocol Fellowship: Third Cohort Recap",
-    "Link": "https://blog.ethereum.org/en/2023/05/10/ethereum-protocol-fellowship-third-recap",
-    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_80ba0aa49f5a37026942c45ea9f30e96.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:05:59"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Security Advisory [eth (cpp-ethereum) potentially vulnerable if running with UPnP enabled]",
-    "Link": "https://blog.ethereum.org/en/2015/10/10/security-advisory-eth-cpp-ethereum-potentially-vulnerable-if-running-with-upnp-enabled",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:03"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official Trailer for RZA's 'One Spoon of Chocolate' with Shameik Moore",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-rzas-one-spoon-of-chocolate-with-shameik-moore/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/onespoonofchocolatepostbigTW2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:11"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Check These Out: Needle Design's 10 Best Picture Films Poster Series",
-    "Link": "https://www.firstshowing.net/2026/check-these-out-needle-designs-10-best-picture-films-poster-series/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/needle10oscarbigpostmainTW1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:15"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official US Trailer for 'Fuze' Heist Thriller with Aaron Taylor-Johnson",
-    "Link": "https://www.firstshowing.net/2026/official-us-trailer-for-fuze-heist-thriller-with-aaron-taylor-johnson/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/fuzefinaluspostermainbigimgTW4.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:18"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "THE TOXIC AVENGER is Back! Writer/Director Macon Blair Interview",
-    "Link": "https://www.aintitcool.com/the-toxic-avenger-interview-macon-blair-83626/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/toxic_avenger_poster_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:21"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Jason Biggs Directorial Debut UNTITLED HOME INVASION ROMANCE Now Available!",
-    "Link": "https://www.aintitcool.com/jason-biggs-meaghan-rath-interview-uhir-83636/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/uhir_poster_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:25"
+    "Topic": "Science",
+    "Title": "5 Self-Hosted Alternatives for Data Scientists in 2026",
+    "Link": "https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-03-17 03:32:55"
   },
   {
     "Topic": "Science",
-    "Title": "Extreme weather is hitting baby birds hard in a 60-year study",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260311213435.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/great-tit-nestling.webp",
+    "Title": "Ocean geoengineering trial finds no evidence of harm to marine life",
+    "Link": "https://www.newscientist.com/article/2517171-ocean-geoengineering-trial-finds-no-evidence-of-harm-to-marine-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/26165853/SEI_286846171.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:32"
+    "Date": "2026-03-17 03:32:58"
   },
   {
     "Topic": "Science",
-    "Title": "Latest Science on Origins of SARS-CoV-2",
-    "Link": "https://sciencebasedmedicine.org/latest-science-on-origins-of-sars-cov-2/?utm_source=rss&utm_medium=rss&utm_campaign=latest-science-on-origins-of-sars-cov-2",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/COVID-Bats.jpg",
+    "Title": "King penguins are thriving in a warmer climate, but it may not last",
+    "Link": "https://www.newscientist.com/article/2519046-king-penguins-are-thriving-in-a-warmer-climate-but-it-may-not-last/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/11140331/SEI_288904800.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:36"
+    "Date": "2026-03-17 03:33:04"
   },
   {
     "Topic": "Science",
-    "Title": "Hidden deep-sea proteins could supercharge disease tests",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260314030502.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/dna-binding-proteins.webp",
+    "Title": "Rare family has had many more sons than daughters for generations",
+    "Link": "https://www.newscientist.com/article/2517693-rare-family-has-had-many-more-sons-than-daughters-for-generations/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/16152855/SEI_289728356.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:40"
+    "Date": "2026-03-17 03:33:10"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists discover hidden water beneath Mars that could have supported life",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260315004340.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/mars-from-nasa-curiosity-rover.webp",
+    "Title": "This $35,000 Computer Is Powered by Trapped Human Brain Cells",
+    "Link": "https://gizmodo.com/this-35000-computer-is-powered-by-trapped-human-brain-cells-2000573993",
+    "ImageUrl": "https://gizmodo.com/app/uploads/2025/03/CorticalLabs-1200x675.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:43"
+    "Date": "2026-03-17 03:33:15"
   },
   {
-    "Topic": "Science",
-    "Title": "The Health Effects of Air Pollution",
-    "Link": "https://sciencebasedmedicine.org/the-health-effects-of-air-pollution/?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-air-pollution",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/01/airpollution.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum Foundation’s new mandate sparks debate about its role, priorities",
+    "Link": "https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8809137a1448874d16e706bcb41913d518d008d6-3840x2160.png?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:47"
+    "Date": "2026-03-17 03:33:25"
   },
   {
-    "Topic": "Technology",
-    "Title": "Travis Kalanick launches a new company called Atoms focused on robotics",
-    "Link": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-630043956.jpg?resize=1200,800",
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin’s Worst Crash 6 Years Later: How Much Profit Would You Have Now?",
+    "Link": "https://cryptopotato.com/bitcoins-worst-crash-6-years-later-how-much-profit-would-you-have-now/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/09/bitcoin_green_cover.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:54"
+    "Date": "2026-03-17 03:33:27"
   },
   {
-    "Topic": "Technology",
-    "Title": "Building a strong data infrastructure for AI agent success",
-    "Link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/SAP-article-iStock-933220212.jpg?resize=1200,600",
+    "Topic": "Trading & Crypto",
+    "Title": "XRP climbs 3% past $1.47 as breakout extends on broad bitcoin-led move",
+    "Link": "https://www.coindesk.com/markets/2026/03/16/xrp-climbs-3-past-usd1-47-as-breakout-extends-on-broad-bitcoin-led-move",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a0ce98abe6f0c01a430f2ad798c32d03e5a5e86d-1082x666.png?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:06:58"
+    "Date": "2026-03-17 03:33:31"
   },
   {
-    "Topic": "Technology",
-    "Title": "What It’s Like to Have a Brain Implant for 5 Years",
-    "Link": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
-    "ImageUrl": "https://media.wired.com/photos/69a1c00663d7023723a168ed/191:100/w_1280,c_limit/Rodney%20Gorhman31%20(2).jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Metaplanet raises $255 million to accelerate bitcoin accumulation",
+    "Link": "https://www.coindesk.com/markets/2026/03/16/metaplanet-raises-usd255-million-to-accelerate-bitcoin-accumulation",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/63f02bbfdfe79d281e8667130b8ab1069247fdbf-1918x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:01"
+    "Date": "2026-03-17 03:33:34"
   },
   {
-    "Topic": "Technology",
-    "Title": "Bridging the operational AI gap",
-    "Link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Celigo-Social-Card-Gold.png?resize=1200,600",
+    "Topic": "Trading & Crypto",
+    "Title": "‘Crash Accelerates,’ Says Robert Kiyosaki as He Continues Buying BTC, ETH, and More",
+    "Link": "https://cryptopotato.com/crash-accelerates-says-robert-kiyosaki-as-he-continues-buying-btc-eth-and-more/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2022/10/Robert_Kiyosaki.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:04"
+    "Date": "2026-03-17 03:33:36"
   },
   {
-    "Topic": "Technology",
-    "Title": "How Can a Locomotive Pull a Long Train That’s Much Heavier?",
-    "Link": "https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/",
-    "ImageUrl": "https://media.wired.com/photos/69aa1cf123fe0f2f8bea6e65/191:100/w_1280,c_limit/Why-Can-a-Single-Train-Locomotives-Pull-So-Much-Weight_-Science-1865711837.jpg",
+    "Topic": "Movies",
+    "Title": "‘Pretty Lethal’ Review: Uma Thurman Is Underutilized in a Ballet-Themed Amazon Thriller That Falls Short of Its Potential",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/pretty-lethal-review-uma-thurman-amazon-lana-condor-1236533579/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/BALO_2026_FG_01022613_Still1079RC-1.jpg?crop=446px%2C0px%2C2854px%2C1598px&#038;resize=1440%2C810",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:07"
+    "Date": "2026-03-17 03:33:52"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "What’s New This Week on Hulu, Disney+, and ESPN for the Week of March 16, 2026",
+    "Link": "https://cordcuttersnews.com/whats-new-this-week-on-hulu-disney-and-espn-for-the-week-of-march-16-2026/",
+    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2020/10/shutterstock_1746746024-1024x683.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:33:55"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘The Saviors’ Review: Adam Scott and Danielle Deadwyler in a Timely Comic Thriller With Good Intentions and Clunky Execution",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-saviors-review-adam-scott-danielle-deadwyler-1236534120/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Screenshot-2026-01-29-at-4.49.03 PM_1769737353085001akey-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:33:57"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Shark Movie 'Thrash' Trailer with Phoebe Dynevor & Djimon Hounsou",
+    "Link": "https://www.firstshowing.net/2026/shark-movie-thrash-trailer-with-phoebe-dynevor-djimon-hounsou/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/thrashtrailersharkmainimgbTW1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:00"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Oscars: Sigourney Weaver Channels ‘Aliens’ Character While “Protecting” Grogu From Kate Hudson",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/grogu-oscars-sigourney-weaver-aliens-pedro-pascal-1236534501/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2266719492-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:04"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Small investors fear US SEC will drive corporate gadflies to extinction",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/small-investors-fear-us-sec-will-drive-corporate-gadflies-to-extinction/articleshow/129617039.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129617153,width-1200,height-630,imgsize-593262,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:16"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Anupam Mittal-backed Travelstack Tech gets Sebi nod along with two other IPOs; 3 companies withdraw offer plans",
+    "Link": "https://economictimes.indiatimes.com/markets/ipos/fpos/anupam-mittal-backed-travelstack-tech-gets-sebi-nod-along-with-two-other-ipos-3-companies-withdraw-offer-plans/articleshow/129605792.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129605813,width-1200,height-630,imgsize-29114,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:19"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Gold falls below $5,000/ounce as inflation fears pressure Fed rate-cut outlook",
+    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-below-5000/ounce-as-inflation-fears-pressure-fed-rate-cut-outlook/articleshow/129606873.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129606873,width-1200,height-630,imgsize-104626,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:22"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Cipla Share Price Live Updates: Cipla Stock Price History",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-16-mar-2026/liveblog/129603804.cms",
+    "ImageUrl": "https://economictimes.indiatimes.com/thumb/msid-129603804,width-1200,height-900,resizemode-4,imglength-6302/markets/stocks/stock-liveblog/cipla-share-price-live-updates-16-mar-2026.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:27"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "US stocks rebound on AI optimism revival; Dow rises 387 pts, Nasdaq, S&amp;P 1%",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rebound-on-ai-optimism-revival-dow-rises-387-pts-nasdaq-sp-1/articleshow/129618586.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129618601,width-1200,height-630,imgsize-155922,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-17 03:34:30"
   },
   {
     "Topic": "General News",
-    "Title": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
-    "Link": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F51%2Fdcb4663a441e8f112b8b0301b437%2Fap26073359041443.jpg",
+    "Title": "Los taxistas inician los trámites para solicitar los coeficientes que permitan adelantar su jubilación",
+    "Link": "https://elpais.com/economia/2026-03-16/los-taxistas-inician-los-tramites-para-solicitar-los-coeficientes-que-permitan-adelantar-su-jubilacion.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/FK7GKGT3NRK5ROORUOEYP5PESY.jpg?auth=17cca78236705d976636e8a3049035106127a127a38f5b6e6350ae5ab0ea49bc&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:15"
+    "Date": "2026-03-17 03:34:39"
   },
   {
     "Topic": "General News",
-    "Title": "Why the Chicago Bears could be moving to Indiana",
-    "Link": "https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5207x2929+0+272/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F78%2F4f72a6b444e19206dd7caf2b5d7b%2Fap26019028289268.jpg",
+    "Title": "La Academia de Ciencias de EE UU premia a cuatro españoles por explicar cómo la vida salió de un callejón sin salida y conquistó la Tierra",
+    "Link": "https://elpais.com/ciencia/2026-03-16/la-academia-de-ciencias-de-ee-uu-premia-a-cuatro-espanoles-por-explicar-como-la-vida-salio-de-un-callejon-sin-salida-y-conquisto-la-tierra.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/MUNJI2LFQZC7FCWCHZ7ZWA7PQI.JPG?auth=cfc7a13184e36c36a2efe9ec0a279216957cca865fb068d413235ea9b45fa77e&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:18"
+    "Date": "2026-03-17 03:34:42"
   },
   {
     "Topic": "General News",
-    "Title": "Texas's state animals, armadillos, are making North Carolina their home",
-    "Link": "https://www.npr.org/2026/03/15/nx-s1-5745031/texass-state-animals-armadillos-are-making-north-carolina-their-home",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "Title": "El Grec y el Lliure se alían para celebrar el 50º aniversario de ambos con una producción de ‘La ópera de los tres centavos’ de Brecht y Weill",
+    "Link": "https://elpais.com/espana/catalunya/2026-03-16/el-grec-y-el-lliure-se-alian-para-celebrar-el-50-aniversario-de-ambos-con-una-produccion-de-la-opera-de-los-tres-centavos-de-brecht-y-weill.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/MOOLO4CGUVO3XCY37F7H35DNG4.jpg?auth=44d29f5564ea40cac16294e7760fb5b530c7538a6a26f02dd6869253a8cf29a8&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:22"
+    "Date": "2026-03-17 03:34:46"
   },
   {
     "Topic": "General News",
-    "Title": "Snow and wind batter parts of US, with threat of thunderstorms and tornadoes",
-    "Link": "https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7946x4470+0+699/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F28%2F3acc82634d628e2a74899c99e96e%2Fgettyimages-2265584078.jpg",
+    "Title": "España cambia la Finalissima por un amistoso contra Serbia en La Cerámica",
+    "Link": "https://elpais.com/deportes/futbol/2026-03-16/espana-cambia-la-finalissima-por-un-amistoso-contra-serbia-en-la-ceramica.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/UTPACADGKZJOFD6UX6KPGNUI4Q.jpg?auth=cd565714d6cb3fea72770f4a71ca2115a266c044ba82edf707042d40f0e82e54&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:25"
+    "Date": "2026-03-17 03:34:48"
   },
   {
     "Topic": "General News",
-    "Title": "How the U.S. is using AI in the war in Iran",
-    "Link": "https://www.npr.org/2026/03/15/nx-s1-5745863/how-the-u-s-is-using-ai-in-the-war-in-iran",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "Title": "Bajar ratios no es sólo inútil, es el camino equivocado",
+    "Link": "https://elpais.com/educacion/2026-03-16/bajar-ratios-no-es-solo-inutil-es-el-camino-equivocado.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/FNTUPZB57JAAPG7HYOEWI4HFSQ.jpg?auth=48628a57df509a858f89d273860358942b2d191976228ab883c7a5fc58bdd589&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:28"
+    "Date": "2026-03-17 03:34:51"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Comet 3I/ATLAS from beyond solar system carries key molecule for life",
-    "Link": "https://www.newscientist.com/article/2507335-comet-3i-atlas-from-beyond-solar-system-carries-key-molecule-for-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/05135917/SEI_276769933.jpg",
+    "Title": " Why Holly Hunter's Nahla Ake already deserves a place at Star Trek's ultimate top table ",
+    "Link": "https://www.space.com/entertainment/space-movies-shows/why-holly-hunters-nahla-ake-already-deserves-a-place-at-star-treks-ultimate-top-table",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/8SiBcuYRebsmbA4fCumgfQ-1920-80.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:37"
+    "Date": "2026-03-17 03:34:59"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Can we ever know the shape of the universe?",
-    "Link": "https://www.newscientist.com/article/2515390-can-we-ever-know-the-shape-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/11171645/SEI_284484804.jpg",
+    "Title": " The March full moon glows red through Saharan dust in eerie composite view ",
+    "Link": "https://www.space.com/stargazing/the-march-full-moon-glows-red-through-saharan-dust-in-eerie-composite-view",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/jnUJnHM4htWzX8PfkwdxzP-1659-80.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:41"
+    "Date": "2026-03-17 03:35:01"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Amazing sneak peek of NASA's spacesuit tests as moon mission nears",
-    "Link": "https://www.newscientist.com/article/mg26935840-200-amazing-sneak-peek-of-nasas-spacesuit-tests-as-moon-mission-nears/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/20125228/SEI_285416825.jpg",
+    "Title": "Apple TV offers first look at 'Star City', Soviet-side spinoff to 'For All Mankind'",
+    "Link": "https://www.collectspace.com/news/news-022626a-star-city-apple-tv-first-look.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-022626a-fb.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:45"
+    "Date": "2026-03-17 03:35:03"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Earliest ever supernova sheds light on the first stars",
-    "Link": "https://www.newscientist.com/article/2511777-earliest-ever-supernova-sheds-light-on-the-first-stars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/15143004/SEI_280896959.jpg",
+    "Title": "NASA delays Artemis mission to moon due to cold weather",
+    "Link": "https://www.cbsnews.com/news/nasa-delays-artemis-moon-mission/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/30/23c731b7-a72e-4111-a8e7-d8261ef0d461/thumbnail/1200x630/b7c084832bd68286b1329d6b461a2b60/ap26030505504698.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:51"
+    "Date": "2026-03-17 03:35:06"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Asteroid Bennu carries all the ingredients for life as we know it",
-    "Link": "https://www.newscientist.com/article/2506650-asteroid-bennu-carries-all-the-ingredients-for-life-as-we-know-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/01173840/SEI_276365303.jpg",
+    "Title": " Northrop Grumman's 1st 'Cygnus XL' cargo spacecraft departs the space station ",
+    "Link": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-first-cygnus-xl-cargo-spacecraft-leave-iss",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/YffCQ6afimn8tNB3P5bPW-1335-80.png",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:07:55"
+    "Date": "2026-03-17 03:35:08"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Start building with Gemini 2.0 Flash and Flash-Lite",
-    "Link": "https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-lite/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Flash_Family_meta.2e16d0ba.fill-1200x600.png",
+    "Topic": "Technology",
+    "Title": "Google.org Future of Work: 5 years of impact and lessons for the AI era",
+    "Link": "https://blog.google/company-news/outreach-and-initiatives/google-org/future-of-work-impact-report/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google.org_Future_of_Work-social.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:08:05"
+    "Date": "2026-03-17 03:35:17"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-    "Link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "ImageUrl": "https://lh3.googleusercontent.com/bbLVCxqhbnzzj_eIy29oKJigrlL6m4ewSwfCK-sNKVI0l1StFklsEADVPHXtTw9YorgOeIiQmM8vzmM3LBRyKu0pQeMHK4pzA_r4oIVjB_5dj8DU=w1200-h630-n-nu-rw",
+    "Topic": "Technology",
+    "Title": "Today's NYT Mini Crossword Answers for Monday, March 16",
+    "Link": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-16/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/4a7dc34963db8f9a51abae1ab77ec99b498be36f/hub/2024/07/25/50d61b9b-1c76-4678-9a92-f6eca531f4a8/nyt-mini-crossword-234876.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:08:08"
+    "Date": "2026-03-17 03:35:19"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Introducing the Gemini 2.5 Computer Use model",
-    "Link": "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTU_16x9_RD8-V01.width-1300.png",
+    "Topic": "Technology",
+    "Title": "Giving you more transparency and control over your Gemini API costs",
+    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/more-control-over-gemini-api-costs/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Limit_SS.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:08:11"
+    "Date": "2026-03-17 03:35:22"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Gemini 2.5: Updates to our family of thinking models",
-    "Link": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-2-5-pro-meta_1.2e16d0ba.fill-1200x600.png",
+    "Topic": "Technology",
+    "Title": "Nvidia GTC: All the AI and Robotics News From Today's Keynote",
+    "Link": "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/fbf68df9c9ca41bc081f038dab57e46c7f4ee37c/hub/2026/03/16/9bea3139-e188-4139-a79d-6eb21d33bb63/jensen-huang-token-king-promo-pic.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:08:16"
+    "Date": "2026-03-17 03:35:26"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "SynthID Detector — a new portal to help identify AI-generated content",
-    "Link": "https://deepmind.google/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_Gemini_MOD_HEADER.width-1300.jpg",
+    "Topic": "Technology",
+    "Title": "Best Samsung Phone of 2026",
+    "Link": "https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/d18eb80e1ef50c0083f1f72d048da3d44c6945ec/hub/2023/07/05/ffb5dc55-6884-4bb7-b9e1-6c14fe3d841c/samsungs.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 09:08:20"
+    "Date": "2026-03-17 03:35:28"
   }
 ]
