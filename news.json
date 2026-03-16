@@ -1,202 +1,322 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "A Conversation with RENTAL FAMILY Writer/Director HIKARI",
-    "Link": "https://www.aintitcool.com/rental-family-writer-director-hikari-interview-83634/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/rental_family_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:04"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "TRAUMATIKA Interview with filmmakers Pierre Tsigaridis and Maxime Rancon",
-    "Link": "https://www.aintitcool.com/traumatika-pierre-tsigaridis-maxime-rancon-83628/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/traumatika_poster_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:07"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "A BREED APART - Heavy on the Laughs, Light on the Scares",
-    "Link": "https://www.aintitcool.com/node/83612?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/a_breed_apart_article_image_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:09"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "SORRY BABY Thoughtfully Explores Trauma's Aftermath",
-    "Link": "https://www.aintitcool.com/sorrybaby2025review-83619/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/barbarella/sorrybabyposter_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:12"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Holiday Gift Guide 2025",
-    "Link": "https://www.aintitcool.com/holiday-gift-guide-2025-83635/?utm_source=full-feed&utm_medium=feed&utm_term=Unknown",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/gift_guide_2025_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:15"
-  },
-  {
     "Topic": "Technology",
-    "Title": "The 2026 Oscars Are Tonight. Here’s Everything You Need To Know.",
-    "Link": "https://gizmodo.com/the-2026-oscars-are-tonight-heres-everything-you-need-to-know-2000733773",
-    "ImageUrl": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266014520-1200x675.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:24"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The ‘Buffy’ Revival Is No Longer Happening",
-    "Link": "https://gizmodo.com/the-buffy-revival-is-no-longer-happening-2000733737",
-    "ImageUrl": "https://gizmodo.com/app/uploads/2025/08/buffyandwillow-1200x675.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:27"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Rosamund Pike Thinks the ‘Doom’ Movie Is So Bad It Nearly Killed Her Career",
-    "Link": "https://gizmodo.com/rosamund-pike-thinks-the-doom-movie-is-so-bad-it-nearly-killed-her-career-2000733572",
-    "ImageUrl": "https://gizmodo.com/app/uploads/2026/03/doom-rosamund-pike-1200x675.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:29"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "New Website ‘Channel Surfer’ Reinvents the Cable TV Couch Vegetation Experience for 2026",
-    "Link": "https://gizmodo.com/new-website-channel-surfer-reinvents-the-cable-tv-couch-vegetation-experience-for-2026-2000733419",
-    "ImageUrl": "https://gizmodo.com/app/uploads/2026/03/channel-surfer-e1773428775493-1200x675.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:32"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "These People Want Us to Let Them Hook Up AI to a Nuclear Weapon",
-    "Link": "https://gizmodo.com/these-people-want-us-to-let-them-hook-up-ai-to-a-nuclear-weapon-2000733472",
-    "ImageUrl": "https://gizmodo.com/app/uploads/2024/08/DOJ-realpage-antitrust-header-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:35"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "Link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_keyword_social_share_light_1.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:42:57"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How AI is helping advance the science of bioacoustics to save endangered species",
-    "Link": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
-    "ImageUrl": "https://lh3.googleusercontent.com/ZQcPGFYeQXxngk2iQlNKgcUUOyGORpNFEDVCq2jNDL3sBDCgCQ-UsgB8hWFtxvEBHycX_WlV3tdho0Ppn8av9nykERWjrMw4QRqhBc-TObJ2Cv-0=w1200-h630-n-nu-rw",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:02"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Try Deep Think in the Gemini app",
-    "Link": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2-5_deep-think_blog_social_share.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:05"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing Nano Banana Pro",
-    "Link": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Gemini Robotics brings AI into the physical world",
-    "Link": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
-    "ImageUrl": "https://lh3.googleusercontent.com/5-bQ_5YmyLIrpzGGSl-KiaJCZuoJGKDyAMZc2COzuuOvdWDL7nsDY-8GtD-DzP9sKEukKM_SiJ4zpj8fHFDPCd_DcKO6k2x1PCK9NbJUsGOI1eYx=w1200-h630-n-nu-rw",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:11"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Models warn Thwaites Glacier could rival entire Antarctic ice loss by 2067",
-    "Link": "https://phys.org/news/2026-03-thwaites-glacier-rival-entire-antarctic.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Antarctica_ice_shelves-en.svg/960px-Antarctica_ice_shelves-en.svg.png",
+    "Title": "Prediction market ads surge as March Madness betting hits record levels",
+    "Link": "https://readwrite.com/prediction-market-ads-surge-march-madness-betting-record-levels/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Plus500_Offices.jpg/960px-Plus500_Offices.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-16 04:43:20"
+    "Date": "2026-03-16 08:16:08"
   },
   {
-    "Topic": "Science",
-    "Title": "The Amazon molly — a sex-skipping fish — hacks evolution",
-    "Link": "https://www.sciencenews.org/article/sex-skipping-fish-hacks-evolution-gene",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031026_ED_fish_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:22"
-  },
-  {
-    "Topic": "Science",
-    "Title": "AI may be giving teens bad nutrition advice",
-    "Link": "https://www.sciencenews.org/article/ai-teen-nutrition-advice-chatbot-diet-food",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/031126_LB_ai-nutrition_feat.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:25"
-  },
-  {
-    "Topic": "Science",
-    "Title": "CHEOPS discovery defies planetary formation rules",
-    "Link": "https://phys.org/news/2026-03-cheops-discovery-defies-planetary-formation.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quaoar-weywot_hst.jpg/330px-Quaoar-weywot_hst.jpg",
+    "Topic": "Technology",
+    "Title": "Construction resumes at Wynn Al Marjan Island resort project in UAE amid Iran tensions",
+    "Link": "https://readwrite.com/construction-resumes-wynn-al-marjan-island-uae-iran/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Las_Vegas_Strip_09_2017_4897.jpg/960px-Las_Vegas_Strip_09_2017_4897.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-16 04:43:28"
+    "Date": "2026-03-16 08:16:11"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Self-Help Trap: What 20+ Years of “Optimizing” Has Taught Me",
+    "Link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/03/image.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:15"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Inspired Entertainment extends bet365 virtual sports partnership ahead of World Cup",
+    "Link": "https://readwrite.com/inspired-entertainment-extends-bet365-virtual-sports-partnership/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg/500px-Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-03-16 08:16:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck (#856)",
+    "Link": "https://tim.blog/2026/03/04/jim-collins-what-to-make-of-a-life/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/03/Jim-Collins-Illustration-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:21"
   },
   {
     "Topic": "Science",
-    "Title": "Study finds abusive bosses can make workers feel 'dehumanized,' fueling burnout",
-    "Link": "https://phys.org/news/2026-03-abusive-bosses-workers-dehumanized-fueling.html",
+    "Title": "Simple water trick cuts diesel engine pollution by over 60%",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260313002630.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/car-exhaust-pipe-smoke.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:29"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Frailty sets in far earlier than you’d expect, but you can reverse it",
+    "Link": "https://www.newscientist.com/article/2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/09140247/sei288112068.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:32"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Why a Peruvian mountain is becoming an 'impossible' particle detector",
+    "Link": "https://www.newscientist.com/article/2517730-why-a-peruvian-mountain-is-becoming-an-impossible-particle-detector/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/03162324/SEI_287649702.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:36"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scared of spiders? Scientists say the real nightmare is losing them",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260314030512.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/wes-walsh-spider-tattoo.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:39"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just found a way to 3D print one of the hardest metals on Earth",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260313002642.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:16:41"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Sinners’ Stars Recreate the ‘Pierce the Veil’ Sequence With Stunning Oscar Performance of ‘I Lied to You’",
+    "Link": "https://variety.com/2026/film/news/sinners-oscars-performance-i-lied-to-you-1236686553/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/03/Sinners-Performance-Miles-Caton-2.jpg?crop=0px%2C45px%2C1920px%2C1080px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:01"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Jujutsu Kaisen's Sequel is Over, So Now It's Time For The Real Follow-Up Fans Have Been Begging For",
+    "Link": "https://screenrant.com/jujutsu-kaisen-prequel-golden-age-sorcery-sukuna-origin/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/yuji-as-seen-in-jujutsu-kaisen-with-the-cast-of-modulo-in-the-background.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:04"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Why Amy Madigan’s ‘Weapons’ Oscar Win Is So Inspiring — for Fans and for Hollywood",
+    "Link": "https://variety.com/2026/film/columns/amy-madigan-oscar-win-weapons-1236689295/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/03/P104S1ZV.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Mike & Nick & Nick & Alice Review: Vince Vaughn And James Marsden's Messy Genre Mashup Relies On Tired Jokes",
+    "Link": "https://screenrant.com/mike-nick-nick-alice-movie-review-2026-sxsw/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/untitled-5.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:10"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Moon Knight & Daredevil: Born Again Prove The MCU Is Ready For Its Darkest Superhero Team-Up",
+    "Link": "https://screenrant.com/moon-knight-daredevil-benson-moorhead-midnight-suns/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/56d2b01b-df3e-40b9-b5c9-acb502e1c1ea.jpeg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:13"
+  },
+  {
+    "Topic": "General News",
+    "Title": "News live: no Australian ships will head to strait of Hormuz, minister says; three fishermen found dead off SA coast",
+    "Link": "https://www.theguardian.com/australia-news/live/2026/mar/16/australia-news-live-hybrid-car-sales-electric-vehicles-iran-footballers-tony-burke-asylum-oscars-academy-awards-anthony-albanese-angus-taylor-matt-canavan-labor-liberal-coalition-ntwnfb",
+    "ImageUrl": "https://i.guim.co.uk/img/media/eb1f55cc4ae720253c0290e8ba63a87119bdc7d8/100_0_2974_2381/master/2974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=934e86db199812016fe31bc431411998",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Zehntausende demonstrieren vor Parlamentswahl in Ungarn",
+    "Link": "https://www.tagesschau.de/ausland/europa/ungarn-parlamentswahl-proteste-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/ab1d7c3c-9aee-4bff-8a47-aa496b5e1eba/AAABnPLu0S4/AAABmyZE0EA/16x9-big/demonstration-margaretenbruecke-budapest-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Vorladung gegen Fed-Chef Powell vorerst aufgehoben",
+    "Link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ermittlungen-powell-gestoppt-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/f48b5fed-b6d8-4655-a98a-ba235bb49d17/AAABnOt2xhg/AAABmyZE0EA/16x9-big/jerome-powell-132.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:29"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Rachel McAdams pays tribute to late Diane Keaton at the Oscars: ‘A legend with no end’",
+    "Link": "https://www.theguardian.com/film/2026/mar/16/rachel-mcadams-pays-tribute-to-late-diane-keaton-at-the-oscars-a-legend-with-no-end",
+    "ImageUrl": "https://i.guim.co.uk/img/media/6f6554f0440678f55713f59e4e80fbf74a17634c/440_0_4426_3540/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea49a1a204ccde792254379905fd468a",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Wadephul schließt deutsche Beteiligung an Hormus-Mission aus",
+    "Link": "https://www.tagesschau.de/inland/wadephul-iran-hormus-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/a35dfa8f-16f1-42de-876f-707315c3373a/AAABnPKzELM/AAABmyZE0EA/16x9-big/sendungsbild-1701948.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:36"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A 100-solar-mass black hole merger ripples spacetime, and may flash in gamma rays",
+    "Link": "https://phys.org/news/2026-03-solar-mass-black-hole-merger.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HST_G1_%28Mayall_II%29.jpg/330px-HST_G1_%28Mayall_II%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-03-16 08:17:47"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Firefly Alpha FLTA007 “Stairway to Seven” launches successfully",
+    "Link": "https://www.nasaspaceflight.com/2026/03/firefly-flta007-launch/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_4141.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:50"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA clears its Artemis moon rocket for an April launch with four astronauts following repairs",
+    "Link": "https://phys.org/news/2026-03-nasa-artemis-moon-rocket-april.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Orion_Approaches_Moon_for_Outbound_Powered_Flyby.jpg/960px-Orion_Approaches_Moon_for_Outbound_Powered_Flyby.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-03-16 08:17:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
+    "Link": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-14-21-00-18-971.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:17:55"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Oval orbit casts new light on black hole–neutron star mergers",
+    "Link": "https://phys.org/news/2026-03-oval-orbit-black-holeneutron-star.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/960px-Saturn_during_Equinox.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-03-16 08:17:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "2026 Oscars: Start Time, Nominees, Host And Everything To Know",
+    "Link": "https://www.forbes.com/sites/monicamercuri/2026/03/15/2026-oscars-start-time-nominees-host-and-everything-to-know/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-03-16 04:43:31"
+    "Date": "2026-03-16 08:18:05"
   },
   {
-    "Topic": "General News",
-    "Title": "Police share details of tattoos as they trace man found dead in bin",
-    "Link": "https://www.bbc.com/news/articles/cly0dpl0438o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/585d/live/8f183080-206c-11f1-835d-a9c1e5274ec6.jpg",
+    "Topic": "Economy",
+    "Title": "Huntington Ingalls Industries: High Customer Demand, But Valuation Is High",
+    "Link": "https://seekingalpha.com/article/4882545-huntington-ingalls-industries-high-customer-demand-but-valuation-is-high?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165339513/image_2165339513.jpg?io=getty-c-w1536",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:43"
+    "Date": "2026-03-16 08:18:08"
   },
   {
-    "Topic": "General News",
-    "Title": "Will Starmer Help Trump In The War?",
-    "Link": "https://www.bbc.co.uk/sounds/play/p0n6stp0?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
+    "Topic": "Economy",
+    "Title": "Horror Hit ‘Scream 7’ Gets Streaming Release Date, Report Says",
+    "Link": "https://www.forbes.com/sites/timlammers/2026/03/15/horror-hit-scream-7-gets-streaming-release-date-report-says/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-03-16 08:18:11"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "PFXF: Trading Banking Sector Issues For Idiosyncratic Risks",
+    "Link": "https://seekingalpha.com/article/4882544-pfxf-trading-banking-sector-issues-for-idiosyncratic-risks?source=feed_all_articles",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-03-16 08:18:15"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "EMO: Monthly Income From Midstream Companies With Some Tradeoffs",
+    "Link": "https://seekingalpha.com/article/4882548-emo-monthly-income-from-midstream-companies-with-some-tradeoffs?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208771054/image_2208771054.jpg?io=getty-c-w1536",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:46"
+    "Date": "2026-03-16 08:18:18"
   },
   {
-    "Topic": "General News",
-    "Title": "'We never asked for a ceasefire,' says Iran's foreign minister, as war keeps raging",
-    "Link": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7363x4142+0+384/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Fb6693ddb40d1b66a6bef6ebfbc8b%2Fap26074100353503.jpg",
+    "Topic": "Data / AI",
+    "Title": "Advancing Gemini's security safeguards",
+    "Link": "https://deepmind.google/blog/advancing-geminis-security-safeguards/",
+    "ImageUrl": "https://lh3.googleusercontent.com/xdEmoQkKXSutXSqQYzbvc8IiZChOIlDE6GIvwU06dnxsIuLNF1i79USReh5DDYvNqU9CMPOM26XKvJ7ygRCAXIOdWGEXdiywJdZ6LYqGYl3K7xFZOw=w1200-h630-n-nu-rw",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:49"
+    "Date": "2026-03-16 08:18:27"
   },
   {
-    "Topic": "General News",
-    "Title": "Why North Korea just fired rockets during US-South Korea military drills",
-    "Link": "https://www.france24.com/en/why-north-korea-just-fired-rockets-during-us-south-korea-military-drills",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hwasong-18.jpg/500px-Hwasong-18.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-03-16 04:43:52"
-  },
-  {
-    "Topic": "General News",
-    "Title": "How the U.S. is using AI in the war in Iran",
-    "Link": "https://www.npr.org/2026/03/15/nx-s1-5745863/how-the-u-s-is-using-ai-in-the-war-in-iran",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "Topic": "Data / AI",
+    "Title": "AlphaFold: Five years of impact",
+    "Link": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+    "ImageUrl": "https://lh3.googleusercontent.com/ilVw2lFf7j4sXdrcpi5lAe9Hl3ZjGXdj92fjgmtmTkIKIW69XiTfosSpaGmTqJif6_yjlQAVdMFBfxfLRMC9oYqEWFvX0lY6f9J7tMm7SNzTysGbng=w1200-h630-n-nu-rw",
     "ImageSource": "og:image",
-    "Date": "2026-03-16 04:43:55"
+    "Date": "2026-03-16 08:18:30"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
+    "Link": "https://deepmind.google/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing Gemma 3",
+    "Link": "https://deepmind.google/blog/introducing-gemma-3/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma3_KeywordBlog_RD3_V01b_SocialShare.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:37"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing Google Antigravity",
+    "Link": "https://deepmind.google/blog/introducing-google-antigravity/",
+    "ImageUrl": "https://antigravity.google/assets/image/sitecards/sitecard-default.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The 1.x Files: The State(lessness) of the Union",
+    "Link": "https://blog.ethereum.org/en/2020/02/18/eth1x-files-the-statelessness-of-the-union",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/the1xfiles-black.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:49"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Devcon: What is Ahead",
+    "Link": "https://blog.ethereum.org/en/2020/03/02/devcon-whats-ahead",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/eth-wallpaper.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:52"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Finalized no. 37",
+    "Link": "https://blog.ethereum.org/en/2022/08/26/finalized-no-37",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_4dae2a4ab4b6c89615b4b5c624c04b52.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Finalized no. 35",
+    "Link": "https://blog.ethereum.org/en/2022/05/19/finalized-no-35",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/upload_4dae2a4ab4b6c89615b4b5c624c04b52.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Mekong Testnet Announcement",
+    "Link": "https://blog.ethereum.org/en/2024/11/07/introducing-mekong-testnet",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_814ec8d3fa8c96ba5f861ec8140de475.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-16 08:18:58"
   }
 ]
