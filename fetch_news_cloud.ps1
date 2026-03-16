@@ -4,6 +4,7 @@
 # - Custom RSS Feeds per topic (Universal RSS/Atom Parser)
 # - Feed Randomizer (picks random feeds per run for performance)
 # - Domain + content blocklist
+# - Topic keyword filter (OR logic: specific feed OR matching title)
 # - Dedup per-run + lintas-run (history 30 hari)
 # - Translate title to Indonesian (Google translate gtx)
 # - Feature image: og:image/twitter:image + Wikipedia fallback
@@ -11,8 +12,6 @@
 # - Added Source Domain in caption
 # - Disabled Telegram Web Page Preview for clean look
 # - Fixed XML parsing issue for CDATA titles
-# - UPDATED: 50 feeds per topic for Economy, Trading & Crypto, Astronomy
-# - UPDATED: Removed paywall/blocked feeds from feed lists
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
@@ -21,17 +20,20 @@ $ErrorActionPreference = "Stop"
 # 1. CONFIG & BLOCKLISTS
 # ---------------------------
 
-# Maksimal feed yang dicek per topik dalam 1x run agar tidak timeout
 $maxFeedsPerTopic = 5
 
+# -------------------------------------------------------
+# TOPIC FEEDS — Sudah diganti ke kategori spesifik
+# -------------------------------------------------------
 $topics = @{
     "Economy" = @(
-        # --- Internasional ---
+        # --- Internasional (kategori ekonomi/market spesifik) ---
         "https://www.cnbc.com/id/100003114/device/rss/rss.html",
         "https://www.cnbc.com/id/10000664/device/rss/rss.html",
         "https://www.reutersagency.com/feed/",
-        "https://www.forbes.com/business/feed/",
-        "https://fortune.com/feed",
+        "https://www.forbes.com/markets/feed/",
+        "https://www.forbes.com/money/feed/",
+        "https://fortune.com/section/finance/feed/",
         "https://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.nasdaq.com/feed/nasdaq-original/rss.xml",
         "https://seekingalpha.com/feed.xml",
@@ -39,7 +41,6 @@ $topics = @{
         "https://finance.yahoo.com/news/rssindex",
         "https://www.investing.com/rss/news_14.rss",
         "https://www.investing.com/rss/news_25.rss",
-        "https://www.investing.com/rss/news.rss",
         "https://moxie.foxbusiness.com/google-publisher/economy.xml",
         "https://moxie.foxbusiness.com/google-publisher/markets.xml",
         "https://feeds.feedburner.com/CalculatedRisk",
@@ -51,20 +52,20 @@ $topics = @{
         "https://investmentwatchblog.com/feed",
         "https://www.thestreet.com/feeds/rss",
         "https://timharford.com/feed",
-        # --- India / Asia ---
-        "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
-        "https://www.business-standard.com/rss/home_page_top_stories.rss",
-        "https://www.financialexpress.com/feed/",
-        "https://www.moneycontrol.com/rss/latestnews.xml",
+        # --- India / Asia (kategori bisnis/market) ---
+        "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+        "https://www.business-standard.com/rss/markets-104.rss",
+        "https://www.financialexpress.com/market/feed/",
+        "https://www.moneycontrol.com/rss/marketreports.xml",
         "https://feeds.feedburner.com/ndtvnews-top-stories",
-        "https://www.livemint.com/rss/homepage",
-        "https://www.thehindubusinessline.com/feeder/default.rss",
+        "https://www.livemint.com/rss/markets",
+        "https://www.thehindubusinessline.com/markets/feeder/default.rss",
         "https://en.globes.co.il/webservice/rss/rssfeeder.asmx/FeederV2?C_id=516",
         "https://thailand-business-news.com/feed",
         # --- Australia / Africa ---
         "https://www.businesslive.co.za/rss/",
         "https://www.afr.com/rss",
-        # --- Indonesia ---
+        # --- Indonesia (kategori ekonomi/bisnis spesifik) ---
         "https://money.kompas.com/feed",
         "https://finance.detik.com/feed",
         "https://www.kontan.co.id/rss",
@@ -72,17 +73,17 @@ $topics = @{
         "https://www.cnbcindonesia.com/rss",
         "https://www.antaranews.com/rss/ekonomi",
         "https://www.republika.co.id/rss/ekonomi",
-        "https://feed.liputan6.com/rss/news",
+        "https://feed.liputan6.com/rss/bisnis",
         "https://viva.co.id/get/all",
         "https://sindonews.com/feed",
         "https://www.merdeka.com/feed/",
-        "https://www.suara.com/rss",
+        "https://www.suara.com/rss/bisnis",
         "https://jpnn.com/index.php?mib=rss",
         "https://www.tribunnews.com/rss",
         "https://indianweb2.com/feeds/posts/default"
     )
     "Trading & Crypto" = @(
-        # --- Crypto Major ---
+        # --- Crypto Major (sudah spesifik crypto) ---
         "https://www.coindesk.com/arc/outboundfeeds/rss/",
         "https://cointelegraph.com/rss",
         "https://decrypt.co/feed",
@@ -109,7 +110,7 @@ $topics = @{
         "https://www.cryptoground.com/feeds.xml?format=xml",
         "https://tradersdna.com/feed/",
         "https://fintech.ca/feed/",
-        # --- Trading / Forex ---
+        # --- Trading / Forex (sudah spesifik trading) ---
         "https://www.investing.com/rss/news_301.rss",
         "https://www.investing.com/rss/news_1.rss",
         "https://www.investing.com/rss/news_11.rss",
@@ -125,13 +126,13 @@ $topics = @{
         "https://blog.coinbase.com/feed/",
         "https://blog.chain.link/feed/",
         "https://fxopen.blog/feed/",
-        # --- Indonesia ---
+        # --- Indonesia (kategori market) ---
         "https://www.cnbcindonesia.com/rss",
         "https://finance.detik.com/feed",
         "https://www.kontan.co.id/rss",
         "https://www.bisnis.com/rss",
         "https://www.antaranews.com/rss/ekonomi",
-        # --- India / Asia ---
+        # --- India / Asia (kategori market spesifik) ---
         "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
         "https://www.moneycontrol.com/rss/marketreports.xml",
         "https://www.livemint.com/rss/markets",
@@ -259,10 +260,10 @@ $topics = @{
         "https://www.planetary.org/feed/articles.xml"
     )
     "Movies" = @(
-        "https://variety.com/feed/",
-        "https://www.hollywoodreporter.com/feed/",
-        "https://www.indiewire.com/feed",
-        "https://deadline.com/feed/",
+        "https://variety.com/v/film/feed/",
+        "https://www.hollywoodreporter.com/c/movies/feed/",
+        "https://www.indiewire.com/c/film-reviews/feed/",
+        "https://deadline.com/category/film/feed/",
         "https://screenrant.com/feed/",
         "https://collider.com/feed/",
         "https://www.empireonline.com/movies/feed/rss/",
@@ -274,7 +275,7 @@ $topics = @{
         "https://www.firstshowing.net/feed/",
         "https://film.avclub.com/rss",
         "https://www.bleedingcool.com/movies/feed/",
-        "https://ew.com/feed/",
+        "https://ew.com/movies/feed/",
         "https://www.vulture.com/feed.xml",
         "https://www.tmz.com/rss.xml",
         "https://people.com/rss/index.xml",
@@ -343,6 +344,139 @@ $topics = @{
     )
 }
 
+# -------------------------------------------------------
+# TOPIC KEYWORD FILTER (safety net — OR logic)
+# Artikel lolos kalau judul mengandung MINIMAL 1 keyword
+# General News: semua lolos tanpa filter
+# -------------------------------------------------------
+$topicKeywords = @{
+    "Economy" = @(
+        "economy", "economic", "ekonomi", "GDP", "inflation", "inflasi",
+        "recession", "resesi", "fiscal", "fiskal", "monetary", "moneter",
+        "bank central", "central bank", "interest rate", "suku bunga",
+        "trade", "perdagangan", "export", "import", "ekspor", "impor",
+        "tax", "pajak", "budget", "anggaran", "debt", "utang", "hutang",
+        "market", "pasar", "stock", "saham", "bond", "obligasi",
+        "finance", "keuangan", "investment", "investasi", "investor",
+        "revenue", "profit", "earnings", "dividen", "dividend",
+        "IPO", "IHSG", "Wall Street", "Nasdaq", "S&P", "Dow Jones",
+        "commodity", "komoditas", "oil", "minyak", "gold", "emas",
+        "rupiah", "dollar", "currency", "mata uang", "forex",
+        "business", "bisnis", "startup", "unicorn", "merger", "acquisition",
+        "supply chain", "manufacture", "industri", "industry",
+        "unemployment", "pengangguran", "wage", "upah", "gaji", "salary",
+        "BI rate", "The Fed", "ECB", "IMF", "World Bank", "Bank Dunia",
+        "APBN", "BUMN", "OJK", "BEI", "bursa"
+    )
+    "Trading & Crypto" = @(
+        "bitcoin", "BTC", "ethereum", "ETH", "crypto", "kripto",
+        "blockchain", "DeFi", "NFT", "altcoin", "token", "coin",
+        "mining", "miner", "staking", "yield", "airdrop", "dex",
+        "exchange", "binance", "coinbase", "kraken", "bybit", "okx",
+        "trading", "trader", "forex", "FX", "currency pair",
+        "bull", "bear", "rally", "crash", "pump", "dump",
+        "wallet", "ledger", "metamask", "web3", "solana", "SOL",
+        "ripple", "XRP", "dogecoin", "DOGE", "cardano", "ADA",
+        "polkadot", "DOT", "avalanche", "AVAX", "polygon", "MATIC",
+        "stablecoin", "USDT", "USDC", "tether", "liquidity",
+        "leverage", "margin", "futures", "options", "derivatives",
+        "candlestick", "chart", "technical analysis", "resistance", "support",
+        "SEC", "regulation", "regulasi", "halving", "memecoin",
+        "commodities", "gold trading", "oil trading", "silver",
+        "pip", "spread", "lot", "scalping", "swing trade",
+        "signal", "indicator", "RSI", "MACD", "moving average"
+    )
+    "Science" = @(
+        "science", "sains", "research", "penelitian", "riset",
+        "study", "studi", "discovery", "penemuan", "experiment",
+        "laboratory", "lab", "scientist", "ilmuwan",
+        "physics", "fisika", "chemistry", "kimia", "biology", "biologi",
+        "genetics", "genetika", "DNA", "RNA", "genome", "gene",
+        "climate", "iklim", "environment", "lingkungan", "ecology",
+        "evolution", "evolusi", "species", "spesies", "fossil",
+        "brain", "otak", "neuroscience", "neuron", "psychology",
+        "vaccine", "vaksin", "virus", "bacteria", "disease", "penyakit",
+        "medicine", "medical", "health", "kesehatan", "therapy",
+        "quantum", "atom", "molecule", "particle", "energy",
+        "ocean", "laut", "earthquake", "gempa", "volcano", "gunung",
+        "data science", "statistics", "statistik", "algorithm"
+    )
+    "Technology" = @(
+        "tech", "teknologi", "technology", "software", "hardware",
+        "AI", "artificial intelligence", "kecerdasan buatan",
+        "machine learning", "deep learning", "neural network",
+        "robot", "robotics", "automation", "otomasi",
+        "smartphone", "laptop", "gadget", "device", "chip", "processor",
+        "cloud", "server", "database", "API", "programming", "coding",
+        "startup", "app", "aplikasi", "platform", "SaaS",
+        "cybersecurity", "hacker", "privacy", "encryption",
+        "5G", "internet", "wifi", "broadband", "fiber",
+        "Google", "Apple", "Microsoft", "Meta", "Amazon", "Samsung",
+        "open source", "Linux", "GitHub", "developer",
+        "VR", "AR", "virtual reality", "augmented reality", "metaverse",
+        "autonomous", "self-driving", "EV", "electric vehicle",
+        "semiconductor", "silicon", "TSMC", "Nvidia", "Intel"
+    )
+    "Astronomy" = @(
+        "space", "luar angkasa", "antariksa", "astronomy", "astronomi",
+        "NASA", "ESA", "JAXA", "SpaceX", "rocket", "roket",
+        "satellite", "satelit", "orbit", "launch", "peluncuran",
+        "planet", "mars", "jupiter", "saturn", "venus", "mercury",
+        "moon", "bulan", "lunar", "solar", "sun", "matahari",
+        "star", "bintang", "galaxy", "galaksi", "nebula", "cosmos",
+        "telescope", "teleskop", "Hubble", "JWST", "Webb",
+        "asteroid", "comet", "komet", "meteor", "meteorit",
+        "black hole", "dark matter", "dark energy", "supernova",
+        "ISS", "space station", "astronaut", "kosmonaut",
+        "exoplanet", "light year", "tahun cahaya", "constellation",
+        "milky way", "Bima Sakti", "cosmic", "universe", "alam semesta",
+        "spacecraft", "rover", "probe", "lander", "mission",
+        "starship", "falcon", "artemis", "crew dragon",
+        "gravitational wave", "pulsar", "quasar", "magnetar",
+        "astrophysics", "astrobiology", "cosmology"
+    )
+    "Movies" = @(
+        "movie", "film", "cinema", "bioskop", "box office",
+        "trailer", "teaser", "premiere", "premier",
+        "director", "sutradara", "actor", "actress", "aktris",
+        "Oscar", "Academy Award", "Golden Globe", "Emmy",
+        "Hollywood", "Bollywood", "Netflix", "Disney+", "HBO",
+        "streaming", "sequel", "prequel", "reboot", "remake",
+        "superhero", "Marvel", "DC", "horror", "thriller",
+        "comedy", "komedi", "drama", "action", "animation", "animasi",
+        "screenplay", "script", "casting", "review", "rating",
+        "blockbuster", "indie", "festival", "Cannes", "Sundance",
+        "series", "TV show",
+        "documentary", "dokumenter", "short film", "feature film",
+        "CGI", "VFX", "special effects", "soundtrack",
+        "production", "produksi", "studio", "Warner", "Universal",
+        "Paramount", "Sony Pictures", "Lionsgate", "A24"
+    )
+    "Data / AI" = @(
+        "AI", "artificial intelligence", "kecerdasan buatan",
+        "machine learning", "deep learning", "neural network",
+        "GPT", "LLM", "large language model", "transformer",
+        "ChatGPT", "OpenAI", "Anthropic", "Claude", "Gemini", "Llama",
+        "data science", "data engineering", "big data",
+        "NLP", "natural language", "computer vision",
+        "reinforcement learning", "supervised", "unsupervised",
+        "training", "fine-tuning", "model", "benchmark",
+        "dataset", "annotation", "labeling", "preprocessing",
+        "TensorFlow", "PyTorch", "Keras", "scikit-learn",
+        "MLOps", "deployment", "inference", "pipeline",
+        "ethics", "bias", "fairness", "alignment", "safety",
+        "generative AI", "diffusion", "image generation",
+        "prompt engineering", "RAG", "retrieval", "embedding",
+        "autonomous", "agent", "multimodal", "foundation model",
+        "research paper", "arxiv", "ICML", "NeurIPS",
+        "robotics", "automation", "prediction", "classification"
+    )
+    "General News" = @()  # Semua berita lolos tanpa filter
+}
+
+# -------------------------------------------------------
+# BLOCKLISTS
+# -------------------------------------------------------
 $domainBlocklist = @(
     "nytimes.com", "wsj.com", "bloomberg.com", "ft.com", "economist.com",
     "hbr.org", "medium.com", "washingtonpost.com", "thetimes.co.uk",
@@ -351,9 +485,9 @@ $domainBlocklist = @(
 )
 
 $contentBlocklist = @(
-    "Register", "Admission", "Seminar", "Webinar", "Workshop", "Talk",
+    "Register", "Admission", "Seminar", "Webinar", "Workshop",
     "Conference", "Symposium", "Registration", "Tickets", "Eventbrite",
-    "Podcast", "Episode", "Ep.", "Listen", "Audio", "Season", "Stream", "Show"
+    "Podcast", "Episode", "Ep.", "Listen", "Audio"
 )
 
 $script:userAgent            = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
@@ -428,6 +562,26 @@ function Test-ShouldBlock {
     }
     foreach ($word in $contentBlocklist) {
         if ($Title -match "\b$word\b") { return $true }
+    }
+    return $false
+}
+
+# -------------------------------------------------------
+# TOPIC RELEVANCE CHECK (OR logic / safety net)
+# Artikel lolos jika judul mengandung minimal 1 keyword
+# General News: semua lolos (keyword list kosong)
+# -------------------------------------------------------
+function Test-TopicRelevant {
+    param([string]$Title, [string]$TopicName)
+    
+    $keywords = $topicKeywords[$TopicName]
+    if (-not $keywords -or $keywords.Count -eq 0) { return $true }
+    
+    $lowerTitle = $Title.ToLowerInvariant()
+    foreach ($kw in $keywords) {
+        if ($lowerTitle.Contains($kw.ToLowerInvariant())) {
+            return $true
+        }
     }
     return $false
 }
@@ -544,19 +698,16 @@ $runSeen = [System.Collections.Generic.HashSet[string]]::new()
 foreach ($topicName in $topics.Keys) {
     
     $items = @()
-    # Acak feed di topik ini, dan batasi jumlah request agar proses script tidak berjalan berjam-jam
     $shuffledFeeds = $topics[$topicName] | Sort-Object { Get-Random } | Select-Object -First $maxFeedsPerTopic
 
     foreach ($feedUrl in $shuffledFeeds) {
         try {
-            # Tambahkan "https://" jika user lupa menulisnya (misal: "money.kompas.com/feed")
             $safeUrl = $feedUrl
             if (-not ($safeUrl -match "^https?://")) { $safeUrl = "https://$safeUrl" }
 
             [xml]$xml = (Invoke-WebRequest -Uri $safeUrl -UserAgent $script:userAgent -TimeoutSec 10 -ErrorAction Stop).Content
             $nodes = $null
 
-            # Universal parser untuk RSS / Atom / RDF
             if ($xml.rss.channel.item) { $nodes = $xml.rss.channel.item }
             elseif ($xml.feed.entry) { $nodes = $xml.feed.entry }
             elseif ($xml.RDF.item) { $nodes = $xml.RDF.item }
@@ -564,7 +715,6 @@ foreach ($topicName in $topics.Keys) {
             if ($nodes) {
                 foreach ($node in $nodes) {
                     
-                    # Ekstrak judul yang formatnya berupa XML Element (seperti CDATA) agar tidak tampil System.Xml.XmlElement
                     $title = $null
                     if ($node.title -is [string]) { 
                         $title = $node.title 
@@ -576,7 +726,6 @@ foreach ($topicName in $topics.Keys) {
                         $title = $node.title."#text"
                     }
                     
-                    # Handle Atom link (bisa berupa object href, array, dll) vs RSS link (string)
                     $link = $null
                     if ($node.link -is [string]) { $link = $node.link }
                     elseif ($node.link.href) { $link = $node.link.href }
@@ -621,8 +770,16 @@ foreach ($topicName in $topics.Keys) {
         $fullLink = Resolve-FinalUrl -Url $item.Link
         $canonicalKey = Get-CanonicalUrlKey -Url $fullLink
 
+        # Domain + content blocklist
         if (Test-ShouldBlock -Url $fullLink -Title $item.Title) { continue }
 
+        # Topic relevance keyword filter (OR logic safety net)
+        if (-not (Test-TopicRelevant -Title $item.Title -TopicName $topicName)) {
+            Write-Host "  Skipped (off-topic for $topicName): $($item.Title)"
+            continue
+        }
+
+        # Dedup check
         $alreadySent = $false
         foreach ($h in $sentHistory) {
             $hKey = Get-SafeProp -Obj $h -Name "CanonicalKey"
@@ -633,7 +790,6 @@ foreach ($topicName in $topics.Keys) {
         [void]$runSeen.Add($canonicalKey)
 
         $translatedTitle = Get-GoogleTranslation -Text $item.Title
-        # Mengamankan karakter HTML agar tidak error saat dikirim via Telegram (HTML parse mode)
         $safeTitle = $translatedTitle.Replace("<", "&lt;").Replace(">", "&gt;")
 
         $imageUrl = Get-ArticleImage -Url $fullLink
@@ -648,7 +804,6 @@ foreach ($topicName in $topics.Keys) {
 
         if (-not $imageUrl) { $imageSource = "none" }
 
-        # Ekstrak nama domain dari URL dan format pesan untuk Telegram
         $sourceDomain = ([uri]$fullLink).Host.Replace("www.", "")
         $caption = "<b>$($sentCount + 1). $safeTitle</b>`n<a href='$fullLink'>Baca Selengkapnya</a>`nSource : $sourceDomain"
         
