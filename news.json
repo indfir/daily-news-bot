@@ -1,266 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Llama 2 is here - get it on Hugging Face",
-    "Link": "https://huggingface.co/blog/llama2",
-    "ImageUrl": "https://huggingface.co/blog/assets/llama2/thumbnail.jpg",
+    "Topic": "Astronomy",
+    "Title": "Isar Aerospace scrubs second launch of Spectrum rocket",
+    "Link": "https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-525x350.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:00"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-    "Link": "https://huggingface.co/blog/transformers-v5",
-    "ImageUrl": "https://huggingface.co/blog/assets/transformers_v5/transformers-thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
-    "Link": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
-    "ImageUrl": "https://huggingface.co/blog/assets/1_58_llm_extreme_quantization/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:07"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "Link": "https://huggingface.co/blog/intel-qwen3-agent",
-    "ImageUrl": "https://huggingface.co/blog/assets/intel-qwen3-agent/smolagents-1300-650.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Interactively explore your Huggingface dataset with one line of code",
-    "Link": "https://huggingface.co/blog/scalable-data-inspection",
-    "ImageUrl": "https://huggingface.co/blog/assets/scalable-data-inspection/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:13"
+    "Date": "2026-03-31 03:39:31"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Hubble image: IC 486—where spiral arms and star formation meet",
-    "Link": "https://phys.org/news/2026-03-hubble-image-ic-spiral-arms.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/IC_1101_in_Abell_2029_%28hst_06228_03_wfpc2_f702w_pc%29.jpg",
+    "Title": "Rubin Observatory Detects Record-Breaking Asteroids",
+    "Link": "https://skyandtelescope.org/astronomy-news/rubin-observatory-detects-record-breaking-asteroids/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-30 03:26:33"
+    "Date": "2026-03-31 03:39:36"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Review: How Space Physics Really Works",
-    "Link": "https://www.thespacereview.com/article/4637/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Physics_wallah_logo.svg/960px-Physics_wallah_logo.svg.png",
+    "Title": "NASA unveils Space Reactor-1 Freedom mission to Mars in 2028",
+    "Link": "https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-24-13-24-00-604.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:39:39"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Progress on Starbase Pads ahead of Block 3 Starships",
+    "Link": "https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-24-02-14-33-568.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:39:41"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Comet Break-Up Caught In Action",
+    "Link": "https://skyandtelescope.org/astronomy-news/comet-break-up-caught-in-action/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Comet_Ping_Pong_Pizzagate_2016_01.jpg/960px-Comet_Ping_Pong_Pizzagate_2016_01.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-30 03:26:37"
+    "Date": "2026-03-31 03:39:45"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Hiding in plain sight: Is China's spaceplane a co-orbital ASAT in disguise?",
-    "Link": "https://www.thespacereview.com/article/4656/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:26:42"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " This Celestron Firstscope is my go-to for moonwatching and it's 15% off in Amazon's Spring Sale ",
-    "Link": "https://www.space.com/stargazing/skywatching-kit/this-celestron-firstscope-is-my-go-to-for-moonwatching-and-its-15-percent-off-in-amazons-spring-sale",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/sTMKMZKZHmA2JsAU9VfNEW-2133-80.jpg",
+    "Topic": "Data / AI",
+    "Title": "Disney's Sora Disaster Shows AI Will Not Revolutionize Hollywood",
+    "Link": "https://www.404media.co/disneys-openai-sora-disaster-shows-ai-will-not-save-hollywood/",
+    "ImageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/kin-li-EGJ-YrqPS8E-unsplash.png",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:26:45"
+    "Date": "2026-03-31 03:39:54"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Architecting lunar infrastructure",
-    "Link": "https://www.thespacereview.com/article/4796/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:26:49"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Measuring progress toward AGI: A cognitive framework",
-    "Link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agi_cognitive-framework_meta.width-1300.jpg",
+    "Topic": "Data / AI",
+    "Title": "An AI Agent Was Banned From Creating Wikipedia Articles, Then Wrote Angry Blogs About Being Banned",
+    "Link": "https://www.404media.co/an-ai-agent-was-banned-from-creating-wikipedia-articles-then-wrote-angry-blogs-about-being-banned/",
+    "ImageUrl": "https://images.unsplash.com/photo-1657256031790-e898b7b3f3eb?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDF8fHdpa2lwZWRpYXxlbnwwfHx8fDE3NzQ4NzkzMDB8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:00"
+    "Date": "2026-03-31 03:39:58"
   },
   {
-    "Topic": "Technology",
-    "Title": "How we're supporting better tropical cyclone prediction with AI",
-    "Link": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:27:04"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Gemini 2.5: Our most intelligent AI model",
-    "Link": "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2.5_keyword_social_share_text.width-1300.png",
+    "Topic": "Data / AI",
+    "Title": "Apple Gives FBI a User’s Real Name Hidden Behind ’Hide My Email’ Feature",
+    "Link": "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature/",
+    "ImageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/andy-wang-Nfw2A9JGBsw-unsplash.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:08"
+    "Date": "2026-03-31 03:40:01"
   },
   {
-    "Topic": "Technology",
-    "Title": "Full network of clitoral nerves mapped out for first time",
-    "Link": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-    "ImageUrl": "https://i.guim.co.uk/img/media/1ad221c2399d069c78f3c209146764f18ffd967e/967_340_3132_2506/master/3132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=214114d7b1d5a5479ea3966b2155cf14",
+    "Topic": "Data / AI",
+    "Title": "Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere",
+    "Link": "https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/",
+    "ImageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-24-at-09.33.52@2x.png",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:12"
+    "Date": "2026-03-31 03:40:05"
   },
   {
-    "Topic": "Technology",
-    "Title": "Start building with Gemini 3",
-    "Link": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_dev-blog_meta-01-dark.width-1300.jpg",
+    "Topic": "Data / AI",
+    "Title": "A Top Google Search Result for Claude Plugins Was Planted by Hackers",
+    "Link": "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
+    "ImageUrl": "https://images.unsplash.com/photo-1746286721753-fde48e5d1314?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNsYXVkZXxlbnwwfHx8fDE3NzQzNTkyMjJ8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:16"
+    "Date": "2026-03-31 03:40:08"
   },
   {
     "Topic": "Economy",
-    "Title": "The big pain trades of Q1",
-    "Link": "https://seekingalpha.com/news/4570029-the-big-pain-trades-of-q1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:27:25"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching",
-    "Link": "https://www.cnbc.com/2026/03/29/pokemon-card-values-rise-logan-paul-pikachu-auction.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108283633-1774551148434-Screenshot_2026-03-26_at_25203_PM.png?v=1774551253&amp;w=1920&amp;h=1080",
+    "Title": "Viral Tanah di Denpasar Mengeluarkan Api, Temuan Polisi Bali Mengejutkan",
+    "Link": "https://bali.jpnn.com/bali-terkini/40946/viral-tanah-di-denpasar-mengeluarkan-api-temuan-polisi-bali-mengejutkan",
+    "ImageUrl": "https://cloud.jpnn.com/photo/bali/news/normal/2026/03/30/viral-video-tanah-di-denpasar-mengeluarkan-api-yang-membuat-d6y2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:29"
+    "Date": "2026-03-31 03:40:31"
   },
   {
     "Topic": "Economy",
-    "Title": "Harga Emas Dunia Melonjak Tajam, Ini Penyebabnya Ilustrasi harga emas dunia hari ini (Foto By AI)",
-    "Link": "https://www.liputan6.com/bisnis/read/6305588/harga-emas-dunia-melonjak-tajam-ini-penyebabnya",
-    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/w2rOzNt81Hpq6w8LBpz_GNuhRnA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4723188/original/034031500_1705921925-fotor-ai-20240122181144.jpg",
+    "Title": "Ini Hasil RUPST dan RUPSLB WOM Finance Tahun 2026",
+    "Link": "https://www.jpnn.com/news/ini-hasil-rupst-dan-rupslb-wom-finance-tahun-2026",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/03/30/wom-fpmyl-fz2e.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:32"
+    "Date": "2026-03-31 03:40:42"
   },
   {
     "Topic": "Economy",
-    "Title": "Bond investors see growth shock ahead as markets focus on inflation",
-    "Link": "https://seekingalpha.com/news/4570032-bond-investors-see-growth-shock-ahead-as-markets-focus-on-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/1976_%245000_8%25_Treasury_Note.jpg/960px-1976_%245000_8%25_Treasury_Note.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-03-30 03:27:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
-    "Link": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108279003-1773764012826-gettyimages-2267048134-_73a4437_g4pjzobf.jpeg?v=1773764096&amp;w=1920&amp;h=1080",
+    "Title": "Prajurit TNI Tewas di Lebanon, Legislator: Pelanggaran Berat Hukum Internasional",
+    "Link": "https://www.jpnn.com/news/prajurit-tni-tewas-di-lebanon-legislator-pelanggaran-berat-hukum-internasional",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2025/11/17/arsip-prajurit-tni-dari-satgas-batalyon-mekanis-yonmek-tni-p-hpqv.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:42"
+    "Date": "2026-03-31 03:40:44"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Nuon Dorong Ekosistem Digital Lifestyle, Bidik Potensi Pasar Nasional",
+    "Link": "https://www.jpnn.com/news/nuon-dorong-ekosistem-digital-lifestyle-bidik-potensi-pasar-nasional",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/03/30/nuon-memosisikan-diri-sebagai-platform-penghubung-antara-kon-mnbp.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:40:50"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Kemenkum Bali & Polresta Denpasar Sepakat Kolaborasi Sosialisasi KUHP Baru",
+    "Link": "https://bali.jpnn.com/bali-terkini/40943/kemenkum-bali-polresta-denpasar-sepakat-kolaborasi-sosialisasi-kuhp-baru",
+    "ImageUrl": "https://cloud.jpnn.com/photo/bali/news/normal/2026/03/30/kapolresta-denpasar-kombes-leonardo-simatupang-dan-kakanwil-mlpd.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:40:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Watch the first video of a sperm whale birth captured by scientists",
+    "Link": "https://www.sciencenews.org/article/first-video-sperm-whale-birth",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/032626_LB_whalebirth_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover why your appetite suddenly disappears when you’re sick",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260328024519.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/sick-old-man-trying-to-eat.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:10"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists solved the mystery of missing ocean plastic—and the answer is alarming",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/microplastic-nanoplastic-fingertip.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:14"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just found a way to store massive data using light in 3 dimensions",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260328212132.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/3d-holographic-data-storage-illustration.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:17"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists find immune cell linked to long COVID fatigue and symptoms",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260325005922.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/monocyte-white-blood-immune-cell.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:21"
   },
   {
     "Topic": "General News",
-    "Title": " Toyota eyes lunar rover powered by regenerative fuel-cell tech ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/22/business/corporate-business/toyota-moon-rover/",
-    "ImageUrl": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+    "Title": "El acuerdo Ayuso-rectores: una pequeña bombona de oxígeno para unas universidades moribundas",
+    "Link": "https://elpais.com/educacion/2026-03-27/el-acuerdo-ayuso-rectores-una-pequena-bombona-de-oxigeno-para-unas-universidades-moribundas.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/DDR7XVNAMNF33PLZCRM3A4TQTQ.jpg?auth=f28205127e29d9e253b87d530a95f2e6478a0e4622b9811036ea015df823ea9f&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:53"
+    "Date": "2026-03-31 03:41:30"
   },
   {
     "Topic": "General News",
-    "Title": " Extreme heat and weather conditions attributed to stagnant jet stream ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240798.jpg?v=3.1",
+    "Title": "Kristina Ishmael, exjefa de tecnología del Departamento de Educación de EE UU: “El fervor por la IA disminuirá” ",
+    "Link": "https://elpais.com/educacion/2026-03-27/kristina-ishmael-exjefa-de-tecnologia-del-departamento-de-educacion-de-ee-uu-el-fervor-por-la-ia-disminuira.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/OKYIGS2B55H3DOC5BWDSWXSWAM.jpg?auth=d5f8f8eed3406a53d7172eadec14ba7cba8a0a1d208734bfc014c47bff17ffa3&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:27:57"
+    "Date": "2026-03-31 03:41:36"
   },
   {
     "Topic": "General News",
-    "Title": " Nissan management shake-up plans reported as sharks circle   ",
-    "Link": "https://www.japantimes.co.jp/business/2025/02/27/companies/nissan-ceo-change/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/02/27/454474.jpg?v=3.1",
+    "Title": "Estas son las profesiones mejor pagadas de España (con sueldos superiores a 50.000 euros)",
+    "Link": "https://elpais.com/economia/negocios/2026-03-30/estas-son-las-profesiones-mejor-pagadas-de-espana-con-sueldos-superiores-a-50000-euros.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/DFLXI2L5IBD4VIT35H2MBB6BUI.jpg?auth=c024ba54ec6dd12b8fb0b9093392f913a16a3d5d320a4cc5942e444472b8bb93&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:01"
+    "Date": "2026-03-31 03:41:38"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Liquidity Routing in DeFi: The Underrated Infrastructure Powering Efficient Markets",
-    "Link": "https://smartliquidity.info/2026/03/20/liquidity-routing-in-defi-the-underrated-infrastructure-powering-efficient-markets/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/03/SMARTCRYTONEWS-2026-03-20T162344.384.jpg",
+    "Topic": "General News",
+    "Title": "Ocho libros de literatura africana para abrir espacios a la libertad y a la justicia ",
+    "Link": "https://elpais.com/planeta-futuro/2026-03-30/ocho-libros-de-literatura-africana-para-abrir-espacios-a-la-libertad-y-a-la-justicia.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/NNY3R77GTFDGFDVT6OD6V4AOME.png?auth=a61a8ffdea88268b422e3f9cc560c244aa0f1239f4b15b39eb3544902bc250db&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:10"
+    "Date": "2026-03-31 03:41:43"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "OKX Joins Growing List of Crypto Firms Stepping Back From Public Markets",
-    "Link": "https://www.financemagnates.com/cryptocurrency/okx-joins-growing-list-of-crypto-firms-stepping-back-from-public-markets/",
-    "ImageUrl": "https://images.financemagnates.com/images/IPO%20%28shutterstock%29_id_4411db75-4ace-4863-b7ad-2a8eff6bfdfd_size900.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Introducing Synthetic Pairs on Kraken Pro",
-    "Link": "https://blog.kraken.com/product/pro/synthetic-pairs",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/03/1535x700-2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:17"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SCOR is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/scor-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/03/a53f0878-e945-4d3d-af3d-00ffd1c0b809.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "New assets and pairs available for margin trading: 0G, SKY, QNT!",
-    "Link": "https://blog.kraken.com/product/margin/0g-sky-qnt",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/03/NewAssets_Blog.png",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:24"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists found a bug that generates its own heat in freezing cold",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260326011455.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/snow-fly-chionea-alexandriana.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:31"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Quadratic gravity theory reshapes quantum view of Big Bang",
-    "Link": "https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:28:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists just discovered bees and hummingbirds are drinking alcohol",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260325005908.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/hummingbird-eating-pollen-from-pretty-flower.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-03-30 03:28:37"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Researchers examine how AI chatbots are shaping government operations",
-    "Link": "https://phys.org/news/2026-03-ai-chatbots.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-03-30 03:28:41"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ancient DNA reveals earliest known dogs lived alongside Ice Age humans",
-    "Link": "https://phys.org/news/2026-03-ancient-dna-reveals-earliest-dogs.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ancient_DNA.png",
+    "Topic": "General News",
+    "Title": "Boots on the ground? Trump eyes Iran oil hub Kharg Island",
+    "Link": "https://www.france24.com/en/tv-shows/the-debate/20260330-boots-on-the-ground-trump-eyes-iran-oil-hub-kharg-island",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Library_hosts_R%26B_and_soul_line_dancing_in_the_Great_Hall_with_Queen_Nur%2C_featuring_DJs_AJ_RIvers_and_Chris_Blues%2C_at_%22Live%21_At_the_Library%22_February_27%2C_2025_-_13.jpg/960px-thumbnail.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-03-30 03:28:45"
+    "Date": "2026-03-31 03:41:47"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitmine hits 4.73M ETH with biggest 2026 buy amid outflows",
+    "Link": "https://coinjournal.net/news/bitmine-hits-4-73m-eth-with-biggest-2026-buy-amid-outflows/",
+    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/02/ethereum-price-trading-laptop-chart.jpg.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:41:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Tether Taps KPMG for First Big Four USDT Audit Amid U.S. Expansion Push",
+    "Link": "https://decrypt.co/362556/tether-taps-kpmg-for-first-big-four-usdt-audit-amid-u-s-expansion-push",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Tether-decrypt-style-03-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:00"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Falls to 2-Week Low as Ripple Deploys AI to Boost Ledger Security",
+    "Link": "https://decrypt.co/362495/xrp-2-week-low-ripple-deploys-ai-boost-ledger-security",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:03"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Jack Dorsey's Square Automatically Enables Bitcoin Payments for Millions of Sellers",
+    "Link": "https://decrypt.co/362770/jack-dorsey-square-enables-bitcoin-payments-millions-sellers",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/jack-dorsey-decrypt-style-02-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:06"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "What Rising US Bond Yields Mean for Bitcoin",
+    "Link": "https://decrypt.co/362551/what-rising-us-bond-yields-mean-for-bitcoin",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:10"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Pompeii Study Confirms Roman ‘Wine’ Ritual Previously Known Only From Texts",
+    "Link": "https://gizmodo.com/pompeii-study-confirms-roman-wine-ritual-previously-known-only-from-texts-2000739384",
+    "ImageUrl": "https://gizmodo.com/app/uploads/2026/03/Vesuvius-from-Pompeii-Eber-1200x675.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:18"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "We Hid a Free Trip to Switzerland in Our Privacy Policy. Someone Found It",
+    "Link": "https://www.cape.co/blog/easter-egg-in-privacy-policy",
+    "ImageUrl": "https://cdn.sanity.io/images/9u514z6s/production/e3f7b2a1957f2650810f13efa1750beaba38e785-4485x3118.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:22"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "An NSFW filter for Marginalia search",
+    "Link": "https://www.marginalia.nu/log/a_134_nsfw/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wikipe-tan_Commission_2_by_SpagMushrooms.png/960px-Wikipe-tan_Commission_2_by_SpagMushrooms.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-03-31 03:42:27"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
+    "Link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:29"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "What Construction at a Train Station Taught Me About Software Engineering",
+    "Link": "https://engineering.leanix.net/blog/engineering/",
+    "ImageUrl": "https://engineering.leanix.net/img/meta/og.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Poll: Vote for Your Most Anticipated Movies of April",
+    "Link": "https://editorial.rottentomatoes.com/article/most-anticipated-movies-of-april-2026/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/Most_Anticipated_Movies_April_2026-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:50"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "All Upcoming Walt Disney Pictures Movies: Walt Disney Studios, Walt Disney Animation Studios, Pixar Animation Studios, 20th Century Studios, And Searchlight Pictures",
+    "Link": "https://editorial.rottentomatoes.com/article/upcoming-disney-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/02/Upcoming_Disney_Moana.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:53"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Lee Cronin’s The Mummy: Release Date, Cast, Trailers & More",
+    "Link": "https://editorial.rottentomatoes.com/article/everything-we-know-about-lee-cronins-the-mummy/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/EWKA_Lee_Cronin_Mummy-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:42:57"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "100 Best Movies of 2005 Ranked (V for Vendetta)",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-2005/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/12/VFORTHUMB.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:43:00"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "All Ryan Gosling Movies Ranked",
+    "Link": "https://editorial.rottentomatoes.com/guide/all-ryan-gosling-movies-ranked/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2024/11/PROJECTthumb.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-03-31 03:43:03"
   }
 ]
