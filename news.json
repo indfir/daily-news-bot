@@ -1,322 +1,314 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "Paw Patrol: The Dino Movie Debuts New Trailer, Film Out On August 14",
-    "Link": "https://bleedingcool.com/movies/paw-patrol-the-dino-movie-debuts-new-trailer-film-out-on-august-14/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/MixCollage-30-Mar-2026-01-36-PM-1773-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:06"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Tom Hanks Starring In New Baseball Film With Bad Bunny &#038; Coman Domingo",
-    "Link": "https://bleedingcool.com/movies/tom-hanks-starring-in-new-baseball-film-with-bad-bunny-coman-domingo/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2022/09/A-League-of-Their-Own-Tom-Hanks-1734x720-1-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:09"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Booster Gold Series: Victim of \"The Studio\" &#038; \"Wonder Man\" Success?",
-    "Link": "https://bleedingcool.com/tv/booster-gold-series-victim-of-the-studio-wonder-man-success/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/MixCollage-28-Mar-2026-07-35-PM-2146-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:12"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Star Wars: Maul – Shadow Lord Drops Sneak Peek, New Teaser &#038; More",
-    "Link": "https://bleedingcool.com/tv/star-wars-maul-shadow-lord-drops-sneak-peek-new-teaser-more/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/Maul_Darth_Maul_1-Sheet-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:15"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Supergirl: Trailer Tomorrow, Clark Leaves A Voicemail In New TV Spot",
-    "Link": "https://bleedingcool.com/movies/supergirl-trailer-tomorrow-clark-leaves-a-voicemail-in-new-tv-spot/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/12/supergirl-feature-image-2-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Environment and Energy “Blue Marble” Awards Categories",
-    "Link": "https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2024/03/image-of-earth-13-apollo-17-blue-marble-photo-dec-7-1972-as17-148-22727.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Laser trial run kickstarts new era of interferometry",
-    "Link": "https://www.eso.org/public/news/eso2519/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2519a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:31"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "New Astro Images: Saturn, the Crab Nebula, and a Newborn Planet",
-    "Link": "https://skyandtelescope.org/astronomy-news/new-astro-images-saturn-the-crab-and-a-newborn-planet/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Saturn_irregular_moon_orbits_tilted_annotated_2025.png/960px-Saturn_irregular_moon_orbits_tilted_annotated_2025.png",
+    "Topic": "Data / AI",
+    "Title": "Visualize and understand GPU memory in PyTorch",
+    "Link": "https://huggingface.co/blog/train_memory",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/960px-2788-2888_San_Tomas_Expwy.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-01 03:38:34"
+    "Date": "2026-04-02 03:39:26"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Comments on U.S. National AI Research Resource Interim Report",
+    "Link": "https://huggingface.co/blog/us-national-ai-research-resource",
+    "ImageUrl": "https://huggingface.co/blog/assets/92_us_national_ai_research_resource/nairr_thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:29"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Probabilistic Time Series Forecasting with 🤗 Transformers",
+    "Link": "https://huggingface.co/blog/time-series-transformers",
+    "ImageUrl": "https://huggingface.co/blog/assets/118_time-series-transformers/thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:32"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "We Raised $100 Million for Open & Collaborative Machine Learning 🚀",
+    "Link": "https://huggingface.co/blog/series-c",
+    "ImageUrl": "https://huggingface.co/blog/assets/65_series_c/thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:35"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Welcome fastai to the Hugging Face Hub",
+    "Link": "https://huggingface.co/blog/fastai",
+    "ImageUrl": "https://huggingface.co/blog/assets/64_fastai/fastai_hf_blog.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:38"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Drift Protocol SOL Exploit Sees Over $200M Drained: Biggest DeFi Hack of 2026?",
+    "Link": "https://news.bitcoin.com/drift-protocol-sol-exploit-sees-over-200m-drained-biggest-defi-hack-of-2026/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/04/drift-protocol-sol-exploit-biggest-defi-hack-of-2026.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20260401%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260401T183257Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=c42f3172b33d83edd11b3758fcd2ffb836d0ada9c60b893721029db9e510c804",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:50"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Digital Asset Firm Coinshares Lists on Nasdaq After $1.2 Billion Vine Hill Combination",
+    "Link": "https://news.bitcoin.com/digital-asset-firm-coinshares-lists-on-nasdaq-after-1-2-billion-vine-hill-combination/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/04/digital-asset-firm-coinshares-lists-on-nasdaq-after-1-2-billion-vine-hill-combination.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:55"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "US Treasury Seeks Industry Input as Stablecoin Regulation Enters Federal Rulemaking Phase",
+    "Link": "https://news.bitcoin.com/us-treasury-seeks-industry-input-as-stablecoin-regulation-enters-federal-rulemaking-phase/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/04/us-treasury-stablecoin-genius-act.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:39:58"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The 3rd-Largest Bitcoin (BTC) Wallet Bought 1,400 More BTC Last Month",
+    "Link": "https://bitcoinwarrior.net/2024/04/the-3rd-largest-bitcoin-btc-wallet-bought-1400-more-btc-last-month/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-02 03:40:05"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Spot Bitcoin ETFs See Third Straight Week Of Outflows, Australia Considers Approval",
+    "Link": "https://bitcoinwarrior.net/2024/04/spot-bitcoin-etfs-see-third-straight-week-of-outflows-australia-considers-approval/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-02 03:40:09"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "US Stock Market | Oracle shares jump 6% amid layoff buzz; AI pivot drives investor optimism",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oracle-shares-jump-6-amid-layoff-buzz-ai-pivot-drives-investor-optimism/articleshow/129943780.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129943767,width-1200,height-630,imgsize-31586,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:40:24"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Gainers &amp; Losers: Cupid, GRSE among 8 stocks that were in spotlight on Wednesday",
+    "Link": "https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-cupid-grse-among-8-stocks-that-were-in-spotlight-on-wednesday/slideshow/129952178.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129952217,width-900,height-1200,resizemode-6.cms",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:40:28"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global Markets Tumble as Middle East Conflict Escalates, Oil Surges",
+    "Link": "https://www.thailand-business-news.com/news/297761-global-markets-tumble-as-middle-east-conflict-escalates-oil-surges",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-02 03:40:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global Markets | Australian shares hit 3-week high, gold stocks rally on Iran conflict resolution hopes",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-3-week-high-gold-stocks-rally-on-iran-conflict-resolution-hopes/articleshow/129944629.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129944653,width-1200,height-630,imgsize-11476,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:40:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Gold prices rise above Rs 1.51 lakh/10 grams, silver drops around 1% amid hopes of Iran-US war de-escalation",
+    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-above-rs-1-51-lakh/10-grams-silver-drops-around-1-amid-hopes-of-iran-us-war-de-escalation/articleshow/129942678.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-129942645,width-1200,height-630,imgsize-88148,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:40:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+    "Link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7dc1/live/42335700-2dfe-11f1-b297-95b0a0a8331e.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Megan Thee Stallion hospitalized during Broadway show",
+    "Link": "https://www.nbcnews.com/video/shorts/megan-thee-stallion-hospitalized-during-broadway-show-260529221515",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/megan_thee_stalion-pes6yk.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:12"
+  },
+  {
+    "Topic": "General News",
+    "Title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+    "Link": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2952/live/95f06840-2dbf-11f1-934f-036468834728.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:14"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Widow fights for change to law after insurance battle",
+    "Link": "https://www.nbcnews.com/nightly-news/video/widow-fights-for-change-to-law-after-insurance-battle-260474437637",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_03/1774999136142_nn_emc_tcodwidowfightstochangelaw_260331_S3_1920x1080-hj1u24.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:16"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Brook and Bethell cautioned over conduct on NZ tour",
+    "Link": "https://www.bbc.com/sport/cricket/articles/cx2dj4kkgyxo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e078/live/de20f570-2df7-11f1-84b6-e98f87f2e88b.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:19"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "NBC’s 3-Part Thriller Franchise Is So Good, It’s Practically the Last of Its Kind",
+    "Link": "https://collider.com/one-chicago-jessy-schram-hanako-greensmith-nbc-100-years-later-unicorn-job/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/copy-of-collider-template-94.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:27"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Netflix's New 8-Part Psychological Thriller Series With Stellar Rotten Tomatoes Score Is Perfect From Start To Finish",
+    "Link": "https://screenrant.com/something-very-bad-is-going-to-happen-netflix-series-perfect-start-finish/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/camila-morrone-as-rachel-harkin-in-something-very-bad-is-going-to-happen-on-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:30"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Altered Carbon: Netflix's Canceled Cyberpunk Series That Deserved More",
+    "Link": "https://screenrant.com/altered-carbon-netflix-cyberpunk-anime-prequel/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/martha-higareda-as-kristin-ortega-in-season-1-of-altered-carbon.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Netflix's Underrated 8-Part Sci-Fi Series Shows Firefly How It's Done",
+    "Link": "https://screenrant.com/netflix-terminator-zero-show-firefly-sci-fi-series/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/untitled-design-28.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:36"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Netflix's 'Peaky Blinders' Sequel Officially Recruits a James Bond Star",
+    "Link": "https://collider.com/peaky-blinders-sequel-series-cast-lashana-lynch-set-images/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/no-time-to-die-lashana-lynch-daniel-craig.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-02 03:41:39"
   },
   {
     "Topic": "Astronomy",
-    "Title": "A Solar System in the making? Two planets spotted forming in disc around young star",
-    "Link": "https://www.eso.org/public/news/eso2604/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2604a.jpg",
+    "Title": "NASA Astronaut Suddenly Loses Ability To Speak In Space, and No One Knows Why",
+    "Link": "https://dailygalaxy.com/2026/03/nasa-astronaut-loses-ability-speak-space/",
+    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/03/NASA-Astronaut-Suddenly-Loses-Ability-To-Speak-In-Space-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:38"
+    "Date": "2026-04-02 03:41:48"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
-    "Link": "https://www.eso.org/public/news/eso2603/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2603a.jpg",
+    "Title": "NASA’s ANITA Experiment Picked Up Strange Signals Beneath Antarctic Ice That Traveled Through Thousands of Kilometers of Rock",
+    "Link": "https://dailygalaxy.com/2026/03/nasa-detects-strange-signals-beneath-ice/",
+    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/03/NASAs-ANITA-Experiment-Picked-Up-Strange-Signals-Beneath-Antarctic-Ice-That-Traveled-Through-Thousands-of-Kilometers-of-Rock-and-Should-Not-Exist-scaled.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:42"
+    "Date": "2026-04-02 03:41:51"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Market Analysis: AUD/USD, NZD/USD Struggle at Resistance, Upside Chances Diminish",
-    "Link": "https://fxopen.com/blog/en/aj-market-analysis-aud-usd-nzd-usd-struggle-at-resistance-upside-risks-diminish/",
-    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/03/audusd--australian-dollar-2.png",
+    "Topic": "Astronomy",
+    "Title": "Don’t Miss the April 2026 Pink Moon: A Must-See Sky Event for Stargazers",
+    "Link": "https://dailygalaxy.com/2026/03/april-2026-pink-moon-a-must-sky-event/",
+    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/03/Dont-Miss-the-April-2026-Pink-Moon-A-Must-See-Sky-Event-for-Stargazers-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:52"
+    "Date": "2026-04-02 03:41:54"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "KB Kookmin Card taps Avalanche for hybrid stablecoin credit card",
-    "Link": "https://crypto.news/kb-kookmin-card-taps-avalanche-for-hybrid-stablecoin-credit-card/",
-    "ImageUrl": "https://media.crypto.news/2025/10/crypto-news-Tokenization-moved-option01.webp",
+    "Topic": "Astronomy",
+    "Title": "A Million New Satellites Could Erase Our Night Skies Forever: Experts Warn of Global Impact",
+    "Link": "https://dailygalaxy.com/2026/03/a-million-new-satellites-erase-night-skies/",
+    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/03/A-Million-New-Satellites-Could-Erase-Our-Night-Skies-Forever-Experts-Warn-of-Global-Impact-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:55"
+    "Date": "2026-04-02 03:41:57"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "CoinShares data show $414M crypto fund outflow as Fed fears bite",
-    "Link": "https://crypto.news/coinshares-data-show-414m-crypto-fund-outflow-as-fed-fears-bite/",
-    "ImageUrl": "https://media.crypto.news/2025/09/crypto-news-DeFi-option04.webp",
+    "Topic": "Astronomy",
+    "Title": "James Webb Telescope Unveils Hidden Stars in Star-Forming Region W51",
+    "Link": "https://dailygalaxy.com/2026/04/webb-unveils-hidden-stars-region-w51/",
+    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/03/James-Webb-Telescope-Unveils-Hidden-Stars-in-Star-Forming-Region-W51-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:38:58"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Your First Steps in Forex: A Beginner’s Guide to the Forex Trading for Beginners Book",
-    "Link": "https://www.tradersdna.com/forex-trading-for-beginners-book/",
-    "ImageUrl": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2F1f708988-f152-4658-8072-ce3cb16c9c91%2Fthumbnail.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:02"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "TAO price consolidates above $300 after March spike",
-    "Link": "https://crypto.news/tao-price-consolidates-above-300-after-march-spike/",
-    "ImageUrl": "https://media.crypto.news/2025/09/crypto-news-bull-market-option06.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:06"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Evolution of the Nasdaq-100 Ecosystem",
-    "Link": "https://www.nasdaq.com/articles/evolution-nasdaq-100-ecosystem",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?840527213",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:19"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "A Tale of Two Earnings Cycles",
-    "Link": "https://www.nasdaq.com/articles/tale-two-earnings-cycles",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?1059599843",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:24"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Nike in charts: Footwear revenue rises 2% Y/Y",
-    "Link": "https://seekingalpha.com/news/4570943-nike-in-charts-footwear-revenue-rises-2-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/attachment/image/fa9ce7ad7b7d17754ccd44e8cdd7b016.png?io=getty-c-w900",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:26"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "‘Oversold technical market conditions look a little bit like the 90s’ – Charles Schwab’s Liz Ann Sonders",
-    "Link": "https://seekingalpha.com/news/4570956-oversold-technical-market-conditions-look-a-little-bit-like-the-90s-charles-schwab-s-liz-ann?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-w630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:29"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Riverview Bancorp declares $0.02 dividend",
-    "Link": "https://seekingalpha.com/news/4570959-riverview-bancorp-declares-0_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:38"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Haberman reveals why Trump attacked judge and his family in speech",
-    "Link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230405085526-maggie-haberman.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:47"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Questions remain over possibility of troop deployment",
-    "Link": "https://www.nbcnews.com/video/shorts/questions-remain-over-possibility-of-troop-deployment-260435525997",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_03/f_vert_brk_kube_hegseth_2603331.00_00_49_24.Still002-8lqu64.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:51"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Melbourne girl, 13, allegedly shouted antisemitic remarks, threw eggs and swerved car towards Jewish families",
-    "Link": "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb",
-    "ImageUrl": "https://i.guim.co.uk/img/media/92905095ee027f05583139013100860dbf988e7e/545_0_5830_4666/master/5830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e94f2d4328cc8905097d777421aba81f",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-    "Link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404141742-04b-kwame-brathwaite-obituary-orange-crop.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:39:58"
-  },
-  {
-    "Topic": "General News",
-    "Title": "‘A place where music fills the air’: Bangkok to host Eurovision’s first Asia song contest",
-    "Link": "https://www.theguardian.com/tv-and-radio/2026/mar/31/eurovision-song-contest-expands-into-asia",
-    "ImageUrl": "https://i.guim.co.uk/img/media/eea83b533d474fb0f96efdcc975c127eedc6bd13/20_0_5653_4522/master/5653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22045b0481abf05fbeb70ee30f0a4ca7",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:02"
+    "Date": "2026-04-02 03:42:00"
   },
   {
     "Topic": "Science",
-    "Title": "Just a few minutes of effort could lower your risk of 8 major diseases",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/happy-senior-couple-jogging.webp",
+    "Title": "Antibiotic resistance among germs swells during droughts, study suggests",
+    "Link": "https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2227035793-2560x1440.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:10"
+    "Date": "2026-04-02 03:42:14"
   },
   {
     "Topic": "Science",
-    "Title": "One of Earth’s most explosive supervolcanoes is recharging",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260329222930.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/reinjection-caldera.webp",
+    "Title": "Trump staffs science and technology panel with non-scientists",
+    "Link": "https://arstechnica.com/science/2026/03/trump-staffs-science-and-technology-panel-with-non-scientists/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2264811113-1024x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:14"
+    "Date": "2026-04-02 03:42:20"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists find gut bacteria inject proteins that control your immune system",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260326080752.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/intestinal-villi-with-bacteria-and-viruses-in-human-digestive-system.webp",
+    "Title": "Research roundup: 7 cool science stories we almost missed",
+    "Link": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dancephd-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:17"
+    "Date": "2026-04-02 03:42:23"
   },
   {
     "Topic": "Science",
-    "Title": "Webb telescope spots mysterious explosion that defies known physics",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/grb-250702b.webp",
+    "Title": "Study: Sycophantic AI can undermine human judgment",
+    "Link": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/AI-chatbot-threat-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:20"
-  },
-  {
-    "Topic": "Science",
-    "Title": "This new therapy turns off pain without opioids or addiction",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/pain-relief-dial-control.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:24"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Google Research 2025: Bolder breakthroughs, bigger impact",
-    "Link": "https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:34"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Accelerating scientific discovery with AI-powered empirical software",
-    "Link": "https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
-    "Link": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:40"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to Become Immortal Using AI?",
-    "Link": "https://www.artificial-intelligence.blog/ai-news/how-to-become-immortal-using-ai",
-    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/68248aec19aabf2f07a27c91/1747225324706/immortal-family-with-ai.jpg?format=1500w",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:44"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
-    "Link": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:49"
+    "Date": "2026-04-02 03:42:27"
   },
   {
     "Topic": "Technology",
-    "Title": "Get Ready for a Year of Chaotic Weather in the US",
-    "Link": "https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/",
-    "ImageUrl": "https://media.wired.com/photos/69b967163d7bc629bb6ef27c/191:100/w_1280,c_limit/GettyImages-1211527991.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:40:59"
+    "Title": "Music AI Sandbox, now with new features and broader access",
+    "Link": "https://deepmind.google/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Minetest_high-res_texture_pack_2.png/960px-Minetest_high-res_texture_pack_2.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-02 03:42:49"
   },
   {
     "Topic": "Technology",
-    "Title": "Technology Is Reshaping Sleep Apnea Treatment",
-    "Link": "https://www.wired.com/story/sleep-apnea-treatment-tech/",
-    "ImageUrl": "https://media.wired.com/photos/69aebbb0ad83313d7f9d7cf9/191:100/w_1280,c_limit/030926_Science-Sleep-Apnea-Tech.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:41:02"
+    "Title": "Accelerating discovery in India through AI-powered science and education",
+    "Link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/960px-Flag_of_India.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-02 03:42:53"
   },
   {
     "Topic": "Technology",
-    "Title": "What's the best cabin layout for aircraft evacuation?",
-    "Link": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/airplane1-1152x530.jpg",
+    "Title": "Find out what’s new in the Gemini app in March's Gemini Drop.",
+    "Link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-updates-march-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_social_share.max-1440x810.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-01 03:41:06"
+    "Date": "2026-04-02 03:42:57"
   },
   {
     "Topic": "Technology",
-    "Title": "After 16 years and $8 billion, the military's new GPS software still doesn't work",
-    "Link": "https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9470308-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:41:09"
+    "Title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+    "Link": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-02 03:43:00"
   },
   {
     "Topic": "Technology",
-    "Title": "No more Chinese Polestar 3s as production shifts entirely to the US",
-    "Link": "https://arstechnica.com/cars/2026/03/polestar-3-production-consolidated-to-the-us-to-keep-volvo-factory-busy/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Original-5471-polestar-3-1152x648.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-01 03:41:12"
+    "Title": "Genie 2: A large-scale foundation world model",
+    "Link": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/AIR-2A_Genie_2.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-02 03:43:04"
   }
 ]
