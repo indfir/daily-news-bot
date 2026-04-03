@@ -1,322 +1,322 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "Mapping, modeling, and understanding nature with AI",
-    "Link": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Electricity_Concept_Map.gif",
+    "Topic": "Movies",
+    "Title": "3 Best Movies To Watch On Prime Video This Weekend (#1 Is A Guy Ritchie Action Thriller)",
+    "Link": "https://screenrant.com/best-prime-video-movies-watch-weekend-april-4/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/1_lsuhtvebyvabmzqzc8rgha.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:18"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Paradise Vs. Lost: How Streaming Changed TV Mystery Thrillers",
+    "Link": "https://screenrant.com/hulu-paradise-new-lost-harsh-reality-2000s-tv/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/tcdpara_hy092.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:21"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘Sins Of Kujo’ On Netflix, About A Lawyer Who Successfully Defends The Scum Of The Earth, But Has A Moral Code",
+    "Link": "https://decider.com/2026/04/03/sins-of-kujo-netflix-review/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/04/sins-of-kujo-1.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:24"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "22 Years Ago, Rachel McAdams Made An Astounding Hollywood Breakthrough With Two Surprisingly Different Roles",
+    "Link": "https://screenrant.com/rachel-mcadams-breakthrough-roles-notebook-mean-girls/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/04/mean-girls-regina-smirking.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:26"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Super Mario Galaxy Movie's Peach Reveal May Have Teased The Next Villain",
+    "Link": "https://screenrant.com/super-mario-galaxy-movie-peach-rosalina-evil-forces-villain-tease/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/princess-peach-and-mario-looking-surprised-in-the-super-mario-galaxy-movie.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:30"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A 200-year-old light trick just transformed quantum encryption",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260401071933.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/detection-of-time-bin-superpositions-with-temporal-talbot-carpet.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "New microwave frying technique could make french fries much healthier",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260402042803.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/golden-french-fries.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:40"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists say this simple habit may help you lose more weight",
+    "Link": "https://www.sciencedaily.com/releases/2026/03/260330233357.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/happy-woman-celebrating-weight-loss.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Ancient bees found nesting inside fossil bones in rare cave discovery",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260402042748.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/ancient-bees-nesting-inside-preexisting-fossil-cavities.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:46"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260402042734.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/5x5-vcsel-array-and-custom-beam-shaping-optics.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:49"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Total Lunar Eclipse",
+    "Link": "https://www.nasa.gov/image-detail/total-lunar-eclipse-2026-new-orleans/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/maf-20260303-lunareclipse-01orig.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:30:57"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Protostars 'sneeze' and produce rings of gas and magnetic flux as they grow",
+    "Link": "https://phys.org/news/2026-03-protostars-gas-magnetic-flux.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg/960px-STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-03 03:30:11"
+    "Date": "2026-04-04 03:31:00"
   },
   {
-    "Topic": "Technology",
-    "Title": "Diverse teams start with diverse VCs",
-    "Link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/bms2e7-features.png?resize=1200,689",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:15"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
-    "Link": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-1152x648.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:18"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Bringing AI to the next generation of fusion energy",
-    "Link": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/XAI-Logo.svg/960px-XAI-Logo.svg.png",
+    "Topic": "Astronomy",
+    "Title": "Artemis II's moon-bound astronauts capture Earth's brilliant blue beauty as they leave it behind",
+    "Link": "https://phys.org/news/2026-04-artemis-ii-moon-bound-astronauts.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jsc2023e0016434_alt.jpg/960px-Jsc2023e0016434_alt.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-03 03:30:21"
+    "Date": "2026-04-04 03:31:03"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Artemis II Crew Trains on T-38",
+    "Link": "https://www.nasa.gov/image-detail/jsc2026e007422/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2026e007422orig.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Artemis II's moonbound toilet is working again to astronauts' relief after overnight fix",
+    "Link": "https://phys.org/news/2026-04-artemis-ii-moonbound-toilet-astronauts.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-04 03:31:09"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+    "Link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:18"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Three teenagers arrested after 14-year-old boy shot dead in south-east London",
+    "Link": "https://www.theguardian.com/uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
+    "ImageUrl": "https://i.guim.co.uk/img/media/8487b578cd85472d773b645a37e44e5090b0723a/388_498_344_275/master/344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9941a87b59f45aca620e1e82f74e360d",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:21"
+  },
+  {
+    "Topic": "General News",
+    "Title": "USA streichen Sanktionen gegen Venezuelas Präsidentin Rodríguez",
+    "Link": "https://www.tagesschau.de/ausland/amerika/usa-lockerung-sanktionen-venezuela-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/2087855b-c494-483d-97c8-e7e0cbb3cff1/AAABnUzch38/AAABnSSvrFg/16x9-big/rodriguez-130.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:24"
+  },
+  {
+    "Topic": "General News",
+    "Title": "NASA Returns To The Moon (And Beyond)",
+    "Link": "https://www.bbc.co.uk/sounds/play/p0n9jlp4?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Was feiern Christen eigentlich an Ostern?",
+    "Link": "https://www.tagesschau.de/inland/gesellschaft/ostern-feiertage-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/2468d44b-df81-42ee-a25c-6fd423cf3cc3/AAABnVLDrdo/AAABnSSvrFg/16x9-big/palmsonntag-110.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "BUMN Didorong Perkuat Dampak Ekonomi dan Sosial bagi Indonesia",
+    "Link": "https://ekonomi.republika.co.id/berita/tcwqiq423/bumn-didorong-perkuat-dampak-ekonomi-dan-sosial-bagi-indonesia",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/028481400-1771773740-830-556.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:39"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Cramer’s week ahead: Two key economic reports and earnings from Levi's, Delta ",
+    "Link": "https://www.cnbc.com/2026/04/02/cramers-week-ahead-key-economic-reports-earnings-from-levis-delta.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/105324460-1531345237602gettyimages-621951768.jpg?v=1531345260&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:41"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
+    "Link": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108260991-1770153509459-gettyimages-633008456-MICROSOFT_ALTHOFF.jpeg?v=1775174929&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:43"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’",
+    "Link": "https://www.marketwatch.com/story/in-todays-job-market-its-more-show-me-a-desk-than-show-me-the-money-3b66754e?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/960px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-04 03:31:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+    "Link": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/107409428-1714656626008-gettyimages-2071906846-Illustration_Coinbase_Shares_Fall.jpeg?v=1775153534&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:49"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Performance of limited and regular relationships in Power BI",
+    "Link": "https://www.sqlbi.com/tv/performance-of-limited-and-regular-relationships-in-power-bi/",
+    "ImageUrl": "https://i.ytimg.com/vi/rLyirxSWc98/maxresdefault.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:31:59"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Measuring the impact of promotions on sales in Power BI",
+    "Link": "https://www.sqlbi.com/articles/measuring-the-impact-of-promotions-on-sales-in-power-bi/",
+    "ImageUrl": "https://cdn.sqlbi.com/wp-content/uploads/image7-65.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:04"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Share small datasets stored in a URL",
+    "Link": "https://flowingdata.com/2026/04/02/share-small-datasets-stored-in-a-url/",
+    "ImageUrl": "https://flowingdata.com/wp-content/uploads/2026/03/ziptable.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:07"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": " AI agent observability: what enterprises need to know",
+    "Link": "https://www.datarobot.com/blog/ai-agent-observability-leading-platforms/",
+    "ImageUrl": "https://www.datarobot.com/wp-content/uploads/2023/03/datarobot-default2-sharing.jpg?ver=1731098970",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:09"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The foundation for a governed agent workforce: DataRobot and NVIDIA RTX PRO 4500",
+    "Link": "https://www.datarobot.com/blog/datarobot-nvidia-rtx-pro-4500/",
+    "ImageUrl": "https://www.datarobot.com/wp-content/uploads/2023/03/datarobot-default2-sharing.jpg?ver=1731098970",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:11"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ripple (XRP) News Today: April 1",
+    "Link": "https://cryptopotato.com/ripple-xrp-news-today-april-1/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/03/RippleNews_CB.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:20"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Dogecoin Price Eyes $0.26 as Whale Activity Sparks Buy-the-Dip Sentiment ",
+    "Link": "https://www.forexnews.world/dogecoin-price-0-26-whale-buy-dip-sentiment/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-price-0-26-whale-buy-dip-sentiment",
+    "ImageUrl": "https://www.forexnews.world/wp-content/uploads/2022/01/Anonymous-Wallet-Gets-Over-15-Million-Worth-of-Dogecoin.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:24"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum Derivatives Flooded With $1B in Sells as Markets React to Trump",
+    "Link": "https://cryptopotato.com/ethereum-derivatives-flooded-with-1b-in-sells-as-markets-react-to-trump/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/06/Ethereum_Profit.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:27"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Falls to $66K as Trump Signals Further Escalation in Iran",
+    "Link": "https://cryptopotato.com/bitcoin-falls-to-66k-as-trump-signals-further-escalation-in-iran/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_Red_Decline.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:29"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto Price Analysis Apr-03: ETH, XRP, ADA, BNB, and HYPE",
+    "Link": "https://cryptopotato.com/crypto-price-analysis-apr-03-eth-xrp-ada-bnb-and-hype/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/01/cryptopost_friday.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-04 03:32:31"
   },
   {
     "Topic": "Technology",
-    "Title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
-    "Link": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
+    "Title": "Meta Smart Glasses Can Now Track All the Food You Put Into Your Mouth",
+    "Link": "https://gizmodo.com/meta-smart-glasses-can-now-track-all-the-food-you-put-into-your-mouth-2000742036",
+    "ImageUrl": "https://gizmodo.com/app/uploads/2025/08/smartglassesraybans-1200x675.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:26"
+    "Date": "2026-04-04 03:32:40"
   },
   {
-    "Topic": "Science",
-    "Title": "Your DNA is constantly moving—and it may explain cancer",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260330001147.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/dna-mutation-genetics-bioengineering-cancer-disease.webp",
+    "Topic": "Technology",
+    "Title": "We Landed on Mars, A.K.A. the Set of ‘For All Mankind’",
+    "Link": "https://gizmodo.com/for-all-mankind-season-5-mars-set-visit-interview-2000741027",
+    "ImageUrl": "https://gizmodo.com/app/uploads/2026/04/For-All-Mankind-S5-Cynthy-Wu-1200x675.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:33"
+    "Date": "2026-04-04 03:32:43"
   },
   {
-    "Topic": "Science",
-    "Title": "World's smallest QR code, smaller than bacteria, could store data for centuries",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260328043603.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/worlds-smallest-qr-code.webp",
+    "Topic": "Technology",
+    "Title": "Trump’s Economy Has Come for Sugar Babies",
+    "Link": "https://www.wired.com/story/trumps-economy-has-come-for-sugar-babies/",
+    "ImageUrl": "https://media.wired.com/photos/69cf21ad025a80b08b66d01d/191:100/w_1280,c_limit/Sugar-Baby-Recession-Culture.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:38"
+    "Date": "2026-04-04 03:32:46"
   },
   {
-    "Topic": "Science",
-    "Title": "This quantum computing breakthrough may not be what it seemed",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260328043600.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/stunned-female-scientist.webp",
+    "Topic": "Technology",
+    "Title": "An Embarrassing Mistake May Have Skewed Microplastics Research All Along",
+    "Link": "https://gizmodo.com/scientists-suspect-theyre-overestimating-microplastics-due-to-an-embarrassing-mistake-2000741901",
+    "ImageUrl": "https://gizmodo.com/app/uploads/2026/04/Microplastic-Ark-Agricultural-Experiment-Station-1200x675.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:41"
+    "Date": "2026-04-04 03:32:48"
   },
   {
-    "Topic": "Science",
-    "Title": "A worst-case scenario in a country without vaccines",
-    "Link": "https://flowingdata.com/2026/04/01/a-worst-case-scenario-in-a-country-without-vaccines/",
-    "ImageUrl": "https://flowingdata.com/wp-content/uploads/2026/03/worst-case-scenario.png",
+    "Topic": "Technology",
+    "Title": "Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown",
+    "Link": "https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/",
+    "ImageUrl": "https://media.wired.com/photos/69c6c61e94502e7091a2c54f/191:100/w_1280,c_limit/WIRED-BORTAC-Top-Art.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:44"
-  },
-  {
-    "Topic": "Science",
-    "Title": "DNA robots could deliver drugs and hunt viruses inside your body",
-    "Link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/nanotechnology-virus-hunting-nano-robot.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:47"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-    "Link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/221208163100-20221208-twitter-verification-cost-dark.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:56"
-  },
-  {
-    "Topic": "General News",
-    "Title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-    "Link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230401203552-hamill-acosta-vpx.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:30:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season ",
-    "Link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403140106-01-graham-potter-chelsea-file-2022.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
-    "Link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403095141-01-lionel-messi-booed-psg-040223.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Man rides out tornado inside van. See the footage",
-    "Link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402065239-man-inside-van-tornado-little-rock-arkansas.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:06"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Why a Super Smash Bros. Movie Sequel Doesn’t Make Sense",
-    "Link": "https://www.comingsoon.net/movies/features/2115730-why-super-smash-bros-sequel-mario-galaxy-movie-makes-no-sense",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/why-super-smash-bros-sequel-mario-galaxy-movie-makes-no-sense.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:23"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Disney+ Star Wars TV Show Renewed for Season 2",
-    "Link": "https://www.comingsoon.net/tv/news/2115737-disney-plus-renews-star-wars-tv-show-season-2",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/03/Star_Wars_Logo.png?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:25"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Peaky Blinders Sequel TV Show Recasts Barry Keoghan, Gets First Look & New Cast",
-    "Link": "https://www.comingsoon.net/tv/news/2115811-peaky-blinders-sequel-tv-show-recasts-barry-keoghan-gets-first-look-new-cast",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/barry-keoghan-peaky-blinders-still.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:28"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Dexter: Resurrection Season 2 Cast Adds HBO Star as Its Newest Serial Killer",
-    "Link": "https://www.comingsoon.net/tv/news/2115671-dexter-resurrection-season-2-cast-adds-hbo-star-as-its-newest-serial-killer",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/dexter-resurrection.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "New Seth MacFarlane TV Show Set at Peacock Following Ted Ending",
-    "Link": "https://www.comingsoon.net/tv/news/2115755-new-seth-macfarlane-tv-show-set-at-peacock-following-ted-ending",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/seth-macfarlane-header.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:31:34"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Asia-Pacific digital banking market seen reaching $5.12t by 2033",
-    "Link": "https://www.thailand-business-news.com/banking/297954-asia-pacific-digital-banking-market-seen-reaching-5-12t-by-2033",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Docklands_View_with_Bolte_Bridge_%26_ANZ_Headquarter_Building_%28cropped%29.jpg/960px-Docklands_View_with_Bolte_Bridge_%26_ANZ_Headquarter_Building_%28cropped%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-03 03:31:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "25 Maba Unesa Dapat Golden Ticket, Kuliah Gratis hingga Lulus",
-    "Link": "https://jatim.jpnn.com/jatim-terkini/44523/25-maba-unesa-dapat-golden-ticket-kuliah-gratis-hingga-lulus",
-    "ImageUrl": "https://cloud.jpnn.com/photo/jatim/arsip/normal/2026/04/02/sebanyak-25-calon-mahasiswa-yang-lolos-dengan-golden-ticket-be0t.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:04"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pedagang Pasar Kampung Lalang Resah, Wali Kota Medan Diminta Lakukan Evaluasi",
-    "Link": "https://www.jpnn.com/news/pedagang-pasar-kampung-lalang-resah-wali-kota-medan-diminta-lakukan-evaluasi",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/04/02/pedagang-pasar-tradisional-kampung-lalang-kota-medan-mengaku-dxnq.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:17"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Ketegangan di JCE Bondowoso Kembali Terjadi, Negara Rugi Rp 12 Miliar",
-    "Link": "https://www.jpnn.com/news/ketegangan-di-jce-bondowoso-kembali-terjadi-negara-rugi-rp-12-miliar",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/watermark/2025/10/15/lahan-kopi-ilustrasi-foto-yessy-artadajpnncom-athm2-cemr.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:21"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Unhan Jalin Sinergi dengan SSTI, Kolaborasi Membangun Ekosistem Industri",
-    "Link": "https://www.jpnn.com/news/unhan-jalin-sinergi-dengan-ssti-kolaborasi-membangun-ekosistem-industri",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/04/02/program-studi-manajemen-pertahanan-universitas-pertahanan-re-df6x.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:30"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Polymarket Tightens Insider Trading Rules",
-    "Link": "https://thedefiant.io/news/defi/polymarket-tightens-insider-trading-rules",
-    "ImageUrl": "https://cdn.thedefiant.io/pasted-1774307628818-png-b8dd260c-1162-4edf-a96c-24b51287cfdc.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "BMO launches tokenized cash and deposits on CME's 24/7 settlement network: Bank of Montreal",
-    "Link": "https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr",
-    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b2d5ebe2ac1b585924dee4390c270ac8ecac7386-1792x1024.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:43"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Polymarket Lets Traders Bet on Stocks, Gold, and Oil Via Pyth Integration",
-    "Link": "https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration",
-    "ImageUrl": "https://cdn.thedefiant.io/pasted-1775144987988-png-1d7671d5-0d40-4009-b135-9e9735e0bbd1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:46"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Gets Native DeFi Stack as OP_NET Goes Live on Mainnet",
-    "Link": "https://thedefiant.io/news/defi/bitcoin-gets-native-defi-stack-as-opnet-goes-live-on-mainnet",
-    "ImageUrl": "https://cdn.thedefiant.io/btc-defi-jpg-4fdaf8f6-5a6a-437d-94a9-463f500803bf.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:49"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "DeFi Has Seen Resolv's $25M USR Exploit Many Times Before",
-    "Link": "https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before",
-    "ImageUrl": "https://cdn.thedefiant.io/pasted-1774289976982-png-991c1da7-e8c0-47e8-8023-75837a286ce4.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:32:52"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Vector Search Using Ollama for Retrieval-Augmented Generation (RAG)",
-    "Link": "https://pyimagesearch.com/2026/02/23/vector-search-using-ollama-for-retrieval-augmented-generation-rag/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/02/vector-search-using-ollama-for-rag-featured.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Vector Search with FAISS: Approximate Nearest Neighbor (ANN) Explained",
-    "Link": "https://pyimagesearch.com/2026/02/16/vector-search-with-faiss-approximate-nearest-neighbor-ann-explained/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/02/vector-search-with-faiss-ann-explained-featured.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Autoregressive Model Limits and Multi-Token Prediction in DeepSeek-V3",
-    "Link": "https://pyimagesearch.com/2026/03/30/autoregressive-model-limits-and-multi-token-prediction-in-deepseek-v3/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/03/autoregressive-model-limits-and-mTP-in-deepseek-v3-featured.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Agentic AI Use Cases in Telecom: From Theory to Reality",
-    "Link": "https://www.teradata.com/insights/ai-and-machine-learning/agentic-ai-use-cases-in-telecom",
-    "ImageUrl": "https://www.teradata.com/Content/Assets/default/teradata-logo-social.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:09"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Three Challenges to Adopting Agentic AI in Telecom",
-    "Link": "https://www.teradata.com/insights/ai-and-machine-learning/three-challenges-to-adopting-agentic-ai-in-telecom",
-    "ImageUrl": "https://www.teradata.com/Content/Assets/default/teradata-logo-social.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The asteroid Ryugu has all of the main ingredients for life",
-    "Link": "https://www.newscientist.com/article/2519423-the-asteroid-ryugu-has-all-of-the-main-ingredients-for-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/16104052/SEI_289687178.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:23"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "What is a galaxy? That's a surprisingly difficult question to answer",
-    "Link": "https://www.newscientist.com/article/2517610-what-is-a-galaxy-thats-a-surprisingly-difficult-question-to-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/02130426/SEI_286855991.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A crisis in cosmology may mean hidden dimensions really exist",
-    "Link": "https://www.newscientist.com/article/2515631-a-crisis-in-cosmology-may-mean-hidden-dimensions-really-exist/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/13142556/SEI_284878399.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:29"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SETI may have missed alien signals because of space weather",
-    "Link": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/09112443/SEI_288470212.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II's journey to the moon is just getting started. Here's what to expect",
-    "Link": "https://www.npr.org/2026/04/02/nx-s1-5766548/artemis-iis-journey-to-the-moon-is-just-getting-started-heres-what-to-expect",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-03 03:33:36"
+    "Date": "2026-04-04 03:32:51"
   }
 ]
