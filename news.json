@@ -1,322 +1,298 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "Madonna Biopic Lives (Sort Of): How ‘The Studio’ Season 2 Revives the Axed Movie and Ends the Icon’s 23-Year Acting Break",
-    "Link": "https://variety.com/2026/film/news/madonna-movie-the-studio-season-2-julia-garner-1236710682/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/Madonna.jpg?crop=0px%2C188px%2C3692px%2C2074px&#038;resize=1000%2C563",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:25"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘X-Men’ Reboot Director Says ‘Beef’ Creator and ‘The Bear’ Writer Are ‘Working on a Draft’ of the Script: ‘We’re Still Developing’",
-    "Link": "https://variety.com/2026/film/news/x-men-reboot-director-beef-creator-the-bear-writer-new-script-1236710596/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2025/07/x-men.png?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:28"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Paradigm Set to Launch Physical Production Division Led by Gil Harari and Jonathan Silverman",
-    "Link": "https://variety.com/2026/artisans/news/paradigm-launches-physical-production-division-1236710378/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/2-split-12.png?w=1000&#038;h=562&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Netflix Argentina Opens New Office, Presents Titles From Ricardo Darín, Alex de la Iglesia, Pablo Larraín, Santiago Mitre and Pablo Trapero",
-    "Link": "https://variety.com/2026/film/global/netflix-argentina-darin-de-la-iglesia-larrain-campanella-1236710082/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/The-Future-is-Ours.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "IFF Panama Closing Night Film ‘Milly, Queen of Merengue,’ About the Four-Time Latin Grammy Winner, Spins a Tale of Grit and Heart",
-    "Link": "https://variety.com/2026/film/global/iff-panama-milly-queen-of-merengue-spins-a-tale-of-grit-1236706685/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/MILLYLineasEspiralesProds-Still-5.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to watch Barcelona vs. Atletico Madrid online for free",
-    "Link": "https://mashable.com/article/barcelona-atletico-madrid-2026-champions-league-live-stream-for-free",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04zwAyB7qjBC0A0dmt6x1P9/hero-image.fill.size_1200x675.v1775564281.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Need a new smartwatch? The Samsung Galaxy Watch 8 is on sale and selling fast",
-    "Link": "https://mashable.com/article/april-6-samsung-galaxy-watch-8-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05hlbXHVXFS4VaoiqkPO0bf/hero-image.fill.size_1200x675.v1775489606.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:48"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-    "Link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:52"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
-    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-api-skills-mcp.max-1440x810.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:55"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "What Memento reveals about human nature, 25 years later",
-    "Link": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/memento2-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:41:58"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            Inside France: French elegance, flying bells and Swedish snuff fury\n        ",
-    "Link": "\n            https://www.thelocal.com/20260404/inside-france-french-elegance-flying-bells-and-swedish-snuff-fury\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/04/watermarks-logo-AFP__20250522__478D324__v1__MidRes__FranceLifestyleLeisureHeritageCampanologyTeenage.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:09"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            EXPLAINED: What Austria’s 2026 pension changes mean for you\n        ",
-    "Link": "\n            https://www.thelocal.com/20250912/explained-what-austrias-2026-pension-changes-mean-for-you\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/01/watermarks-logo-people-1394377_1280.jpeg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:13"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            How Germany's new military service rules affect travel for foreign nationals\n        ",
-    "Link": "\n            https://www.thelocal.com/20260407/how-germanys-new-military-service-rules-affect-travel-for-foreign-nationals\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/04/watermarks-logo-459596908.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:17"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            How would you like The Local to cover the Swedish election?\n        ",
-    "Link": "\n            https://www.thelocal.com/20260326/how-would-you-like-the-local-to-cover-the-swedish-election\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/03/watermarks-logo-sdl_GDWfQjOpio.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:21"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            OPINION: Primaries cannot save France from a Trumpian future\n        ",
-    "Link": "\n            https://www.thelocal.com/20260401/opinion-primaries-cannot-save-france-from-a-trumpian-future\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/04/watermarks-logo-AFP__20260328__A6293HU__v1__MidRes__FranceVoteMunicipal2026.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:25"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A fossil reveals early relatives of spiders — armed with claws",
-    "Link": "https://www.sciencenews.org/article/fossil-claws-spider-scorpions-evolution",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/033126_TM_claws_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "7 Steps to Mastering Retrieval-Augmented Generation",
-    "Link": "https://www.kdnuggets.com/7-steps-to-mastering-retrieval-augmented-generation",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/NEW_RAG.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:38"
-  },
-  {
-    "Topic": "Science",
-    "Title": "3D microscopy reveals how a tick-borne virus reshapes human cells to replicate",
-    "Link": "https://phys.org/news/2026-04-3d-microscopy-reveals-borne-virus.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Misc_pollen.jpg/960px-Misc_pollen.jpg",
+    "Topic": "Economy",
+    "Title": "February 2026 Export Growth Slows as Imports Reach 50-Month Peak",
+    "Link": "https://www.thailand-business-news.com/economics/298960-february-2026-export-growth-slows-as-imports-reach-50-month-peak",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crisis_of_dragon%27s_blood_at_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng_Street_10-03-2026_E6.jpg/960px-Crisis_of_dragon%27s_blood_at_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng_Street_10-03-2026_E6.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-08 03:42:41"
-  },
-  {
-    "Topic": "Science",
-    "Title": "When our minds wander to the body, it may affect mental health",
-    "Link": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/032726_DK_bodywandering_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:45"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Online PFAS information from public sources can fall short and leave public without enough guidance, study reveals",
-    "Link": "https://phys.org/news/2026-04-online-pfas-sources-fall-short.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Capefearrivermap.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-08 03:42:48"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Building Smart Machine Learning in Low-Resource Settings",
-    "Link": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-smart-ml-low-resource-settings.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:42:57"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Global Helium Shortage Begins to Constrain High-Density Compute and Cooling Systems",
-    "Link": "https://www.hpcwire.com/bigdatawire/2026/03/30/global-helium-shortage-begins-to-constrain-high-density-compute-and-cooling-systems/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Helium_discharge_tube.jpg/960px-Helium_discharge_tube.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-08 03:43:00"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
-    "Link": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-ipc-why-agents-fail-1-1024x571.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:02"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Noteworthy AI Research Papers of 2024 (Part Two)",
-    "Link": "https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!9UeO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F950f1c27-f0ee-4392-a7f4-906125c58738_1888x1670.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-    "Link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!c7Za!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1748fa24-e946-47fb-bf1b-e488d08547fd_1764x1244.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:09"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin has been stuck between $65K and $73K for six weeks. Trump’s midnight deadline tonight could finally break it",
-    "Link": "https://dailycoinpost.com/trump-iran-midnight-deadline-bitcoin-2026/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/04/deadline-1024x683.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:17"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Evolution of Digital Assets and Tokenization in the United Kingdom",
-    "Link": "https://blog.chain.link/the-evolution-of-digital-assets-and-tokenization-in-the-united-kingdom/",
-    "ImageUrl": "https://blog.chain.link/wp-content/uploads/2026/02/The-Evolution-of-Digital-Assets-and-Tokenization-in-the-United-Kingdom-1200x630-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Unlock Your Trading Potential: The Ultimate Guide to a Demo Trading Account",
-    "Link": "https://www.tradersdna.com/demo-trading-account/",
-    "ImageUrl": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2Fc008ebbd-b66b-43b5-9932-7404220d4849%2Fthumbnail.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "A Stablecoin Deal With Trump’s Family Helped Pakistan Broker an Iran Ceasefire",
-    "Link": "https://dailycoinpost.com/pakistan-crypto-trump-world-liberty-financial-iran-ceasefire-bitcoin/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/04/ceasefire.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Mastering Trading on News: Strategies for Profiting from Market Events",
-    "Link": "https://www.tradersdna.com/trading-on-news/",
-    "ImageUrl": "https://contenu.nyc3.cdn.digitaloceanspaces.com/journalist%2Fe9633127-6a40-49d2-974f-b4d51c845c90%2Fthumbnail.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:43:40"
+    "Date": "2026-04-09 03:37:46"
   },
   {
     "Topic": "Economy",
-    "Title": "5 absurd ways Sherwin-Williams turned a flat quarter into a record-breaking stock rally",
-    "Link": "https://www.investmentwatchblog.com/5-absurd-ways-sherwin-williams-turned-a-flat-quarter-into-a-record-breaking-stock-rally/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/John_Cleese_in_2024_-_54020963437.jpg/960px-John_Cleese_in_2024_-_54020963437.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-08 03:43:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "BI Respons Pelemahan Rupiah, Optimalkan Instrumen Moneter di Tengah Krisis Global",
-    "Link": "https://ekonomi.republika.co.id/berita/td4dxk370/bi-respons-pelemahan-rupiah-optimalkan-instrumen-moneter-di-tengah-krisis-global",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/042189500-1718969076-830-556.jpg",
+    "Title": "Konflik AS-Iran Picu Kenaikan Harga Plastik hingga 50 Persen, Pedagang Pasar Kian Tertekan",
+    "Link": "https://www.viva.co.id/bisnis/1890590-konflik-as-iran-picu-kenaikan-harga-plastik-hingga-50-persen-pedagang-pasar-kian-tertekan",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/08/69d622129fd8c-pedagang-pasar-klender-jakarta-ungkap-kenaikan-harga-plastik-sampai-50-persen_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:02"
+    "Date": "2026-04-09 03:37:49"
   },
   {
     "Topic": "Economy",
-    "Title": "How Gold’s Recent Series of Record Highs Compares to Past Runs, According to U.S. Money Reserve",
-    "Link": "https://www.investmentwatchblog.com/how-golds-recent-series-of-record-highs-compares-to-past-runs-according-to-u-s-money-reserve/",
+    "Title": "Mau Ajukan Pinjol? Ini yang Dicek dari Kondisi Keuangan Anda",
+    "Link": "https://www.viva.co.id/bisnis/1890619-mau-ajukan-pinjol-ini-yang-dicek-dari-kondisi-keuangan-anda",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/09/18/66ea84ead5dc6-menghapus-data-ktp-di-pinjaman-online_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:37:51"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bawa Lini Listrik Lengkap, Foton Siap Bikin Bisnis Logistik Anti Ribet",
+    "Link": "https://www.viva.co.id/otomotif/1890654-bawa-lini-listrik-lengkap-foton-siap-bikin-bisnis-logistik-anti-ribet",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/08/69d66145e587b-partisipasi-foton-di-giicomvec-2026_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:37:54"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Structural Challenges Facing Thailand’s Economy: Analyzing the Causes Behind the Nation’s Long-Term GDP Growth Decline",
+    "Link": "https://www.thailand-business-news.com/china/298794-structural-challenges-facing-thailands-economy-analyzing-the-causes-behind-the-nations-long-term-gdp-growth-decline",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-09 03:37:57"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Geth v1.10.0",
+    "Link": "https://blog.ethereum.org/en/2021/03/03/geth-v1-10-0",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:10"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Security alert - All geth nodes crash due to an out of memory bug",
+    "Link": "https://blog.ethereum.org/en/2016/09/18/security-alert-geth-nodes-crash-due-memory-bug",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:12"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trump's Labor Department Just Opened 401(k)s to Crypto - Here's What It Means for Your Retirement",
+    "Link": "https://www.globalcryptopress.com/2026/04/trumps-labor-department-just-opened.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhxUHXKxbCkB9Zzbp6fhzTtwNKb_mdYHvpuwEIfAapQuuNvVZk9VxC0XvyMj2RoWI6ccDERQTzvmordiNRPm63AYuwIfeE_Uv7Iujup8Phd0O6-lRpRwsl5s2WDfxAYO_5uD5jfywWxQaKLcupdLFM675e2j_w0-nS3YsJIzpU89kX1DUhzxZPXcNJCdwE=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:15"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "ethereum.org Year in Review",
+    "Link": "https://blog.ethereum.org/en/2025/01/22/2024-on-ethereum-org",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/eth-garden.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Announcing the districts of the Ethereum World’s Fair",
+    "Link": "https://blog.ethereum.org/en/2025/09/18/ethereum-worlds-fair",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_4783c1164114fecbdc52556f5a45c6c0.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:22"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The Largest Survey of Exoplanet Spins Confirms a Long-held Theory",
+    "Link": "https://www.universetoday.com/articles/the-largest-survey-of-exoplanet-spins-confirms-a-long-held-theory",
+    "ImageUrl": "https://www.universetoday.com/article_images/Artists_conception_of_a_brown_dwarf_like_2MASSJ22282889-431026-1_20260401_230056.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:30"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Space Sovereignty Is No Longer Optional",
+    "Link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Leviathan_frontispiece_cropped_British_Library.jpg/960px-Leviathan_frontispiece_cropped_British_Library.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-09 03:38:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A New Class of Star: Merger Remnant",
+    "Link": "https://www.universetoday.com/articles/a-new-class-of-star-merger-remnant",
+    "ImageUrl": "https://www.universetoday.com/article_images/resize1_20260408_193929.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:37"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The Outer Solar System Contributed Nothing To Earth",
+    "Link": "https://www.universetoday.com/articles/the-outer-solar-system-contributed-nothing-to-earth",
+    "ImageUrl": "https://www.universetoday.com/article_images/art002e000192_20260407_183508.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:40"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "April 30: Opportunities for On-Orbit Computing",
+    "Link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-09 03:38:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Stanford’s AI spots hidden disease warnings that show up while you sleep",
+    "Link": "https://www.sciencedaily.com/releases/2026/01/260109023114.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+    "Link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/quantum-computer-hardware-close-up.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:38:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why GPS fails in cities. And how it was brilliantly fixed",
+    "Link": "https://www.sciencedaily.com/releases/2025/10/251009033124.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/low-angle-urban-skyscrapers.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:39:01"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "This new chip survives 1300°F (700°C) and could change AI forever",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/hot-lava-computer-memory-chip.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:39:04"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Brain inspired machines are better at math than expected",
+    "Link": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-cpu-chip-motherboard.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:39:08"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "D4RT: Teaching AI to see the world in four dimensions",
+    "Link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-04-08 03:44:06"
+    "Date": "2026-04-09 03:39:19"
   },
   {
-    "Topic": "Economy",
-    "Title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.17%",
-    "Link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-017-4601487",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Money-2180330_1920.jpg/960px-Money-2180330_1920.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-08 03:44:11"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The Great Digital Dollar Switcheroo",
-    "Link": "https://economicprism.com/the-great-digital-dollar-switcheroo",
-    "ImageUrl": "https://economicprism.com/wp-content/uploads/2025/12/DigitalDollar200x200.png",
+    "Topic": "Technology",
+    "Title": "AI is changing retail. Here’s how businesses can keep up.",
+    "Link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Decoded_Podcast_-_Thumbnail_-_S1E6.max-1440x810.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:14"
+    "Date": "2026-04-09 03:39:22"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Blue Origin Plans A Pair Of Low-Flying Prospectors Around The Lunar South Pole",
-    "Link": "https://www.universetoday.com/articles/blue-origin-plans-a-pair-of-low-flying-prospectors-around-the-lunar-south-pole",
-    "ImageUrl": "https://www.universetoday.com/article_images/Screenshot_2026-04-06_134749_20260406_175146.jpg",
+    "Topic": "Technology",
+    "Title": "What Happens When a Nuclear Site Is Hit?",
+    "Link": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+    "ImageUrl": "https://media.wired.com/photos/69ce780b6ff24e6598c91ffc/191:100/w_1280,c_limit/Nuclear_Lead.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:27"
+    "Date": "2026-04-09 03:39:25"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Pandora Small Satellite Launched",
-    "Link": "https://www.nasa.gov/image-detail/afs-8-101-1228/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/01/ksc-20260111-ph-spx01-0001orig.jpg",
+    "Topic": "Technology",
+    "Title": "DolphinGemma: How Google AI is helping decode dolphin communication",
+    "Link": "https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:30"
+    "Date": "2026-04-09 03:39:29"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Why Are Supermassive Black Holes Growing So Slowly?",
-    "Link": "https://www.universetoday.com/articles/why-are-supermassive-black-holes-growing-so-slowly",
-    "ImageUrl": "https://www.universetoday.com/article_images/bhgrowth_20260402_165413.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:32"
+    "Topic": "Technology",
+    "Title": "Gemini Robotics brings AI into the physical world",
+    "Link": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-09 03:39:32"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Mercury Scout Mission Concept with Solar Sail Propulsion",
-    "Link": "https://www.universetoday.com/articles/mercury-scout-mission-concept-with-solar-sail-propulsion",
-    "ImageUrl": "https://www.universetoday.com/article_images/Mercury_in_true_color_750_20260401_051339.jpg",
+    "Topic": "Movies",
+    "Title": "‘Euphoria’ Season 3 Review: The HBO Hit Continues To Own The Zeitgeist By Allowing Its Cynical Characters To Grow Up",
+    "Link": "https://decider.com/2026/04/08/euphoria-on-hbo-season-3-review/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/04/Euphoria-Season-3-REVIEW-ART.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:35"
+    "Date": "2026-04-09 03:39:40"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry",
-    "Link": "https://www.nasa.gov/image-detail/goddardphotop9-1/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/goddardphotop9-1.jpg",
+    "Topic": "Movies",
+    "Title": "‘The Boys’ Stars Jensen Ackles, Laz Alonso Share What Fans Should Expect From Soldier Boy And Mother’s Milk In Season 5 Premiere: “In Order To Kill The Monster, You Have To Become One Yourself”",
+    "Link": "https://decider.com/2026/04/08/the-boys-jensen-ackles-laz-alonso-season-5-premiere/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/04/the-boys-laz-alonso-jensen-ackles-.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-04-08 03:44:37"
+    "Date": "2026-04-09 03:39:44"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Virus from marine animals is causing weird eye problems in people",
+    "Link": "https://www.newscientist.com/article/2521680-virus-from-marine-animals-is-causing-weird-eye-problems-in-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/01095446/SEI_291596866.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:39:52"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Novel approach to clearing brain waste shows promise for Alzheimer's",
+    "Link": "https://www.newscientist.com/article/2522065-novel-approach-to-clearing-brain-waste-shows-promise-for-alzheimers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/02163440/SEI_291714243.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:39:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A Data Scientist’s Take on the $599 MacBook Neo",
+    "Link": "https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/kamil-switalski-zVBfEcNApE8-unsplash-scaled-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:00"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The shocking fossils that show T. rex wasn't the king of the dinosaurs",
+    "Link": "https://www.newscientist.com/article/2519003-the-shocking-fossils-that-show-t-rex-wasnt-the-king-of-the-dinosaurs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/11132255/SEI_288902859.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:06"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Surprising male G-spot found in most detailed study of the penis yet",
+    "Link": "https://www.newscientist.com/article/2520982-surprising-male-g-spot-found-in-most-detailed-study-of-the-penis-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/26111649/SEI_290876107.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "These simple lifestyle changes could decrease dementia risk by 25%",
+    "Link": "https://www.nbcnews.com/health/aging/dementia-risk-lifestyle-changes-middle-age-walking-sitting-sleep-rcna267107",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-beach-run-weather-new-york-ew-428p-13a020.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:20"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Spritpreise steigen weiter, aber nicht mehr so stark wie zuvor",
+    "Link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-oelpreis-adac-tankstellen-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/c0f0e28b-ba1b-44e4-95f9-ed3ee0c62e42/AAABnW1MFb4/AAABnSSvrFg/16x9-big/tankstelle-dresden-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:24"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Republican Clay Fuller wins Georgia special election",
+    "Link": "https://www.nbcnews.com/video/shorts/republican-clay-fuller-wins-georgia-special-election-260877893720",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/f_vert_brk_ga_elex_fuller_260408.00_00_38_11.Still002-9pth15.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Caine says how much coffee and nicotine the military has consumed",
+    "Link": "https://www.nbcnews.com/video/shorts/caine-says-how-much-coffee-and-nicotine-the-military-has-consumed-260888133873",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/caine-yd8se5.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:31"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Waffenruhe im Iran-Krieg: Anleger atmen auf",
+    "Link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-waffenruhe-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/ac5471dd-2140-4880-86ee-40edd442eb13/AAABnUI3xTI/AAABnSSvrFg/16x9-big/boerse-500.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-09 03:40:36"
   }
 ]
