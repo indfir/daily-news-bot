@@ -1,322 +1,322 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "Securing the open source supply chain across GitHub",
-    "Link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-security-logo-blocks-github.png",
+    "Topic": "General News",
+    "Title": "Warnstreiks bremsen Nahverkehr in Bayern",
+    "Link": "https://www.tagesschau.de/inland/regional/bayern/warnstreiks-bayern-nahverkehr-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/ab87cfa6-feb2-403b-8e47-e229f58e925e/AAABnYs4F2k/AAABnSSvrFg/16x9-big/br-busse-stehen-in-nuernberg-im-depot-100.jpg?width=1280",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Agent-driven development in Copilot Applied Science",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png?fit=1920%2C1080",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub for Beginners: Getting started with GitHub security",
-    "Link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/03/GIT850_THUMB_GFB_A-1.png?fit=1280%2C720",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:20"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub availability report: March 2026",
-    "Link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2025/09/wallpaper-generic-blog-header.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:23"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub Copilot CLI combines model families for a second opinion",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/00ab37fbbb9bc343b007734b0e5805a26e747c90d955750bd976cb9ce84f6a2a-1920x1080-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:26"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
-    "Link": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108289618-1775802640586-gettyimages-2268436910-Iran.jpeg?v=1775823899&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:36"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "SPSL Latih SDM, Dorong Efisiensi Proses Bisnis",
-    "Link": "https://ekonomi.republika.co.id/berita/tdfspg416/spsl-latih-sdm-dorong-efisiensi-proses-bisnis",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/spsl-menyelenggarakan-lean-six-sigma-simulation-yang-diikuti-oleh_260413213805-463.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Three niche commodity prices are surging. What they show about China's grip on supply chains",
-    "Link": "https://www.cnbc.com/2026/03/31/commodities-price-of-tungsten-sulfur-and-helium.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108285106-1774923089296-IMG-20260320-WA0021.jpg?v=1774923150&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:44"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "RI Buka Peluang Perluas Ekspor di Tengah Sulitnya Distribusi Pupuk Dunia ",
-    "Link": "https://ekonomi.republika.co.id/berita/tdfw7e483/ri-buka-peluang-perluas-ekspor-di-tengah-sulitnya-distribusi-pupuk-dunia",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/wakil-menteri-pertanian-wamentan-sudaryono-menegaskan-kabupaten-sukoharjo-memiliki_251202202358-273.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:48"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
-    "Link": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108231765-1764085598751-108231765-1764085541325-gettyimages-498516164-88287927.jpg?v=1775834884&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:48:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken API Unlocked: automated crypto trading on Kraken — strategies, infrastructure and where to start",
-    "Link": "https://blog.kraken.com/product/api/unlocked-1-strategies-infrastructure-and-where-to-start",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/04/Blog-13-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:00"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Introducing Ink Points: Season 1 is live on Kraken Pro",
-    "Link": "https://blog.kraken.com/product/pro/introducing-ink-points",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/04/Blog-13-2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:03"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130241486,width-1200,height-630,imgsize-16424,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:06"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Tata Chemicals, Tata Investment Corp shares rally up to 12% amid Tata Sons IPO buzz",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-rally-up-to-12-amid-tata-sons-ipo-buzz/articleshow/130225823.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130225810,width-1200,height-630,imgsize-1036500,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:09"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Inside Kraken VIP: behind the curtain",
-    "Link": "https://blog.kraken.com/vip/behind-the-curtain",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/04/Kraken-VIP-Peek-behind-the-curtain-1024x576.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:14"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference",
-    "Link": "https://huggingface.co/blog/tgi-multi-backend",
-    "ImageUrl": "https://huggingface.co/blog/assets/tgi-multi-backend/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:31"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Optimizing your LLM in production",
-    "Link": "https://huggingface.co/blog/optimize-llm",
-    "ImageUrl": "https://huggingface.co/blog/assets/163_optimize_llm/optimize_llm.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:34"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit",
-    "Link": "https://huggingface.co/blog/streamlit-spaces",
-    "ImageUrl": "https://huggingface.co/blog/assets/29_streamlit-spaces/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Using Stable Diffusion with Core ML on Apple Silicon",
-    "Link": "https://huggingface.co/blog/diffusers-coreml",
-    "ImageUrl": "https://huggingface.co/blog/assets/diffusers_coreml/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:41"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
-    "Link": "https://huggingface.co/blog/nvidia-physical-ai",
-    "ImageUrl": "https://huggingface.co/blog/assets/nvidia-physical-ai/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:45"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "LA Heist Thriller Series 'Nemesis' Trailer w/ Matthew Law & Y'lan Noel",
-    "Link": "https://www.firstshowing.net/2026/la-heist-thriller-series-nemesis-trailer-with-matthew-law-ylan-noel/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/nemesisseriesmainimgbigsvTW2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:55"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "10 Sci-Fi Movies From the 2000s That Have Aged Like Fine Wine",
-    "Link": "https://collider.com/sci-fi-movies-2000s-aged-like-fine-wine/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/09/Speed-Racer.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:49:58"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "First Look Trailer for Manuela Martelli's 'The Meltdown' at Cannes 2026",
-    "Link": "https://www.firstshowing.net/2026/first-look-trailer-for-manuela-martellis-the-meltdown-at-cannes-2026/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/themeltdownteasermainfeatTW1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:02"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Wedding Night Thriller 'An Enemy Within' Trailer with William Moseley",
-    "Link": "https://www.firstshowing.net/2026/wedding-night-thriller-an-enemy-within-trailer-with-william-moseley/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/enemywithinpostermainbigimgTW.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:05"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Alien: Romulus Blends Sci-Fi and Horror for Top Spot on HBO Max (#7 Trending)",
-    "Link": "https://screenrant.com/alien-romulus-space-horror-hbo-max-streaming-april-2026/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/alien-romulus_j32fup.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:09"
+    "Date": "2026-04-15 03:46:51"
   },
   {
     "Topic": "General News",
-    "Title": "Hungarian election: EU leaders celebrate Peter Magyar's victory",
-    "Link": "https://www.france24.com/en/video/20260413-hungarian-election-eu-leaders-celebrate-peter-magyar-s-victory",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/P%C3%A9ter_Magyar_MEP_%282024%29.jpg/960px-P%C3%A9ter_Magyar_MEP_%282024%29.jpg",
+    "Title": "Spitzentreffen in Berlin: Deutschland und Ukraine vertiefen Militärkooperation",
+    "Link": "https://www.tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-102.html",
+    "ImageUrl": "https://images.tagesschau.de/image/4b9687ac-c29c-44fc-bd27-949f7907d78a/AAABnYuTm2k/AAABnSSvrFg/16x9-big/selenskyj-merz-138.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:46:55"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Holocaust-Überlebende führen \"Marsch der Lebenden\" in Auschwitz an",
+    "Link": "https://www.tagesschau.de/ausland/europa/holocaust-marsch-der-lebenden-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/82c2b5a2-428a-468e-892f-97ae9ad7c21f/AAABnYkiURs/AAABnSSvrFg/16x9-big/auschwitz-birkenau-106.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:46:58"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
+    "Link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+    "ImageUrl": "https://i.guim.co.uk/img/media/e052ad8fb2aaaaa12e66bdb951c3ed8aecf77331/7_0_816_653/master/816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=37642aeec792e82d751d395322807fa5",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:01"
+  },
+  {
+    "Topic": "General News",
+    "Title": "US-Iran peace talks could resume in next two days, Trump says",
+    "Link": "https://www.theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
+    "ImageUrl": "https://i.guim.co.uk/img/media/bf819ea0c1bc35cd54a593fed568edbb50633ddc/373_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51009791960ff61066cedc86304046c2",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:04"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return",
+    "Link": "https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-08-05-05-45-857.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:17"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Falcon 9 launches CRS NG-24 cargo ship to ISS",
+    "Link": "https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_8691-525x350.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
+    "Link": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-04-22-29-14-828.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:23"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Artemis II breaks record, conducts lunar flyby",
+    "Link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-07-13-41-20-021.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:26"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California",
+    "Link": "https://www.nasaspaceflight.com/2026/04/launch-preview-040626/",
+    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706-525x350.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:29"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Black hole wakes after 100 million years and erupts like a cosmic volcano",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260411022037.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/exploding-black-hole.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/sahul-first-settlers-map.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:40"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Two simple eating habits linked to lower weight, study finds",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/weight-loss-woman-progress.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/giant-atom-glowing.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:46"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Your brain could help solve autism and most people don’t know it",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260408095346.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-brain-model-over-doctors-hands.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:49"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+    "Link": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-rag-quadstore-facts-kg-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:47:58"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "LLM Research Papers: The 2025 List (January to June)",
+    "Link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-list-one",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!cRyQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e920533-c926-461b-95bb-c7446f3df382_1289x619.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:01"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI-Powered Talent Intelligence Across UKG and Beyond",
+    "Link": "https://splashbi.com/events/ai-powered-talent-intelligence-across-ukg-and-beyond/",
+    "ImageUrl": "https://splashbi.com/wp-content/uploads/2025/10/UKG-Aspire-AI-Powered-Talent-Intelligence-Across-UKG-and-Beyond.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:05"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Handling Race Conditions in Multi-Agent Orchestration",
+    "Link": "https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-davies-handling-race-conditions-in-multi-agent-orchestration-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:09"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+    "Link": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-structured-outputs-vs-function-calling-1024x571.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:13"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Chilling Trailer for Driving Horror 'Passenger' with Lou Llobell & Jacob Scipio",
+    "Link": "https://www.firstshowing.net/2026/chilling-trailer-for-driving-horror-passenger-with-lou-llobell-jacob-scipio/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/passengerpostermainbigimgTW1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:29"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "First Trailer for 'Mint' UK Romance Crime Series Starring Emma Laird",
+    "Link": "https://www.firstshowing.net/2026/first-trailer-for-mint-uk-crime-romance-series-starring-emma-laird/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/mintukposterseriesmainbigsvTW2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Early Trailers for 'We Are Aliens' - Japanese Animation About Friends",
+    "Link": "https://www.firstshowing.net/2026/early-trailers-for-we-are-aliens-japanese-animation-about-friends/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/wearealiensmainimagebigsvTW2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:36"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Every Cannes Palme d’Or Winner Since 1955, Ranked by Tomatometer",
+    "Link": "https://editorial.rottentomatoes.com/guide/all-palme-dor-winners-ranked/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/CANNES-thumb.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:39"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "A Conversation with RENTAL FAMILY Writer/Director HIKARI",
+    "Link": "https://www.aintitcool.com/rental-family-writer-director-hikari-interview-83634/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/rental_family_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:48:42"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Novo Nordisk’s stock rallied after drugmaker reveals deal with OpenAI",
+    "Link": "https://www.marketwatch.com/story/novo-nordisks-stock-rallies-after-drugmaker-reveals-deal-with-openai-af1005e6?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/North_America%27s_situation_in_2026.jpg/960px-North_America%27s_situation_in_2026.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-14 03:50:26"
+    "Date": "2026-04-15 03:49:02"
   },
   {
-    "Topic": "General News",
-    "Title": "How Pakistan secured ‘biggest diplomatic win in years’ with Iran ceasefire",
-    "Link": "https://www.theguardian.com/world/2026/apr/08/pakistan-us-israel-iran-ceasefire",
-    "ImageUrl": "https://i.guim.co.uk/img/media/e332473ebf95d974b511bba57a28aee3dedef767/624_0_4941_3952/master/4941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0dc75de90a220543576356cd858c2525",
+    "Topic": "Economy",
+    "Title": "Regulatory Roundup: Unregistered Investment Advice",
+    "Link": "https://www.nasdaq.com/articles/fintech/regulatory-roundup-march-2026",
+    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?1898733179",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:29"
+    "Date": "2026-04-15 03:49:14"
   },
   {
-    "Topic": "General News",
-    "Title": "Orban ousted: What Magyar’s victory means for Hungary and the EU",
-    "Link": "https://www.france24.com/en/europe/20260413-after-orban-what-magyar-victory-means-for-hungary-and-the-eu",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/P%C3%A9ter_Magyar_MEP_%282024%29.jpg/960px-P%C3%A9ter_Magyar_MEP_%282024%29.jpg",
+    "Topic": "Economy",
+    "Title": "Market Close: The Most Important Price of the Day",
+    "Link": "https://www.nasdaq.com/articles/market-close-most-important-price-day",
+    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?610098601",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:49:25"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Very Small Trades Matter Little to Liquidity",
+    "Link": "https://www.nasdaq.com/articles/very-small-trades-matter-little-liquidity",
+    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?1037053084",
+    "ImageSource": "og:image",
+    "Date": "2026-04-15 03:49:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Amazon’s stock is on its best run since 2022 as Globalstar acquisition fuels rally",
+    "Link": "https://www.marketwatch.com/story/amazons-stock-is-on-its-best-run-since-2022-as-globalstar-acquisition-fuels-rally-5d5f22b1?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/960px-Amazon_Tower_I_topped_out%2C_June_2015.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-14 03:50:33"
+    "Date": "2026-04-15 03:49:41"
   },
   {
-    "Topic": "General News",
-    "Title": "Pro-EU Hungarian PM-elect Magyar vows to bring in 'new era'",
-    "Link": "https://www.france24.com/en/video/20260413-pro-eu-hungarian-pm-elect-magyar-vows-to-bring-in-new-era",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/P%C3%A9ter_Magyar_MEP_%282024%29.jpg/960px-P%C3%A9ter_Magyar_MEP_%282024%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-14 03:50:37"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Hungary's Orban defeated: France's far-right loses an ally",
-    "Link": "https://www.france24.com/en/video/20260413-hungary-s-orban-defeated-france-s-far-right-loses-an-ally",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Viktor_Orban_2025_%28cropped%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-14 03:50:40"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The Doctor’s Voice: Why AI Health Chatbots Believe Medical Lies",
-    "Link": "https://sciencebasedmedicine.org/the-doctors-voice-why-ai-health-chatbots-believe-medical-lies/?utm_source=rss&utm_medium=rss&utm_campaign=the-doctors-voice-why-ai-health-chatbots-believe-medical-lies",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/04/aipowered-medical-chatbot-enhanced-healthcare-accessibility_1263357-10978.avif",
+    "Topic": "Trading & Crypto",
+    "Title": "US Stock Market: Wall Street futures climb as traders cling to de-escalation hopes, await earnings",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-futures-climb-as-traders-cling-to-de-escalation-hopes-await-earnings/articleshow/130257991.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-130257991,width-1200,height-630,imgsize-65412,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:50"
+    "Date": "2026-04-15 03:49:50"
   },
   {
-    "Topic": "Science",
-    "Title": "Liver Failure From Alternative Medicines",
-    "Link": "https://sciencebasedmedicine.org/liver-failure-from-alternative-medicines/?utm_source=rss&utm_medium=rss&utm_campaign=liver-failure-from-alternative-medicines",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/ACLF.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum price breaks out from multi-year descending channel, eyes upside to $3,400",
+    "Link": "https://crypto.news/ethereum-price-breaks-out-from-multi-year-descending-channel-eyes-upside-to-3400/",
+    "ImageUrl": "https://media.crypto.news/2025/09/crypto-news-United-Kingdom-Ethereum-option01.webp",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:53"
+    "Date": "2026-04-15 03:49:53"
   },
   {
-    "Topic": "Science",
-    "Title": "Vaccines Work. Here’s Why We Care About Your Unvaccinated Child.",
-    "Link": "https://sciencebasedmedicine.org/normalpeoplecare/?utm_source=rss&utm_medium=rss&utm_campaign=normalpeoplecare",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/image-10.png",
+    "Topic": "Trading & Crypto",
+    "Title": "ABA warns interest-bearing stablecoins could trigger $6.6 trillion in bank deposit flight",
+    "Link": "https://crypto.news/aba-warns-interest-bearing-stablecoins-could-trigger-6-6-trillion-in-bank-deposit-flight/",
+    "ImageUrl": "https://media.crypto.news/2025/09/crypto-news-Stablecoins-vs-banks-option01.webp",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:50:56"
+    "Date": "2026-04-15 03:49:56"
   },
   {
-    "Topic": "Science",
-    "Title": "MAHA and science-based public health: Can’t we all just get along?",
-    "Link": "https://sciencebasedmedicine.org/maha-and-science-based-public-health-cant-we-all-just-get-along/?utm_source=rss&utm_medium=rss&utm_campaign=maha-and-science-based-public-health-cant-we-all-just-get-along",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/04/Why-Cant-We-Be-Friends-e1776030847481.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "15 stocks that Mukul Agrawal, Ashish Kacholia, RK Damani and others bought during March-quarter crash",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-that-mukul-agrawal-ashish-kacholia-rk-damani-and-others-bought-during-march-quarter-crash/slideshow/130250720.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-130250720,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:04"
+    "Date": "2026-04-15 03:50:00"
   },
   {
-    "Topic": "Science",
-    "Title": "RFK Jr. is definitely coming for your vaccines (part 8): “Massive Epidemic of Vaccine Injury,” ACIP, and a prominent oncologist",
-    "Link": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-8-mevi/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-8-mevi",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/MAHAInst.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Oil prices fall but China trade and US inflation data weakens as Iran contagion spreads – in opportunity for Bitcoin",
+    "Link": "https://cryptoslate.com/bitcoin-eyes-bullish-setup-as-new-china-trade-and-us-inflation-data-means-irans-economic-contagion-shock-is-already-spreading/",
+    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/04/iran-conflict-global-trade.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:10"
+    "Date": "2026-04-15 03:50:03"
   },
   {
-    "Topic": "Astronomy",
-    "Title": " 'Maul – Shadow Lord' stars Sam Witwer and Gideon Adlon talk Maul's surprising honesty, becoming a Jedi, and George Lucas' original vision for the character ",
-    "Link": "https://www.space.com/entertainment/space-movies-shows/maul-shadow-lord-stars-sam-witwer-and-gideon-adlon-talk-mauls-surprising-honesty-becoming-a-jedi-and-george-lucas-original-vision-for-the-character",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/8rirhrZWrmgKVVMDmwJA8M-1920-80.jpg",
+    "Topic": "Technology",
+    "Title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
+    "Link": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:19"
+    "Date": "2026-04-15 03:50:12"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "A Titan collision may link Saturn’s tilt, its moon Hyperion and its rings",
-    "Link": "https://www.sciencenews.org/article/titan-collision-saturn-moon-rings",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/030226_LG_Titancollisions_main.jpg",
+    "Topic": "Technology",
+    "Title": "Google brings its Gemini Personal Intelligence feature to India",
+    "Link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:24"
+    "Date": "2026-04-15 03:50:15"
   },
   {
-    "Topic": "Astronomy",
-    "Title": " Artemis 2 mission sends 'Kerbal Space Program' player numbers soaring to the Mun ",
-    "Link": "https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/7423zWfxAneVLjzgSqwjqA-1920-80.jpg",
+    "Topic": "Technology",
+    "Title": "How the rewards app Freecash scammed its way to the top of the app stores",
+    "Link": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:27"
+    "Date": "2026-04-15 03:50:18"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "A comet may have flipped its spin and entered into a death spiral",
-    "Link": "https://www.sciencenews.org/article/comet-41p-reversed-spin-death-spiral",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/03/033026_NO_comet_social_cf31bf.jpg",
+    "Topic": "Technology",
+    "Title": "London gets closer to its first robotaxi service as Waymo begins testing",
+    "Link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-london-getty.jpg?resize=1200,800",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:31"
+    "Date": "2026-04-15 03:50:21"
   },
   {
-    "Topic": "Astronomy",
-    "Title": " Artemis 2 spies a crescent Earth above the moon's horizon | Space photo of the day for April 10, 2026 ",
-    "Link": "https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/etaomD3efUECP9KDmfZWuM-1422-80.jpg",
+    "Topic": "Technology",
+    "Title": "Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software",
+    "Link": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1513214947.jpg?resize=1200,801",
     "ImageSource": "og:image",
-    "Date": "2026-04-14 03:51:34"
+    "Date": "2026-04-15 03:50:24"
   }
 ]
