@@ -1,266 +1,322 @@
 [
   {
     "Topic": "Movies",
-    "Title": "5 Marvel Based Movies Are Leaving HBO Max Shortly",
-    "Link": "https://www.comingsoon.net/movies/news/2121837-5-marvel-movies-leaving-hbo-max",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/Marvel-HBO-Max-Spider-Man-leaving.jpg?resize=1200,630",
+    "Title": "Ladies First: Netflix Drops First Trailer For Sacha Baron Cohen Film",
+    "Link": "https://bleedingcool.com/movies/ladies-first-netflix-drops-first-trailer-for-sacha-baron-cohen-film/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/RY_LF_17-11-24_1569_2096_comp_R2-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:34"
+    "Date": "2026-04-19 03:30:05"
   },
   {
     "Topic": "Movies",
-    "Title": "New Xochitl Gomez, Aaron Dominguez Thriller Movie Streams for Free Today",
-    "Link": "https://www.comingsoon.net/movies/news/2121365-new-xochitl-gomez-aaron-dominguez-thriller-movie-streams-today",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/hive-pic.jpg?resize=1200,630",
+    "Title": "The Dog Stars: Official Trailer, Poster, And Images Released",
+    "Link": "https://bleedingcool.com/movies/the-dog-stars-official-trailer-poster-and-images-released/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/the-dog-stars-feature-image-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:37"
+    "Date": "2026-04-19 03:30:08"
   },
   {
     "Topic": "Movies",
-    "Title": "Only 3 Movies Are More Epic Than The Lord of the Rings",
-    "Link": "https://collider.com/movies-more-epic-than-the-lord-of-the-rings/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/06/Gandalf-Lord-Of-The-Rings-You-Shall-Not-Pass.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "15 Best Free TV Shows on Fandango at Home (April 2026)",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-free-tv-shows-fandango-at-home/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/12/RT_Representative_BestFreeTV_f43c89.png?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:41"
+    "Date": "2026-04-19 03:30:11"
   },
   {
     "Topic": "Movies",
-    "Title": "Beloved Robin Williams Movie Gets Surprising Remake at Amazon MGM",
-    "Link": "https://www.comingsoon.net/movies/news/2122017-beloved-robin-williams-movie-gets-surprising-remake-at-amazon-mgm",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/robin-williams-header.jpg?resize=1200,630",
+    "Title": "Bryan Cranston’s Grounded Crime-Drama Movie Is Leaving Netflix",
+    "Link": "https://www.comingsoon.net/movies/news/2120616-the-infiltrator-netflix-leaving-bryan-cranston",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/Bryan-Cranstons-Grounded-Crime-Drama-Movie-Is-Leaving-Netflix.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:44"
+    "Date": "2026-04-19 03:30:14"
   },
   {
     "Topic": "Movies",
-    "Title": "Studio Ghibli Fest 2026 Schedule Celebrates 4 Anniversaries You Shouldn’t Miss",
-    "Link": "https://www.comingsoon.net/movies/news/2121964-studio-ghibli-fest-2026-schedule-celebrates-4-anniversaries",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/spirited-away.jpg?resize=1200,630",
+    "Title": "Star Wars: The Mandalorian and Grogu Final Trailer Is Here",
+    "Link": "https://bleedingcool.com/movies/star-wars-the-mandalorian-and-grogu-final-trailer-is-here/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/THND-041423_R-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:47"
+    "Date": "2026-04-19 03:30:17"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "SAP buys Reltio to pull in more outside data for AI agents",
+    "Link": "https://siliconangle.com/2026/03/30/sap-buys-reltio-pull-outside-data-ai-agents/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/SAP.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:24"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Datadog debuts Experiments to unify product testing and observability data",
+    "Link": "https://siliconangle.com/2026/04/02/datadog-debuts-experiments-unify-product-testing-observability-data/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Datadog.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:28"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI at scale is demanding a fundamentally different data architecture",
+    "Link": "https://siliconangle.com/2026/02/27/unified-data-platform-essential-ai-scale-says-vast-vastforward/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Jonsi-Stefansson-Clean.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:32"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How to build AI-Generated Dashboards from User-defined Queries ",
+    "Link": "https://www.revealbi.io/blog/ai-generated-dashboard",
+    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/02/reveal-how-to-build-ai-gen-dashboards-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:34"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NotebookLM for the Creative Architect",
+    "Link": "https://www.kdnuggets.com/notebooklm-for-the-creative-architect",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-mayo-notebooklm-for-the-creative-architect.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:37"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Artemis moon exploration programme is getting a major makeover",
+    "Link": "https://www.newscientist.com/article/2517451-nasas-artemis-moon-exploration-programme-is-getting-a-major-makeover/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/27155109/SEI_287044645.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:46"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Why Kim Stanley Robinson's Red Mars is still a classic, 34 years on",
+    "Link": "https://www.newscientist.com/article/2521097-why-kim-stanley-robinsons-red-mars-is-still-a-classic-34-years-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/26143528/sei290979556.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:48"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Captivating space images show how it has inspired us through the ages",
+    "Link": "https://www.newscientist.com/article/mg26935870-200-captivating-space-images-show-how-it-has-inspired-us-through-the-ages/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/18105023/sei289940373.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Gargantuan black hole may be a remnant from the dawn of the universe",
+    "Link": "https://www.newscientist.com/article/2509631-gargantuan-black-hole-may-be-a-remnant-from-the-dawn-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/22162757/SEI_278780705.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:30:57"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Earth may have formed from two separate rings around the sun",
+    "Link": "https://www.newscientist.com/article/2520503-earth-may-have-formed-from-two-separate-rings-around-the-sun/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/24133844/SEI_290742313.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:01"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How to disable automatic content recognition and data tracking on your smart TV",
+    "Link": "https://mashable.com/video/disable-acr-fire-tv",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/videos/04xnZXGjR9rcAG6pWidQdBh/hero-image.fill.size_1200x675.v1776342831.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:09"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Why fans are so upset about Patrick Schwarzeneggers Beach Read casting",
+    "Link": "https://mashable.com/article/patrick-schwarzenegger-beach-read-gus-everett-backlash",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04w0jdLHeKCPiza95GrSxkP/hero-image.fill.size_1200x675.v1776357680.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:12"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
+    "Link": "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/",
+    "ImageUrl": "https://texascooppower.com/wp-content/uploads/2021/12/detail_his_abernathy_main-1200x630.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:15"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The MacBook Neo is selling out — act fast to secure the best-ever price at Amazon",
+    "Link": "https://mashable.com/article/macbook-neo-sold-out-best-price-at-amazon",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06GlSTrGr47mJUVuEfAdswO/hero-image.fill.size_1200x675.v1776437826.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:18"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Meta finally adds direct messages to the web version of Threads",
+    "Link": "https://mashable.com/article/threads-website-redesign-direct-messages",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/009Rrzccbbxfmc3Io8nmePH/hero-image.fill.size_1200x675.v1776524298.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:21"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Mort de Nathalie Baye : Emmanuel Macron salue « une comédienne avec qui nous avons aimé, rêvé, grandi » ; Isabelle Adjani rend hommage à « une actrice à la spontanéité éclatante »",
+    "Link": "https://www.lemonde.fr/culture/article/2026/04/18/mort-de-nathalie-baye-emmanuel-macron-salue-une-comedienne-avec-qui-nous-avons-aime-reve-grandi-isabelle-adjani-rend-hommage-a-une-actrice-a-la-spontaneite-eclatante_6681140_3247.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-19 03:31:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Arthur Fils rejoint Andrey Rublev en finale du tournoi de tennis de Barcelone",
+    "Link": "https://www.lemonde.fr/sport/article/2026/04/18/arthur-fils-rejoint-andrey-rublev-en-finale-du-tournoi-de-tennis-de-barcelone_6681174_3242.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arthur_Cazaux_%282023_US_Open%29_01.jpg/960px-Arthur_Cazaux_%282023_US_Open%29_01.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-19 03:31:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Ma vie après un AVC : « Mes amis, un îlot de veine au milieu du désastre »",
+    "Link": "https://www.lemonde.fr/intimites/article/2026/04/18/ma-vie-apres-un-avc-mes-amis-un-ilot-de-veine-au-milieu-du-desastre_6681166_6190330.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Helena_lors_du_concert_les_invincibles_ensemble.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-19 03:31:36"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Avec « Juste une illusion », le duo Nakache-Toledano raconte ses années 1980",
+    "Link": "https://www.lemonde.fr/culture/article/2026/04/18/avec-juste-une-illusion-le-duo-nakache-toledano-raconte-ses-annees-1980_6681157_3246.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/%C3%89quipe_football_ivoirien_03_%28Ousmane_Diomande%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-19 03:31:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Face au RN, Boris Vallaud, Yannick Jadot et Raphaël Glucksmann appellent à construire un « projet crédible et mobilisateur »",
+    "Link": "https://www.lemonde.fr/politique/article/2026/04/18/face-au-rn-boris-vallaud-yannick-jadot-et-raphael-glucksmann-appellent-a-construire-un-projet-credible-et-mobilisateur_6681182_823448.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/960px-Gabriel_Attal_2025_%28close_crop%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-19 03:31:42"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Pakar Ekonomi Energi: Kenaikan Harga BBM Nonsubsidi Sudah Tepat",
+    "Link": "https://ekonomi.republika.co.id/berita/tdoqr7458/pakar-ekonomi-energi-kenaikan-harga-bbm-nonsubsidi-sudah-tepat",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/061457700-1776507469-830-556.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:52"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Dampak Ekonomi Pembukaan Selat Hormuz: Minyak Turun, Pasar Stabil",
+    "Link": "https://ekonomi.republika.co.id/berita/tdol3n370/dampak-ekonomi-pembukaan-selat-hormuz-minyak-turun-pasar-stabil",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kapal-kapal-kargo-terlihat-di-teluk-persia-dekat-pulau-qeshm_260321100919-232.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:31:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "How to file a tax extension before the April 15 deadline",
+    "Link": "https://www.foxbusiness.com/economy/how-file-tax-extension-before-april-15-deadline",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/couple-doing-taxes-getty.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:00"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Harga Pertamax Turbo Naik Saat Harga Minyak Dunia Jatuh, Ini Pembelaan ESDM",
+    "Link": "https://ekonomi.republika.co.id/berita/tdoe5b370/harga-pertamax-turbo-naik-saat-harga-minyak-dunia-jatuh-ini-pembelaan-esdm",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/pertamina-menurunkan-harga-pertamax-series-dan-dex_250501130840-471.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:03"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "US economy grew at 0.5% in fourth quarter",
+    "Link": "https://www.foxbusiness.com/economy/us-economy-q4-2025-final",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/port-houston-trade.png?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:06"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum.org Translation Program: Milestone and Updates",
+    "Link": "https://blog.ethereum.org/en/2020/07/29/ethdotorg-translation-milestone",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:14"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "eth2 quick update",
+    "Link": "https://blog.ethereum.org/en/2019/10/23/eth2-quick-update",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:17"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The Promise of Ethereum: Introducing the EF Mandate",
+    "Link": "https://blog.ethereum.org/en/2026/03/13/ef-mandate",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_3b3943b70ed8ab0b09f7a3b0328fc98e.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "US Bitcoin ETFs pull in $664M in largest daily inflow since January, because Iran reopened Hormuz for a few hours",
+    "Link": "https://cryptoslate.com/bitcoin-etfs-pull-in-664-million-after-strait-of-hormuz-reopened/",
+    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/04/bitcoin-etf-inflow-hormuz.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "What If Ethereum Lived on a Treap? Or, Blockchains Charging Rent",
+    "Link": "https://blog.ethereum.org/en/2014/05/27/what-if-ethereum-lived-on-a-treap-or-blockchains-charging-rent",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-19 03:32:25"
   },
   {
     "Topic": "Science",
-    "Title": "Some GLP-1 drugs are more effective for those with specific gene variants",
-    "Link": "https://www.sciencenews.org/article/glp-1-weight-loss-genetics-side-effects",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041426_TS_genetics_main.jpg",
+    "Title": "A Practical Guide to Choosing the Right Quantum SDK",
+    "Link": "https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-dkomov-34804006-scaled-1.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:39:56"
+    "Date": "2026-04-19 03:32:34"
   },
   {
     "Topic": "Science",
-    "Title": "An endangered mouse may need a helping hand to adapt to climate change",
-    "Link": "https://www.sciencenews.org/article/mouse-endangered-climate-conservation",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041626_EG_mice_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:00"
+    "Title": "Q&A: How research aims to improve bad housing data",
+    "Link": "https://phys.org/news/2026-04-qa-aims-bad-housing.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-19 03:32:37"
   },
   {
     "Topic": "Science",
-    "Title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
-    "Link": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041326_ED_fluoride_main_rev.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "NetApp and Nutanix say storage has become the last line of defense in the AI era",
-    "Link": "https://siliconangle.com/2026/04/09/ai-infrastructure-modernization-drives-storage-rethink-nutanixnext/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_8819-e1775752798779.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:22"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Want to understand the current state of AI? Check out these charts.",
-    "Link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/state-ai-report.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:25"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Commvault rolls out AI capabilities to secure agentic workflows and data",
-    "Link": "https://siliconangle.com/2026/04/13/commvault-rolls-ai-capabilities-secure-agentic-workflows-data/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/commvault.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:28"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Meta debuts Muse Spark multimodal reasoning model",
-    "Link": "https://siliconangle.com/2026/04/08/meta-debuts-muse-spark-multimodal-reasoning-model/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Meta-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:31"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Cisco buys Galileo to strengthen Splunk’s agentic monitoring capabilities",
-    "Link": "https://siliconangle.com/2026/04/09/cisco-buys-galileo-strengthen-splunks-agentic-monitoring-capabilities/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-10-08-18-53.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:34"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Iran War Is Getting Oil Traders Kicked Out of Their Banks. Stablecoins Are Filling the Gap",
-    "Link": "https://dailycoinpost.com/iran-war-commodity-traders-debanked-stablecoins-settlement-2026/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/04/hormuz-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:43"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Japan looks to be moving closer towards actual intervention to support the yen - MUFG",
-    "Link": "https://investinglive.com/forex/japan-looks-to-be-moving-closer-towards-actual-intervention-to-support-the-yen-mufg-20260417/",
-    "ImageUrl": "https://images.investinglive.com/images/JPY%20YEN%20CURRENCY_id_6bc30c37-a4d6-46d7-8613-f08116077989_size975.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:47"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "When Bots Start Farming Each Other: The Next DeFi War",
-    "Link": "https://smartliquidity.info/2026/04/10/when-bots-start-farming-each-other-the-next-defi-war/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/04/SMARTCRYTONEWS-2026-04-10T181751.781.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Great Airdrop Industrial Complex",
-    "Link": "https://smartliquidity.info/2026/04/13/the-great-airdrop-industrial-complex/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/04/SMARTCRYTONEWS-2026-04-13T143640.689.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:55"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "DeFi Won’t Just Bank the World—It Will Rebuild Local Economies",
-    "Link": "https://smartliquidity.info/2026/04/16/defi-wont-just-bank-the-world-it-will-rebuild-local-economies/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/04/SMARTCRYTONEWS-2026-04-16T133246.196.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:40:59"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Expedition 74 Unpacks Cygnus XL, Unveiling Cutting-Edge Science Equipment for Space Research",
-    "Link": "https://dailygalaxy.com/2026/04/expedition-74-cygnus-xl-space-research/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/960px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "Title": "How nanomedicine gets inside your cells and treats you from the inside out",
+    "Link": "https://phys.org/news/2026-04-nanomedicine-cells.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-18 03:41:08"
+    "Date": "2026-04-19 03:32:40"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "The best images from Artemis II",
-    "Link": "https://www.planetary.org/articles/the-best-images-from-artemis-ii",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/earthset-artemis-ii.jpg?mtime=1775570063",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:10"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A Group of Students Discovers a Tiny Star with Almost No Metals That Shouldn’t Be in the Milky Way",
-    "Link": "https://dailygalaxy.com/2026/04/students-discover-star-with-no-metals/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/High_school_students%2C_SAS_Pudong.jpg/960px-High_school_students%2C_SAS_Pudong.jpg",
+    "Topic": "Science",
+    "Title": "Wildfires used to 'go to sleep' at night. Climate change is turning them into prime burning hours",
+    "Link": "https://phys.org/news/2026-04-wildfires-night-climate-prime-hours.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Annual_area_burnt_by_wildfires%2C_World%2C_2026_%28cropped%29.svg/960px-Annual_area_burnt_by_wildfires%2C_World%2C_2026_%28cropped%29.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-18 03:41:13"
+    "Date": "2026-04-19 03:32:43"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Perseverance Detects That 3-Billion-Year-Old Mars Rocks Contain Something Never Seen Before at This Scale",
-    "Link": "https://dailygalaxy.com/2026/04/rover-found-mars-rocks-contain-something/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Perseverance-Selfie-at-Rochette-Horizontal-V2.gif/960px-Perseverance-Selfie-at-Rochette-Horizontal-V2.gif",
-    "ImageSource": "wikipedia",
-    "Date": "2026-04-18 03:41:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Historical NASA Budget Dataset",
-    "Link": "https://www.planetary.org/space-policy/nasa-budget/historical",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/1965-building-the-vab-KSC-65C-0125.jpg?mtime=1771309119",
+    "Topic": "Science",
+    "Title": "How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)",
+    "Link": "https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ZERO-1-1.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Lee Cronins The Mummy review: Gore and bores galore",
-    "Link": "https://mashable.com/article/lee-cronins-the-mummy-review",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/01zpVNn8Bb2q51edEnHrPBd/hero-image.fill.size_1200x675.v1776286972.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:27"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Where can you stream Something Very Bad Is Going to Happen?",
-    "Link": "https://mashable.com/article/where-can-i-stream-something-very-bad-is-going-to-happen",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06snkUYV8rMouTmndKoW5Nk/hero-image.fill.size_1200x675.v1776443330.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:30"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "I Ran 30 Miles and THIS Is the Most Accurate Smartwatch",
-    "Link": "https://mashable.com/video/most-accurate-smartwatch-30-mile-run-test",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/videos/05Xvp8sMEgx3UuXGzhGIrqX/hero-image.fill.size_1200x675.v1776376568.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:33"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "I used AI to role play as characters from The Great Gatsby",
-    "Link": "https://mashable.com/article/character-ai-book-role-play-fan-fiction",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05Qc3kYyyJ1YTc03zII4e4S/hero-image.fill.size_1200x675.v1776452386.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Bluetti Elite 10 Mini power station is under $150 for a limited time — save over $80 at Amazon",
-    "Link": "https://mashable.com/article/april-16-bluetti-elite-10-mini-power-station-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/0507cRZw1ri18SzHVCsx7hb/hero-image.fill.size_1200x675.v1776327071.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:41:39"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-    "Link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:42:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "NSDAP-Archiv: Wer sie wirklich waren, nahmen sie mit ins Grab",
-    "Link": "https://www.zeit.de/familie/2026-04/nsdap-archiv-familie-historie-nationalsozialismus",
-    "ImageUrl": "https://img.zeit.de/familie/2026-04/nsdap-archiv-familie-historie-nationalsozialismus-2/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:42:06"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Basketball-Europapokal: Bayern-Basketballer beenden EuroLeague-Saison mit Niederlage",
-    "Link": "https://www.zeit.de/news/2026-04/17/bayern-basketballer-beenden-euroleague-saison-mit-niederlage",
-    "ImageUrl": "https://img.zeit.de/news/2026-04/17/bayern-basketballer-beenden-euroleague-saison-mit-niederlage-image-group/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:42:10"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
-    "Link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb28/live/c2e29290-3a96-11f1-8c60-37b411324010.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:42:13"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Mental stress led to anti-doping charge - Vondrousova",
-    "Link": "https://www.bbc.com/sport/tennis/articles/c0q9ydk2wg9o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2eaf/live/a44577f0-3a8a-11f1-b7a0-978d05a9e26f.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-18 03:42:15"
+    "Date": "2026-04-19 03:32:47"
   }
 ]
