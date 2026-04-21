@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "Link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-04-21 03:40:07"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "Link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-04-21 03:40:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "Link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "ImageUrl": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/191:100/w_1280,c_limit/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:13"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Marrying AI Agents With Trusted Enterprise Data Systems",
-    "Link": "https://www.teradata.com/insights/ai-and-machine-learning/marrying-ai-agents-with-trusted-enterprise-data",
-    "ImageUrl": "https://www.teradata.com/Content/Assets/default/teradata-logo-social.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:17"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-    "Link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-    "ImageUrl": "https://media.wired.com/photos/69e0dd9494c73a543425c2c6/191:100/w_1280,c_limit/GettyImages-2261781731.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "India bonds edge up in choppy session as traders weigh truce prospects",
-    "Link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-edge-up-in-choppy-session-as-traders-weigh-truce-prospects/articleshow/130391908.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130391908,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:31"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Groww Q4 Results: Profit soars 122% YoY to Rs 686 crore, cashing in on market crash and Iran war",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q4-results-net-profit-soars-122-yoy-to-rs-686-crore-revenue-jumps-87/articleshow/130386122.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130386325,width-1200,height-630,imgsize-1538793,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:35"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Cummins India among 7 stocks that hit 52-week high; rally up to 32% in a month",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/cummins-india-among-7-stocks-that-hit-52-week-high-rally-up-to-32-in-a-month/slideshow/130393480.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130393480,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Buy every dip, markets have turned a corner; 2 trading calls for near-term gains: CA Rudramurthy BV",
-    "Link": "https://economictimes.indiatimes.com/markets/expert-view/buy-every-dip-markets-have-turned-a-corner-2-trading-calls-for-near-term-gains-ca-rudramurthy-bv/articleshow/130389187.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130389198,width-1200,height-630,imgsize-30240,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:40:45"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Peru reviews disputed election ballots with final result likely stalled until May",
-    "Link": "https://www.investing.com/news/commodities-news/peru-reviews-disputed-election-ballots-with-final-result-likely-stalled-until-may-4624484",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/260406-MITIN-KEIKO-PIURA-064_%28cropped%29.jpg/960px-260406-MITIN-KEIKO-PIURA-064_%28cropped%29.jpg",
+    "Topic": "Astronomy",
+    "Title": "Review: Lunar: A History of the Moon in Myths, Maps, and Matter",
+    "Link": "https://www.thespacereview.com/article/4928/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Entering_a_Lunar_Outpost.jpg/960px-Entering_a_Lunar_Outpost.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-21 03:40:49"
-  },
-  {
-    "Topic": "General News",
-    "Title": "CEOs are tired of being held responsible for gun regulation",
-    "Link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330103817-01-nashville-school-shooting-weapons.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:08"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her ",
-    "Link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403100256-03-ncaa-angel-reese-caitlin-clark-040223.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:10"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Kasus Hemofilia di Indonesia Diperkirakan 28 Ribu Orang, Namun Mayoritas Belum Terdeteksi",
-    "Link": "https://www.tribunnews.com/kesehatan/7819251/kasus-hemofilia-di-indonesia-diperkirakan-28-ribu-orang-namun-mayoritas-belum-terdeteksi",
-    "ImageUrl": "https://asset.tribunnews.com/oozxloZXptyH8bTpDWq1SKAZ0fc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/PASIEN-HEMOFILIA.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:13"
-  },
-  {
-    "Topic": "General News",
-    "Title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-    "Link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403155645-nasal-vaccine-file-121622.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:16"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Istri Noel Tuduh Bobby Bohong soal Intimidasi, Kuasa Hukum: Disampaikan di Bawah Sumpah",
-    "Link": "https://www.tribunnews.com/nasional/7819250/istri-noel-tuduh-bobby-bohong-soal-intimidasi-kuasa-hukum-disampaikan-di-bawah-sumpah",
-    "ImageUrl": "https://asset.tribunnews.com/2dZ_wbU7iQcOIb1R3E_nvXO7d_0=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Istri-Noel-Tuduh-Bobby-Bohong-soal-Intimidasi-Kuasa-Hukum-Disampaikan-di-Bawah-Sumpah.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:19"
-  },
-  {
-    "Topic": "Science",
-    "Title": "New toothpaste stops gum disease without killing good bacteria",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/happy-woman-smiling-pointing-at-healthy-teeth.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:26"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Quantum AI just got shockingly good at predicting chaos",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:29"
-  },
-  {
-    "Topic": "Science",
-    "Title": "This chain of atoms can detect electric fields with stunning precision",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260416071956.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/low-frequency-vector-electrometry-rydberg-dipolar-chain.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:32"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Fool’s gold isn’t so foolish: Scientists find hidden treasure in pyrite",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260416032604.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/shiny-pyrite-with-mirror-reflection.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists discover natural hormone that reverses obesity",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260416071954.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:41:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pertemuan IMF-Bank Dunia, Menkeu Purbaya Sampaikan Ekonomi RI Bisa Tumbuh 6 Persen 2026",
-    "Link": "https://www.viva.co.id/bisnis/1893297-pertemuan-imf-bank-dunia-menkeu-purbaya-sampaikan-ekonomi-ri-bisa-tumbuh-6-persen-2026",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/15/69df787ed6a2f-menteri-keuangan-purbaya-yudhi-sadewa_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:11"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Cara Investasi Kripto untuk Pemula, Simak 5 Langkah Ini Sebelum Mulai",
-    "Link": "https://www.viva.co.id/bisnis/1893313-cara-investasi-kripto-untuk-pemula-simak-5-langkah-ini-sebelum-mulai",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/02/23/699bbd917cdcb-bitcoin_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:18"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "HUT ke-37, BRINS Bawa Komitmen Besar untuk Ketahanan Perekonomian RI",
-    "Link": "https://www.viva.co.id/bisnis/1893286-hut-ke-37-brins-bawa-komitmen-besar-untuk-ketahanan-perekonomian-ri",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/20/69e619c936ec8-brins-merayakan-hut-ke-37_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Merdeka Gold Resources Temukan Cadangan Emas Baru Dekat Tambang Pani, Target Eksplorasi Tembus 40 Juta Ton",
-    "Link": "https://www.viva.co.id/bisnis/1893299-merdeka-gold-resources-temukan-cadangan-emas-baru-dekat-tambang-pani-target-eksplorasi-tembus-40-juta-ton",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/10/22/68f828184a767-merdeka-gold-resources_1265_711.png",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:22"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Ngeri! Ancaman Resesi di Depan Mata, 250 Ribu Orang Bisa Kena PHK hingga 2027",
-    "Link": "https://www.viva.co.id/bisnis/1893292-ngeri-ancaman-resesi-di-depan-mata-250-ribu-orang-bisa-kena-phk-hingga-2027",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/24/69243ab68678a-ilustrasi-phk_1265_711.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:24"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The Trigun Stargaze Star Voice Cast on Meeting Fans, Iconic Moments, and the Series Finale",
-    "Link": "https://editorial.rottentomatoes.com/article/trigun-stargaze-final-season-preview/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/Trigun_Stargaze_Interviews-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Original Mandalorian Season 4 Plans Would’ve Set up This Star Wars Sequel",
-    "Link": "https://www.comingsoon.net/tv/news/2122555-mandalorian-and-grogu-season-4-plans-ahsoka-2-jon-favreau",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/Mandalorain-and-Grogu-Season-4-Ahsoka-Jon-Favreau.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:34"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Audience Says: The Super Mario Galaxy Movie Is ‘A Dream Come True for Nintendo Fans’",
-    "Link": "https://editorial.rottentomatoes.com/article/the-super-mario-galaxy-movie-audience-reviews/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/11/Most_Anticipated_Movies_2026_Super_Mario_Galaxy-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:36"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Oscar Isaac Confirms Midnight Sons Talk, Wants Ghost Rider Team-up With Huge Star",
-    "Link": "https://www.comingsoon.net/movies/news/2122543-midnight-sons-oscar-isaac-moon-knight-ghost-rider-team-up",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/04/Moon-Knight.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The 100 Best Movies on Prime Video (April 2026)",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-on-amazon-prime-right-now/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/02/600_Crime101.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-04-21 03:42:42"
+    "Date": "2026-04-22 03:44:16"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Houston deserves a Space Shuttle, but not like this",
-    "Link": "https://www.thespacereview.com/article/5130/1",
+    "Title": "Olimp and Yenisei-2: Russia's secretive eavesdropping satellites (part 1)",
+    "Link": "https://www.thespacereview.com/article/4696/1",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-04-21 03:42:54"
+    "Date": "2026-04-22 03:44:19"
   },
   {
     "Topic": "Astronomy",
-    "Title": "The European Space Tug 1970�1972",
-    "Link": "https://www.thespacereview.com/article/4949/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Space_tug_parts.jpg",
+    "Title": "Planning for space rescue",
+    "Link": "https://www.thespacereview.com/article/4914/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Confined_space_warning_01.jpg/960px-Confined_space_warning_01.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-21 03:42:57"
+    "Date": "2026-04-22 03:44:23"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Review: The New World on Mars",
-    "Link": "https://www.thespacereview.com/article/4754/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-04-21 03:43:01"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Shaking up the commercial space station industry",
-    "Link": "https://www.thespacereview.com/article/4681/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-04-21 03:43:04"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The new space race must be run together",
-    "Link": "https://www.thespacereview.com/article/4889/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Artemis_Base_Camp.png/960px-Artemis_Base_Camp.png",
+    "Title": "Review: Gemini: Stepping Stone to the Moon",
+    "Link": "https://www.thespacereview.com/article/5127/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GeminiPatch.svg/960px-GeminiPatch.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-04-21 03:43:07"
+    "Date": "2026-04-22 03:44:26"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Hubble limps along",
+    "Link": "https://www.thespacereview.com/article/4808/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Las_Vegas_skyline_2014.jpg/960px-Las_Vegas_skyline_2014.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-22 03:44:30"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists warn of 3,100 “surging glaciers” that can trigger floods and avalanches",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260416071958.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/ice-collapsing-off-perito-moreno-glacier-patagonia-argentina.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:44:37"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists sculpt Einstein onto a crystal using only light",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260421042755.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/laser-written-portrait-on-as2s3.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:44:41"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Beyond Prompting: Using Agent Skills in Data Science",
+    "Link": "https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/skill_viz_cover.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:44:44"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/interface-controlled-bulk-oxygen-spillover.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:44:47"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Common IBS medications linked to higher risk of death in major study",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260415043617.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/dangerous-medications-warning.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:44:50"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NetSuite Financial Reporting: How To Optimize, Automate, and Get the Reports You Need",
+    "Link": "https://insightsoftware.com/blog/the-secret-to-creating-the-netsuite-financial-reports-you-have-to-have/",
+    "ImageUrl": "https://insightsoftware.com/wp-content/uploads/2021/05/26-04-BLOG-NetSuite-Financial-Reporting-Optimize-Automate-Yoast-1200.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:18"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Database Replication Strategies: The Problem Starts Before the Pipeline",
+    "Link": "https://insightsoftware.com/blog/database-replication-strategies-the-problem-starts-before-the-pipeline/",
+    "ImageUrl": "https://insightsoftware.com/wp-content/uploads/2026/04/26-04-Blog-Simba-Database-Replication_1200x630-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Predictive Human Preference: From Model Ranking to Model Routing",
+    "Link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/predictive-preference/8-easy-hard-prompts.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:25"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building A Generative AI Platform",
+    "Link": "https://huyenchip.com//2024/07/25/genai-platform.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/genai-platform/1-genai-platform.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:29"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Generative AI Strategy",
+    "Link": "https://huyenchip.com//2023/06/07/generative-ai-strategy.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/rlhf/1-chatgpt-training.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Introducing Google Antigravity",
+    "Link": "https://deepmind.google/blog/introducing-google-antigravity/",
+    "ImageUrl": "https://antigravity.google/assets/image/sitecards/sitecard-default.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:42"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "Link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_metacard_dark_1920x1080.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+    "Link": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-22 03:45:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Engineering more resilient crops for a warming climate",
+    "Link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-22 03:45:55"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Top 5 Apple Products That Tim Cook Launched",
+    "Link": "https://www.cnet.com/tech/tim-cook-top-5-apple-products/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/95b77b4f92d072554f06bdf296ee1db49929163d/hub/2018/03/29/f3091b7e-a65f-4136-8b32-c614adb4dfbe/apple-ipad-chicago-tim-cook-9429.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:45:58"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Must See Teaser for Sébastien Vanicek's 'Evil Dead Burn' Horror Film",
+    "Link": "https://www.firstshowing.net/2026/must-see-teaser-for-sebastien-vaniceks-evil-dead-burn-horror-film/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/evildeadburnpostermainimgbTW2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:06"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "20 Years Later, the Best Video Game Movie Ever Made Remains a Horror Masterpiece",
+    "Link": "https://collider.com/silent-hill-20th-anniversary-best-video-game-movie-horror-masterpiece/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/silent-hill-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:09"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Bonkers Trailer for the Hungry Hippo Horror Movie Called 'Hungry'",
+    "Link": "https://www.firstshowing.net/2026/bonkers-trailer-for-the-hungry-hippos-horror-movie-called-hungry/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/hungryhipponewpostermainbtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:12"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Rebecca Ferguson Returns for Sci-Fi Series 'Solo' - Season 3 Teaser",
+    "Link": "https://www.firstshowing.net/2026/rebecca-ferguson-returns-for-sci-fi-series-solo-season-3-teaser/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/siloseason3postermainbigimgTW.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:15"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Shameik Moore in RZA's 'One Spoon of Chocolate' Thriller Trailer #2",
+    "Link": "https://www.firstshowing.net/2026/shameik-moore-in-rzas-one-spoon-of-chocolate-thriller-trailer-2/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/onespoonfullchocomainimgTW4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:18"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global markets face rising strain as supply chain tightens and oil risk persists: Neelkanth Mishra",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-face-rising-strain-as-supply-chain-tightens-and-oil-risk-persists-neelkanth-mishra/articleshow/130411086.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-130411045,width-1200,height-630,imgsize-24808,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:33"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Harga Emas Melemah di Tengah Drama AS-Iran, Dolar AS Jadi Biang Kerok",
+    "Link": "https://www.viva.co.id/bisnis/1893566-harga-emas-melemah-di-tengah-drama-as-iran-dolar-as-jadi-biang-kerok",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/03/14/65f25e9395efc-ilustrasi-emas_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bank of Maharashtra among 7 midcap stocks that hit 52-week high; rally up to 32% in a month",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-maharashtra-among-7-midcap-stocks-that-hit-52-week-high-rally-up-to-32-in-a-month/slideshow/130416180.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-130416180,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:39"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "From Inflation to Implosion",
+    "Link": "https://economicprism.com/from-inflation-to-implosion",
+    "ImageUrl": "https://economicprism.com/wp-content/uploads/2022/08/UncleSam200x200.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:43"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Jalan Tol Bakal Dikenakan PPN, Begini Penjelasan Ditjen Pajak Kemenkeu",
+    "Link": "https://www.viva.co.id/bisnis/1893534-jalan-tol-bakal-dikenakan-ppn-begini-penjelasan-ditjen-pajak-kemenkeu",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/12/11/6758fde78d721-ilustrasi-jalan-tol_1265_711.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:47"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin is now calmer than South Korea's stock market. Here's why it matters",
+    "Link": "https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f787a12109e3d6799c8dbfcd5a0dbb05b2252c44-1440x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address",
+    "Link": "https://www.coindesk.com/policy/2026/04/21/bank-of-korea-s-new-governor-signals-cbdc-and-bank-token-push-skips-stablecoins-in-key-address",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bcf4b8a4c0df39ba4ac796e16f51dd0cf4ed1a07-2560x1440.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:46:59"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "A dozen banks want a euro stablecoin. Fireblocks is making it happen",
+    "Link": "https://www.coindesk.com/business/2026/04/21/crypto-custody-firm-fireblocks-powers-bank-backed-euro-stablecoin",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/09b793900cb8b4246aeaa3203181dcca45ecd49a-2470x1853.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:47:01"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "CoinDesk 20 performance update: Stellar (XLM) gains 3.3% while index moves lower",
+    "Link": "https://www.coindesk.com/coindesk-indices/2026/04/21/coindesk-20-performance-update-stellar-xlm-gains-3-3-while-index-moves-lower",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7027c2d5ee34a432d4736cb412879fd5bfd87815-640x480.png?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:47:04"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "AI slop has created a search problem crypto companies can’t ignore",
+    "Link": "https://www.coindesk.com/opinion/2026/04/21/ai-slop-has-created-a-search-problem-crypto-companies-can-t-ignore",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2e0914a3a6b73a5ff5dda9f3cec2bd3806bec202-6000x4500.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:47:07"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Contenus pédopornographiques : Telegram visé par une enquête du régulateur britannique des médias",
+    "Link": "https://www.lemonde.fr/pixels/article/2026/04/21/contenus-pedopornographiques-telegram-vise-par-une-enquete-du-regulateur-britannique-des-medias_6682038_4408996.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-22 03:47:16"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pemkab Kubu Raya Mantapkan Pembangunan Pasar Induk Modern",
+    "Link": "https://news.republika.co.id/berita/tduxfj030000/pemkab-kubu-raya-mantapkan-pembangunan-pasar-induk-modern",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/091491600-1776797119-PASAR-INDUKjpg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-04-22 03:47:19"
+  },
+  {
+    "Topic": "General News",
+    "Title": "« L’Appartement », une exposition en forme d’ode à l’habitat collectif à Nanterre",
+    "Link": "https://www.lemonde.fr/culture/article/2026/04/21/l-appartement-une-exposition-en-forme-d-ode-a-l-habitat-collectif-a-nanterre_6682048_3246.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-22 03:47:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Loïs Boisson balayée d’entrée pour son retour à la compétition, après avoir été éloignée des courts de tennis pendant plus de six mois",
+    "Link": "https://www.lemonde.fr/sport/article/2026/04/21/lois-boisson-balayee-d-entree-pour-son-retour-a-la-competition-apres-avoir-ete-eloignee-des-courts-de-tennis-pendant-plus-de-six-mois_6682056_3242.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-04-22 03:47:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "En Guinée équatoriale, le pape Léon XIV appelle au « droit » et à la « justice »",
+    "Link": "https://www.lemonde.fr/afrique/article/2026/04/21/en-guinee-equatoriale-le-pape-leon-xiv-appelle-au-droit-et-a-la-justice_6682057_3212.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Manuel_Osa_Nsue_Nsua_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-04-22 03:47:29"
   }
 ]
