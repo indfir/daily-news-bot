@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://france24.com/en/video/20260324-united-states-ice-agents-patrol-airports-amid-govt-shutdown",
-    "SentDate": "2026-03-25 03:36:16"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/who-is-the-new-us-homeland-security-chief-markwayne-mullin",
-    "SentDate": "2026-03-25 03:36:20"
-  },
-  {
-    "CanonicalKey": "https://japantimes.co.jp/business/2024/12/17/companies/sake-brewery-india",
-    "SentDate": "2026-03-25 03:36:37"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/france/20260324-french-economic-growth-undercut-by-war-in-iran-national-statistics-office-says",
-    "SentDate": "2026-03-25 03:36:53"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/middle-east/20260324-trump-supposed-talks-with-iran-what-do-we-know",
-    "SentDate": "2026-03-25 03:36:56"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/03/24/oil-prices-today-wti-brent-middle-east-iran-war.html",
-    "SentDate": "2026-03-25 03:37:06"
-  },
-  {
-    "CanonicalKey": "https://investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-death-cross-3232026",
-    "SentDate": "2026-03-25 03:37:11"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-slid-weaker-construction-110441132.html",
-    "SentDate": "2026-03-25 03:37:14"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reduce-underperforming-staff-115745112.html",
-    "SentDate": "2026-03-25 03:37:19"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
-    "SentDate": "2026-03-25 03:37:26"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/the-drama-zendaya-and-robert-pattinson-camera-test-and-a-new-poster",
-    "SentDate": "2026-03-25 03:37:35"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2130427/the-super-mario-galaxy-movie-box-office-preview",
-    "SentDate": "2026-03-25 03:37:38"
-  },
-  {
-    "CanonicalKey": "https://aintitcool.com/interview-cynthia-von-buhler-minky-woodcock-83633",
-    "SentDate": "2026-03-25 03:37:41"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/touch-me-star-paget-brewster-on-embracing-weird-horror-sci-fi-story",
-    "SentDate": "2026-03-25 03:37:46"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2128446/arnold-schwarzenegger-zombie-movie-maggie-streaming-hbo-max",
-    "SentDate": "2026-03-25 03:37:50"
-  },
-  {
-    "CanonicalKey": "https://xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains",
-    "SentDate": "2026-03-25 03:37:57"
-  },
-  {
-    "CanonicalKey": "https://github.com/amelmo/proofshot",
-    "SentDate": "2026-03-25 03:38:01"
-  },
-  {
-    "CanonicalKey": "https://cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-25-752",
-    "SentDate": "2026-03-25 03:38:04"
-  },
-  {
-    "CanonicalKey": "https://wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol",
-    "SentDate": "2026-03-25 03:38:08"
-  },
-  {
-    "CanonicalKey": "https://github.com/berriai/litellm/issues/24512",
-    "SentDate": "2026-03-25 03:38:12"
-  },
-  {
-    "CanonicalKey": "https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic",
-    "SentDate": "2026-03-25 03:38:21"
-  },
-  {
-    "CanonicalKey": "https://futurism.com/artificial-intelligence/elon-musk-terafab-finances",
-    "SentDate": "2026-03-25 03:38:23"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world",
-    "SentDate": "2026-03-25 03:38:26"
-  },
-  {
-    "CanonicalKey": "https://futurism.com/artificial-intelligence/washington-post-price-ai",
-    "SentDate": "2026-03-25 03:38:29"
-  },
-  {
-    "CanonicalKey": "https://futurism.com/artificial-intelligence/sam-altman-ai-labor",
-    "SentDate": "2026-03-25 03:38:33"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/361999/strategy-unveils-44-billion-plan-buy-more-bitcoin",
-    "SentDate": "2026-03-25 03:38:40"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/362141/balancer-labs-winds-down-128m-defi-exploit",
-    "SentDate": "2026-03-25 03:38:43"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/361979/coindcx-fraud-allegations-impersonation-scam-police-probe",
-    "SentDate": "2026-03-25 03:38:47"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/gate-integrates-polymarket-in-first-for-centralized-exchanges",
-    "SentDate": "2026-03-25 03:38:50"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-    "SentDate": "2026-03-25 03:38:53"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260324024257.htm",
-    "SentDate": "2026-03-25 03:39:05"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/rival-shadow-group-to-rfk-jr-s-autism-science-committee-meets-in-d-c",
-    "SentDate": "2026-03-25 03:39:08"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260319044648.htm",
-    "SentDate": "2026-03-25 03:39:14"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260321012642.htm",
-    "SentDate": "2026-03-25 03:39:18"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/something-extremely-weird-is-happening-to-our-galactic-neighbor-scientists",
-    "SentDate": "2026-03-25 03:39:21"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star",
-    "SentDate": "2026-03-25 03:39:29"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement",
-    "SentDate": "2026-03-25 03:39:34"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/feb/27/nasa-changes-delays-moon-missions",
-    "SentDate": "2026-03-25 03:39:37"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch",
-    "SentDate": "2026-03-25 03:39:41"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong",
-    "SentDate": "2026-03-25 03:39:46"
-  },
-  {
     "CanonicalKey": "https://readwrite.com/ncaa-sues-draftkings-march-madness-trademarks",
     "SentDate": "2026-03-26 03:33:46"
   },
@@ -4586,5 +4426,165 @@
   {
     "CanonicalKey": "https://cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
     "SentDate": "2026-04-23 03:52:06"
+  },
+  {
+    "CanonicalKey": "https://coindesk.com/tech/2026/04/22/inside-the-usd71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-what-decentralization-really-means",
+    "SentDate": "2026-04-24 03:45:43"
+  },
+  {
+    "CanonicalKey": "https://coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential",
+    "SentDate": "2026-04-24 03:45:46"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/365130/keel-hive-shares-jump-continue-shift-bitcoin-mining-ai",
+    "SentDate": "2026-04-24 03:45:48"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/365120/robinhood-ventures-invests-75-million-openai-giving-retail-traders-exposure",
+    "SentDate": "2026-04-24 03:45:50"
+  },
+  {
+    "CanonicalKey": "https://coindesk.com/markets/2026/04/23/ripple-linked-xrp-slips-amid-bitcoin-profit-taking-etf-delay",
+    "SentDate": "2026-04-24 03:45:53"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/grupo-aerom-xico-b-c-123000338.html",
+    "SentDate": "2026-04-24 03:46:02"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/agree-realty-corporation-q1-2026-123000627.html",
+    "SentDate": "2026-04-24 03:46:06"
+  },
+  {
+    "CanonicalKey": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings",
+    "SentDate": "2026-04-24 03:46:10"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/equity-lifestyle-properties-inc-q1-123000006.html",
+    "SentDate": "2026-04-24 03:46:14"
+  },
+  {
+    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tdych7484/btn-tahan-dividen-siapkan-akuisisi-kredit-rp-154-triliun",
+    "SentDate": "2026-04-24 03:46:18"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/falcon-9-launches-final-gps-3-satellite-into-orbit-for-u-s-space-force",
+    "SentDate": "2026-04-24 03:46:28"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-04-mars-magnetotail-spacecraft-magnetic-reconnection.html",
+    "SentDate": "2026-04-24 03:46:31"
+  },
+  {
+    "CanonicalKey": "https://space.com/space-exploration/thats-just-not-a-winning-strategy-congress-objects-again-to-trumps-planned-nasa-budget-cuts",
+    "SentDate": "2026-04-24 03:46:34"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-04-mars-rover-compounds.html",
+    "SentDate": "2026-04-24 03:46:38"
+  },
+  {
+    "CanonicalKey": "https://space.com/stargazing/meteor-showers/how-to-see-the-lyrid-meteor-shower-2026-where-to-look-in-the-night-sky",
+    "SentDate": "2026-04-24 03:46:40"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background",
+    "SentDate": "2026-04-24 03:46:49"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent",
+    "SentDate": "2026-04-24 03:46:52"
+  },
+  {
+    "CanonicalKey": "https://splashbi.com/webinar/splashbi/inside-tahoe-a-closer-look",
+    "SentDate": "2026-04-24 03:46:56"
+  },
+  {
+    "CanonicalKey": "https://hpcwire.com/bigdatawire/2026/04/17/what-stanfords-hai-report-says-about-ai-in-science",
+    "SentDate": "2026-04-24 03:46:59"
+  },
+  {
+    "CanonicalKey": "https://hpcwire.com/bigdatawire/2026/04/23/from-pipelines-to-platforms-googles-data-strategy-at-cloud-next-2026",
+    "SentDate": "2026-04-24 03:47:02"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security",
+    "SentDate": "2026-04-24 03:47:10"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy",
+    "SentDate": "2026-04-24 03:47:13"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back",
+    "SentDate": "2026-04-24 03:47:16"
+  },
+  {
+    "CanonicalKey": "https://wired.com/review/infinite-machine-olto",
+    "SentDate": "2026-04-24 03:47:18"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute",
+    "SentDate": "2026-04-24 03:47:21"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/books/2026/apr/23/after-collapse-and-controversy-adelaide-writers-week-has-a-new-director-i-dont-envy-anyone-in-this-position",
+    "SentDate": "2026-04-24 03:47:30"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/health/health-news/rectal-cancer-rates-deaths-rising-millennials-30s-40s-rcna341389",
+    "SentDate": "2026-04-24 03:47:32"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex",
+    "SentDate": "2026-04-24 03:47:34"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california",
+    "SentDate": "2026-04-24 03:47:37"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
+    "SentDate": "2026-04-24 03:47:40"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2154938/stranger-things-tales-from-85-review",
+    "SentDate": "2026-04-24 03:47:58"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2155708/james-gunn-explains-clayface-dcu-timeline",
+    "SentDate": "2026-04-24 03:48:01"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2155006/clayface-trailer-batman-gotham-city-james-gunn-dc-universe",
+    "SentDate": "2026-04-24 03:48:04"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2155447/beef-season-2-viewership-drop-netflix",
+    "SentDate": "2026-04-24 03:48:07"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/interview-cynthia-von-buhler-minky-woodcock-83633",
+    "SentDate": "2026-04-24 03:48:09"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260420015840.htm",
+    "SentDate": "2026-04-24 03:48:17"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260421042819.htm",
+    "SentDate": "2026-04-24 03:48:21"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260417224509.htm",
+    "SentDate": "2026-04-24 03:48:24"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/merging-language-models-with-unsloth-studio",
+    "SentDate": "2026-04-24 03:48:27"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260420014733.htm",
+    "SentDate": "2026-04-24 03:48:29"
   }
 ]
