@@ -4,155 +4,159 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Bot otomatis yang mengumpulkan tren berita terkini dari berbagai sumber RSS dan mengirimkannya ke Telegram setiap hari pada pukul 06:00 WIB.
+An automated bot that collects current news trends from multiple RSS sources and sends them to Telegram every day at 06:00 WIB.
 
-## 📋 Daftar Isi
+## Table of Contents
 
-- [Fitur](#-fitur)
-- [Topik Berita](#-topik-berita)
-- [Cara Kerja](#-cara-kerja)
-- [Setup](#-setup)
-- [Konfigurasi](#-konfigurasi)
-- [Struktur File](#-struktur-file)
-- [Troubleshooting](#-troubleshooting)
+- [Features](#features)
+- [News Topics](#news-topics)
+- [How It Works](#how-it-works)
+- [Setup](#setup)
+- [Configuration](#configuration)
+- [File Structure](#file-structure)
+- [Troubleshooting](#troubleshooting)
 
-## ✨ Fitur
+## Features
 
 ### Core Features
-- **📰 Multi-Source RSS Aggregation** - Mengumpulkan berita dari ratusan sumber RSS terpercaya
-- **🎯 Smart Topic Filtering** - Filter berita berdasarkan kata kunci untuk setiap topik
-- **🔄 Deduplication System** - Mencegah duplikasi berita dengan history 30 hari
-- **🌐 Auto-Translation** - Menerjemahkan judul berita ke Bahasa Indonesia menggunakan Google Translate
-- **🖼️ Smart Image Detection** - Mendeteksi gambar dari og:image, twitter:image, atau Wikipedia fallback
-- **⏰ Scheduled Execution** - Berjalan otomatis setiap hari menggunakan GitHub Actions
-- **📱 Telegram Integration** - Mengirim berita langsung ke chat Telegram pribadi/kelompok
+
+- **Multi-source RSS aggregation** - Collects news from hundreds of trusted RSS sources
+- **Smart topic filtering** - Filters news by keywords for each topic
+- **Deduplication system** - Prevents duplicate news items with a 30-day history
+- **Auto-translation** - Translates news titles into Indonesian using Google Translate
+- **Smart image detection** - Detects images from `og:image`, `twitter:image`, or a Wikipedia fallback
+- **Scheduled execution** - Runs automatically every day using GitHub Actions
+- **Telegram integration** - Sends news directly to a personal or group Telegram chat
 
 ### Advanced Features
-- **Feed Randomizer** - Memilih feed secara acak setiap run untuk variasi konten
-- **Domain Blocklist** - Memblokir domain tertentu (paywall, podcast, dll)
-- **Content Filter** - Filter konten yang tidak relevan (event, webinar, dll)
-- **WIB Timezone** - Output waktu dalam zona waktu WIB (Asia/Jakarta)
-- **No Web Preview** - Menonaktifkan preview link Telegram untuk tampilan yang bersih
 
-## 📰 Topik Berita
+- **Feed randomizer** - Randomly selects feeds on each run for content variety
+- **Domain blocklist** - Blocks selected domains such as paywalled sites, podcasts, and other excluded sources
+- **Content filter** - Filters irrelevant content such as events, webinars, and similar items
+- **WIB timezone** - Outputs time in WIB (Asia/Jakarta)
+- **No web preview** - Disables Telegram link previews for a cleaner message layout
 
-Bot ini mencakup 7 kategori topik utama:
+## News Topics
 
-| Topik | Emoji | Contoh Sumber |
-|-------|-------|---------------|
-| **Economy** | 📈 | CNBC, Reuters, Forbes, Bloomberg, Kontan, Bisnis |
-| **Trading & Crypto** | ₿ | CoinDesk, Cointelegraph, Decrypt, Investing.com |
-| **Science** | 🔬 | Nature, Science, Scientific American, LiveScience |
-| **Technology** | 💻 | TechCrunch, The Verge, Wired, Ars Technica |
-| **Astronomy** | 🔭 | NASA, ESA, Space.com, Universe Today |
-| **Movies** | 🎬 | Variety, Hollywood Reporter, Deadline, IndieWire |
-| **Data / AI** | 🤖 | OpenAI, Google AI, KDnuggets, Towards Data Science |
-| **General News** | 📰 | BBC, CNN, Reuters, AP News, Kompas, Detik |
+This bot covers 8 main news categories:
 
-Setiap topik menampilkan **maksimal 5 berita** per hari dengan sumber yang diacak.
+| Topic | Example Sources |
+|-------|-----------------|
+| **Economy** | CNBC, Reuters, Forbes, Bloomberg, Kontan, Bisnis |
+| **Trading & Crypto** | CoinDesk, Cointelegraph, Decrypt, Investing.com |
+| **Science** | Nature, Science, Scientific American, LiveScience |
+| **Technology** | TechCrunch, The Verge, Wired, Ars Technica |
+| **Astronomy** | NASA, ESA, Space.com, Universe Today |
+| **Movies** | Variety, Hollywood Reporter, Deadline, IndieWire |
+| **Data / AI** | OpenAI, Google AI, KDnuggets, Towards Data Science |
+| **General News** | BBC, CNN, Reuters, AP News, Kompas, Detik |
 
-## 🔧 Cara Kerja
+Each topic displays a maximum of **5 news items** per day with randomized sources.
 
+## How It Works
+
+```text
++----------------------------------------------------------------+
+|                    GitHub Actions (Cron)                       |
+|                    Schedule: 20:00 UTC                         |
+|                    (03:00 WIB - Next Day)                      |
++----------------------------------------------------------------+
+                              |
+                              v
++----------------------------------------------------------------+
+|              fetch_news_cloud.ps1 (PowerShell)                 |
+|                                                                |
+|  1. Load RSS feeds from 8 topics                               |
+|  2. Randomize and select up to 5 feeds per topic               |
+|  3. Parse XML/Atom feeds                                      |
+|  4. Filter by:                                                 |
+|     - Domain blocklist                                         |
+|     - Content blocklist                                        |
+|     - Topic keyword relevance                                  |
+|     - Deduplication (30-day history)                           |
+|  5. Translate titles into Indonesian                           |
+|  6. Extract feature image (og:image -> Wikipedia fallback)     |
+|  7. Send to Telegram using HTML formatting                     |
+|  8. Update news.json and sent_links_history.json               |
++----------------------------------------------------------------+
+                              |
+                              v
++----------------------------------------------------------------+
+|                    Telegram Bot API                            |
+|              - Send formatted message                          |
+|              - Disable web page preview                        |
++----------------------------------------------------------------+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    GitHub Actions (Cron)                    │
-│                    Schedule: 20:00 UTC                      │
-│                    (03:00 WIB - Next Day)                   │
-└─────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────┐
-│              fetch_news_cloud.ps1 (PowerShell)              │
-│                                                             │
-│  1. Load RSS feeds dari 7 topik                            │
-│  2. Acak dan pilih max 5 feed per topik                    │
-│  3. Parse XML/Atom feed                                    │
-│  4. Filter berdasarkan:                                    │
-│     - Domain blocklist                                     │
-│     - Content blocklist                                    │
-│     - Topic keyword relevance                              │
-│     - Deduplication (30 hari history)                      │
-│  5. Translate judul ke Bahasa Indonesia                    │
-│  6. Extract feature image (og:image → Wikipedia fallback)  │
-│  7. Send ke Telegram dengan format HTML                    │
-│  8. Update news.json dan sent_links_history.json           │
-└─────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    Telegram Bot API                         │
-│              - Send formatted message                       │
-│              - Disable web page preview                     │
-└─────────────────────────────────────────────────────────────┘
-```
 
-## 🚀 Setup
+## Setup
 
 ### Prerequisites
+
 - GitHub account
 - Telegram account
-- Git installed (optional, untuk setup lokal)
+- Git installed (optional for local setup)
 
-### Langkah 1: Buat Repository
+### Step 1: Create a Repository
 
-1. Buka [github.com/new](https://github.com/new)
-2. Nama repository: `daily-news-bot`
-3. Centang **Private** (recommended untuk keamanan token)
-4. Klik **Create repository**
+1. Open [github.com/new](https://github.com/new)
+2. Set the repository name to `daily-news-bot`
+3. Check **Private** (recommended for token security)
+4. Click **Create repository**
 
-### Langkah 2: Upload Files
+### Step 2: Upload Files
 
-Upload file-file berikut ke repository:
-- `fetch_news_cloud.ps1` - Script utama bot
+Upload the following files to the repository:
+
+- `fetch_news_cloud.ps1` - Main bot script
 - `.github/workflows/daily_brief.yml` - GitHub Actions workflow
 
-### Langkah 3: Buat Telegram Bot
+### Step 3: Create a Telegram Bot
 
-1. Buka Telegram dan cari **@BotFather**
-2. Kirim perintah `/newbot`
-3. Ikuti instruksi untuk membuat bot
-4. Simpan **Bot Token** yang diberikan
-5. Untuk mendapatkan Chat ID:
-   - Mulai chat dengan bot yang baru dibuat
-   - Kirim pesan apapun
-   - Akses `https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates`
-   - Cari nilai `chat.id` di response JSON
+1. Open Telegram and search for **@BotFather**
+2. Send the `/newbot` command
+3. Follow the instructions to create the bot
+4. Save the **Bot Token** provided by BotFather
+5. To get the Chat ID:
+   - Start a chat with the new bot
+   - Send any message
+   - Open `https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates`
+   - Find the `chat.id` value in the JSON response
 
-### Langkah 4: Add Secrets
+### Step 4: Add Secrets
 
-1. Buka repository GitHub Anda
-2. Pergi ke **Settings** tab
-3. Pilih **Secrets and variables** → **Actions**
-4. Klik **New repository secret**
-5. Tambahkan secrets berikut:
+1. Open your GitHub repository
+2. Go to the **Settings** tab
+3. Select **Secrets and variables** -> **Actions**
+4. Click **New repository secret**
+5. Add the following secrets:
 
 | Secret Name | Description | Example Value |
 |-------------|-------------|---------------|
-| `TELEGRAM_TOKEN` | Bot token dari BotFather | `123456789:ABCdefGHIjklMNOpqrsTUVwxyz` |
-| `TELEGRAM_CHAT_ID` | Chat ID penerima pesan | `-1001234567890` |
+| `TELEGRAM_TOKEN` | Bot token from BotFather | `123456789:ABCdefGHIjklMNOpqrsTUVwxyz` |
+| `TELEGRAM_CHAT_ID` | Recipient chat ID | `-1001234567890` |
 
-> ⚠️ **Keamanan**: Jangan pernah commit token Telegram ke repository!
+> **Security:** Never commit Telegram tokens to the repository.
 
-### Langkah 5: Enable Workflow
+### Step 5: Enable the Workflow
 
-1. Pergi ke tab **Actions** di repository
-2. Klik **I understand my workflows, go ahead and enable them**
-3. Untuk test manual: pilih **Daily News Brief** → **Run workflow**
+1. Go to the **Actions** tab in the repository
+2. Click **I understand my workflows, go ahead and enable them**
+3. For a manual test, select **Daily News Brief** -> **Run workflow**
 
-## ⚙️ Konfigurasi
+## Configuration
 
 ### Environment Variables
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `TELEGRAM_TOKEN` | ✅ | Telegram Bot API token |
-| `TELEGRAM_CHAT_ID` | ✅ | Chat ID penerima |
-| `TELEGRAM_TOKEN_2` | ❌ | Token bot kedua (opsional) |
-| `TELEGRAM_CHAT_ID_2` | ❌ | Chat ID kedua (opsional) |
+| `TELEGRAM_TOKEN` | Yes | Telegram Bot API token |
+| `TELEGRAM_CHAT_ID` | Yes | Recipient chat ID |
+| `TELEGRAM_TOKEN_2` | No | Optional second bot token |
+| `TELEGRAM_CHAT_ID_2` | No | Optional second chat ID |
 
 ### Custom Topics
 
-Untuk menambahkan atau memodifikasi topik, edit bagian `$topics` di `fetch_news_cloud.ps1`:
+To add or modify topics, edit the `$topics` section in `fetch_news_cloud.ps1`:
 
 ```powershell
 $topics = @{
@@ -165,34 +169,35 @@ $topics = @{
 
 ### Keyword Filter
 
-Setiap topik memiliki filter kata kunci di `$topicKeywords`. Berita akan ditampilkan jika judul mengandung minimal satu kata kunci.
+Each topic has its own keyword filter in `$topicKeywords`. News will be displayed when the title contains at least one matching keyword.
 
 ### Blocklists
 
-Edit `$domainBlocklist` dan `$contentBlocklist` untuk memblokir konten yang tidak diinginkan:
+Edit `$domainBlocklist` and `$contentBlocklist` to block unwanted content:
 
 ```powershell
 $domainBlocklist = @("nytimes.com", "bloomberg.com", ...)
 $contentBlocklist = @("Podcast", "Webinar", "Conference", ...)
 ```
 
-## 📁 Struktur File
+## File Structure
 
-```
+```text
 daily-news-bot/
-├── .github/
-│   └── workflows/
-│       └── daily_brief.yml    # GitHub Actions workflow
-├── fetch_news_cloud.ps1       # Script utama bot
-├── news.json                  # Output: data berita yang di-fetch
-├── sent_links_history.json    # Deduplication history (30 hari)
-├── README.md                  # Dokumentasi
-└── .gitignore                 # Git ignore rules
+|-- .github/
+|   `-- workflows/
+|       `-- daily_brief.yml    # GitHub Actions workflow
+|-- fetch_news_cloud.ps1       # Main bot script
+|-- news.json                  # Output: fetched news data
+|-- sent_links_history.json    # Deduplication history (30 days)
+|-- README.md                  # Documentation
+`-- .gitignore                 # Git ignore rules
 ```
 
 ### Output Files
 
-**news.json** - Berisi data berita yang di-fetch:
+**news.json** contains fetched news data:
+
 ```json
 [
   {
@@ -206,7 +211,8 @@ daily-news-bot/
 ]
 ```
 
-**sent_links_history.json** - History link untuk deduplication:
+**sent_links_history.json** contains link history for deduplication:
+
 ```json
 [
   {
@@ -216,39 +222,43 @@ daily-news-bot/
 ]
 ```
 
-## 🔍 Troubleshooting
+## Troubleshooting
 
-### Workflow tidak berjalan
-1. Pastikan workflow sudah di-enable di tab Actions
-2. Cek status workflow runs untuk error messages
-3. Pastikan file `.github/workflows/daily_brief.yml` ada dan valid
+### Workflow Does Not Run
 
-### Bot tidak mengirim pesan
-1. Verifikasi `TELEGRAM_TOKEN` dan `TELEGRAM_CHAT_ID` di Secrets
-2. Pastikan bot sudah di-start di Telegram
-3. Cek apakah Chat ID benar (gunakan format yang tepat untuk group: `-100...`)
+1. Make sure the workflow is enabled in the Actions tab
+2. Check workflow run logs for error messages
+3. Ensure `.github/workflows/daily_brief.yml` exists and is valid
 
-### Berita tidak muncul
-1. Cek log workflow untuk error parsing RSS
-2. Pastikan feed RSS masih aktif
-3. Verifikasi keyword filter tidak terlalu ketat
+### Bot Does Not Send Messages
 
-### Deduplication bermasalah
-1. Hapus file `sent_links_history.json` untuk reset history
-2. History otomatis dihapus setelah 30 hari
+1. Verify `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID` in GitHub Secrets
+2. Make sure the bot has been started in Telegram
+3. Check whether the Chat ID is correct, especially for groups that use the `-100...` format
 
-## 📝 License
+### News Items Do Not Appear
 
-MIT License - lihat [LICENSE](LICENSE) file untuk detail.
+1. Check workflow logs for RSS parsing errors
+2. Make sure the RSS feeds are still active
+3. Verify that the keyword filter is not too strict
 
-## 🤝 Contributing
+### Deduplication Issues
 
-1. Fork repository ini
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
+1. Delete `sent_links_history.json` to reset history
+2. History is automatically removed after 30 days
+
+## License
+
+MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
-**Dibuat dengan ❤️ untuk automasi berita harian**
+**Built with care for daily news automation.**
