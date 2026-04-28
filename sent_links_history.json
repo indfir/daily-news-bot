@@ -1,137 +1,5 @@
 [
   {
-    "CanonicalKey": "https://huggingface.co/blog/llama2",
-    "SentDate": "2026-03-30 03:26:00"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/transformers-v5",
-    "SentDate": "2026-03-30 03:26:03"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
-    "SentDate": "2026-03-30 03:26:07"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/intel-qwen3-agent",
-    "SentDate": "2026-03-30 03:26:10"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/scalable-data-inspection",
-    "SentDate": "2026-03-30 03:26:13"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-03-hubble-image-ic-spiral-arms.html",
-    "SentDate": "2026-03-30 03:26:33"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4637/1",
-    "SentDate": "2026-03-30 03:26:37"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4656/1",
-    "SentDate": "2026-03-30 03:26:42"
-  },
-  {
-    "CanonicalKey": "https://space.com/stargazing/skywatching-kit/this-celestron-firstscope-is-my-go-to-for-moonwatching-and-its-15-percent-off-in-amazons-spring-sale",
-    "SentDate": "2026-03-30 03:26:45"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4796/1",
-    "SentDate": "2026-03-30 03:26:49"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework",
-    "SentDate": "2026-03-30 03:27:00"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai",
-    "SentDate": "2026-03-30 03:27:04"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model",
-    "SentDate": "2026-03-30 03:27:08"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-    "SentDate": "2026-03-30 03:27:12"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/start-building-with-gemini-3",
-    "SentDate": "2026-03-30 03:27:16"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/news/4570029-the-big-pain-trades-of-q1",
-    "SentDate": "2026-03-30 03:27:25"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/03/29/pokemon-card-values-rise-logan-paul-pikachu-auction.html",
-    "SentDate": "2026-03-30 03:27:29"
-  },
-  {
-    "CanonicalKey": "https://liputan6.com/bisnis/read/6305588/harga-emas-dunia-melonjak-tajam-ini-penyebabnya",
-    "SentDate": "2026-03-30 03:27:32"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/news/4570032-bond-investors-see-growth-shock-ahead-as-markets-focus-on-inflation",
-    "SentDate": "2026-03-30 03:27:37"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
-    "SentDate": "2026-03-30 03:27:42"
-  },
-  {
-    "CanonicalKey": "https://japantimes.co.jp/news/2023/07/22/business/corporate-business/toyota-moon-rover",
-    "SentDate": "2026-03-30 03:27:53"
-  },
-  {
-    "CanonicalKey": "https://japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream",
-    "SentDate": "2026-03-30 03:27:57"
-  },
-  {
-    "CanonicalKey": "https://japantimes.co.jp/business/2025/02/27/companies/nissan-ceo-change",
-    "SentDate": "2026-03-30 03:28:01"
-  },
-  {
-    "CanonicalKey": "https://smartliquidity.info/2026/03/20/liquidity-routing-in-defi-the-underrated-infrastructure-powering-efficient-markets",
-    "SentDate": "2026-03-30 03:28:10"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/cryptocurrency/okx-joins-growing-list-of-crypto-firms-stepping-back-from-public-markets",
-    "SentDate": "2026-03-30 03:28:14"
-  },
-  {
-    "CanonicalKey": "https://blog.kraken.com/product/pro/synthetic-pairs",
-    "SentDate": "2026-03-30 03:28:17"
-  },
-  {
-    "CanonicalKey": "https://blog.kraken.com/product/asset-listings/scor-is-available-for-trading",
-    "SentDate": "2026-03-30 03:28:20"
-  },
-  {
-    "CanonicalKey": "https://blog.kraken.com/product/margin/0g-sky-qnt",
-    "SentDate": "2026-03-30 03:28:24"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260326011455.htm",
-    "SentDate": "2026-03-30 03:28:31"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html",
-    "SentDate": "2026-03-30 03:28:34"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260325005908.htm",
-    "SentDate": "2026-03-30 03:28:37"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-03-ai-chatbots.html",
-    "SentDate": "2026-03-30 03:28:41"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-03-ancient-dna-reveals-earliest-dogs.html",
-    "SentDate": "2026-03-30 03:28:45"
-  },
-  {
     "CanonicalKey": "https://nasaspaceflight.com/2026/03/isar-onward-and-upward",
     "SentDate": "2026-03-31 03:39:31"
   },
@@ -4594,5 +4462,165 @@
   {
     "CanonicalKey": "https://siliconangle.com/2026/04/10/ai-training-data-startup-afterquery-nabs-30m-investment",
     "SentDate": "2026-04-28 03:59:22"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/01/260127112130.htm",
+    "SentDate": "2026-04-29 04:03:04"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2025/10/251027224833.htm",
+    "SentDate": "2026-04-29 04:03:07"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2025/12/251209234139.htm",
+    "SentDate": "2026-04-29 04:03:10"
+  },
+  {
+    "CanonicalKey": "https://amazon.science/blog/customized-amazon-nova-models-improve-molecular-property-prediction-in-drug-discovery",
+    "SentDate": "2026-04-29 04:03:14"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260313002650.htm",
+    "SentDate": "2026-04-29 04:03:16"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/everything-we-know-about-star-wars-the-mandalorian-and-grogu",
+    "SentDate": "2026-04-29 04:03:28"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/everything-we-know-about-scary-movie-2026",
+    "SentDate": "2026-04-29 04:03:31"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/weekend-box-office-the-super-mario-galaxy-movie-leads-for-third-week-in-a-row",
+    "SentDate": "2026-04-29 04:03:34"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/marvel-movies-in-release-date-order",
+    "SentDate": "2026-04-29 04:03:37"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/new-verified-hot-movies",
+    "SentDate": "2026-04-29 04:03:40"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/standard-chartered-blackrock-and-okx-launch-collateral-framework-for-tokenised-treasury-fund-93ch-4641709",
+    "SentDate": "2026-04-29 04:03:49"
+  },
+  {
+    "CanonicalKey": "https://globalcryptopress.com/2026/04/north-korea-allegedly-drained-280.html",
+    "SentDate": "2026-04-29 04:03:51"
+  },
+  {
+    "CanonicalKey": "https://globalcryptopress.com/2026/03/why-commodity-traders-are-rushing-to.html",
+    "SentDate": "2026-04-29 04:03:54"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/bybit-launches-btc-vs-tokenized-gold-trading-event-with-150000-usdt-prize-pool-4641883",
+    "SentDate": "2026-04-29 04:03:57"
+  },
+  {
+    "CanonicalKey": "https://globalcryptopress.com/2026/03/we-are-on-verge-of-2-major-crypto-laws.html",
+    "SentDate": "2026-04-29 04:04:00"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026",
+    "SentDate": "2026-04-29 04:04:07"
+  },
+  {
+    "CanonicalKey": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "SentDate": "2026-04-29 04:04:11"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence",
+    "SentDate": "2026-04-29 04:04:13"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai",
+    "SentDate": "2026-04-29 04:04:16"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future",
+    "SentDate": "2026-04-29 04:04:19"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4895323-doximity-buy-it-as-mr-market-is-selling-it-cheap-under-a-panic-attack",
+    "SentDate": "2026-04-29 04:04:28"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/04/28/openais-revenue-growth-estimates-fall-short-report.html",
+    "SentDate": "2026-04-29 04:04:31"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4895264-public-storage-psa-q1-2026-earnings-call-transcript",
+    "SentDate": "2026-04-29 04:04:34"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+    "SentDate": "2026-04-29 04:04:36"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html",
+    "SentDate": "2026-04-29 04:04:40"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260422044633.htm",
+    "SentDate": "2026-04-29 04:04:47"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260427050609.htm",
+    "SentDate": "2026-04-29 04:04:50"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260424233204.htm",
+    "SentDate": "2026-04-29 04:04:53"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260423031516.htm",
+    "SentDate": "2026-04-29 04:04:55"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260423031552.htm",
+    "SentDate": "2026-04-29 04:04:59"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/middle-east/20260428-uae-to-quit-global-oil-cartel-opec-citing-national-interests",
+    "SentDate": "2026-04-29 04:05:08"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/inland/innenpolitik/soeder-reichensteuer-100.html",
+    "SentDate": "2026-04-29 04:05:11"
+  },
+  {
+    "CanonicalKey": "https://cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
+    "SentDate": "2026-04-29 04:05:14"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/americas/20260428-former-fbi-chief-comey-indicted-again-this-time-over-anti-trump-online-post",
+    "SentDate": "2026-04-29 04:05:17"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/wissen/technologie/usb-c-kabel-laptops-100.html",
+    "SentDate": "2026-04-29 04:05:21"
+  },
+  {
+    "CanonicalKey": "https://astronomynow.com/2026/03/16/molten-sulphur-lava-world-points-to-new-class-of-planet",
+    "SentDate": "2026-04-29 04:05:35"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/image-article/science-in-space",
+    "SentDate": "2026-04-29 04:05:38"
+  },
+  {
+    "CanonicalKey": "https://spacedaily.com/m-5-places-in-our-own-solar-system-where-scientists-think-life-might-actually-exist",
+    "SentDate": "2026-04-29 04:05:40"
+  },
+  {
+    "CanonicalKey": "https://spacedaily.com/m-astronauts-call-it-the-overview-effect-but-you-dont-need-to-leave-earth-to-feel-it",
+    "SentDate": "2026-04-29 04:05:43"
+  },
+  {
+    "CanonicalKey": "https://astronomynow.com/2026/04/14/moon-dust-preserves-record-of-lifes-building-blocks",
+    "SentDate": "2026-04-29 04:05:47"
   }
 ]
