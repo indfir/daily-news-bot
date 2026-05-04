@@ -1,322 +1,306 @@
 [
   {
-    "Topic": "Science",
-    "Title": "Cities are getting hotter—and bigger. New research reveals the scale of the challenge",
-    "Link": "https://phys.org/news/2026-04-cities-hotter-bigger-reveals-scale.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:36:35"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Rising temperatures could be driving up antibiotic resistance in soil, 11-year study finds",
-    "Link": "https://phys.org/news/2026-04-temperatures-antibiotic-resistance-soil-year.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:36:38"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
-    "Link": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Synthetic_Biology_Research_at_NASA_Ames.jpg/960px-Synthetic_Biology_Research_at_NASA_Ames.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:36:42"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
-    "Link": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/DNA_double_helix_horizontal.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:36:46"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Disentangling the many factors at play within exposure science",
-    "Link": "https://phys.org/news/2026-04-disentangling-factors-play-exposure-science.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Brain_metabolism_and_drug_addiction.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:36:50"
-  },
-  {
-    "Topic": "General News",
-    "Title": "¿Ayudan las duchas a oscuras a mejorar el sueño? Esto dice la ciencia",
-    "Link": "https://elpais.com/salud-y-bienestar/2026-05-02/ayudan-las-duchas-a-oscuras-a-mejorar-el-sueno-esto-dice-la-ciencia.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:36:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "How algorithms wreaked havoc with these workers' schedules and cut their pay",
-    "Link": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+316/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F66%2F41a9640d4d1e8e87ca2571026317%2Fimg-2582.jpg",
+    "Topic": "Movies",
+    "Title": "The Most-Streamed Star Wars Movies On Disney+ Are Completely Surprising",
+    "Link": "https://www.slashfilm.com/2164188/most-streamed-star-wars-movies-disney-plus/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/the-most-streamed-star-wars-movies-on-disney-are-completely-surprising/l-intro-1777920246.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Países Bajos pide ayuda para frenar una ola de incendios forestales, cuatro de ellos, en campos militares",
-    "Link": "https://elpais.com/clima-y-medio-ambiente/2026-05-01/paises-bajos-pide-ayuda-para-frenar-una-ola-de-incendios-forestales-cuatro-de-ellos-en-campos-militares.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rodrigo_Paz%2C_presidente_de_Bolivia.jpg/960px-Rodrigo_Paz%2C_presidente_de_Bolivia.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:37:05"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Ilusionismo y Paloma San Basilio en el día de la Comunidad de Ayuso: “Madrid no se dejará controlar por nada ni por nadie”",
-    "Link": "https://elpais.com/espana/madrid/2026-05-02/ilusionismo-y-paloma-san-basilio-en-el-dia-de-la-comunidad-de-ayuso-madrid-no-se-dejara-controlar-por-nada-ni-por-nadie.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:37:09"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Shakira, aclamada reina de la música latina por dos millones de personas en la playa de Copacabana",
-    "Link": "https://elpais.com/america/2026-05-03/shakira-aclamada-reina-de-la-musica-latina-por-dos-millones-de-personas-en-la-playa-de-copacabana.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:37:12"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Gold consolidates in $4,600-$4,800 range for almost 2 months. A big rally brewing in May?",
-    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-consolidates-in-4600-4800-range-for-almost-2-months-a-big-rally-brewing-in-may/articleshow/130711353.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130711345,width-1200,height-630,imgsize-35018,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "How to become a successful trader in today’s volatile stock market",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-become-a-successful-trader-in-todays-volatile-stock-market/articleshow/130727916.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130727916,width-1200,height-630,imgsize-280879,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:23"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Ego vs. Edge: What today’s investors can learn from Tom Gayner’s four-point framework",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ego-vs-edge-what-todays-investors-can-learn-from-tom-gayners-four-point-framework/articleshow/130711135.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130711152,width-1200,height-630,imgsize-5352,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:27"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Nifty has best month since December 2023; defence, capital markets &amp; realty put the shine on April",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-has-best-month-since-december-2023-defence-capital-markets-realty-put-the-shine-on-april/articleshow/130709878.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130709916,width-1200,height-630,imgsize-7348,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:30"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Concurrent Gainers: 15 smallcap stocks gain for 5 straight sessions, rally up to 25%",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-smallcap-stocks-gain-for-5-straight-sessions-rally-up-to-25/slideshow/130710777.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130710777,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Three supermassive black holes have been spotted merging into one",
-    "Link": "https://www.newscientist.com/article/2509529-three-supermassive-black-holes-have-been-spotted-merging-into-one/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/22112252/SEI_278767490.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "CBS News Things That Matter: A Town Hall with the Artemis Astronauts",
-    "Link": "https://www.cbsnews.com/video/cbs-news-town-hall-artemis-astronauts/",
-    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/27/247fcba6-1d5f-49c7-ab14-5b65736a5c4c/thumbnail/1200x630/25bd0d8147c2715fc6217e005f776abd/keyart-artemis-ii-1920x1080.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:47"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "We've spotted the strongest microwave laser in the known universe",
-    "Link": "https://www.newscientist.com/article/2516378-weve-spotted-the-strongest-microwave-laser-in-the-known-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/19170657/SEI_285805938.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:52"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The most important second in the entire history of the universe",
-    "Link": "https://www.newscientist.com/article/2512097-the-most-important-second-in-the-entire-history-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/16210231/SEI_280881564.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:37:56"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Nasa Beamed 484 Gigabytes From The Moon, And It Could Redefine How Humans Experience Deep Space Forever",
-    "Link": "https://dailygalaxy.com/2026/05/nasa-just-beamed-484-gigabytes-from-moon/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:37:59"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
-    "Link": "https://www.coindesk.com/policy/2026/05/03/u-s-voters-don-t-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll-finds",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/799ec82cc06f93430744f2439c852ecaaddad110-7318x4879.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:07"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "13.71 Billion SWEAT Tokens Drained In Seconds From Multiple Foundation Wallets In An Exploit Of Mass Penetration",
-    "Link": "https://nulltx.com/13-71-billion-sweat-tokens-drained-in-seconds-from-multiple-foundation-wallets-in-an-exploit-of-mass-penetration/",
-    "ImageUrl": "https://nulltx.com/wp-content/uploads/2026/04/IMG-20260429-WA0019.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:10"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
-    "Link": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:13"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin ticks slightly higher, set for best month in a year as risk assets rebound",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-76k-on-renewed-iran-conflict-fears-hawkish-fed-view-4647782",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/960px-X_%28formerly_Twitter%29_logo_late_2025.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:38:15"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
-    "Link": "https://www.coindesk.com/business/2026/05/01/tether-posts-usd1-04-billion-q1-profit-reaches-usd8-23-billion-reserve-buffer",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/931e20dc1e2cb33c8ec322651d45005f7f61d0ed-1920x1080.png?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "U.S. soldier accused of using classified intel in $400K betting scheme",
-    "Link": "https://readwrite.com/u-s-soldier-accused-of-using-classified-nintel-in-400k-betting-scheme/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kandahar_massacre_in_Afghanistan.svg/960px-Kandahar_massacre_in_Afghanistan.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-04 03:38:29"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "Link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2266014829.jpg?w=1024",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:31"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Wisconsin sues prediction market platforms over alleged illegal sports betting operations",
-    "Link": "https://readwrite.com/wisconsin-sues-prediction-market-platforms-over-alleged-illegal-sports-betting-operations/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-04 03:38:34"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-    "Link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-    "Link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:41"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "VaultGemma: The world's most capable differentially private LLM",
-    "Link": "https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:52"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Time series foundation models can be few-shot learners",
-    "Link": "https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:56"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "A new way to explore the web with AI Mode in Chrome",
-    "Link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_in_Chrome_-_Social_feed.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:38:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Solving virtual machine puzzles: How AI is optimizing cloud computing",
-    "Link": "https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:02"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "Link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_metacard_dark_1920x1080.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:05"
+    "Date": "2026-05-05 04:02:49"
   },
   {
     "Topic": "Movies",
-    "Title": "An Extra UK Trailer for Snowy Action Film 'Normal' with Bob Odenkirk",
-    "Link": "https://www.firstshowing.net/2026/an-extra-uk-trailer-for-snowy-action-film-normal-with-bob-odenkirk/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/normalbobodenuktrailermainTW1.jpg",
+    "Title": "One More Fun UK Trailer for 'Power Ballad' - Paul Rudd vs Nick Jonas",
+    "Link": "https://www.firstshowing.net/2026/one-more-fun-uk-trailer-for-power-ballad-paul-rudd-vs-nick-jonas/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/powerballadposterfullukimgbigTW2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:13"
+    "Date": "2026-05-05 04:02:53"
   },
   {
     "Topic": "Movies",
-    "Title": "Star Wars TV Shows Ranked by Tomatometer",
-    "Link": "https://editorial.rottentomatoes.com/guide/star-wars-tv-ranked/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/Most_Anticipated_TV_April_2026_Maul-Rep.jpg?w=600",
+    "Title": "Charlize Theron Knew This 2005 Dystopian Sci-Fi Movie Would Be A Flop",
+    "Link": "https://www.slashfilm.com/2158646/charlie-theron-knew-2005-sci-fi-movie-aeon-flux-flop/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/charlize-theron-knew-this-2005-dystopian-sci-fi-movie-would-be-a-flop/l-intro-1777322153.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:15"
+    "Date": "2026-05-05 04:02:56"
   },
   {
     "Topic": "Movies",
-    "Title": "RT Recommends: Our Favorite Movies This Week",
-    "Link": "https://editorial.rottentomatoes.com/guide/rtrecommends-our-favorite-movies-this-week/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/02/RT_Representative_RT-Recommends.png?w=600",
+    "Title": "Beautiful Owl Making Of Look at Laika's 'Wildwood' Stop-Motion Film",
+    "Link": "https://www.firstshowing.net/2026/beautiful-owl-making-of-look-at-laikas-wildwood-stop-motion-film/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/wildwoodowlfeaturettemainTW1.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:18"
+    "Date": "2026-05-05 04:02:59"
   },
   {
     "Topic": "Movies",
-    "Title": "30 Essential Stoner Movies, Ranked by Tomatometer",
-    "Link": "https://editorial.rottentomatoes.com/guide/essential-stoner-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/VICE-thumb.jpg?w=600",
+    "Title": "10 Best Crime Movies Nobody Talks About Anymore",
+    "Link": "https://www.slashfilm.com/2160485/best-crime-movies-nobody-talks-about-anymore/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/10-best-crime-movies-nobody-talks-about-anymore/l-intro-1777485102.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:21"
+    "Date": "2026-05-05 04:03:02"
   },
   {
-    "Topic": "Movies",
-    "Title": "Michael First Reviews: Flashy and Nostalgic, but Safe and A Little Hollow",
-    "Link": "https://editorial.rottentomatoes.com/article/michael-first-reviews/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/Michael_Reviews-Rep.jpg?w=600",
+    "Topic": "Technology",
+    "Title": "Canadian election databases use \"canary traps\"—and they work",
+    "Link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-04 03:39:23"
+    "Date": "2026-05-05 04:03:11"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Research roundup: 6 cool science stories we almost missed",
+    "Link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:14"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "CSS Architecture",
+    "Link": "https://dev.to/eduardocruzpalacios/css-architecture-4kob",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgrnh2pcb1s18bjvptbob.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+    "Link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "I tracked 4,200 startup GitHub orgs for six months — here's what actually predicts a fundraise",
+    "Link": "https://dev.to/data_nerd/i-tracked-4200-startup-github-orgs-for-six-months-heres-what-actually-predicts-a-fundraise-52cd",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0fvz6qog14xjw1cltcop.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "How to see six planets in the sky at once in rare celestial alignment",
+    "Link": "https://www.newscientist.com/article/2516799-how-to-see-six-planets-in-the-sky-at-once-in-rare-celestial-alignment/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/24172316/SEI_286585000.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:31"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "3I/ATLAS: Interstellar comet has water unlike any in our solar system",
+    "Link": "https://www.newscientist.com/article/2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/16155057/SEI_289688384.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Can we ever know the shape of the universe?",
+    "Link": "https://www.newscientist.com/article/2515390-can-we-ever-know-the-shape-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/11171645/SEI_284484804.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:39"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Rare exoplanet alignment set for 2026 – but we are likely to miss it",
+    "Link": "https://www.newscientist.com/article/2509277-rare-exoplanet-alignment-set-for-2026-but-we-are-likely-to-miss-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/19102046/SEI_278369132.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:42"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "We’ve spotted a huge asteroid spinning impossibly fast",
+    "Link": "https://www.newscientist.com/article/2520088-weve-spotted-a-huge-asteroid-spinning-impossibly-fast/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/20145240/SEI_290222102.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:45"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+    "Link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:53"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI Token Costs In Embedded Analytics: Why They’re Becoming a CIO Problem",
+    "Link": "https://www.revealbi.io/blog/ai-token-cost",
+    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/03/ai-token-cost-blog-feature-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:55"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
+    "Link": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2261040231-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:03:59"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+    "Link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:03"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Study: AI models that consider users' feelings are more likely to make errors",
+    "Link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The “Robust” Data Scientist: Winning with Messy Data and Pingouin",
+    "Link": "https://www.kdnuggets.com/the-robust-data-scientist-winning-with-messy-data-and-pingouin",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-robust-data-scientist-winning-with-messy-data-and-pingouin-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:17"
+  },
+  {
+    "Topic": "Science",
+    "Title": "RFK Jr. is definitely coming for your vaccines (part 9): ProPublica reports, and a bump in the road to remaking ACIP",
+    "Link": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-9-propublica-reports-and-a-bump-in-the-road-to-remaking-acip/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-9-propublica-reports-and-a-bump-in-the-road-to-remaking-acip",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2025/10/RFKVaxDidntSaveUs.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:23"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientific Censor Dr. Jay Bhattacharya Doesn’t Realize He’s the Medical Establishment Now & It’s His Job to Generate Evidence for the American People",
+    "Link": "https://sciencebasedmedicine.org/podcastjaycensorsscience/?utm_source=rss&utm_medium=rss&utm_campaign=podcastjaycensorsscience",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/02/image-2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:37"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Coca-Cola Bottlers Japan Holdings Inc. (CCOJY) Q1 2026 Earnings Call Transcript",
+    "Link": "https://seekingalpha.com/article/4897562-coca-cola-bottlers-japan-holdings-inc-ccojy-q1-2026-earnings-call-transcript?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "British International Investment launches &amp;#163;1.1bn SE Asia clean energy initiative",
+    "Link": "https://www.financeasia.com/article/british-international-investment-launches-%c2%a31-1bn-se-asia-clean-energy-initiative/507608",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2207331673.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=c677659a95&amp;c=1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:50"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bangladesh hikes fuel prices as economic concerns mount",
+    "Link": "https://www.financeasia.com/article/bangladesh-hikes-fuel-prices-as-economic-concerns-mount/507642",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2189835615.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=c677659a95&amp;c=1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:54"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Cathay Pacific makes first HK dollar public bond at HK$2.08bn",
+    "Link": "https://www.financeasia.com/article/cathay-pacific-makes-first-hk-dollar-public-bond-at-hk2-08bn/507609",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2719788959.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=c677659a95&amp;c=1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:04:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "RLJ Lodging Trust (RLJ) Q1 2026 Earnings Call Transcript",
+    "Link": "https://seekingalpha.com/article/4898055-rlj-lodging-trust-rlj-q1-2026-earnings-call-transcript?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:00"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Price Movement Imminent: Binance Liquidity Hits Lowest Levels",
+    "Link": "https://cryptonews.com/news/xrp-binance-liquidity-price-analysis/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-05 04:05:10"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trump Just Launched Project Freedom to Escort Ships Through the Strait of Hormuz And Bitcoin Hit $80,000",
+    "Link": "https://cryptonews.com/news/bitcoin-targets-80k-trump-project-freedom-deregulation/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-05 04:05:13"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pump.Fun Launch Charity Coins Redemption Arc: What Is The Best Meme Coin to Buy?",
+    "Link": "https://cryptonews.com/news/pump-fun-charity-coins-pump-price-analysis/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-05 04:05:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Price Prediction: Escrow Relocked, Price Rallying Above $1.40 – Ripple Bullrun?",
+    "Link": "https://cryptonews.com/news/xrp-price-prediction-escrow-relock-rally/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-05 04:05:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP News: Thinking of Shorting XRP? You Might Get Squeezed",
+    "Link": "https://cryptonews.com/news/xrp-short-squeeze-leverage-news/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/USDCSDNY.svg/960px-USDCSDNY.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-05 04:05:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Notfälle: Grüne und Linke danken Helfern nach Todesfahrt in Leipzig",
+    "Link": "https://www.zeit.de/news/2026-05/04/gruene-danken-helfern-nach-todesfahrt-in-leipzig",
+    "ImageUrl": "https://img.zeit.de/news/2026-05/04/gruene-danken-helfern-nach-todesfahrt-in-leipzig-image-group/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:31"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Donald Trump : »Die Entourage schielt bereits auf die Thronfolge«",
+    "Link": "https://www.zeit.de/feuilleton/2026-05/donald-trump-maga-iran-krieg",
+    "ImageUrl": "https://img.zeit.de/feuilleton/2026-05/barbara-stollberg-rilinger-donald-trump-maga-irankrieg-usa-teaser/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:34"
+  },
+  {
+    "Topic": "General News",
+    "Title": " British PM Rishi Sunak avoids wipeout in key local elections ",
+    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/politics/uk-sunak-avoids-wipeout-local-elections/",
+    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240844.JPG?v=3.1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:37"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Familienzuwachs: Cameron Diaz und Benji Madden freuen sich über drittes Kind",
+    "Link": "https://www.zeit.de/news/2026-05/04/cameron-diaz-und-benji-madden-freuen-sich-ueber-drittes-kind",
+    "ImageUrl": "https://img.zeit.de/news/2026-05/04/cameron-diaz-und-benji-madden-freuen-sich-ueber-drittes-kind-image-group/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": " Japanese sake brewery to make foray into Indian market ",
+    "Link": "https://www.japantimes.co.jp/business/2024/12/17/companies/sake-brewery-india/",
+    "ImageUrl": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-05 04:05:44"
   }
 ]
