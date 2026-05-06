@@ -1,258 +1,282 @@
 [
   {
+    "Topic": "Technology",
+    "Title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "Link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:06:43"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "Link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:06:45"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
+    "Link": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/05/linkedin-unified-hiring-platform/en/headerimage/generatedHeaderImage-1776925266106.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:06:49"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Grafana's Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes",
+    "Link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/05/kubernetes-monitoring-helm/en/headerimage/generatedHeaderImage-1777406799196.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:06:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "AI boom pushes Samsung to $1T",
+    "Link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:06:55"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks",
+    "Link": "https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-07 04:07:01"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto Markets Catch a Breath After Three-Day Slide",
+    "Link": "https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-07 04:07:04"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Polygon Launches Shielded USDC and USDT Payments",
+    "Link": "https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-07 04:07:08"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "M&amp;M shares jump 3% as Nomura, other brokerages issue bullish calls after Q4 results. Should you buy, sell or hold?",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-jump-3-as-nomura-other-brokerages-issue-bullish-calls-after-q4-results-should-you-buy-sell-or-hold/articleshow/130848741.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-130848741,width-1200,height-630,imgsize-6599,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:10"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "CME Group to Launch Bitcoin Volatility Futures on June 1",
+    "Link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-07 04:07:14"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Krieg in der Ukraine: \"Ich warne vor Überschwänglichkeit\"",
+    "Link": "https://www.tagesschau.de/ausland/europa/ukraine-kriegsverlauf-gady-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/2117b0b9-3544-4116-83d1-08ffac71af22/AAABnfgOyN4/AAABnSSvrFg/16x9-big/drohne-person-vermummt-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Massenhafte Abzocke bei Augenoperationen",
+    "Link": "https://www.tagesschau.de/investigativ/ndr/grauer-star-behandlung-kosten-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/b01168ea-b7e9-44a1-b5a1-05ec3c2d166b/AAABnfgXDOM/AAABnSSvrFg/16x9-big/asphaerische-linse-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Ausbruch auf Kreuzfahrtschiff: Andes-Typ des Hantavirus nachgewiesen",
+    "Link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-hantavirus-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/26c22490-a183-4b0a-bcae-1132249ea3b5/AAABnfzbSlM/AAABnSSvrFg/16x9-big/hondius-106.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:30"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Potato chips recalled due to salmonella concerns",
+    "Link": "https://www.nbcnews.com/video/shorts/potato-chips-recalled-due-to-salmonella-concerns-262829125540",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/chipa-4lbfg3.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Ein Jahr Merz-Regierung: Kann Schwarz-Rot die Klimaziele einhalten?",
+    "Link": "https://www.tagesschau.de/wissen/klima/klimabilanz-regierung-merz-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/a068d024-d354-48d1-a3b9-849ce765df22/AAABnfkSh9k/AAABnSSvrFg/16x9-big/windkraft-solar-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:36"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+    "Link": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/04/adobe-ai-agents-wpp-nvidia.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:46"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "New ways to balance cost and reliability in the Gemini API",
+    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_API_Dials_ss_1.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:49"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+    "Link": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/04/google-cloud-nvidia.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Forbes AI 50 List Shows Data Emerging as the Core of AI Value",
+    "Link": "https://www.hpcwire.com/bigdatawire/2026/04/21/forbes-ai-50-list-shows-data-emerging-as-the-core-of-ai-value/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-07 04:07:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+    "Link": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:07:56"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Tonga’s Eruption Punched Into the Edge of Space. The Stratosphere Cooled, and It Still Has Not Recovered",
+    "Link": "https://dailygalaxy.com/2026/05/hunga-tonga-eruption-stratosphere-water-vapor-record/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HMS_Spey_Pearl_Harbour_December_2021.jpg/960px-HMS_Spey_Pearl_Harbour_December_2021.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-07 04:08:05"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The bombshell results that demand a new theory of the universe",
+    "Link": "https://www.newscientist.com/article/2515195-the-bombshell-results-that-demand-a-new-theory-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/13142545/SEI_284880063.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Mars Is Secretly Shaping Earth’s Climate Over Millions Of Years, Scientists Reveal",
+    "Link": "https://dailygalaxy.com/2026/05/mars-is-secretly-shaping-earths-climate/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/960px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-07 04:08:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Artemis II Flight Day 9: Crew Prepares to Come Home",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Weird inside-out planet system may have formed one world at a time",
+    "Link": "https://www.newscientist.com/article/2515430-weird-inside-out-planet-system-may-have-formed-one-world-at-a-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/12105643/SEI_284660523.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:19"
+  },
+  {
+    "Topic": "Science",
+    "Title": "AI lets chemists design molecules by simply describing them",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/synthegy-development.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:26"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:29"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists boost strawberry flavor and nutrition without changing growth",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/juicy-red-strawberry-close-up.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:32"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists sound alarm as dangerous amoebas spread globally",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260501234707.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-parasitic-amoeba-with-pseudopodia.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:35"
+  },
+  {
+    "Topic": "Science",
+    "Title": "You don’t need intense workouts to build muscle, new study reveals",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-07 04:08:38"
+  },
+  {
     "Topic": "Movies",
-    "Title": "Jason Biggs Directorial Debut UNTITLED HOME INVASION ROMANCE Now Available!",
-    "Link": "https://www.aintitcool.com/jason-biggs-meaghan-rath-interview-uhir-83636/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/uhir_poster_huge.jpg",
+    "Title": "New Planet of the Apes Movie From MCU Director Has Major Change",
+    "Link": "https://www.comingsoon.net/movies/news/2129400-new-planet-of-the-apes-movie-from-mcu-director-has-major-change",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/kingdom-of-the-planet-of-the-apes-still.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-06 03:57:41"
+    "Date": "2026-05-07 04:08:47"
   },
   {
     "Topic": "Movies",
-    "Title": "Check Out This Trailer from THE BIRTHDAY PARTY!",
-    "Link": "https://www.aintitcool.com/thebirthdaypartytrailer2026-83650/?utm_source=full-feed&utm_medium=feed&utm_term=coolnews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/tbp-4_huge.jpg",
+    "Title": "James Gunn’s Favorite Superman Character Returning in the DCU Shows His Biggest Strength",
+    "Link": "https://www.comingsoon.net/guides/features/2129347-james-gunns-favorite-superman-character-returning-in-the-dcu-shows-his-biggest-strength",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/superman-still.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-06 03:57:44"
+    "Date": "2026-05-07 04:08:49"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "NASA Unveils Massive 360° Mars Views Captured by Two Rovers Miles Apart",
-    "Link": "https://dailygalaxy.com/2026/05/nasa-massive-mars-views-two-rovers-miles/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-06 03:59:18"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A New \"Quasi-1D\" State of Matter Could Be Hiding Inside Ice Giant Planets",
-    "Link": "https://www.universetoday.com/articles/a-new-quasi-1d-state-of-matter-could-be-hiding-inside-ice-giant-planets",
-    "ImageUrl": "https://www.universetoday.com/article_images/press_20260430_135920.png",
+    "Topic": "Movies",
+    "Title": "Man of Tomorrow: Superman DCU Movie Adds Huge Scream Star to Cast",
+    "Link": "https://www.comingsoon.net/movies/news/2129330-man-of-tomorrow-superman-dcu-movie-adds-huge-scream-star-to-cast",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/Untitled-design-2026-05-06T135832.663.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:21"
+    "Date": "2026-05-07 04:08:51"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Radio Telescope Array Reveals the Masses of Hidden Young Stars",
-    "Link": "https://www.universetoday.com/articles/radio-telescope-array-reveals-the-masses-of-hidden-young-stars",
-    "ImageUrl": "https://www.universetoday.com/article_images/VLBA_binary_jpeg_20260501_185307.jpeg",
+    "Topic": "Movies",
+    "Title": "Hocus Pocus 3 Update Reveals Returning Cast Members for Disney Movie",
+    "Link": "https://www.comingsoon.net/movies/news/2129329-hocus-pocus-3-update-returning-cast-disney-movie",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/hocus-pocus-trio.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:23"
+    "Date": "2026-05-07 04:08:54"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Divers Found an Intact Roman Treasure After Centuries Hidden Deep in a Swiss Lake After Nearly 2,000 Years",
-    "Link": "https://dailygalaxy.com/2026/05/roman-treasure-found-swiss-lake-2000-years/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-06 03:59:26"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Russia debuts new rocket with maiden Soyuz-5 launch",
-    "Link": "https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/",
-    "ImageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-30-22-15-52-245.jpg",
+    "Topic": "Movies",
+    "Title": "Upcoming Disney+ Change Sounds Great But Could Go Very Wrong",
+    "Link": "https://www.comingsoon.net/tv/features/2129293-upcoming-disney-change-sounds-great-but-could-go-very-wrong",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/disney-plus-logo.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:29"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Quick Tips: Hiding Multiple Columns in Power BI Desktop",
-    "Link": "https://biinsight.com/quick-tips-hiding-multiple-columns-in-power-bi-desktop/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/06/2018-06-29_17-18-15.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:40"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Integrating Power BI with AzureDevOps (Git), part 1: Cloud Integration",
-    "Link": "https://biinsight.com/integrating-power-bi-with-azuredevops-git-part-1-cloud-integration/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/07/Snag_239d3b3b.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:45"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Incremental Refresh in Power BI, Part 1: Implementation in Power BI Desktop",
-    "Link": "https://biinsight.com/implementing-incremental-refresh-in-power-bi-part-1/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2022/02/Incremental-Refresh-in-Power-BI-Part-1-Implementation-in-Power-BI-Desktop.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:48"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Power BI 101, What is Power BI",
-    "Link": "https://biinsight.com/power-bi-101-what-is-power-bi/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/09/image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:52"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Quick Tips: Boolean Conditions when Querying SSAS DMVs",
-    "Link": "https://biinsight.com/quick-tips-adding-boolean-conditions-when-querying-ssas-dmvs/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/11/Boolean-Comparison-in-DMVs.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 03:59:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "How Blockchain Improves Cross-Border Payments",
-    "Link": "https://blog.chain.link/how-blockchain-improves-cross-border-payments/",
-    "ImageUrl": "https://blog.chain.link/wp-content/uploads/2025/11/How-Blockchain-Improves-Cross-Border-Payments-1-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:05"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Banks and Blockchains: A Structural Shift",
-    "Link": "https://blog.chain.link/banks-and-blockchain/",
-    "ImageUrl": "https://blog.chain.link/wp-content/uploads/2026/01/Banks-and-Blockchains_-A-Structural-Shift-1920x1080-1-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:07"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Spot Bitcoin ETFs See Third Straight Week Of Outflows, Australia Considers Approval",
-    "Link": "https://bitcoinwarrior.net/2024/04/spot-bitcoin-etfs-see-third-straight-week-of-outflows-australia-considers-approval/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-06 04:00:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SEC has regarded Ethereum as security for at least a year: report",
-    "Link": "https://bitcoinwarrior.net/2024/04/sec-has-regarded-ethereum-as-security-for-at-least-a-year-report/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-06 04:00:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Chainlink CCIP: The Secure and Decentralized Cross-Chain Standard",
-    "Link": "https://blog.chain.link/ccip-cross-chain-standard/",
-    "ImageUrl": "https://blog.chain.link/wp-content/uploads/2026/04/CCIP-Security-Blog-Banner-2-1024x576.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:21"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "US market today: Alphabet closes in on Nvidia's spot as world's biggest company",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-alphabet-closes-in-on-nvidias-spot-as-worlds-biggest-company/articleshow/130832852.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130832873,width-1200,height-630,imgsize-66304,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:31"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "CSB Bank cautious on gold loans, focuses on wholesale business, says MD Pralay Mondal",
-    "Link": "https://economictimes.indiatimes.com/markets/expert-view/csb-bank-cautious-on-gold-loans-focuses-on-wholesale-business-says-md-pralay-mondal/articleshow/130831071.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130831069,width-1200,height-630,imgsize-1105547,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:34"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Poonawalla Fincorp Q4 results: Profit jumps 70% QoQ to Rs 255 crore",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q4-results-profit-jumps-70-qoq-to-rs-255-crore/articleshow/130831488.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130831482,width-1200,height-630,imgsize-19446,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:38"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Why Market Fundamentals Always Win in the End",
-    "Link": "https://economicprism.com/why-market-fundamentals-always-win-in-the-end",
-    "ImageUrl": "https://economicprism.com/wp-content/uploads/2023/01/Crash200x200.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:42"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "NSE Q4 Results: Cons PAT grows 8% YoY to Rs 2,871 crore, revenue jumps 32%; Rs 35 per share dividend declared",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q4-results-cons-pat-grows-8-yoy-to-rs-2871-crore-revenue-jumps-32-rs-35-per-share-dividend-declared/articleshow/130831296.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130831246,width-1200,height-630,imgsize-50558,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:46"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The best Star Wars Day deals, drops, and freebies for May the 4th",
-    "Link": "https://mashable.com/article/star-wars-day-may-the-4th-deals-new-releases-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/034Xi2I8OwAAPawCcR5WKUt/hero-image.fill.size_1200x675.v1777912026.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Student sues matchmaking app for allegedly stealing her likeness for an ad",
-    "Link": "https://mashable.com/article/student-sues-meete-for-allegedly-stealing-likeness-geofencing",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03DtFpqxfFRMhdxhjoX5aHw/hero-image.fill.size_1200x675.v1777919821.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:55"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Instagram users claim theyre getting censored. Heres what Meta says.",
-    "Link": "https://mashable.com/article/meta-responds-to-instagram-censorship-claims",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05YojsGftndux9v5JACmJ0J/hero-image.fill.size_1200x675.v1777918941.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:00:58"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Take over $500 off the 55-inch Samsung Neo QLED 4K TV at Amazon",
-    "Link": "https://mashable.com/article/may-5-samsung-55-inch-neo-qled-tv-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05lSdt4AuQrAT3jRGKO1Cln/hero-image.fill.size_1200x675.v1777991849.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:01"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-social.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:03"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Peptides are unproven as health aids. FDA may unleash them anyway",
-    "Link": "https://www.sciencenews.org/article/peptides-unproven-health-fda-access",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042826_JD_peptides_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:10"
-  },
-  {
-    "Topic": "Science",
-    "Title": "What to know about a rare hantavirus outbreak at sea",
-    "Link": "https://www.sciencenews.org/article/hantavirus-cruise-ship-outbreak-health",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050426_TS_hantavirus_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:13"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ancient DNA tests the notion that allergies are due to our dirtier past",
-    "Link": "https://www.sciencenews.org/article/ancient-dna-allergies-dirtier-past",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_EG_climate_main_136bb3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:16"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Can ‘extinct’ volcanoes still erupt? A Greek peak holds surprising clues",
-    "Link": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_SW_volcano_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:19"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Newly mapped brain networks link far-flung regions",
-    "Link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042726_LS_astrocyte_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-06 04:01:22"
+    "Date": "2026-05-07 04:08:56"
   }
 ]
