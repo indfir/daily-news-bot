@@ -1,282 +1,306 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "Link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+    "Topic": "Astronomy",
+    "Title": "NASA changed an asteroid's orbit around the sun for the first time",
+    "Link": "https://www.newscientist.com/article/2518205-nasa-changed-an-asteroids-orbit-around-the-sun-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/05142820/SEI_287951783.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:06:43"
+    "Date": "2026-05-08 04:00:49"
   },
   {
-    "Topic": "Technology",
-    "Title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-    "Link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+    "Topic": "Astronomy",
+    "Title": "Good Morning, Moon",
+    "Link": "https://www.nasa.gov/image-detail/nasa-2026-science-calendar-march/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:06:45"
+    "Date": "2026-05-08 04:00:52"
   },
   {
-    "Topic": "Technology",
-    "Title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
-    "Link": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/news/2026/05/linkedin-unified-hiring-platform/en/headerimage/generatedHeaderImage-1776925266106.jpg",
+    "Topic": "Astronomy",
+    "Title": "Supermassives to fuzzballs: Every black hole type explained",
+    "Link": "https://www.newscientist.com/video/2511639-supermassives-to-fuzzballs-every-black-hole-type-explained/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/14221217/capa-2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:06:49"
+    "Date": "2026-05-08 04:00:56"
   },
   {
-    "Topic": "Technology",
-    "Title": "Grafana's Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes",
-    "Link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/news/2026/05/kubernetes-monitoring-helm/en/headerimage/generatedHeaderImage-1777406799196.jpg",
+    "Topic": "Astronomy",
+    "Title": "We could protect Earth from dangerous asteroids using a huge magnet",
+    "Link": "https://www.newscientist.com/article/2520960-we-could-protect-earth-from-dangerous-asteroids-using-a-huge-magnet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/26123713/SEI_290874825.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:06:52"
+    "Date": "2026-05-08 04:01:00"
   },
   {
-    "Topic": "Technology",
-    "Title": "AI boom pushes Samsung to $1T",
-    "Link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+    "Topic": "Astronomy",
+    "Title": "Solar Eclipse of the Heart",
+    "Link": "https://www.nasa.gov/image-detail/art002e009573/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009573orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:06:55"
+    "Date": "2026-05-08 04:01:03"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "M.I.A.'s Brutal Opening Character Deaths & Their Future In The Series Explained By Cast As Creators Talk Show's Deeper Meaning",
+    "Link": "https://screenrant.com/mia-season-1-etta-family-deaths-future-impact-meaning-cast-creators/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/shannon-gisela-s-etta-holding-her-hands-up-as-someone-aims-a-gun-at-her-in-m-i-a.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:12"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Daredevil: Born Again Season 2's Sequel Officially Releases In 5 Days",
+    "Link": "https://screenrant.com/daredevil-born-again-the-punisher-special-sequel-may-2026/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/karen-page-and-matt-murdock-in-daredevil-born-again-season-2-episode-7.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:15"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Paramount and Warner Music Team Up for Movies About Artists and Songwriters",
+    "Link": "https://variety.com/2026/film/news/paramount-warner-music-music-biopics-1236740663/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/05/dua-lipa.png?w=999&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:18"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "AGC Intl. Launches Worldwide Sales on ‘Kidz Bop Live: The Concert Movie’ (EXCLUSIVE)",
+    "Link": "https://variety.com/2026/film/global/agc-kidz-bop-live-the-concert-movie-1236740263/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/05/Kidz-Bop-Live-The-Concert-Movie.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:21"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Mark Ruffalo Says Hollywood Stars Declined to Sign Open Letter Against Paramount-WB Merger ‘Because They’re Afraid’ the Studio Will Blacklist Them",
+    "Link": "https://variety.com/2026/film/news/mark-ruffalo-paramount-warner-bros-blacklist-merger-1236740819/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2025/08/GettyImages-2006038685-e1754082733884.jpg?crop=0px%2C33px%2C2130px%2C1198px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:24"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Pacu Inovasi Revolusi Industri, Indonesia Ikuti BRICS Industrial Innovation Contest 2026",
+    "Link": "https://www.viva.co.id/bisnis/1897148-pacu-inovasi-revolusi-industri-indonesia-ikuti-brics-industrial-innovation-contest-2026",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/07/69fc9294707f7-indonesia-brics-industrial-innovation-contest-2026_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:36"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Direktur Pegadaian Raih Penghargaan Women in Business Leadership 2026, Jadi Tokoh Wanita Berpengaruh di Indonesia",
+    "Link": "https://www.viva.co.id/bisnis/1897142-direktur-pegadaian-raih-penghargaan-women-in-business-leadership-2026-jadi-tokoh-wanita-berpengaruh-di-indonesia",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/07/69fc8eb79aa25-direktur-pemasaran-penjualan-dan-pengembangan-produk-pt-pegadaian-selfie-dewiyanti_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:38"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Terkoreksi Sejak Awal 2026, Bos OJK: IHSG Tunjukkan Tren Penguatan di Mei 2026",
+    "Link": "https://www.viva.co.id/bisnis/1897127-terkoreksi-sejak-awal-2026-bos-ojk-ihsg-tunjukkan-tren-penguatan-di-mei-2026",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/07/69fc685ec9d37-konferensi-pers-hasil-rapat-berkala-kssk-ii-tahun-2026_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:40"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Teknologi Kemasan Air Minum di Indonesia Jadi Sorotan",
+    "Link": "https://www.viva.co.id/gaya-hidup/digilife/1897186-teknologi-kemasan-air-minum-di-indonesia-jadi-sorotan",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/04/08/6250133946999-ilustrasi-galon_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:42"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Sidang Banding Perkara Tata Kelola Minyak, Kuasa Hukum Harap Hakim PT Jakarta Bebaskan Kerry Riza",
+    "Link": "https://www.viva.co.id/berita/nasional/1897157-sidang-banding-perkara-tata-kelola-minyak-kuasa-hukum-harap-hakim-pt-jakarta-bebaskan-kerry-riza",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/07/69fc9836dce95-kuasa-hukum-kerry-riza-patra-m-zen_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:01:51"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks",
-    "Link": "https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-07 04:07:01"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto Markets Catch a Breath After Three-Day Slide",
-    "Link": "https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg",
+    "Title": "Brazil’s central bank buys dollars in futures market for first time in decade",
+    "Link": "https://www.investing.com/news/forex-news/brazils-central-bank-buys-dollars-in-futures-market-for-first-time-in-decade-93CH-4664904",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/960px-Logo_European_Central_Bank.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-07 04:07:04"
+    "Date": "2026-05-08 04:02:01"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Polygon Launches Shielded USDC and USDT Payments",
-    "Link": "https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-07 04:07:08"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "M&amp;M shares jump 3% as Nomura, other brokerages issue bullish calls after Q4 results. Should you buy, sell or hold?",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-jump-3-as-nomura-other-brokerages-issue-bullish-calls-after-q4-results-should-you-buy-sell-or-hold/articleshow/130848741.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-130848741,width-1200,height-630,imgsize-6599,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:10"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "CME Group to Launch Bitcoin Volatility Futures on June 1",
-    "Link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-07 04:07:14"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Krieg in der Ukraine: \"Ich warne vor Überschwänglichkeit\"",
-    "Link": "https://www.tagesschau.de/ausland/europa/ukraine-kriegsverlauf-gady-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/2117b0b9-3544-4116-83d1-08ffac71af22/AAABnfgOyN4/AAABnSSvrFg/16x9-big/drohne-person-vermummt-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:23"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Massenhafte Abzocke bei Augenoperationen",
-    "Link": "https://www.tagesschau.de/investigativ/ndr/grauer-star-behandlung-kosten-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/b01168ea-b7e9-44a1-b5a1-05ec3c2d166b/AAABnfgXDOM/AAABnSSvrFg/16x9-big/asphaerische-linse-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:26"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Ausbruch auf Kreuzfahrtschiff: Andes-Typ des Hantavirus nachgewiesen",
-    "Link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-hantavirus-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/26c22490-a183-4b0a-bcae-1132249ea3b5/AAABnfzbSlM/AAABnSSvrFg/16x9-big/hondius-106.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:30"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Potato chips recalled due to salmonella concerns",
-    "Link": "https://www.nbcnews.com/video/shorts/potato-chips-recalled-due-to-salmonella-concerns-262829125540",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/chipa-4lbfg3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:32"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Ein Jahr Merz-Regierung: Kann Schwarz-Rot die Klimaziele einhalten?",
-    "Link": "https://www.tagesschau.de/wissen/klima/klimabilanz-regierung-merz-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/a068d024-d354-48d1-a3b9-849ce765df22/AAABnfkSh9k/AAABnSSvrFg/16x9-big/windkraft-solar-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:36"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
-    "Link": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/04/adobe-ai-agents-wpp-nvidia.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:46"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "New ways to balance cost and reliability in the Gemini API",
-    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_API_Dials_ss_1.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:49"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
-    "Link": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/04/google-cloud-nvidia.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:51"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Forbes AI 50 List Shows Data Emerging as the Core of AI Value",
-    "Link": "https://www.hpcwire.com/bigdatawire/2026/04/21/forbes-ai-50-list-shows-data-emerging-as-the-core-of-ai-value/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-07 04:07:54"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
-    "Link": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:07:56"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Tonga’s Eruption Punched Into the Edge of Space. The Stratosphere Cooled, and It Still Has Not Recovered",
-    "Link": "https://dailygalaxy.com/2026/05/hunga-tonga-eruption-stratosphere-water-vapor-record/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HMS_Spey_Pearl_Harbour_December_2021.jpg/960px-HMS_Spey_Pearl_Harbour_December_2021.jpg",
+    "Title": "China’s foreign exchange reserves climb to $3.41 trillion in April",
+    "Link": "https://www.investing.com/news/forex-news/chinas-foreign-exchange-reserves-climb-to-341-trillion-in-april-93CH-4668598",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2024_Foreign_exchange_reserves_of_China.png/960px-2024_Foreign_exchange_reserves_of_China.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-07 04:08:05"
+    "Date": "2026-05-08 04:02:06"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "The bombshell results that demand a new theory of the universe",
-    "Link": "https://www.newscientist.com/article/2515195-the-bombshell-results-that-demand-a-new-theory-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/13142545/SEI_284880063.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:09"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Mars Is Secretly Shaping Earth’s Climate Over Millions Of Years, Scientists Reveal",
-    "Link": "https://dailygalaxy.com/2026/05/mars-is-secretly-shaping-earths-climate/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/960px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Shorting this FX pair is the best hedge for war de-escalation: BofA",
+    "Link": "https://www.investing.com/news/forex-news/shorting-this-fx-pair-is-the-best-hedge-for-war-deescalation-bofa-4668980",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/MAN_LX_Lux.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-07 04:08:12"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II Flight Day 9: Crew Prepares to Come Home",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:14"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Weird inside-out planet system may have formed one world at a time",
-    "Link": "https://www.newscientist.com/article/2515430-weird-inside-out-planet-system-may-have-formed-one-world-at-a-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/12105643/SEI_284660523.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:19"
+    "Date": "2026-05-08 04:02:09"
   },
   {
     "Topic": "Science",
-    "Title": "AI lets chemists design molecules by simply describing them",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/synthegy-development.webp",
+    "Title": "National Science Board eviscerated; Trump admin fires all 22 members",
+    "Link": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:26"
+    "Date": "2026-05-08 04:02:17"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
+    "Title": "State healthcare sites sending data to tech companies",
+    "Link": "https://flowingdata.com/2026/05/07/state-healthcare-sites-sending-data-to-tech-companies/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZmxvd2luZ2RhdGEuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wMVwvbG9nby1sb25lLXNxdWFyZTUxMng1MTIucG5nIiwidHh0IjoiRmxvd2luZ0RhdGEiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTkzODg4OX0.UFOEC8c0X-rVB0Xyf5x_xY6LW6d48WxRSUk-Ms57z7wMQ",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:29"
+    "Date": "2026-05-08 04:02:21"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists boost strawberry flavor and nutrition without changing growth",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/juicy-red-strawberry-close-up.webp",
+    "Title": "Estimating how much text on the internet is generated",
+    "Link": "https://flowingdata.com/2026/05/04/estimating-how-much-text-on-the-internet-is-generated/",
+    "ImageUrl": "https://flowingdata.com/wp-content/uploads/2026/04/generated-text-growth.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:32"
+    "Date": "2026-05-08 04:02:25"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists sound alarm as dangerous amoebas spread globally",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260501234707.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-parasitic-amoeba-with-pseudopodia.webp",
+    "Title": "Study: Infrasound likely a key factor in alleged hauntings",
+    "Link": "https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/infrasound2-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:35"
+    "Date": "2026-05-08 04:02:30"
   },
   {
     "Topic": "Science",
-    "Title": "You don’t need intense workouts to build muscle, new study reveals",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp",
+    "Title": "Neanderthal brains measure up to ours—literally",
+    "Link": "https://arstechnica.com/science/2026/04/neanderthal-brains-measure-up-to-ours-literally/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/Sapiens_neanderthal_comparison_en_blackbackground.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:38"
+    "Date": "2026-05-08 04:02:34"
   },
   {
-    "Topic": "Movies",
-    "Title": "New Planet of the Apes Movie From MCU Director Has Major Change",
-    "Link": "https://www.comingsoon.net/movies/news/2129400-new-planet-of-the-apes-movie-from-mcu-director-has-major-change",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/kingdom-of-the-planet-of-the-apes-still.jpg?resize=1200,630",
+    "Topic": "Technology",
+    "Title": "Here’s how we're celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month",
+    "Link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/honoring-asian-and-pasifika-ancestry-month-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Imagery_2096x1182-1.width-1300.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:47"
+    "Date": "2026-05-08 04:02:41"
   },
   {
-    "Topic": "Movies",
-    "Title": "James Gunn’s Favorite Superman Character Returning in the DCU Shows His Biggest Strength",
-    "Link": "https://www.comingsoon.net/guides/features/2129347-james-gunns-favorite-superman-character-returning-in-the-dcu-shows-his-biggest-strength",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/superman-still.jpg?resize=1200,630",
+    "Topic": "Technology",
+    "Title": "Google Health Coach is becoming globally available",
+    "Link": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthApp-2-Onboarding_HERO.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:49"
+    "Date": "2026-05-08 04:02:44"
   },
   {
-    "Topic": "Movies",
-    "Title": "Man of Tomorrow: Superman DCU Movie Adds Huge Scream Star to Cast",
-    "Link": "https://www.comingsoon.net/movies/news/2129330-man-of-tomorrow-superman-dcu-movie-adds-huge-scream-star-to-cast",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/Untitled-design-2026-05-06T135832.663.jpg?resize=1200,630",
+    "Topic": "Technology",
+    "Title": "Open Source Changed How I Think About Software Engineering",
+    "Link": "https://dev.to/tarunya/open-source-changed-how-i-think-about-software-engineering-1ig9",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm7a6by6ukdx991jov1hz.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:51"
+    "Date": "2026-05-08 04:02:47"
   },
   {
-    "Topic": "Movies",
-    "Title": "Hocus Pocus 3 Update Reveals Returning Cast Members for Disney Movie",
-    "Link": "https://www.comingsoon.net/movies/news/2129329-hocus-pocus-3-update-returning-cast-disney-movie",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/hocus-pocus-trio.jpg?resize=1200,630",
+    "Topic": "Technology",
+    "Title": "DPO vs SimPO: What Your Preference Trainer Is Actually Optimizing",
+    "Link": "https://dev.to/natnael_alemseged/dpo-vs-simpo-what-your-preference-trainer-is-actually-optimizing-42b4",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fii24rdaex43xzd2phosi.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:54"
+    "Date": "2026-05-08 04:02:50"
   },
   {
-    "Topic": "Movies",
-    "Title": "Upcoming Disney+ Change Sounds Great But Could Go Very Wrong",
-    "Link": "https://www.comingsoon.net/tv/features/2129293-upcoming-disney-change-sounds-great-but-could-go-very-wrong",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/disney-plus-logo.jpg?resize=1200,630",
+    "Topic": "Technology",
+    "Title": "Building a Serverless Language App on AWS: How I Solved the \"Resource Desert\" for a Niche Dialect",
+    "Link": "https://dev.to/fulingo/building-a-serverless-language-app-on-aws-how-i-solved-the-resource-desert-for-a-niche-dialect-34lb",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftsd8d685646ynnafehz8.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-07 04:08:56"
+    "Date": "2026-05-08 04:02:53"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Behind the Blog: Big Questions of Consciousness",
+    "Link": "https://www.404media.co/behind-the-blog-big-questions-of-consciousness/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/nl5.1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:03"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+    "Link": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!kftt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F529c4cc7-161c-4d7c-b186-06e68c771776_1564x926.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "From Frameworks to Security: A Complete Guide to Web Development in Dubai",
+    "Link": "https://datafloq.com/from-frameworks-to-security-a-complete-guide-to-web-development-in-dubai/",
+    "ImageUrl": "https://img.liplyn.com/wp-content/uploads/2022/07/AI-marketing.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:11"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
+    "Link": "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
+    "ImageUrl": "https://images.unsplash.com/photo-1740635341299-3b8e3490f546?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDI0fHx0ZWFjaGVyc3xlbnwwfHx8fDE3Nzc5MTcxNDd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:14"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "A Practical Guide to Optimizing Hosting Deployment",
+    "Link": "https://datafloq.com/a-practical-guide-to-optimizing-hosting-deployment/",
+    "ImageUrl": "https://datafloq.com/wp-content/uploads/2022/07/AI-marketing.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:18"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+    "Link": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+    "ImageUrl": "https://i.guim.co.uk/img/media/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c2a85068dec32c2c7ef2af6289202ed",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:25"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
+    "Link": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+    "ImageUrl": "https://i.guim.co.uk/img/media/9ca924a9cdf6b33029b34db7dc38339d24bc251d/769_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2eb23bd13ca0ca72ee28fc2736b34b2",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:29"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Almost $4bn more for Victoria’s contentious Suburban Rail Loop to be included in federal budget",
+    "Link": "https://www.theguardian.com/australia-news/2026/may/07/federal-budget-melbourne-srl-suburban-rail-loop-funding-transport",
+    "ImageUrl": "https://i.guim.co.uk/img/media/bac8de9ad7c52cdf6bbb93cc4805d21da048e96c/649_0_6493_5194/master/6493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7830dad6d6de52ae4cc2aa8cf4ab7a50",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Iran mocks Trump’s ‘Project Freedom’ as adversaries wrestle over talks to end war",
+    "Link": "https://www.theguardian.com/world/2026/may/07/iran-mocks-donald-trump-project-freedom",
+    "ImageUrl": "https://i.guim.co.uk/img/media/5c68fd39add45d7978fd0c3ecb29b57df22ce8e7/833_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01c3be424e735e5bce5ab754a1ee33e0",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:35"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘Worst year in memory’: parties describe climate of abuse on campaign trail for May elections",
+    "Link": "https://www.theguardian.com/politics/2026/may/07/parties-election-climate-abuse-campaign-trail",
+    "ImageUrl": "https://i.guim.co.uk/img/media/f223c7608d916d82d587f00be02b40c62941f2ee/245_0_2675_2140/master/2675.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6496c394f462929c8597c10839272022",
+    "ImageSource": "og:image",
+    "Date": "2026-05-08 04:03:38"
   }
 ]
