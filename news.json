@@ -1,242 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Artificial neurons that behave like real brain cells",
-    "Link": "https://www.sciencedaily.com/releases/2025/11/251105050723.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/integrated-spiking-artificial-neuron.webp",
+    "Topic": "Movies",
+    "Title": "‘The Electric Kiss’ Review: The Power Is Out in Pierre Salvadori’s 1920s Comedy Romance, Which Opens Cannes With a Fizzle",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-electric-kiss-review-pierre-salvadori-cannes-opener-1236591107/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Photo-05_VENUSLes-Films-Pelleas.jpg?w=1440&#038;h=810&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:12:39"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/server-facility-at-sandia-national-laboratory.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:12:42"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "The human brain may work more like AI than anyone expected",
-    "Link": "https://www.sciencedaily.com/releases/2026/01/260120000308.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-ai-data-technology-artificial-intelligence-chip.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:12:45"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing Reveal AI: The AI-Native Embedded Analytics Layer for Enterprise and SaaS Applications",
-    "Link": "https://www.revealbi.io/blog/reveal-ai-release",
-    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/03/reveal-blog-launch-introducing-reveal-ai-thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:12:49"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Stanford’s tiny eye chip helps the blind see again",
-    "Link": "https://www.sciencedaily.com/releases/2025/10/251022023118.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/prosthesis-for-macular-degeneration.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:12:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-    "Link": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-    "ImageUrl": "https://media.wired.com/photos/69fb95f04f1f0e1f8189d986/191:100/w_1280,c_limit/Review%20Sleep%20Number%20ComfortNext%20Lux%20Smart%20Bed%20top%20art%20052026%20SOURCE%20Julia%20Forbes.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:00"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub for Beginners: Getting started with Markdown",
-    "Link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/04/GIT879_THUMB_GFB_B-1.png?fit=1280%2C720",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:04"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-    "Link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-    "ImageUrl": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:07"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "Link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "ImageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/191:100/w_1280,c_limit/pol_Tom_CA_GettyImages-2273635848.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:10"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google Earnings, Meta Earnings",
-    "Link": "https://stratechery.com/2026/google-earnings-meta-earnings/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:13"
+    "Date": "2026-05-13 04:14:31"
   },
   {
     "Topic": "Movies",
-    "Title": "A Quiet Place Part III Has Officially Started Filming",
-    "Link": "https://bleedingcool.com/movies/a-quiet-place-part-iii-has-officially-started-filming/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/08/john-Krasinski-quiet-place-2000x1125.jpg",
+    "Title": "10 Best Sci-Fi Movie Prequels Of All Time, Ranked",
+    "Link": "https://www.slashfilm.com/2169589/best-sci-fi-movie-prequels-ranked/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/best-sci-fi-movie-prequels-ranked/l-intro-1778513538.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:32"
+    "Date": "2026-05-13 04:14:34"
   },
   {
     "Topic": "Movies",
-    "Title": "Crystal Lake: \"Friday the 13th\" Prequel Series Arrives October 15th",
-    "Link": "https://bleedingcool.com/tv/crystal-lake-friday-the-13th-prequel-series-arrives-october-15th/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/08/crystallakefridaythe13th-2000x1125.jpg",
+    "Title": "Weekend Box Office: The Devil Wears Prada 2 Wins Battle of the Sequels Against Mortal Kombat II",
+    "Link": "https://editorial.rottentomatoes.com/article/weekend-box-office-the-devil-wears-prada-2-wins-battle-of-the-sequels/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/Devil_Wears_Prada_2_Reviews-Rep.jpg?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:34"
+    "Date": "2026-05-13 04:14:37"
   },
   {
     "Topic": "Movies",
-    "Title": "Mortal Kombat II Review: Fun, Tons Of Blood, But Missing Something",
-    "Link": "https://bleedingcool.com/movies/mortal-kombat-ii-review-fun-tons-of-blood-but-missing-something/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/02/rev-1-MK2-FP-00227_High_Res_JPEG-2000x1125.jpeg",
+    "Title": "Ewan McGregor's Big Break Came In This Rarely Discussed '90s Mystery Thriller",
+    "Link": "https://www.slashfilm.com/2161305/ewan-mcgregor-big-break-90s-mystery-thriller-shallow-grave/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/ewan-mcgregors-big-break-came-in-this-rarely-discussed-90s-mystery-thriller/l-intro-1777567097.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:38"
+    "Date": "2026-05-13 04:14:40"
   },
   {
     "Topic": "Movies",
-    "Title": "Ryan Gosling Bombed His Audition For A Beloved 2000s TV Drama",
-    "Link": "https://www.slashfilm.com/2161237/ryan-gosling-bombed-audition-gilmore-girls/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/ryan-gosling-bombed-his-audition-for-a-beloved-2000s-tv-drama/l-intro-1777562036.jpg",
+    "Title": "Bob Denver And The Creator Of Gilligan's Island Teamed Up For A Sci-Fi Comedy That Missed The Mark",
+    "Link": "https://www.slashfilm.com/2159856/gilligans-island-sherwood-schwartz-bob-denver-sci-fi-comedy-the-invisible-woman/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/bob-denver-and-the-creator-of-gilligans-island-teamed-up-for-a-sci-fi-comedy-that-missed-the-mark/l-intro-1777421370.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:41"
+    "Date": "2026-05-13 04:14:42"
   },
   {
-    "Topic": "Movies",
-    "Title": "One Of The Best Horror Novels In Recent Memory Is Begging For A Movie Adaptation",
-    "Link": "https://www.slashfilm.com/2169475/best-horror-novel-recent-memory-needs-movie-adaptation-between-two-fires/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/one-of-the-best-horror-novels-in-recent-memory-is-begging-for-a-movie-adaptation/l-intro-1778502319.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Upbit listing puts privacy AI token VVV in Korea’s spotlight",
+    "Link": "https://crypto.news/upbit-listing-puts-privacy-ai-token-vvv-in-koreas-spotlight/",
+    "ImageUrl": "https://crypto.news/app/uploads/2022/10/Upbit_to_replace_KakaoTalk_login_service_amid_data_center_fire_fiasco.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:13:46"
+    "Date": "2026-05-13 04:14:52"
   },
   {
-    "Topic": "General News",
-    "Title": "David Sala, auteur de BD : « La créature de Frankenstein est moins un mort-vivant qu’un nouveau-né »",
-    "Link": "https://www.lemonde.fr/culture/article/2026/05/11/david-sala-auteur-de-bd-la-creature-de-frankenstein-est-moins-un-mort-vivant-qu-un-nouveau-ne_6688147_3246.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "Payward and Franklin Templeton announce strategic collaboration to advance tokenized assets and institutional digital finance",
+    "Link": "https://blog.kraken.com/news/payward-and-franklin-templeton-tokenized-assets",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/Untitled-design-1-2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:14:55"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Market Analysis: GBP/USD Trades Sideways, USD/CAD Rally Still Looks Strong",
+    "Link": "https://fxopen.com/blog/en/aj-market-analysis-gbp-usd-trades-sideways-usd-cad-rally-still-looks-strong/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/05/GBP--pound.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:14:58"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "MARA Holdings dumps bitcoin for AI infrastructure",
+    "Link": "https://crypto.news/mara-holdings-sold-1-5b-bitcoin-to-fund-ai-pivot/",
+    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-option01.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:00"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Leading crypto presales to buy now before early entry prices disappear",
+    "Link": "https://crypto.news/leading-crypto-presales-to-buy-now-before-early-entry-prices-disappear/",
+    "ImageUrl": "https://media.crypto.news/2026/05/Gemini_Generated_Image_vhguryvhguryvhgu.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:03"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Model Is the Data—and That Changes Everything",
+    "Link": "https://www.hpcwire.com/bigdatawire/2026/04/28/the-model-is-the-data-and-that-changes-everything/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Islm.svg/960px-Islm.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-12 04:13:56"
+    "Date": "2026-05-13 04:15:12"
   },
   {
-    "Topic": "General News",
-    "Title": "Union européenne : après des mois de blocage, les Vingt-Sept sanctionnent des mouvements de colons israéliens en Cisjordanie occupée",
-    "Link": "https://www.lemonde.fr/international/article/2026/05/11/union-europeenne-apres-des-mois-de-blocage-les-vingt-sept-sanctionnent-des-mouvements-de-colons-israeliens-en-cisjordanie-occupee_6688166_3210.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Emma_Fourreau%2C_La_France_Insoumise2025.jpg/960px-Emma_Fourreau%2C_La_France_Insoumise2025.jpg",
+    "Topic": "Data / AI",
+    "Title": "Titans + MIRAS: Helping AI have long-term memory",
+    "Link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Differentially private machine learning at scale with JAX-Privacy",
+    "Link": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:20"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Google Research 2025: Bolder breakthroughs, bigger impact",
+    "Link": "https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:24"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing Groundsource: Turning news reports into data with Gemini",
+    "Link": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:27"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "'I've just ruined their lives': Nashville bar owner's property tax bill soars from $129K to $589K",
+    "Link": "https://finance.yahoo.com/economy/policy/articles/ive-just-ruined-lives-nashville-130500215.html",
+    "ImageUrl": "https://s.yimg.com/os/en/moneywise_327/c0f185a216dc0b2ce3b75191bd88cc39",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "These 10 ‘HALO’ stocks protect your portfolio from the AI bubble",
+    "Link": "https://www.marketwatch.com/story/these-10-halo-stocks-protect-your-portfolio-from-the-ai-bubble-7774336b?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HaloLogoBlue.jpg/960px-HaloLogoBlue.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-12 04:14:00"
+    "Date": "2026-05-13 04:15:38"
   },
   {
-    "Topic": "General News",
-    "Title": "EN DIRECT, guerre en Ukraine : « Il n’y a pas eu de silence » sur le front malgré le cessez-le-feu négocié par les Etats-Unis, estime Volodymyr Zelensky",
-    "Link": "https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-en-ukraine-les-dernieres-informations_6687661_3210.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-12 04:14:04"
+    "Topic": "Economy",
+    "Title": "Why Market is Wrong About Meta Platforms (META)",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/why-market-wrong-meta-platforms-125435610.html",
+    "ImageUrl": "https://s.yimg.com/os/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:42"
   },
   {
-    "Topic": "General News",
-    "Title": "« Une nation qui accepte que son patrimoine culturel soit capté par quelques plateformes d’IA renonce à maîtriser ce qui fait son identité »",
-    "Link": "https://www.lemonde.fr/idees/article/2026/05/11/une-nation-qui-accepte-que-son-patrimoine-culturel-soit-capte-par-quelques-plateformes-d-ia-renonce-a-maitriser-ce-qui-fait-son-identite_6688148_3232.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-12 04:14:07"
+    "Topic": "Economy",
+    "Title": "Artisan Mid Cap Fund Reduced Wingstop (WING) Due to Concerns on Softening Near-Term Profit Cycle",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/artisan-mid-cap-fund-reduced-125330212.html",
+    "ImageUrl": "https://s.yimg.com/os/en/insidermonkey.com/423a0470dc9ef5551ca96329b58fe1fa",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:46"
   },
   {
-    "Topic": "General News",
-    "Title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump estime que le cessez-le-feu entre l’Iran et les Etats-Unis est « sous assistance respiratoire » ; l’Iran se dit prêt à « riposter » en cas d’agression",
-    "Link": "https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-au-moyen-orient-les-frappes-israeliennes-se-poursuivent-dans-le-sud-du-liban_6686485_3210.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-12 04:14:11"
+    "Topic": "Economy",
+    "Title": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/shein-accuses-temu-industrial-scale-121136097.html",
+    "ImageUrl": "https://s.yimg.com/os/en/reuters-finance.com/2565cf479840033da9857ab76056b9d3",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:49"
+  },
+  {
+    "Topic": "Science",
+    "Title": "DNA identifies four more crew members of doomed Franklin expedition",
+    "Link": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/arcticTOP-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:15:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "How climate change makes your allergies worse",
+    "Link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2157575774-2-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A low-cost rotavirus test could save childrens’ lives in Nigeria",
+    "Link": "https://www.sciencenews.org/article/nigeria-rotavirus-diagnosis-rapid-test",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/032526_SM_unsung_main.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Jazz and classical music have become simpler, a new study finds",
+    "Link": "https://www.sciencenews.org/article/jazz-classical-music-simpler-pop-rock",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050726_PD_music_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:08"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
+    "Link": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_EC_magnometer_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:12"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Military space boom meets Beltway friction",
-    "Link": "https://spacenews.com/military-space-boom-meets-beltway-friction/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KC-135Boom-operator-521.jpg/960px-KC-135Boom-operator-521.jpg",
+    "Title": "Astronomers Spot Possible Missing Link to Webb’s Little Red Dots",
+    "Link": "https://skyandtelescope.org/astronomy-news/astronomers-spot-possible-missing-link-to-webbs-little-red-dots/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HST_G1_%28Mayall_II%29.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-12 04:14:27"
+    "Date": "2026-05-13 04:16:20"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Clouds of water ice thread stellar nurseries in the Milky Way",
-    "Link": "https://www.sciencenews.org/article/water-ice-stellar-nurseries-galaxy",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/042126_NO_glaciers_main.jpg",
+    "Title": "The real space science behind 'Project Hail Mary'",
+    "Link": "https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fc0%2Fda70cf0b4a3b83ad8f52b0fbc33b%2Fproject-hail-mary-phm-43654-r2-rgb.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:14:31"
+    "Date": "2026-05-13 04:16:23"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
-    "Link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Skylab_%28SL-4%29.jpg/960px-Skylab_%28SL-4%29.jpg",
+    "Title": "A Black Hole’s Puzzling X-Ray Bursts",
+    "Link": "https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Black_hole_-_Messier_87.jpg/960px-Black_hole_-_Messier_87.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-12 04:14:35"
+    "Date": "2026-05-13 04:16:27"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Redwire pursues opportunities in landers and power systems for NASA’s moon base plans",
-    "Link": "https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-12 04:14:38"
+    "Title": "Artemis II mission inspires the next generation of space scientists",
+    "Link": "https://www.npr.org/2026/04/11/nx-s1-5776720/artemis-ii-mission-inspires-the-next-generation-of-space-scientists",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:30"
   },
   {
     "Topic": "Astronomy",
-    "Title": "After 30 Years of Mystery, NASA’s Webb Telescope Captures Neptune’s Aurora for the First Time",
-    "Link": "https://dailygalaxy.com/2026/05/nasa-telescope-captures-neptune-aurora/",
+    "Title": "SpaceX Booster Will Hit the Moon This August",
+    "Link": "https://skyandtelescope.org/astronomy-news/spacex-booster-will-hit-the-moon-this-august/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Falcon_9_first_stage_at_LZ-1%28two%29.jpg/960px-Falcon_9_first_stage_at_LZ-1%28two%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-13 04:16:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Garmin Brings Its Best Training Tools to Its Cheapest Running Watches",
+    "Link": "https://www.cnet.com/tech/mobile/garmin-forerunner-70-170-firs-impressions-running-watch/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/8f34907d17202c826c9fe066ba1d17b18bd7c7da/hub/2026/05/11/67278df4-fdab-49ed-bb3b-b627f39d1372/forerunner170-70-hrforerunner70-170.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:41"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Kenosha casino plan advances to final federal review stage",
+    "Link": "https://readwrite.com/kenosha-casino-plan-advances-to-final-federal-review-stage/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/James_R._Thompson_Center_%2851573845537%29.jpg/960px-James_R._Thompson_Center_%2851573845537%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-13 04:16:45"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Wabanaki Nations urge judge to dismiss Oxford Casino challenge against internet gambling",
+    "Link": "https://readwrite.com/wabanaki-nations-urge-judge-dismiss-oxford-casino-lawsuit/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USCensusRaceEthnicity1790-2010.png/960px-USCensusRaceEthnicity1790-2010.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-13 04:16:48"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Read our new report on AI-powered threats and our latest defenses.",
+    "Link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-1440x810.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:51"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
+    "Link": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath-owner-instructure-reaches-deal-with-hacker-group/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/5669c5ee044f1953f656c6d7750fece59014b07d/hub/2026/05/12/d2cce03a-23a6-44d4-acf0-3051d1cddd99/gettyimages-2275025117.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-05-13 04:16:53"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Menú semanal de El Comidista (11 a 17 de mayo)",
+    "Link": "https://elpais.com/gastronomia/el-comidista/2026-05-10/menu-semanal-de-el-comidista-11-a-17-de-mayo.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Karlos_Argui%C3%B1ano.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-13 04:17:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cupón diario de la ONCE: comprobar sorteo del martes 12 de mayo",
+    "Link": "https://elpais.com/sorteos/2026-05-12/cupon-diario-de-la-once-comprobar-sorteo-del-martes-12-de-mayo.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-05-12 04:14:42"
+    "Date": "2026-05-13 04:17:06"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Silver Refuses to Break Despite Dollar Rebound, But Bulls Still Need One More Catalyst",
-    "Link": "https://www.actionforex.com/live-comments/640171-silver-refuses-to-break-despite-dollar-rebound-but-bulls-still-need-one-more-catalyst/",
-    "ImageUrl": "https://www.actionforex.com/wp-content/uploads/2024/08/f-silver25.jpg",
+    "Topic": "General News",
+    "Title": "La librería más antigua de España, en Burgos, pide 60.000 euros de socorro popular para sobrevivir a Internet y las grandes cadenas",
+    "Link": "https://elpais.com/espana/2026-05-12/la-libreria-mas-antigua-de-espana-en-burgos-pide-60000-euros-de-socorro-popular-para-sobrevivir-a-internet-y-las-grandes-cadenas.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/6S7M6MTNRJDEPLJFPF6CF7TTEE.jpg?auth=15fbdfb4a84dffd03fa04a5f11ae331e08cc3ec3294e3c6585a90cf28f497792&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:14:57"
+    "Date": "2026-05-13 04:17:09"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Visa Launches ‘Agentic Ready’ Program, Taps Wealthsimple for Stablecoin Pilot",
-    "Link": "https://www.fintech.ca/2026/05/06/visa-launches-agentic-ready-wealthsimple-stablecoin-pilot/",
-    "ImageUrl": "https://www.fintech.ca/wp-content/uploads/2026/05/visa_Ws.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:14:59"
+    "Topic": "General News",
+    "Title": "Soledad, la nuestra",
+    "Link": "https://elpais.com/ideas/2026-05-10/soledad-la-nuestra.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nossa_Senhora_da_Soledade.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-13 04:17:12"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Lodavo Launches Canada’s First Prize-Linked Savings App",
-    "Link": "https://www.fintech.ca/2026/05/11/lodavo-prize-linked-savings-app/",
-    "ImageUrl": "https://www.fintech.ca/wp-content/uploads/2026/05/lodavo.png",
+    "Topic": "General News",
+    "Title": "El jefe de la agencia del medicamento de Estados Unidos dimite tras las presiones de Trump para autorizar los cigarrillos electrónicos con sabores",
+    "Link": "https://elpais.com/sociedad/2026-05-12/el-jefe-de-la-agencia-del-medicamento-de-estados-unidos-dimite-tras-las-presiones-de-trump-para-autorizar-los-cigarrillos-electronicos-con-sabores.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/NTGMGVTN6BLRLG3DNXS5XMHH34.jpg?auth=00ca1106e9e6c0c482b6fd28d1bc07c38fcc9819b3d2f91276072ce9e17a4e2b&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-05-12 04:15:06"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Markets Turn Uneasy as Iran Deadlock Persists and UK Political Risk Rises",
-    "Link": "https://www.actionforex.com/action-insight/market-overview/640175-markets-turn-uneasy-as-iran-deadlock-persists-and-uk-political-risk-rises/",
-    "ImageUrl": "https://www.actionforex.com/wp-content/uploads/2018/12/f-uk34.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:15:12"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Canadian Crypto Rises as Stablecoin Launches on Base, Ethereum, and More",
-    "Link": "https://www.fintech.ca/2026/05/04/canadian-crypto-stablecoin-launches-base-ethereum/",
-    "ImageUrl": "https://www.fintech.ca/wp-content/uploads/2026/05/TETRACADD-e1777904863383.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-12 04:15:20"
+    "Date": "2026-05-13 04:17:16"
   }
 ]
