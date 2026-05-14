@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://tagesschau.de/inland/regional/bayern/warnstreiks-bayern-nahverkehr-100.html",
-    "SentDate": "2026-04-15 03:46:51"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-102.html",
-    "SentDate": "2026-04-15 03:46:55"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/ausland/europa/holocaust-marsch-der-lebenden-100.html",
-    "SentDate": "2026-04-15 03:46:58"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-    "SentDate": "2026-04-15 03:47:01"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
-    "SentDate": "2026-04-15 03:47:04"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19",
-    "SentDate": "2026-04-15 03:47:17"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/04/crs-ng-24-launch",
-    "SentDate": "2026-04-15 03:47:19"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii",
-    "SentDate": "2026-04-15 03:47:23"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby",
-    "SentDate": "2026-04-15 03:47:26"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/04/launch-preview-040626",
-    "SentDate": "2026-04-15 03:47:29"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260411022037.htm",
-    "SentDate": "2026-04-15 03:47:38"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260408225938.htm",
-    "SentDate": "2026-04-15 03:47:40"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260411090018.htm",
-    "SentDate": "2026-04-15 03:47:43"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260413043155.htm",
-    "SentDate": "2026-04-15 03:47:46"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260408095346.htm",
-    "SentDate": "2026-04-15 03:47:49"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system",
-    "SentDate": "2026-04-15 03:47:58"
-  },
-  {
-    "CanonicalKey": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-list-one",
-    "SentDate": "2026-04-15 03:48:01"
-  },
-  {
-    "CanonicalKey": "https://splashbi.com/events/ai-powered-talent-intelligence-across-ukg-and-beyond",
-    "SentDate": "2026-04-15 03:48:05"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration",
-    "SentDate": "2026-04-15 03:48:09"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use",
-    "SentDate": "2026-04-15 03:48:13"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/chilling-trailer-for-driving-horror-passenger-with-lou-llobell-jacob-scipio",
-    "SentDate": "2026-04-15 03:48:29"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/first-trailer-for-mint-uk-crime-romance-series-starring-emma-laird",
-    "SentDate": "2026-04-15 03:48:32"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/early-trailers-for-we-are-aliens-japanese-animation-about-friends",
-    "SentDate": "2026-04-15 03:48:36"
-  },
-  {
-    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/all-palme-dor-winners-ranked",
-    "SentDate": "2026-04-15 03:48:39"
-  },
-  {
-    "CanonicalKey": "https://aintitcool.com/rental-family-writer-director-hikari-interview-83634",
-    "SentDate": "2026-04-15 03:48:42"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/novo-nordisks-stock-rallies-after-drugmaker-reveals-deal-with-openai-af1005e6",
-    "SentDate": "2026-04-15 03:49:02"
-  },
-  {
-    "CanonicalKey": "https://nasdaq.com/articles/fintech/regulatory-roundup-march-2026",
-    "SentDate": "2026-04-15 03:49:14"
-  },
-  {
-    "CanonicalKey": "https://nasdaq.com/articles/market-close-most-important-price-day",
-    "SentDate": "2026-04-15 03:49:25"
-  },
-  {
-    "CanonicalKey": "https://nasdaq.com/articles/very-small-trades-matter-little-liquidity",
-    "SentDate": "2026-04-15 03:49:35"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/amazons-stock-is-on-its-best-run-since-2022-as-globalstar-acquisition-fuels-rally-5d5f22b1",
-    "SentDate": "2026-04-15 03:49:41"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-futures-climb-as-traders-cling-to-de-escalation-hopes-await-earnings/articleshow/130257991.cms",
-    "SentDate": "2026-04-15 03:49:50"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/ethereum-price-breaks-out-from-multi-year-descending-channel-eyes-upside-to-3400",
-    "SentDate": "2026-04-15 03:49:53"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/aba-warns-interest-bearing-stablecoins-could-trigger-6-6-trillion-in-bank-deposit-flight",
-    "SentDate": "2026-04-15 03:49:56"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-that-mukul-agrawal-ashish-kacholia-rk-damani-and-others-bought-during-march-quarter-crash/slideshow/130250720.cms",
-    "SentDate": "2026-04-15 03:50:00"
-  },
-  {
-    "CanonicalKey": "https://cryptoslate.com/bitcoin-eyes-bullish-setup-as-new-china-trade-and-us-inflation-data-means-irans-economic-contagion-shock-is-already-spreading",
-    "SentDate": "2026-04-15 03:50:03"
-  },
-  {
-    "CanonicalKey": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami",
-    "SentDate": "2026-04-15 03:50:12"
-  },
-  {
-    "CanonicalKey": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india",
-    "SentDate": "2026-04-15 03:50:15"
-  },
-  {
-    "CanonicalKey": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores",
-    "SentDate": "2026-04-15 03:50:18"
-  },
-  {
-    "CanonicalKey": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing",
-    "SentDate": "2026-04-15 03:50:21"
-  },
-  {
-    "CanonicalKey": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software",
-    "SentDate": "2026-04-15 03:50:24"
-  },
-  {
     "CanonicalKey": "https://actionforex.com/action-insight/market-overview/636976-risk-rally-stalls-as-front-running-peaks-markets-await-deliverables-from-second-us-iran-talks",
     "SentDate": "2026-04-16 03:42:08"
   },
@@ -4542,5 +4382,157 @@
   {
     "CanonicalKey": "https://comingsoon.net/movies/features/2132587-scary-movie-6-box-office-prediction-early-projection-tracking",
     "SentDate": "2026-05-14 04:25:13"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/fuutura-non-custodial-identity-protocol",
+    "SentDate": "2026-05-15 04:05:37"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/trump-weighs-250-pardons-on",
+    "SentDate": "2026-05-15 04:05:40"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/moodys-us-banks-map-staged",
+    "SentDate": "2026-05-15 04:05:42"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/snc-scandic-coin-snc-project-launch-real-assets-meet-digital-utility-4682154",
+    "SentDate": "2026-05-15 04:05:45"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/tethers-t3-freezes-450m-in",
+    "SentDate": "2026-05-15 04:05:48"
+  },
+  {
+    "CanonicalKey": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "SentDate": "2026-05-15 04:05:57"
+  },
+  {
+    "CanonicalKey": "https://artificial-intelligence.blog/ai-news/how-does-ai-work",
+    "SentDate": "2026-05-15 04:05:59"
+  },
+  {
+    "CanonicalKey": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "SentDate": "2026-05-15 04:06:03"
+  },
+  {
+    "CanonicalKey": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "SentDate": "2026-05-15 04:06:06"
+  },
+  {
+    "CanonicalKey": "https://artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants",
+    "SentDate": "2026-05-15 04:06:08"
+  },
+  {
+    "CanonicalKey": "https://marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac",
+    "SentDate": "2026-05-15 04:06:19"
+  },
+  {
+    "CanonicalKey": "https://marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3",
+    "SentDate": "2026-05-15 04:06:23"
+  },
+  {
+    "CanonicalKey": "https://marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f",
+    "SentDate": "2026-05-15 04:06:27"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260508171123.htm",
+    "SentDate": "2026-05-15 04:06:36"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260510234711.htm",
+    "SentDate": "2026-05-15 04:06:39"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260508003131.htm",
+    "SentDate": "2026-05-15 04:06:42"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260508024125.htm",
+    "SentDate": "2026-05-15 04:06:45"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260511213141.htm",
+    "SentDate": "2026-05-15 04:06:48"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/video/artemis-astronauts-reveal-what-they-ate-immediately-after-splashdown",
+    "SentDate": "2026-05-15 04:06:56"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-05-qa-dark.html",
+    "SentDate": "2026-05-15 04:06:59"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-05-astronomers-turbulence-stars-distorts.html",
+    "SentDate": "2026-05-15 04:07:02"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/video/ron-howard-artemis-astronauts-joke-bathrooms-recalling-apollo-13-film-impact",
+    "SentDate": "2026-05-15 04:07:05"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/video/artemis-astronauts-asked-most-memorable-moment-toughest-decision-made-moon-mission",
+    "SentDate": "2026-05-15 04:07:08"
+  },
+  {
+    "CanonicalKey": "https://collider.com/greys-anatomy-replacement-series-netflix-trauma-code-heroes-on-call",
+    "SentDate": "2026-05-15 04:07:16"
+  },
+  {
+    "CanonicalKey": "https://collider.com/netflix-heist-thriller-series-crooks-weekend-binge",
+    "SentDate": "2026-05-15 04:07:19"
+  },
+  {
+    "CanonicalKey": "https://collider.com/the-punisher-one-last-kill-frank-castle-karen-page-scene-love-explained-director-reinaldo-marcus-green",
+    "SentDate": "2026-05-15 04:07:23"
+  },
+  {
+    "CanonicalKey": "https://tmz.com/2026/05/14/spencer-pratt-may-film-reality-show-in-mayoral-office",
+    "SentDate": "2026-05-15 04:07:26"
+  },
+  {
+    "CanonicalKey": "https://screenrant.com/tyler-perry-the-oval-season-7-trailer-release-date",
+    "SentDate": "2026-05-15 04:07:29"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/start-building-with-gemini-3",
+    "SentDate": "2026-05-15 04:07:39"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds",
+    "SentDate": "2026-05-15 04:07:43"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/ai-co-clinician",
+    "SentDate": "2026-05-15 04:07:46"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth",
+    "SentDate": "2026-05-15 04:07:50"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/draftkings-turns-profitable-as-prediction-markets-become-key-growth-strategy",
+    "SentDate": "2026-05-15 04:07:53"
+  },
+  {
+    "CanonicalKey": "https://zeit.de/foto/2026-05/sexualisierte-gewalt-maenner-demo-brandenburger-tor",
+    "SentDate": "2026-05-15 04:08:03"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point",
+    "SentDate": "2026-05-15 04:08:06"
+  },
+  {
+    "CanonicalKey": "https://zeit.de/news/2026-05/14/person-mit-waffenaehnlichem-gegenstand-in-einkaufszentrum",
+    "SentDate": "2026-05-15 04:08:10"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/world/2026/may/14/ingrid-horrocks-ockham-awards-short-story-collection-new-zealand",
+    "SentDate": "2026-05-15 04:08:13"
+  },
+  {
+    "CanonicalKey": "https://zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+    "SentDate": "2026-05-15 04:08:17"
   }
 ]

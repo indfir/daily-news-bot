@@ -1,282 +1,306 @@
 [
   {
-    "Topic": "Economy",
-    "Title": "Foreclosures hit highest level in 6 years as insurance, property tax costs squeeze homeowners",
-    "Link": "https://www.foxbusiness.com/economy/foreclosures-hit-highest-level-6-years-insurance-property-tax-costs-squeeze-homeowners",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/housing-11.jpg?ve=1&amp;tl=1",
+    "Topic": "Trading & Crypto",
+    "Title": "Fuutura launches non-custodial trading protocol with identity layer",
+    "Link": "https://www.cryptobreaking.com/fuutura-non-custodial-identity-protocol/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Fuutura-launches-non-custodial-trading-protocol-with-identity-layer-jpg.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:20"
+    "Date": "2026-05-15 04:05:37"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trump weighs 250 pardons on 250th birthday; crypto policy eyed.",
+    "Link": "https://www.cryptobreaking.com/trump-weighs-250-pardons-on/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Trump-weighs-250-pardons-on-250th-birthday-crypto-policy-eyed.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:05:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Moody’s: US banks map staged digitization, may reshape crypto rails",
+    "Link": "https://www.cryptobreaking.com/moodys-us-banks-map-staged/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Moodys-US-banks-map-staged-digitization-may-reshape-crypto-rails.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:05:42"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "SNC Scandic Coin (SNC) Project Launch: Real Assets Meet Digital Utility",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/snc-scandic-coin-snc-project-launch-real-assets-meet-digital-utility-4682154",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-15 04:05:45"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Tether’s T3 Freezes $450M in Suspected Illicit Crypto Transactions",
+    "Link": "https://www.cryptobreaking.com/tethers-t3-freezes-450m-in/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Tethers-T3-Freezes-450M-in-Suspected-Illicit-Crypto-Transactions.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:05:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+    "Link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!RdO6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfad3fc4-b195-4e7e-a6a7-7701b59ed57b_1394x918.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:05:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How does AI work?",
+    "Link": "https://www.artificial-intelligence.blog/ai-news/how-does-ai-work",
+    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/690d0d3ab0c4a7226c50fa18/1762463034774/how-dows-ai-work.jpg?format=1500w",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:05:59"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The State of Reinforcement Learning for LLM Reasoning",
+    "Link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!pmzH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c02ecf0-cb1d-4f62-a160-6d07636b99fd_1600x1384.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:06:03"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "A Visual Guide to Attention Variants in Modern LLMs",
+    "Link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!8IKa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51d52b9a-e820-45d6-8135-f94496ec1745_1600x900.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:06:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Free Local RAG Scraper for Custom GPTs and Assistants",
+    "Link": "https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants",
+    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/67dca866294b89140f856ebc/1742514278466/web-scraping-to-rag-file-free.jpg?format=1500w",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:06:08"
   },
   {
     "Topic": "Economy",
-    "Title": "Mag 7 reactions hinge on forward acceleration not earnings beats. Expectations, not results alone, will decide tomorrow’s dispersion",
-    "Link": "https://www.investmentwatchblog.com/mag-7-reactions-hinge-on-forward-acceleration-not-earnings-beats-expectations-not-results-alone-will-decide-tomorrows-dispersion/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/AH-1_blade_flight.jpg/960px-AH-1_blade_flight.jpg",
+    "Title": "Cerebras’s stock rockets out of the gate, in a sign the AI boom is as strong as ever",
+    "Link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/1789_Capital_Logo_Horizontal.png/960px-1789_Capital_Logo_Horizontal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-14 04:22:24"
+    "Date": "2026-05-15 04:06:19"
   },
   {
     "Topic": "Economy",
-    "Title": "American Airlines CEO says merger with United would be 'bad for customers'",
-    "Link": "https://www.foxbusiness.com/markets/american-airlines-ceo-says-merger-united-would-bad-customers",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/american-airlines-robert-isom-1.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:29"
+    "Title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
+    "Link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Average_price_of_DDR5-5200_2x16_GB_RAM_kits.png/960px-Average_price_of_DDR5-5200_2x16_GB_RAM_kits.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-15 04:06:23"
   },
   {
     "Topic": "Economy",
-    "Title": "Inflation continued to rise in April as Iran war impacted energy prices",
-    "Link": "https://www.foxbusiness.com/economy/cpi-inflation-april-2026",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/gas-prices-strait-of-hormuz.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:32"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "US national debt surpasses size of the economy for first time since World War II",
-    "Link": "https://www.foxbusiness.com/economy/us-national-debt-surpasses-size-economy-first-time-since-world-war-ii-data-shows",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/us-capitol-spring-street-2026.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:36"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "USDC deposits and withdrawals now available on Stellar!",
-    "Link": "https://blog.kraken.com/product/new-features/usdc-deposits-and-withdrawals-now-available-on-stellar",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/blog-header-91.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:44"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Flexline deep dive: the builder with crypto on the balance sheet",
-    "Link": "https://blog.kraken.com/product/flexline/deep-dive-builder-with-balance-sheet-crypto",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/1535x700-7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:47"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "XRP price forecast as more whales bet on bounce",
-    "Link": "https://coinjournal.net/news/xrp-price-forecast-as-more-whales-bet-on-bounce/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/03/investor-viewing-xrp-cryptocurrency-logo-on-smartphone-screen.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "EV is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/ev-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/a006b921-a339-4c0f-8626-c9ef84e0d1d8.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:53"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Pi Network (PI) faces mild bearish pressure: Check forecast",
-    "Link": "https://coinjournal.net/news/pi-network-pi-faces-mild-bearish-pressure-check-forecast/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/02/trading-3.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:22:56"
+    "Title": "Trump’s best China trade deal is the one he doesn’t make",
+    "Link": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-15 04:06:27"
   },
   {
     "Topic": "Science",
-    "Title": "Why do particle physicists like spending time in fields?",
-    "Link": "https://www.newscientist.com/article/2526051-why-do-particle-physicists-like-spending-time-in-fields/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/11102741/SEI_296637597.jpg",
+    "Title": "New obesity discovery rewrites decades of fat science",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:07"
+    "Date": "2026-05-15 04:06:36"
   },
   {
     "Topic": "Science",
-    "Title": "Where did the laws of physics come from? I think I've found the answer",
-    "Link": "https://www.newscientist.com/article/2524701-where-did-the-laws-of-physics-come-from-i-think-ive-found-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/29163030/SEI_295128101.jpg",
+    "Title": "A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260510234711.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/massive-volcanic-eruption-supervolcano.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:10"
+    "Date": "2026-05-15 04:06:39"
   },
   {
     "Topic": "Science",
-    "Title": "Doubts cast over 'wild' claim that magnetic control can turn on genes",
-    "Link": "https://www.newscientist.com/article/2524432-doubts-cast-over-wild-claim-that-magnetic-control-can-turn-on-genes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/29112522/SEI_294981319.jpg",
+    "Title": "Physicists discover quantum particles that break the rules of reality",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/quantum-particle-physics-mystery.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:14"
+    "Date": "2026-05-15 04:06:42"
   },
   {
     "Topic": "Science",
-    "Title": "Measles Surging As Vaccine Rates Drop",
-    "Link": "https://sciencebasedmedicine.org/measles-surging-as-vaccine-rates-drop/?utm_source=rss&utm_medium=rss&utm_campaign=measles-surging-as-vaccine-rates-drop",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/05/Measles-MMR.png",
+    "Title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/bacteria-on-tooth-surface.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:19"
+    "Date": "2026-05-15 04:06:45"
   },
   {
     "Topic": "Science",
-    "Title": "'Green' cryptocurrency uses 18 times more energy than makers claim",
-    "Link": "https://www.newscientist.com/article/2523912-green-cryptocurrency-uses-18-times-more-energy-than-makers-claim/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/30140233/SEI_295224565.jpg",
+    "Title": "Scientists discover hidden fat-burning switch that could strengthen bones",
+    "Link": "https://www.sciencedaily.com/releases/2026/05/260511213141.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:29"
+    "Date": "2026-05-15 04:06:48"
   },
   {
     "Topic": "Astronomy",
-    "Title": " SpaceX just fired up its 33-engine Starship 'V3' Super Heavy rocket booster. When could it fly? (video) ",
-    "Link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-fired-up-its-33-engine-starship-v3-super-heavy-rocket-booster-when-could-it-fly",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/BYzUwivLThrrZPMFsiKXk-2560-80.jpg",
+    "Title": "Artemis astronauts reveal the candy they ate immediately after splashdown",
+    "Link": "https://www.cbsnews.com/video/artemis-astronauts-reveal-what-they-ate-immediately-after-splashdown/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/01/7688a704-d0b5-4e1d-919a-16b053c9b14e/thumbnail/1200x630/6901a62d88439ba46f5a6afbc5116f10/cbsn-fusion-artemis-astronauts-reveal-what-they-ate-immediately-after-splashdown-thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:38"
+    "Date": "2026-05-15 04:06:56"
   },
   {
     "Topic": "Astronomy",
-    "Title": " Blue Origin's lunar lander mockup is ready for NASA Artemis astronaut training ",
-    "Link": "https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/hfHFMPPyFwFaLR8XJ8ep5G-2058-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:41"
+    "Title": "Q&A: Is it time to expand our thinking about dark matter? A new study says yes",
+    "Link": "https://phys.org/news/2026-05-qa-dark.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Latin_letter_Q.svg/960px-Latin_letter_Q.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-15 04:06:59"
   },
   {
     "Topic": "Astronomy",
-    "Title": " China's Tianzhou 10 freighter delivers 7 tons of cargo to Tiangong space station ",
-    "Link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-tianzhou-10-freighter-delivers-7-tons-of-cargo-to-tiangong-space-station",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/QZzKqexkAycWMjAKXtpRqE-1956-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:44"
+    "Title": "Astronomers directly detect how turbulence between stars distorts light",
+    "Link": "https://phys.org/news/2026-05-astronomers-turbulence-stars-distorts.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NASA_Telescopes_Discover_Record-Breaking_Black_Hole_%28pandora-cluster-nircam-image%29.jpg/960px-NASA_Telescopes_Discover_Record-Breaking_Black_Hole_%28pandora-cluster-nircam-image%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-15 04:07:02"
   },
   {
     "Topic": "Astronomy",
-    "Title": " They really launched this tiny spacecraft (Well, sort of.) | Space photo of the day for May 11, 2026 ",
-    "Link": "https://www.space.com/astronomy/mars/they-really-launched-this-tiny-spacecraft-well-sort-of-space-photo-of-the-day-for-may-11-2026",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/PvCAxqTcNUrdozcHtEQ2ua-1920-80.jpg",
+    "Title": "Ron Howard, Artemis astronauts joke about bathrooms while recalling \"Apollo 13\" film's impact",
+    "Link": "https://www.cbsnews.com/video/ron-howard-artemis-astronauts-joke-bathrooms-recalling-apollo-13-film-impact/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/01/6694400c-3af5-472f-89be-623a53374aa6/thumbnail/1200x630/e3932ed8c604e514007b3ed43d15edd5/cbsn-fusion-ron-howard-artemis-astronauts-joke-bathrooms-recalling-apollo-13-film-impact-thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:47"
+    "Date": "2026-05-15 04:07:05"
   },
   {
     "Topic": "Astronomy",
-    "Title": "When the asteroid killed the dinosaurs: Blow-by-blow account",
-    "Link": "https://earthsky.org/earth/when-the-asteroid-killed-the-dinosaurs-blow-by-blow-account/",
-    "ImageUrl": "https://earthsky.org/upl/2025/02/dinosaurs-meteor-Earth-Geralt-Pixabay-e1738855253590.jpg",
+    "Title": "Artemis astronauts asked about most memorable moment, toughest decision made on moon mission",
+    "Link": "https://www.cbsnews.com/video/artemis-astronauts-asked-most-memorable-moment-toughest-decision-made-moon-mission/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/01/bef2f49c-8fbe-47d2-b81a-5dc6f9ca1c50/thumbnail/1200x630/b732a9add72e63a2bfdc21230634cdc6/cbsn-fusion-artemis-astronauts-asked-most-memorable-moment-toughest-decision-made-moon-mission-thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:23:50"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "An Interview with Joanna Stern About Living With AI",
-    "Link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-    "ImageUrl": "https://stratechery.com/wp-content/uploads/2026/05/stern-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:08"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Tim Ferriss Show Transcripts: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More (#863)",
-    "Link": "https://tim.blog/2026/04/30/elad-gil-transcript/",
-    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/04/Elad-Gil-Illustration-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:11"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future",
-    "Link": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
-    "Link": "https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:18"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman (#864)",
-    "Link": "https://tim.blog/2026/05/06/how-to-simplify-your-life-3-transcript/",
-    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/05/How-to-Simplify-Your-Life-May-2026.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:21"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Three things in AI to watch, according to a Nobel-winning economist",
-    "Link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:30"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Data Integration Tools Aren’t the Problem. Your Source Data Is.",
-    "Link": "https://insightsoftware.com/blog/data-integration-tools-arent-the-problem-your-source-data-is/",
-    "ImageUrl": "https://insightsoftware.com/wp-content/uploads/2026/04/26-04-Blog-Data-Integration-Tools-Problem_1200x630-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:34"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SQLBI+ updates in March 2026",
-    "Link": "https://www.sqlbi.com/blog/marco/2026/03/04/sqlbi-updates-in-march-2026/",
-    "ImageUrl": "https://cdn.sqlbi.com/wp-content/uploads/sqlbi-plus-understanding-visual-calcs.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:42"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to Connect Power BI to Amazon DataZone (Without a JDBC Bridge)",
-    "Link": "https://insightsoftware.com/blog/how-to-connect-power-bi-to-amazon-datazone-without-a-jdbc-bridge/",
-    "ImageUrl": "https://insightsoftware.com/wp-content/uploads/2026/05/26-05-Blog-Connect-Power-BI-to-Amazon-DataZone_1200x630.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:47"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "Link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-05-14 04:24:50"
+    "Date": "2026-05-15 04:07:08"
   },
   {
     "Topic": "Movies",
-    "Title": "Spencer Pratt Fires Back Over Claims He Misled Voters About Living in Trailer",
-    "Link": "https://www.tmz.com/2026/05/13/spencer-pratt-responds-to-bel-air-hotel-living-criticism/",
-    "ImageUrl": "https://imagez.tmz.com/image/b8/16by9/2026/05/13/b8d18c6839d549c6bab901661e37b265_xl.png",
+    "Title": "Netflix’s Perfect 8-Part Medical Drama Is a Stellar Weekend Binge for ‘Grey’s Anatomy’ Fans",
+    "Link": "https://collider.com/greys-anatomy-replacement-series-netflix-trauma-code-heroes-on-call/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/grey-s-anatomy-ellen-pompeo.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:25:01"
+    "Date": "2026-05-15 04:07:16"
   },
   {
     "Topic": "Movies",
-    "Title": "Spencer Pratt Staying at Bel Air Hotel, Not Airstream Trailer",
-    "Link": "https://www.tmz.com/2026/05/13/spencer-pratt-staying-at-bel-air-hotel/",
-    "ImageUrl": "https://imagez.tmz.com/image/ba/16by9/2026/05/13/bac7b54f26314c78b5484fb5d68672eb_xl.jpg",
+    "Title": "This Twisty 8-Part Heist Thriller Is Your Next Netflix Weekend Binge",
+    "Link": "https://collider.com/netflix-heist-thriller-series-crooks-weekend-binge/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/tcdcroo_zx009.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:25:04"
+    "Date": "2026-05-15 04:07:19"
   },
   {
     "Topic": "Movies",
-    "Title": "James Franco Teases Hollywood Comeback in ‘Big Studio Movie’",
-    "Link": "https://www.comingsoon.net/movies/news/2132623-james-franco-hollywood-comeback-big-studio-movie",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/James-Franco.jpg?resize=1200,630",
+    "Title": "'The Punisher' Special Director Reveals What That Frank Castle/Karen Page Scene Means: \"The Two Actually Love Each Other\" [Exclusive]",
+    "Link": "https://collider.com/the-punisher-one-last-kill-frank-castle-karen-page-scene-love-explained-director-reinaldo-marcus-green/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-punisher-one-last-kill-jon-bernthal-6.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:25:07"
+    "Date": "2026-05-15 04:07:23"
   },
   {
     "Topic": "Movies",
-    "Title": "Jean-Claude Van Damme Stars in WWII Action Movie, Details Revealed",
-    "Link": "https://www.comingsoon.net/movies/news/2132633-jean-claude-van-damme-star-in-world-war-ii-action-movie",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/Jean-Claude-Van-Damme.jpg?resize=1200,630",
+    "Title": "Spencer Pratt Signs On Reality Show to Film If He Wins Mayoral Race",
+    "Link": "https://www.tmz.com/2026/05/14/spencer-pratt-may-film-reality-show-in-mayoral-office/",
+    "ImageUrl": "https://imagez.tmz.com/image/a4/16by9/2026/05/14/a4885191938e484db6f1e07532daa08c_xl.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:25:10"
+    "Date": "2026-05-15 04:07:26"
   },
   {
     "Topic": "Movies",
-    "Title": "Scary Movie 6 Gets a Frighteningly Good Box Office Forecast",
-    "Link": "https://www.comingsoon.net/movies/features/2132587-scary-movie-6-box-office-prediction-early-projection-tracking",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/scary-movie-6-box-office-prediction-early-projection-tracking.jpg?resize=1200,630",
+    "Title": "Tyler Perry's The Oval Is Officially Ending This Year With First Trailer Revealed",
+    "Link": "https://screenrant.com/tyler-perry-the-oval-season-7-trailer-release-date/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/the-oval.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-05-14 04:25:13"
+    "Date": "2026-05-15 04:07:29"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Start building with Gemini 3",
+    "Link": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_dev-blog_meta-01-dark.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:07:39"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+    "Link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg/960px-%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-15 04:07:43"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Enabling a new model for healthcare with AI co-clinician",
+    "Link": "https://deepmind.google/blog/ai-co-clinician/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-15 04:07:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Using AI to perceive the universe in greater depth",
+    "Link": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Shrimp_Jesus_example.jpg/960px-Shrimp_Jesus_example.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-15 04:07:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "DraftKings turns profitable as prediction markets become key growth strategy",
+    "Link": "https://readwrite.com/draftkings-turns-profitable-as-prediction-markets-become-key-growth-strategy/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-15 04:07:53"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Demo gegen sexualisierte Gewalt: Mehr als tausend Menschen protestieren gegen Gewalt von Männern",
+    "Link": "https://www.zeit.de/foto/2026-05/sexualisierte-gewalt-maenner-demo-brandenburger-tor",
+    "ImageUrl": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-05/maenner-initiative-demonstration-gewalt-an-frauen-brandenburger-tor-bilder/maenner-gegen-gewalt-demo-bild-06/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:08:03"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cartel corruption claims push US-Mexico relations to breaking point",
+    "Link": "https://www.theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point",
+    "ImageUrl": "https://i.guim.co.uk/img/media/a60be11aba9aefbb78c3e89b65c593f4ebee043e/332_0_3335_2668/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b7ee7cd2515cf937609284cc457901",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:08:06"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Main-Taunus-Kreis: Person mit waffenähnlichem Gegenstand in Einkaufszentrum",
+    "Link": "https://www.zeit.de/news/2026-05/14/person-mit-waffenaehnlichem-gegenstand-in-einkaufszentrum",
+    "ImageUrl": "https://img.zeit.de/news/2026-05/14/person-mit-waffenaehnlichem-gegenstand-in-einkaufszentrum-image-group/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:08:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘Stunned and shocked’: Ingrid Horrocks wins top prize at New Zealand’s Ockham awards for her fiction debut",
+    "Link": "https://www.theguardian.com/world/2026/may/14/ingrid-horrocks-ockham-awards-short-story-collection-new-zealand",
+    "ImageUrl": "https://i.guim.co.uk/img/media/dc8ea73a3baf1980cd4180846ff588503c6c17ea/0_870_3773_3018/master/3773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6388ec8be8216d630f8f41c7e64190e6",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:08:13"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Irankrieg: Verteidigungsministerium erwägt größeren Einsatz in Straße von Hormus",
+    "Link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-05/deutsche-beteiligung-strasse-von-hormus-marine/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-05-15 04:08:17"
   }
 ]
