@@ -1,290 +1,322 @@
 [
   {
-    "Topic": "General News",
-    "Title": "Toter Wal vor dänischer Küste wird untersucht",
-    "Link": "https://www.tagesschau.de/ausland/europa/daenemark-anholt-wal-untersuchung-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/6ef95bb8-c1ea-40ca-a2f1-8cfdac1304e0/AAABniu0shk/AAABnSSvrFg/16x9-big/wal-652.jpg?width=1280",
+    "Topic": "Astronomy",
+    "Title": "The Planet That Shouldn't Exist… But Does",
+    "Link": "https://www.universetoday.com/articles/the-planet-that-shouldnt-exist-but-does",
+    "ImageUrl": "https://www.universetoday.com/article_images/1280px-Artists_impression_of_an_ultra-hot_Jupiter_transiting_its_star_20260514_105127.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:55:53"
-  },
-  {
-    "Topic": "General News",
-    "Title": "UK backs human rights plan to accelerate illegal migration removals",
-    "Link": "https://www.bbc.com/news/articles/cd0p72kzn00o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/00a7/live/12a521d0-504a-11f1-a712-bdb9a88fa140.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:55:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Schauspieler Günther Maria Halmer mit 83 Jahren gestorben",
-    "Link": "https://www.tagesschau.de/kultur/schauspieler-halmer-tod-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/efe3bcee-7173-439a-9a64-bd5e0b779dd0/AAABnivJ6MA/AAABnSSvrFg/16x9-big/halmer-102.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Couple took underage sons abroad for marriage",
-    "Link": "https://www.bbc.com/news/articles/crrpj7rw8xeo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1c3e/live/01ba7a70-5075-11f1-9adb-29693f5d63ae.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:04"
-  },
-  {
-    "Topic": "General News",
-    "Title": "US-Gesundheitsminister will Peptide leichter zugänglich machen",
-    "Link": "https://www.tagesschau.de/ausland/amerika/peptide-usa-schoenheit-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/9f6c64d1-95fa-4db5-a49a-72bf9a71b1c9/AAABniybbf4/AAABnSSvrFg/16x9-big/spritze-128.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:08"
+    "Date": "2026-05-17 03:40:33"
   },
   {
     "Topic": "Astronomy",
-    "Title": "The satellite eavesdropping stations of Russia's intelligence services (part 1)",
-    "Link": "https://www.thespacereview.com/article/4923/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Surveillance_video_cameras%2C_Gdynia.jpeg/960px-Surveillance_video_cameras%2C_Gdynia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:56:20"
+    "Title": "A Galaxy Cluster's Wild Youth",
+    "Link": "https://www.universetoday.com/articles/a-galaxy-clusters-wild-youth",
+    "ImageUrl": "https://www.universetoday.com/article_images/a2029_20260514_212334.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:40:37"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Beyond launch: How in-space propulsion markets will determine winners in the $1 trillion space economy",
-    "Link": "https://www.thespacereview.com/article/5116/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Artemis_II_launch_%28SLS_MAF_20260401_ArtemisIILaunch_02%29_crop.jpg/960px-Artemis_II_launch_%28SLS_MAF_20260401_ArtemisIILaunch_02%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:56:23"
+    "Title": "We've Been Wasting 99% of Our Supernova Data",
+    "Link": "https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data",
+    "ImageUrl": "https://www.universetoday.com/article_images/SN1994D_1_20260514_104747.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:40:40"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Countering threats to US commercial space systems",
-    "Link": "https://www.thespacereview.com/article/4910/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-16 03:56:27"
+    "Title": "NASA shares new details on Artemis 3 pre-lunar landing mission",
+    "Link": "https://www.astronomy.com/space-exploration/nasa-shares-new-details-on-artemis-3-pre-lunar-landing-mission/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/05/pad.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:40:44"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Despite the Luna-25 failure, Russia is not a declining space power",
-    "Link": "https://www.thespacereview.com/article/4641/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Maquette-Luna-Glob-Lander-b-DSC_0075.jpg/960px-Maquette-Luna-Glob-Lander-b-DSC_0075.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:56:32"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A museum exhibition on Japanese spaceflight",
-    "Link": "https://www.thespacereview.com/article/5039/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FUTURES_exhibition_sign.jpg/960px-FUTURES_exhibition_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:56:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Mini book: Architecting Autonomy: Decentralising Architecture Inside an Organization",
-    "Link": "https://www.infoq.com/minibooks/architecting-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/minibooks/architecting-autonomy/en/card_header_image/Architecting-Autonomy-Decentralising-architecture-Inside-an-Organization-social-card-1778570408999.jpg",
+    "Title": "Sky Show: Watch the Moon Dance With the Planets at Dusk Next Week",
+    "Link": "https://www.universetoday.com/articles/sky-show-watch-the-moon-dance-with-the-planets-at-dusk-next-week",
+    "ImageUrl": "https://www.universetoday.com/article_images/August_2014_20260514_144205.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:46"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "AI Researchers, Ask Yourself These 6 Questions to Strengthen Your Moral Muscles",
-    "Link": "https://www.cnet.com/tech/services-and-software/ai-research-moral-compass-red-lines-albert-bandura/",
-    "ImageUrl": "https://www.cnet.com/a/img/resize/24a19bd2622867ae88ecb9511afda24b6036221e/hub/2026/05/13/418dbc9b-cb39-4758-9e30-9d017bb36253/ai-moral-compass.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:50"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-    "Link": "https://github.com/bahdotsh/feedr",
-    "ImageUrl": "https://opengraph.githubassets.com/ec41d6451cf2fc38d3e725fa5e8b21f5055e2e98e4f4c96084fda863cfa1729f/bahdotsh/feedr",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Discord Reveals How a Hidden Circular Dependency Triggered Its March Voice Outage",
-    "Link": "https://www.infoq.com/news/2026/05/discord-circular-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/news/2026/05/discord-circular-dependency/en/headerimage/generatedHeaderImage-1778423772865.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:56"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "T-Mobile vs. Verizon: Is It Time to Choose a New Carrier?",
-    "Link": "https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-is-it-time-to-choose-a-new-carrier/",
-    "ImageUrl": "https://www.cnet.com/a/img/resize/a3142be326f35113c85996c1cf61d093b7cb0503/hub/2026/02/13/734b6f42-c28e-480e-a8a4-ded507f96b82/tmobile-vs-verizon-2026.png?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:56:59"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "How Crypto Will Shape the 2026 World Cup",
-    "Link": "https://www.tradersdna.com/how-crypto-will-shape-the-2026-world-cup/",
-    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/05/How-Crypto-Will-Shape-the-2026-World-Cup.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:10"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "What DeFi Could Look Like in 2030",
-    "Link": "https://smartliquidity.info/2026/05/07/what-defi-could-look-like-in-2030/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/05/SMARTCRYTONEWS-27.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:12"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Solana News: Coinbase Just Added Solana as Loan Collateral Alongside Bitcoin and Ethereum: Is SOL Finally Getting Its Moment?",
-    "Link": "https://cryptonews.com/news/coinbase-sol-collateral-70-ltv-solana-liquidity/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-05-16 03:57:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum News: Vitalik Buterin ‘Puts Skin in the Game’ with $113K Privacy Pools Transfer",
-    "Link": "https://cryptonews.com/news/vitalik-buterin-113k-privacy-pools-transfer/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ethereum_in_US%24.pdf/page1-960px-Ethereum_in_US%24.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:57:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "US Goverment Secret AI Model Predicts the Incredile Price of Bitcoin by The End of 2026",
-    "Link": "https://cryptonews.com/news/us-goverment-leading-ai-model-predicts-the-shocking-price-of-bitcoin-by-the-end-of-2026/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tesla_protestors_in_Berkeley_California_in_2025.jpg/960px-Tesla_protestors_in_Berkeley_California_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:57:23"
+    "Date": "2026-05-17 03:40:47"
   },
   {
     "Topic": "Movies",
-    "Title": "25 Most Popular TV Shows Right Now: What to Watch on Streaming",
-    "Link": "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/Lord_Flies600.jpg?w=600",
+    "Title": "Adam Driver & Vanessa Kirby Officially Cast In Oscar-Winning Director's First Movie In 10 Years",
+    "Link": "https://screenrant.com/tomorrow-is-a-drag-movie-adam-driver-vanessa-kirby-cast/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/adam-driver-attends-the-megalopolis-premiere-in-2024.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:31"
+    "Date": "2026-05-17 03:40:55"
   },
   {
     "Topic": "Movies",
-    "Title": "New Movies and Shows Streaming in May: What to Watch on Netflix, Prime Video, HBO Max, Disney+ and More",
-    "Link": "https://editorial.rottentomatoes.com/article/new-movies-and-shows-streaming-in-may-2026-what-to-watch-on-netflix-prime-video-hbo-max-disney-and-more/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/punisher-one-last-kill-rep.png?w=600",
+    "Title": "Christopher Nolan Reveals Why the Odyssey Needed to Be ‘Biggest’ Movie He’s Made",
+    "Link": "https://www.comingsoon.net/movies/news/2134194-christopher-nolan-reveals-why-the-odyssey-needed-to-be-biggest-movie-hes-made",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/matt-damon-zendaya-the-odyssey-still.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:35"
+    "Date": "2026-05-17 03:40:58"
   },
   {
     "Topic": "Movies",
-    "Title": "Cannes Ketchup – Day 1: The Festival Opens with Pan’s Labyrinth and Opening Night Festivities",
-    "Link": "https://editorial.rottentomatoes.com/article/2026-cannes-film-festival-recap/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/Cannes600_FF.jpg?w=600",
+    "Title": "Sam Raimi Set to Remake Beloved 70s Horror Movie",
+    "Link": "https://www.comingsoon.net/movies/news/2134132-sam-raimi-set-to-remake-beloved-70s-horror-movie",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/sam-raimi-header.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:39"
+    "Date": "2026-05-17 03:41:01"
   },
   {
     "Topic": "Movies",
-    "Title": "‘Karma’ Review: Marion Cotillard Goes Through Hell in a Juicy Cult-Themed Melodrama That’s Relevant Despite Its Contrivances",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/karma-review-marion-cotillard-guillaume-canet-1236595651/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Karma-200487-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "Title": "‘Flesh and Fuel’ Review: Two Lonely Truckers Share Europe’s Highways — and Much, Much More — in an Unlikely Road Romance with Plenty of Heart",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/flesh-and-fuel-review-gay-truckers-france-1236596936/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/1.Still_DU-FIOUL-DANS-LES-ARTERES-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:42"
+    "Date": "2026-05-17 03:41:04"
   },
   {
     "Topic": "Movies",
-    "Title": "Best New Horror Movies of 2026",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-new-horror-movies-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/OBSESSION-THUMB.jpg?w=600",
+    "Title": "Obsession Feels Like The Grown-Up Version Of A Beloved Horror Franchise",
+    "Link": "https://www.slashfilm.com/2173885/obsession-movie-grown-up-version-horror-franchise-goosebumps/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/obsession-feels-like-the-grown-up-version-of-a-beloved-horror-franchise/l-intro-1778866173.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:45"
+    "Date": "2026-05-17 03:41:08"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Coding LLMs from the Ground Up: A Complete Course",
-    "Link": "https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!DSfJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F752b6486-73db-4293-9465-854d4a005a5c_2406x1350.jpeg",
+    "Topic": "Economy",
+    "Title": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
+    "Link": "https://www.foxbusiness.com/economy/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-hormuz-disruptions",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/0/0/kharg-island.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:54"
+    "Date": "2026-05-17 03:41:16"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Components of A Coding Agent",
-    "Link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
+    "Topic": "Economy",
+    "Title": "Trump readies for Beijing summit with Xi as AI chip sales, farm goods top agenda",
+    "Link": "https://www.foxbusiness.com/economy/trump-readies-beijing-summit-xi-ai-chip-sales-farm-goods-top-agenda",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/donald-trump-xi-jinping.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:57:57"
+    "Date": "2026-05-17 03:41:19"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-    "Link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg",
+    "Topic": "Economy",
+    "Title": "DOJ confirms antitrust probe of major meatpackers over beef price inflation",
+    "Link": "https://www.foxbusiness.com/economy/doj-confirms-antitrust-probe-major-meatpackers-over-beef-price-inflation",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/ag-todd-blanche-ranchers-beef-inflation.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:01"
+    "Date": "2026-05-17 03:41:26"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Course correction: Google to link more sources in AI Overviews",
-    "Link": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-1152x648.jpg",
+    "Topic": "Economy",
+    "Title": "Southern cities dominate rankings of best job markets for new college graduates",
+    "Link": "https://www.foxbusiness.com/economy/southern-cities-dominate-rankings-best-job-markets-new-college-graduates",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/tampa-downtown-skyline.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:04"
+    "Date": "2026-05-17 03:41:33"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "The new Wild West of AI kids’ toys",
-    "Link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240670637-1152x648.jpg",
+    "Topic": "Economy",
+    "Title": "US economic growth bounces back, as AI buildout and consumer spending fuel first quarter",
+    "Link": "https://www.foxbusiness.com/economy/us-economy-q1-2026-advance",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/data-center-construction-workers-01.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:08"
+    "Date": "2026-05-17 03:41:48"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+    "Link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403114022-micron-technology-building-file.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:41:58"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Waffenruhe verlängert - Angriffe gehen offenbar weiter",
+    "Link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-126.html",
+    "ImageUrl": "https://images.tagesschau.de/image/dac3b860-ca61-41a4-b7ff-bddcba99cac3/AAABnjC__2o/AAABnSSvrFg/16x9-big/zerstoerte-haeuser-108.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:42:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Federal investigators search for cause of fatal Akron plane crash into home",
+    "Link": "https://www.nbcnews.com/news/us-news/investigators-search-cause-fatal-akron-plane-crash-rcna345448",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260514-Plane-Crash-Ohio-vsb-2012-e3000e.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:42:04"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Man rides out tornado inside van. See the footage",
+    "Link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402065239-man-inside-van-tornado-little-rock-arkansas.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:42:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": "US-Außenministerium: Libanon und Israel verlängern Waffenruhe",
+    "Link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/a7093062-0c64-4c8b-9819-f1e7c58ee5f1/AAABni0OejM/AAABnSSvrFg/16x9-big/libanon-krieg-122.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:42:12"
   },
   {
     "Topic": "Science",
-    "Title": "How AI Agents Will Transform Data Science Work in 2026",
-    "Link": "https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-how-ai-agents-will-transform-data-science-work-in-2026-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:18"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Asia-Pacific Markets: Tech Rally Collides With Oil Shock as Iran Tensions Deepen ",
-    "Link": "https://www.thailand-business-news.com/markets/307416-asia-pacific-markets-tech-rally-collides-with-oil-shock-as-iran-tensions-deepen",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bulls_and_Bears_2_-_cropped.jpg/960px-Bulls_and_Bears_2_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Researchers identify enzyme that prevents chromosome breaks during DNA copying",
+    "Link": "https://phys.org/news/2026-05-enzyme-chromosome-dna.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Glucosidase_enzyme.png/960px-Glucosidase_enzyme.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:58:29"
+    "Date": "2026-05-17 03:42:29"
   },
   {
-    "Topic": "Economy",
-    "Title": "Why Gold Is Dipping While the Market Panics for Cash",
-    "Link": "https://economicprism.com/why-gold-is-dipping-while-the-market-panics-for-cash",
-    "ImageUrl": "https://economicprism.com/wp-content/uploads/2019/03/Coins200x200.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Legendary economist known for 1969-70 recession prediction warns downturn may hit in 2026",
-    "Link": "https://www.foxbusiness.com/markets/legendary-economist-known-for-1969-70-recession-prediction-warns-downturn-may-hit-2026",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/nyse-floor-5-1-26.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-05-16 03:58:41"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Infographic highlighting key insights and trends in the stock market for April 2026.",
-    "Link": "https://www.thailand-business-news.com/set/306274-infographic-highlighting-key-insights-and-trends-in-the-stock-market-for-april-2026",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Washington_Metro_diagram_sb.svg/960px-Washington_Metro_diagram_sb.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Science",
+    "Title": "Physicists create hybrid light-matter particles that interact strongly enough to compute",
+    "Link": "https://phys.org/news/2026-05-physicists-hybrid-particles-interact-strongly.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Helium-II-creep.svg/960px-Helium-II-creep.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:58:51"
+    "Date": "2026-05-17 03:42:33"
   },
   {
-    "Topic": "Economy",
-    "Title": "Thailand Strengthens Durian Exports to China Through Trade Delegation",
-    "Link": "https://www.thailand-business-news.com/china/302487-thailand-strengthens-durian-exports-to-china-through-trade-delegation",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/China_Thailand_Locator.png/960px-China_Thailand_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Science",
+    "Title": "Fair matching systems can still produce unequal outcomes, new research finds",
+    "Link": "https://phys.org/news/2026-05-fair-unequal-outcomes.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-17 03:42:36"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Exploiting interfacial ionic mobility to make heat-moldable nanoparticle aggregates",
+    "Link": "https://phys.org/news/2026-05-exploiting-interfacial-ionic-mobility-moldable.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Diagram_of_zeta_potential_and_slipping_planeV2.svg/960px-Diagram_of_zeta_potential_and_slipping_planeV2.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-16 03:58:58"
+    "Date": "2026-05-17 03:42:40"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Dense soils may spread earthquake surface ruptures into wider damage zones, particle models suggest",
+    "Link": "https://phys.org/news/2026-05-dense-soils-earthquake-surface-ruptures.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Liquefaction_at_Niigata.JPG",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-17 03:42:44"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Microsoft Leading Copilot AI Predicts the Shocking Price of XRP by The End of 2026",
+    "Link": "https://cryptonews.com/news/microsoft-new-leading-copilot-ai-predicts-the-shocking-price-of-xrp-by-the-end-of-2026/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-17 03:42:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "DHI CEO Says Bhutan Has No Recollection of Selling BTC Despite Balance Drop Flagged by Arkham",
+    "Link": "https://news.bitcoin.com/dhi-ceo-says-bhutan-has-no-recollection-of-selling-btc-despite-balance-drop-flagged-by-arkham/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/05/dhi-ceo-says-bhutan-has-no-recollection-of-selling-btc-despite-balance-drop-flagged-by-arkham.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:42:57"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "How Poker Creators Make Crypto Gaming Easier to Understand",
+    "Link": "https://www.tradersdna.com/how-poker-creators-make-crypto-gaming-easier-to-understand/",
+    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/05/How-Poker-Creators-Make-Crypto-Gaming-Easier-to-Understand.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:01"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Maximizing Your Crypto Website’s Potential: Why Domain Selection is Key",
+    "Link": "https://www.tradersdna.com/maximizing-your-crypto-websites-potential-why-domain-selection-is-key/",
+    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/05/Maximizing-Your-Crypto-Websites-Potential-Why-Domain-Selection-is-Key.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:05"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Strategy Plans Major Note Repurchase While Leaving Door Open to Bitcoin Sales",
+    "Link": "https://cryptopotato.com/strategy-plans-major-note-repurchase-while-leaving-door-open-to-bitcoin-sales/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/02/Strategy-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:08"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Como usar const e iota em Go",
+    "Link": "https://dev.to/oliversieto/como-usar-const-e-iota-em-go-h3l",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek43czw8n6gm60ve2et1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:18"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+    "Link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-17 03:43:21"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Presentation: Using AI as a Thinking Partner for Large-Scale Engineering Systems",
+    "Link": "https://www.infoq.com/presentations/ai-large-scale-engineering-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/presentations/ai-large-scale-engineering-systems/en/card_header_image/generatedCard-1778069080461.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:25"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The First Paid Agent Call Should Be Boring",
+    "Link": "https://dev.to/supertrained/the-first-paid-agent-call-should-be-boring-3ld",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrs45ec5b7z2h7qdimzo.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Scaling Social Systems in Software Organizations",
+    "Link": "https://www.infoq.com/news/2026/05/scale-social-system-software-org/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/05/scale-social-system-software-org/en/headerimage/generatedHeaderImage-1778655452477.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Protected: How to Govern AI Successfully at Enterprise Scale",
+    "Link": "https://www.hpcwire.com/bigdatawire/whitepaper/how-to-govern-ai-successfully-at-enterprise-scale/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/George_McGovern_%28D-SD%29.jpg/960px-George_McGovern_%28D-SD%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-17 03:43:42"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Your Sonos smart speaker has an underutilized automation feature - 5 helpful ways I use mine",
+    "Link": "https://www.zdnet.com/article/my-favorite-sonos-voice-control-commands/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/f1c3e56dc0dc557f17b59d039621eecba86fdcd6/2026/03/25/309a8ce4-89f0-40d8-a2de-ef7c01a57e4c/sonosplay-5.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:45"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "SAP CEO Says “Almost Right” Is Not Good Enough as Company Launches Autonomous Suite",
+    "Link": "https://www.hpcwire.com/bigdatawire/2026/05/15/sap-ceo-says-almost-right-is-not-good-enough-as-company-launches-autonomous-suite/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alex_Karp_attends_AI_Summit_%2853302457013%29_4-5_ratio.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-17 03:43:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Customizing multiturn AI agents with reinforcement learning",
+    "Link": "https://www.amazon.science/blog/customizing-multiturn-ai-agents-with-reinforcement-learning",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/bf569d6/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Ff8%2Fba%2F98dec56b4e74ba13050a0d22931e%2Fsimulator-trainer-16x9.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How agentic AI helps heal the systems we can&#8217;t replace",
+    "Link": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/0406c0c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F5b%2Fdc%2F105868ac43228b60f759a91371db%2Frlgyms02-option02-detailed-16x9.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-17 03:43:57"
   }
 ]
