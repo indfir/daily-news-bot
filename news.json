@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Science",
-    "Title": "A revolutionary cancer treatment could transform autoimmune disease",
-    "Link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-538030120-1152x648.jpg",
+    "Topic": "Astronomy",
+    "Title": "Building on America’s 65-Year Legacy of Human Spaceflight",
+    "Link": "https://www.nasa.gov/image-detail/s61-01908orig/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/s61-01908orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:33"
+    "Date": "2026-05-22 04:23:29"
   },
   {
-    "Topic": "Science",
-    "Title": "The outlook for a climate-regulating ocean current is…not good",
-    "Link": "https://www.sciencenews.org/article/climate-regulating-ocean-current-amoc",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051426_CG_AMOC_main_social.jpg",
+    "Topic": "Astronomy",
+    "Title": "Starstruck",
+    "Link": "https://www.nasa.gov/image-detail/art002e012588/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:36"
+    "Date": "2026-05-22 04:23:32"
   },
   {
-    "Topic": "Science",
-    "Title": "The physics of how Olympic weightlifters exploit barbell's \"whip\"",
-    "Link": "https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/barbell1-1152x648.jpg",
+    "Topic": "Astronomy",
+    "Title": "Artemis II Crew Returns to Houston",
+    "Link": "https://www.nasa.gov/image-detail/jsc2026e022311/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/jsc2026e022311orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:40"
+    "Date": "2026-05-22 04:23:35"
   },
   {
-    "Topic": "Science",
-    "Title": "What freediving can reveal about human health — and our limits",
-    "Link": "https://www.sciencenews.org/article/freediving-physical-mental-limits-risks",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/0626_freediving_main.jpg",
+    "Topic": "Astronomy",
+    "Title": "American Bald Eagle at NASA's Kennedy Space Center",
+    "Link": "https://www.nasa.gov/image-detail/afs-8-101-1245/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/ksc-20260313-ph-jbs01-0203orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:43"
+    "Date": "2026-05-22 04:23:38"
   },
   {
-    "Topic": "Science",
-    "Title": "Hantavirus questions grow in the wake of a cruise ship outbreak",
-    "Link": "https://www.sciencenews.org/article/andes-hantavirus-cruise-ship-outbreak",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051226_TS_AndesHantavirus_main.jpg",
+    "Topic": "Astronomy",
+    "Title": "Artemis III Rocket Core Stage Moves to NASA Kennedy",
+    "Link": "https://www.nasa.gov/image-detail/afs-8-101-1262/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260428-ph-geb02-0005orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:48"
+    "Date": "2026-05-22 04:23:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cara Mengolah Flaxseed Menjadi Santapan Lezat",
+    "Link": "https://www.merdeka.com/sehat/cara-mengolah-flaxseed-menjadi-santapan-lezat-kln.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/14/1416497/540x270/cara-mengolah-flaxseed-menjadi-santapan-lezat.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:23:52"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cara Daftar BPJS Kesehatan Online Antiribet",
+    "Link": "https://www.merdeka.com/jakarta/cara-daftar-bpjs-kesehatan-online-antiribet-kln.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/21/1418558/540x270/cara-daftar-bpjs-kesehatan-online-antiribet.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:23:56"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Rekomendasi Pelembap Wajah untuk Remaja yang Paling Diminati",
+    "Link": "https://www.merdeka.com/gaya/rekomendasi-pelembap-wajah-untuk-remaja-yang-paling-diminati-kln.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/14/1416504/540x270/rekomendasi-pelembap-wajah-untuk-remaja-yang-paling-diminati.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:23:59"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Serba Bisa di Satu Aplikasi, Intip Semua Kelebihan BRImo untuk Aktivitas Sehari-Hari",
+    "Link": "https://www.merdeka.com/gaya/serba-bisa-di-satu-aplikasi-intip-semua-kelebihan-brimo-untuk-aktivitas-sehari-hari.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/09/06/1469607/540x270/serba-bisa-di-satu-aplikasi-intip-semua-kelebihan-brimo-untuk-aktivitas-sehari-hari.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:24:03"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Semarang Gandeng Korsel Bangun Sistem Suplai Air Bersih, Target jadi Terbaik di RI",
+    "Link": "https://www.merdeka.com/peristiwa/semarang-gandeng-korsel-bangun-sistem-suplai-air-bersih-target-jadi-terbaik-di-ri.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2023/07/07/1565790/540x270/semarang-gandeng-korsel-bangun-sistem-suplai-air-bersih-target-jadi-terbaik-di-ri.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:24:08"
   },
   {
     "Topic": "Technology",
-    "Title": "Map of Metal",
-    "Link": "https://mapofmetal.com/",
-    "ImageUrl": "http://mapofmetal.com/static/img/fbicon.jpg",
+    "Title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+    "Link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "ImageUrl": "https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/191:100/w_1280,c_limit/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:56"
+    "Date": "2026-05-22 04:24:18"
   },
   {
     "Topic": "Technology",
-    "Title": "A new generation of ads for the AI era of Search",
-    "Link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png",
+    "Title": "Anker Soundcore Nebula P1i Projector Review: Huge Ears, Bright Image, Affordable Price",
+    "Link": "https://www.cnet.com/tech/home-entertainment/anker-soundcore-nebula-p1i-projector-review-baby-elephant-ears/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/09bb17868dabacc3b02c43ea68f8661cb5d3ad0a/hub/2026/03/17/0fe7a75b-e50b-42b6-83b3-a1ca23029d1b/anker-nebula-p1i-1-of-5.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:47:59"
+    "Date": "2026-05-22 04:24:21"
   },
   {
     "Topic": "Technology",
-    "Title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-    "Link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-    "ImageUrl": "https://ychef.files.bbci.co.uk/624x351/p0nm547y.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:02"
+    "Title": "Shareholders sue Sportradar after reports alleged extensive illegal gambling operator relationships",
+    "Link": "https://readwrite.com/investors-sue-sportradar-alleged-illegal-gambling-lawsuit/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-22 04:24:24"
   },
   {
     "Topic": "Technology",
-    "Title": "Apparently Google hates us now",
-    "Link": "https://twitter.com/pokemoncentral/status/2057123807404638250",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Gemini_Screenshot_%282026%29.png/960px-Google_Gemini_Screenshot_%282026%29.png",
+    "Title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+    "Link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:24:26"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Guam bingo operators sentenced over multimillion-dollar charity gambling fraud targeting children",
+    "Link": "https://readwrite.com/guam-bingo-operators-sentenced-charity-gambling-fraud/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/US_states_smoking_bans.svg/960px-US_states_smoking_bans.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-21 04:48:05"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "Link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "ImageUrl": "https://www.bleepstatic.com/content/hl-images/2026/05/20/GitHub.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator",
-    "Link": "https://huggingface.co/blog/habana-gaudi-2-bloom",
-    "ImageUrl": "https://huggingface.co/blog/assets/habana-gaudi-2-bloom/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:15"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Ethics and Society Newsletter #1",
-    "Link": "https://huggingface.co/blog/ethics-soc-1",
-    "ImageUrl": "https://huggingface.co/blog/assets/103_ethics-soc-1/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:18"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required",
-    "Link": "https://huggingface.co/blog/argilla-ui-hub",
-    "ImageUrl": "https://huggingface.co/blog/assets/argilla-ui-hub/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:20"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to build scalable web apps with OpenAI's Privacy Filter",
-    "Link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "ImageUrl": "https://huggingface.co/blog/assets/openai-privacy-filter-web-apps/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:23"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Mixture of Experts Explained",
-    "Link": "https://huggingface.co/blog/moe",
-    "ImageUrl": "https://huggingface.co/blog/assets/moe/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:26"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Netflix's 3-Part 'Stranger Things Meets Wednesday' Series Is One Of Its Best Fantasy Shows",
-    "Link": "https://screenrant.com/locke-and-key-netflix-stranger-things-meets-wednesday-fantasy/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/emilia-jones-as-kinsey-locke-in-season-2-of-locke-key.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Teaser #2 for DC's 'Lanterns' Series with Aaron Pierre & Kyle Chandler",
-    "Link": "https://www.firstshowing.net/2026/teaser-2-for-dcs-lanterns-series-with-aaron-pierre-kyle-chandler/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/lanternspostermaingreenbigtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "How Tom Clancy's Jack Ryan: Ghost War Keeps His 42-Year-Old Hero Feeling Fresh Explained By Director & Stars",
-    "Link": "https://screenrant.com/tom-clancy-jack-ryan-ghost-war-character-franchise-fresh-director-stars/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/john-krasinski-s-jack-smiling-slightly-at-someone-in-tom-clancy-s-jack-ryan-ghost-war.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official Trailer for 'The Match' Doc About '86 Football World Cup Game",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-the-match-doc-about-86-football-world-cup-game/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/thematchposterdocmainimgbtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:45"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Inde Navarrette on Obsession and the Actresses Who Inspire Her",
-    "Link": "https://editorial.rottentomatoes.com/article/inde-navarrette-on-obsession-and-the-actresses-who-inspire-her/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/Obsession600.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:48"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken adds HYPE and XAUT as collateral currencies",
-    "Link": "https://blog.kraken.com/product/margin/hype-xaut-collateral-currencies",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/NewAssets_Social@2x-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:55"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken API Unlocked: running multi-strategy operations on Kraken — subaccounts, API keys, and the two layers of separation that matter",
-    "Link": "https://blog.kraken.com/product/api/unlocked-6-multi-strategy-operations-subaccounts-api-keys",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/Blog-13-4.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:48:58"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "PIEVERSE is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/pieverse-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/d11836f4-3a8d-4cb2-97a2-a8c887be4fe5.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:00"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken Custody expands SPL token support for Solana builders and institutions",
-    "Link": "https://blog.kraken.com/product/kraken-institutional/spl-token-support-for-solana",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/05/Insto-Social-Banner-16_9-1200x675-7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:03"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "WowMyToken (WYT) is a new Utility Token concept",
-    "Link": "https://dailycoinpost.com/wowmytoken-wyt-is-a-new-utility-token-concept/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/05/WYTcover.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:08"
+    "Date": "2026-05-22 04:24:29"
   },
   {
     "Topic": "Economy",
-    "Title": "Households pull Rs 54,786 cr worth of equities from secondary markets in FY25; invest record Rs 5.43 lakh crore in mutual funds",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/households-pull-rs-54786-cr-worth-of-equities-from-secondary-markets-in-fy25-invest-record-rs-5-43-lakh-crore-in-mutual-funds/articleshow/131230228.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-131230290,width-1200,height-630,imgsize-8548,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:16"
+    "Title": " OpenAI leads Q1 revenue as Anthropic’s growth accelerates - Information",
+    "Link": "https://www.investing.com/news/economy-news/openai-leads-q1-revenue-as-anthropics-growth-accelerates--information-93CH-4704839",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-22 04:24:47"
   },
   {
     "Topic": "Economy",
-    "Title": "Global Markets | Japan's Nikkei ends near three-week low as AI-stock selloff weighs",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-ends-near-three-week-low-as-ai-stock-selloff-weighs/articleshow/131220344.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-131220397,width-1200,height-630,imgsize-263388,overlay-etmarkets/articleshow.jpg",
+    "Title": "Saat Data dan Aktivitas Digital Jadi 'Mata Uang' Baru",
+    "Link": "https://www.viva.co.id/gaya-hidup/digilife/1900296-saat-data-dan-aktivitas-digital-jadi-mata-uang-baru",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/21/6a0efe48510a2-ilustrasi-mata-uang-digital_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:20"
+    "Date": "2026-05-22 04:24:56"
   },
   {
     "Topic": "Economy",
-    "Title": "RBI to infuse liquidity via $5 billion dollar rupee swap auction on May 26",
-    "Link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-infuse-liquidity-via-5-billion-dollar-rupee-swap-auction-on-may-26/articleshow/131230353.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-131230348,width-1200,height-630,imgsize-68246,overlay-etmarkets/articleshow.jpg",
+    "Title": "Airlangga: Pemerintah Bakal Transfer Data Ekspor Bea Cukai ke Danantara",
+    "Link": "https://www.viva.co.id/bisnis/1900326-airlangga-pemerintah-bakal-transfer-data-ekspor-bea-cukai-ke-danantara",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/09/69d7964969735-menteri-koordinator-bidang-perekonomian-airlangga-hartarto_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:23"
+    "Date": "2026-05-22 04:24:59"
   },
   {
     "Topic": "Economy",
-    "Title": "Rupee under pressure; crude oil, bond yields and dollar strength create perfect storm: Naveen Mathur",
-    "Link": "https://economictimes.indiatimes.com/markets/expert-view/rupee-under-pressure-crude-oil-bond-yields-and-dollar-strength-create-perfect-storm-naveen-mathur/articleshow/131220464.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-131220446,width-1200,height-630,imgsize-20556,overlay-etmarkets/articleshow.jpg",
+    "Title": "Cashless tapi Careless: Kesenjangan Literasi Bikin Mahasiswa Rentan Terjebak Utang Digital",
+    "Link": "https://www.viva.co.id/berita/nasional/1900302-cashless-tapi-careless-kesenjangan-literasi-bikin-mahasiswa-rentan-terjebak-utang-digital",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/21/6a0f01b18c6fd-seminar-bertajuk-cashless-careless-jadi-mahasiswa-cerdas-finansial-di-era-digital_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:26"
+    "Date": "2026-05-22 04:25:01"
   },
   {
     "Topic": "Economy",
-    "Title": "Nvidia to announce Q1 earnings tonight. What to expect and why there could be a $350 billion price swing",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-to-announce-q1-earnings-tonight-what-to-expect-and-why-there-could-be-a-350-billion-price-swing/articleshow/131220273.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-131220281,width-1200,height-630,imgsize-55556,overlay-etmarkets/articleshow.jpg",
+    "Title": "Menko Perekonomian Airlangga: Kebijakan Devisa Hasil Ekspor Siap Berlaku 1 Juni",
+    "Link": "https://www.jpnn.com/news/menko-perekonomian-airlangga-kebijakan-devisa-hasil-ekspor-siap-berlaku-1-juni",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/05/21/menteri-koordinator-bidang-perekonomian-airlangga-hartarto-p-kasr.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:30"
+    "Date": "2026-05-22 04:25:06"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "From the Halls of West Point to the International Space Station",
-    "Link": "https://irishspaceblog.blogspot.com/2015/11/from-halls-of-west-point-to.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYr3Hoj_yoiGstfoSjhiEl1YgpijB0Bb0zaXt_-sIAWf3hiUacGeIBmTMh5CMiocO5wxvXxAkAWkoDede-hSanGisAjFx_OYaYLGWoU7_ySWEx5xa45MeqOPbrlBrNAZj4OU9qO7uviaXs/w1200-h630-p-k-no-nu/23139395712_38321b944b_k.jpg",
+    "Topic": "Movies",
+    "Title": "Watch: Boots Riley Breaks Down His Filmmaking on 'I Love Boosters'",
+    "Link": "https://www.firstshowing.net/2026/watch-boots-riley-breaks-down-his-filmmaking-on-i-love-boosters/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/bootsriletyfilmmakingvidmaintw2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:38"
+    "Date": "2026-05-22 04:25:14"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "How to See the Transit of Mercury on May 9",
-    "Link": "https://irishspaceblog.blogspot.com/2016/05/how-to-see-transit-of-mercury-on-may-9.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOb0DY9shcw4MGj0KxaeznRz4I6aoz3XLnnweg5o7TC1e1UvnBUUtiC2XKdBHFFTH00CZhoNdFIYdpjM7FQVcHMmALks5s7FxFWtYf4ztMmEQTUwhJ-ztQ_CuaTTYdX1XzSQatg8mqMB6/w1200-h630-p-k-no-nu/Mercury-transit-disk-plot-3.jpg",
+    "Topic": "Movies",
+    "Title": "John Cena & Eric Andre in Zany Comedy 'Little Brother' Funny Trailer",
+    "Link": "https://www.firstshowing.net/2026/john-cena-eric-andre-in-zany-comedy-little-brother-official-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/littlebrothercomedymainimgtw2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:40"
+    "Date": "2026-05-22 04:25:18"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Starwatch: Leo the lion dominates the northern hemisphere",
-    "Link": "https://www.theguardian.com/science/2026/apr/27/starwatch-leo-the-lion-dominates-the-northern-hemisphere",
-    "ImageUrl": "https://i.guim.co.uk/img/media/982edd9d8b392d06cae356e37df9b53f6eb68bff/1353_110_2188_1751/master/2188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc1319c26f0100166dd7e045c90e9ba",
+    "Topic": "Movies",
+    "Title": "Trailer for Peculiar Grief Film 'Miss You, Love You' with Allison Janney",
+    "Link": "https://www.firstshowing.net/2026/trailer-for-peculiar-grief-film-miss-you-love-you-with-allison-janney/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/missyouloveyoupostermainbigtw.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:43"
+    "Date": "2026-05-22 04:25:22"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Bryson DeChambeau questions moon landing footage but believes in interdimensional beings ‘for sure’",
-    "Link": "https://www.theguardian.com/sport/2026/may/19/bryson-dechambeau-questions-moon-landing-footage-but-believes-in-interdimensional-beings-for-sure",
-    "ImageUrl": "https://i.guim.co.uk/img/media/0c299280849523c551444295e533245f21705a04/35_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=188404fba79e1e056edd216744221f83",
+    "Topic": "Movies",
+    "Title": "Full Trailer for 'Jimmy' Movie with KJ Apa as James Stewart in WWII",
+    "Link": "https://www.firstshowing.net/2026/full-trailer-for-jimmy-movie-with-kj-apa-as-james-stewart-in-wwii/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/jimmymovieajkapatrailermainbtw2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:46"
+    "Date": "2026-05-22 04:25:26"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "\"Welcome to Jupiter\" - NASA's Juno Spacecraft Enters Orbit Around Jupiter",
-    "Link": "https://irishspaceblog.blogspot.com/2016/07/welcome-to-jupiter-nasas-juno.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuSXMdW-yeagPam2U3-xJlasGdptqr_DyUr1b1PJ-36kuUQuKoWtSGSvPr68Xi4r_Zxdgxy8GbN24LZjQJXm1na31Ug6mZCMCqw0CommFQP8DPUrx-10CwqHynnTtYH_BsDLPuP0-P3zp3/w1200-h630-p-k-no-nu/juno.jpg",
+    "Topic": "Movies",
+    "Title": "Crazy Epic Teaser for Na Hong-jin's 'Hope' Sci-Fi Alien Action Film",
+    "Link": "https://www.firstshowing.net/2026/crazy-epic-teaser-for-na-hong-jins-hope-sci-fi-alien-action-film/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/Hopescifiactionmainimgbigtw2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:48"
+    "Date": "2026-05-22 04:25:29"
   },
   {
-    "Topic": "General News",
-    "Title": "‘How are we going to survive this?’ Wellington faces six-month wait to halt sewage spill",
-    "Link": "https://www.theguardian.com/world/2026/may/20/wellington-sewage-spill-moa-point-update-six-month-wait",
-    "ImageUrl": "https://i.guim.co.uk/img/media/5d326c19140f3d70f9493a3a49c4fdb2a8e1c26e/426_83_3637_2910/master/3637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abec16480c7883b4c160dcca205ac651",
+    "Topic": "Trading & Crypto",
+    "Title": "South Korea crypto tax repeal petition hits 50k signatures",
+    "Link": "https://www.cryptobreaking.com/south-korea-crypto-tax-repeal/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/South-Korea-crypto-tax-repeal-petition-hits-50k-signatures.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:56"
+    "Date": "2026-05-22 04:25:39"
   },
   {
-    "Topic": "General News",
-    "Title": "Trump may see himself in Ahmadinejad but having him lead Iran was a perplexing idea",
-    "Link": "https://www.theguardian.com/world/2026/may/20/mahmoud-ahmadinejad-the-us-and-israels-unlikely-choice-to-lead-iran",
-    "ImageUrl": "https://i.guim.co.uk/img/media/6484bc33ca42302d2e054f752f6f47e42037e16d/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=385361fccf7d565cad3eddef5ff8fe35",
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum Holds Lead as NFT Weekly Sales Jump 6.72% to $128.65M",
+    "Link": "https://webscrypto.com/ethereum-holds-lead-as-nft-weekly-sales-jump-6-72-to-128-65m/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-9.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:49:58"
+    "Date": "2026-05-22 04:25:41"
   },
   {
-    "Topic": "General News",
-    "Title": "Same but different: how Xi and China welcomed Trump and Putin",
-    "Link": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
-    "ImageUrl": "https://i.guim.co.uk/img/media/da789b8ecabd41df835ebcb176163823736fdad4/0_34_5817_4690/master/5817.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=387b0bf5c5065b40df70774d5216f254",
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin and Ethereum ETFs Rebound With $376M Net Inflows",
+    "Link": "https://webscrypto.com/bitcoin-and-ethereum-etfs-rebound-with-376m-net-inflows/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-6.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-21 04:50:01"
+    "Date": "2026-05-22 04:25:43"
   },
   {
-    "Topic": "General News",
-    "Title": "Intelligence artificielle : 28 entreprises françaises, dont Iliad et EDF, s’allient en vue de l’appel à projets pour des « gigafactories » européennes",
-    "Link": "https://www.lemonde.fr/international/article/2026/05/20/intelligence-artificielle-28-entreprises-francaises-dont-iliad-et-edf-s-allient-en-vue-de-l-appel-a-projets-pour-des-gigafactories-europeennes_6691782_3210.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/IOAI_Logo.png/960px-IOAI_Logo.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-21 04:50:04"
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Breaks $3 for First Time in Weeks as Ripple-BBVA Deal Fuels Optimism",
+    "Link": "https://webscrypto.com/xrp-breaks-3-for-first-time-in-weeks-as-ripple-bbva-deal-fuels-optimism/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:25:45"
   },
   {
-    "Topic": "General News",
-    "Title": "Au centre des affaires du monde, Xi Jinping laisse Vladimir Poutine en attente sur le gazoduc Force de Sibérie 2",
-    "Link": "https://www.lemonde.fr/international/article/2026/05/20/au-centre-des-affaires-du-monde-xi-jinping-laisse-vladimir-poutine-en-attente-sur-le-gazoduc-force-de-siberie-2_6691786_3210.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/960px-HEC_Paris.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-05-21 04:50:08"
+    "Topic": "Trading & Crypto",
+    "Title": "Missouri AG Sues CoinFlip for Enabling Crypto Scams",
+    "Link": "https://www.cryptobreaking.com/missouri-ag-sues-coinflip-for-2/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Missouri-AG-Sues-CoinFlip-for-Enabling-Crypto-Scams.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:25:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How to build AI-Generated Dashboards from User-defined Queries ",
+    "Link": "https://www.revealbi.io/blog/ai-generated-dashboard",
+    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/02/reveal-how-to-build-ai-gen-dashboards-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:25:56"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
+    "Link": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
+    "ImageUrl": "https://www.smartdatacollective.com/wp-content/uploads/2026/04/1273e132-517f-4e43-ae25-a191ca0fb063.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:26:01"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
+    "Link": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
+    "ImageUrl": "https://www.smartdatacollective.com/wp-content/uploads/2026/04/4a530c00-7e0b-440c-956a-8980221874c9.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:26:04"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How Product Leaders Drive Embedded Analytics Adoption",
+    "Link": "https://www.revealbi.io/blog/analytics-adoption",
+    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/01/reveal-product-leaders-driving-adoption-human1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:26:07"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Hidden Cost of Slow BI and Dashboards in SaaS",
+    "Link": "https://www.revealbi.io/blog/slow-bi",
+    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/02/slingshot-hidden-cost-slow-bi-dashboards-saas-thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-22 04:26:10"
   }
 ]
