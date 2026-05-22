@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "Building on America’s 65-Year Legacy of Human Spaceflight",
-    "Link": "https://www.nasa.gov/image-detail/s61-01908orig/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/s61-01908orig.jpg",
+    "Topic": "Science",
+    "Title": "Physics explains why gold stays pristine",
+    "Link": "https://www.sciencenews.org/article/physics-explains-gold-shiny-oxidize",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/052126_EC_shiny-gold_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:29"
+    "Date": "2026-05-23 04:05:06"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Starstruck",
-    "Link": "https://www.nasa.gov/image-detail/art002e012588/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:32"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II Crew Returns to Houston",
-    "Link": "https://www.nasa.gov/image-detail/jsc2026e022311/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/jsc2026e022311orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "American Bald Eagle at NASA's Kennedy Space Center",
-    "Link": "https://www.nasa.gov/image-detail/afs-8-101-1245/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/ksc-20260313-ph-jbs01-0203orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis III Rocket Core Stage Moves to NASA Kennedy",
-    "Link": "https://www.nasa.gov/image-detail/afs-8-101-1262/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260428-ph-geb02-0005orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:41"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Cara Mengolah Flaxseed Menjadi Santapan Lezat",
-    "Link": "https://www.merdeka.com/sehat/cara-mengolah-flaxseed-menjadi-santapan-lezat-kln.html",
-    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/14/1416497/540x270/cara-mengolah-flaxseed-menjadi-santapan-lezat.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:52"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Cara Daftar BPJS Kesehatan Online Antiribet",
-    "Link": "https://www.merdeka.com/jakarta/cara-daftar-bpjs-kesehatan-online-antiribet-kln.html",
-    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/21/1418558/540x270/cara-daftar-bpjs-kesehatan-online-antiribet.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:56"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Rekomendasi Pelembap Wajah untuk Remaja yang Paling Diminati",
-    "Link": "https://www.merdeka.com/gaya/rekomendasi-pelembap-wajah-untuk-remaja-yang-paling-diminati-kln.html",
-    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/14/1416504/540x270/rekomendasi-pelembap-wajah-untuk-remaja-yang-paling-diminati.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:23:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Serba Bisa di Satu Aplikasi, Intip Semua Kelebihan BRImo untuk Aktivitas Sehari-Hari",
-    "Link": "https://www.merdeka.com/gaya/serba-bisa-di-satu-aplikasi-intip-semua-kelebihan-brimo-untuk-aktivitas-sehari-hari.html",
-    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/09/06/1469607/540x270/serba-bisa-di-satu-aplikasi-intip-semua-kelebihan-brimo-untuk-aktivitas-sehari-hari.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Semarang Gandeng Korsel Bangun Sistem Suplai Air Bersih, Target jadi Terbaik di RI",
-    "Link": "https://www.merdeka.com/peristiwa/semarang-gandeng-korsel-bangun-sistem-suplai-air-bersih-target-jadi-terbaik-di-ri.html",
-    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2023/07/07/1565790/540x270/semarang-gandeng-korsel-bangun-sistem-suplai-air-bersih-target-jadi-terbaik-di-ri.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:08"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-    "Link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
-    "ImageUrl": "https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/191:100/w_1280,c_limit/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:18"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Anker Soundcore Nebula P1i Projector Review: Huge Ears, Bright Image, Affordable Price",
-    "Link": "https://www.cnet.com/tech/home-entertainment/anker-soundcore-nebula-p1i-projector-review-baby-elephant-ears/",
-    "ImageUrl": "https://www.cnet.com/a/img/resize/09bb17868dabacc3b02c43ea68f8661cb5d3ad0a/hub/2026/03/17/0fe7a75b-e50b-42b6-83b3-a1ca23029d1b/anker-nebula-p1i-1-of-5.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:21"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Shareholders sue Sportradar after reports alleged extensive illegal gambling operator relationships",
-    "Link": "https://readwrite.com/investors-sue-sportradar-alleged-illegal-gambling-lawsuit/",
+    "Topic": "Science",
+    "Title": "Agentic AI could help electron microscopes plan, adapt and analyze experiments",
+    "Link": "https://phys.org/news/2026-05-agentic-ai-electron-microscopes.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-05-22 04:24:24"
+    "Date": "2026-05-23 04:05:10"
   },
   {
-    "Topic": "Technology",
-    "Title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-    "Link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-1152x648.jpg",
+    "Topic": "Science",
+    "Title": "AI will not take your job, it can transform it—but only if you trust it, says researcher",
+    "Link": "https://phys.org/news/2026-05-ai-job.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:05:21"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Novel porous gel changes color, shrinks and hardens when it detects target molecules",
+    "Link": "https://phys.org/news/2026-05-porous-gel-hardens-molecules.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:05:24"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Damaged DNA can spread between human cells. What could that mean for cancer?",
+    "Link": "https://www.sciencenews.org/article/damaged-dna-spread-nanotubes-cells-cancer",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051826_MR_DNAtransfer_main.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:26"
+    "Date": "2026-05-23 04:05:28"
   },
   {
-    "Topic": "Technology",
-    "Title": "Guam bingo operators sentenced over multimillion-dollar charity gambling fraud targeting children",
-    "Link": "https://readwrite.com/guam-bingo-operators-sentenced-charity-gambling-fraud/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/US_states_smoking_bans.svg/960px-US_states_smoking_bans.svg.png",
+    "Topic": "Economy",
+    "Title": "Berkshire Hathaway has revamped its portfolio — Here's how the new stocks are trading",
+    "Link": "https://www.cnbc.com/2026/05/18/berkshire-portfolio-revamp-delta-airlines-macys-unitedhealth.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108140405-1746278498557-untitled-166-30.jpg?v=1746280383&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:05:43"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Nilai Transaksi Perdagangan Berjangka Naik 29 Persen, Bappebti Catat Angka Rp 33.000 Triliun",
+    "Link": "https://www.viva.co.id/bisnis/1900560-nilai-transaksi-perdagangan-berjangka-naik-29-persen-bappebti-catat-angka-rp-33000-triliun",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/27/69c6432057955-bisakah-rupiah-indonesia-bertahan-dari-guncangan-harga-minyak-akibat-konflik-iran-dan-apa-artinya-bagi-pasangan-forex-mt_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:05:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Official Data Confirms Consumer Oil Demand Is Falling As Refined Stockpiles Remain Ample",
+    "Link": "https://seekingalpha.com/article/4908105-official-data-confirms-consumer-oil-demand-is-falling-as-refined-stockpiles-remain-ample?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265646525/image_2265646525.jpg?io=getty-c-w1536",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:05:48"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "President Trump releases a statement on the stock market hitting record highs.",
+    "Link": "https://www.investmentwatchblog.com/president-trump-releases-a-statement-on-the-stock-market-hitting-record-highs/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-05-22 04:24:29"
+    "Date": "2026-05-23 04:05:55"
   },
   {
     "Topic": "Economy",
-    "Title": " OpenAI leads Q1 revenue as Anthropic’s growth accelerates - Information",
-    "Link": "https://www.investing.com/news/economy-news/openai-leads-q1-revenue-as-anthropics-growth-accelerates--information-93CH-4704839",
+    "Title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+    "Link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/106942178-1631716515016-gettyimages-1340516907-b64i9310_20210915100044189.jpeg?v=1631716562&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:05:59"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Masters of the Universe: Final Trailer, New Clip Released",
+    "Link": "https://bleedingcool.com/movies/masters-of-the-universe-final-trailer-new-clip-released/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/05/motu_dom1_marketing_stills01_g_r709_20260114.086693_rgb-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:06:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Resident Evil: Zach Cregger On Survival Horror Featurette, 2 Posters",
+    "Link": "https://bleedingcool.com/movies/resident-evil-zach-cregger-on-survival-horror-featurette-2-posters/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/resident-evil-feature-image-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:06:10"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Odyssey Star Lupita Nyong'o Responds To Racist Helen Of Troy Casting Backlash",
+    "Link": "https://www.slashfilm.com/2179077/lupita-nyongo-the-odyssey-helen-of-troy-racist-casting-backlash-response/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/the-odyssey-star-lupita-nyongo-responds-to-racist-helen-of-troy-casting-backlash/l-intro-1779402377.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:06:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Sonic the Hedgehog 4 Has Officially Wrapped Production",
+    "Link": "https://bleedingcool.com/movies/sonic-the-hedgehog-4-has-officially-wrapped-production/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/03/sonic-the-hedgehog-4-feature-image-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:06:16"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Marvel Studios/Marvel Comics Fallout: Thoughts on Monday's Big News",
+    "Link": "https://bleedingcool.com/tv/marvel-studios-marvel-comics-fallout-thoughts-on-mondays-big-news/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/05/MixCollage-18-May-2026-11-55-PM-7286-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:06:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin News: $1Bn ETF Exodus and What it Means for BTC USD",
+    "Link": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-etf-outflows-what-it-means-btc-usd/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-05-22 04:24:47"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Saat Data dan Aktivitas Digital Jadi 'Mata Uang' Baru",
-    "Link": "https://www.viva.co.id/gaya-hidup/digilife/1900296-saat-data-dan-aktivitas-digital-jadi-mata-uang-baru",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/21/6a0efe48510a2-ilustrasi-mata-uang-digital_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:56"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Airlangga: Pemerintah Bakal Transfer Data Ekspor Bea Cukai ke Danantara",
-    "Link": "https://www.viva.co.id/bisnis/1900326-airlangga-pemerintah-bakal-transfer-data-ekspor-bea-cukai-ke-danantara",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/09/69d7964969735-menteri-koordinator-bidang-perekonomian-airlangga-hartarto_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:24:59"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Cashless tapi Careless: Kesenjangan Literasi Bikin Mahasiswa Rentan Terjebak Utang Digital",
-    "Link": "https://www.viva.co.id/berita/nasional/1900302-cashless-tapi-careless-kesenjangan-literasi-bikin-mahasiswa-rentan-terjebak-utang-digital",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/21/6a0f01b18c6fd-seminar-bertajuk-cashless-careless-jadi-mahasiswa-cerdas-finansial-di-era-digital_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Menko Perekonomian Airlangga: Kebijakan Devisa Hasil Ekspor Siap Berlaku 1 Juni",
-    "Link": "https://www.jpnn.com/news/menko-perekonomian-airlangga-kebijakan-devisa-hasil-ekspor-siap-berlaku-1-juni",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/05/21/menteri-koordinator-bidang-perekonomian-airlangga-hartarto-p-kasr.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:06"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Watch: Boots Riley Breaks Down His Filmmaking on 'I Love Boosters'",
-    "Link": "https://www.firstshowing.net/2026/watch-boots-riley-breaks-down-his-filmmaking-on-i-love-boosters/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/bootsriletyfilmmakingvidmaintw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:14"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "John Cena & Eric Andre in Zany Comedy 'Little Brother' Funny Trailer",
-    "Link": "https://www.firstshowing.net/2026/john-cena-eric-andre-in-zany-comedy-little-brother-official-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/littlebrothercomedymainimgtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:18"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Trailer for Peculiar Grief Film 'Miss You, Love You' with Allison Janney",
-    "Link": "https://www.firstshowing.net/2026/trailer-for-peculiar-grief-film-miss-you-love-you-with-allison-janney/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/missyouloveyoupostermainbigtw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:22"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Full Trailer for 'Jimmy' Movie with KJ Apa as James Stewart in WWII",
-    "Link": "https://www.firstshowing.net/2026/full-trailer-for-jimmy-movie-with-kj-apa-as-james-stewart-in-wwii/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/jimmymovieajkapatrailermainbtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:26"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Crazy Epic Teaser for Na Hong-jin's 'Hope' Sci-Fi Alien Action Film",
-    "Link": "https://www.firstshowing.net/2026/crazy-epic-teaser-for-na-hong-jins-hope-sci-fi-alien-action-film/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/Hopescifiactionmainimgbigtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:29"
+    "Date": "2026-05-23 04:06:28"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "South Korea crypto tax repeal petition hits 50k signatures",
-    "Link": "https://www.cryptobreaking.com/south-korea-crypto-tax-repeal/",
-    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/South-Korea-crypto-tax-repeal-petition-hits-50k-signatures.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:39"
+    "Title": "Drift Sets Out Token-Based Recovery Framework for $295M April Exploit",
+    "Link": "https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RFkey.jpg/960px-RFkey.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-23 04:06:31"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Ethereum Holds Lead as NFT Weekly Sales Jump 6.72% to $128.65M",
-    "Link": "https://webscrypto.com/ethereum-holds-lead-as-nft-weekly-sales-jump-6-72-to-128-65m/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-9.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:41"
+    "Title": "DTCC Picks Chainlink As Data Layer For 24/7 Tokenized Collateral Platform",
+    "Link": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-picks-chainlink-as-data-layer-for-24-7-tokenized-collateral-platform",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:06:34"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin and Ethereum ETFs Rebound With $376M Net Inflows",
-    "Link": "https://webscrypto.com/bitcoin-and-ethereum-etfs-rebound-with-376m-net-inflows/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-6.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:43"
+    "Title": "Aave V4 Gains Momentum With Two-Layer Market Isolation Structure During Capped Launch",
+    "Link": "https://thedefiant.io/news/defi/aave-v4-market-isolation-structure-launch-z6fuwi",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:06:37"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "XRP Breaks $3 for First Time in Weeks as Ripple-BBVA Deal Fuels Optimism",
-    "Link": "https://webscrypto.com/xrp-breaks-3-for-first-time-in-weeks-as-ripple-bbva-deal-fuels-optimism/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:45"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Missouri AG Sues CoinFlip for Enabling Crypto Scams",
-    "Link": "https://www.cryptobreaking.com/missouri-ag-sues-coinflip-for-2/",
-    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/05/Missouri-AG-Sues-CoinFlip-for-Enabling-Crypto-Scams.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:48"
+    "Title": "Bitcoin Clings To $80K As Altcoins Drag Market Lower",
+    "Link": "https://thedefiant.io/news/markets/bitcoin-clings-to-usd80k-as-altcoins-drag-market-lower",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:06:40"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How to build AI-Generated Dashboards from User-defined Queries ",
-    "Link": "https://www.revealbi.io/blog/ai-generated-dashboard",
-    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/02/reveal-how-to-build-ai-gen-dashboards-thumbnail.jpg",
+    "Title": "Introducing A New Standard for Communications Visibility in Regulated Industries",
+    "Link": "https://www.precisely.com/blog/ces/introducing-a-new-standard-for-communications-visibility-in-regulated-industries/",
+    "ImageUrl": "https://www.precisely.com/wp-content/uploads/2026/04/B_Blog_RapidCX-launch_260414.webp",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:25:56"
+    "Date": "2026-05-23 04:06:50"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How Data-Driven Businesses Protect MySQL Databases from Shutdown",
-    "Link": "https://www.smartdatacollective.com/how-data-driven-businesses-protect-mysql-databases-from-shutdown/",
-    "ImageUrl": "https://www.smartdatacollective.com/wp-content/uploads/2026/04/1273e132-517f-4e43-ae25-a191ca0fb063.png",
+    "Title": "AWS and Hopkins Engineering announce groundbreaking database for AI/ML antibody design",
+    "Link": "https://www.amazon.science/news/aws-gray-lab-johns-hopkins-announce-groundbreaking-database-for-ai-ml-antibody-design",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/8d473d4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fe9%2F2d%2F4f5c32b943aea970aa879a3730c9%2Fantibodybenchmark-01-16x9.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:26:01"
+    "Date": "2026-05-23 04:06:53"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Best Approach to Risk Management for Data Migration in Data-Driven Businesses",
-    "Link": "https://www.smartdatacollective.com/best-approach-to-risk-management-for-data-migration-in-data-driven-businesses/",
-    "ImageUrl": "https://www.smartdatacollective.com/wp-content/uploads/2026/04/4a530c00-7e0b-440c-956a-8980221874c9.png",
+    "Title": "Navigating uncertainty in Amazon&apos;s middle-mile network",
+    "Link": "https://www.amazon.science/blog/navigating-uncertainty-in-amazons-middle-mile-network",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/795728d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fa1%2F1b%2Fbe6fc3b44d6986a6f0706260ab82%2Fmiddlemile-02-16x9-1.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:26:04"
+    "Date": "2026-05-23 04:06:57"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How Product Leaders Drive Embedded Analytics Adoption",
-    "Link": "https://www.revealbi.io/blog/analytics-adoption",
-    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/01/reveal-product-leaders-driving-adoption-human1.png",
+    "Title": "Preserving the privacy of AI training data",
+    "Link": "https://www.amazon.science/blog/preserving-the-privacy-of-ai-training-data",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/a3c0818/2147483647/strip/true/crop/2862x1503+0+50/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fc1%2Fa7%2F29ffbcb645f988bbde58c59ee5ce%2Fblog-attacks-diagram-16x9.png",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:26:07"
+    "Date": "2026-05-23 04:07:00"
   },
   {
     "Topic": "Data / AI",
-    "Title": "The Hidden Cost of Slow BI and Dashboards in SaaS",
-    "Link": "https://www.revealbi.io/blog/slow-bi",
-    "ImageUrl": "https://www.revealbi.io/wp-content/uploads/2026/02/slingshot-hidden-cost-slow-bi-dashboards-saas-thumbnail.png",
+    "Title": "4 Reasons Broker Flexibility Is a Must for Equity Management",
+    "Link": "https://insightsoftware.com/blog/4-reasons-broker-flexibility-is-a-must-for-equity-management/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:05"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX’s sunrise Starlink launch adds 29 satellites to low Earth orbit megaconstellation",
+    "Link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-23 04:07:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+    "Link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-1152x648-1779310114.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-05-22 04:26:10"
+    "Date": "2026-05-23 04:07:17"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+    "Link": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-23 04:07:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Making cement from a different type of rock could clean up emissions",
+    "Link": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:07:24"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut",
+    "Link": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Accelerating discovery with the AI for Math Initiative",
+    "Link": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIforMath_SocialShare_16x9_000000.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:07:36"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+    "Link": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ma%C3%9Fstabsleiste.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-23 04:07:40"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+    "Link": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:43"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How AI is helping advance the science of bioacoustics to save endangered species",
+    "Link": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "Link": "https://deepmind.google/blog/decoupled-diloco/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:49"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Por qué cambiar nuestro acento para integrarnos es un efecto del colonialismo ",
+    "Link": "https://elpais.com/ideas/2026-05-19/luchar-contra-el-acento-una-humillacion-que-busca-que-seas-uno-mas.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:07:58"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
+    "Link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+    "ImageUrl": "https://i.guim.co.uk/img/media/bd213e7091c3c8292d3e5a7a7eabd22abd1a4da1/188_0_2185_1748/master/2185.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edc9d8c2754a79dd5868e52d524b7c30",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:08:01"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cubans outraged at US charges against Raúl Castro as fears of military strikes grow",
+    "Link": "https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment",
+    "ImageUrl": "https://i.guim.co.uk/img/media/22f4432c70a63ada45b91839039134447aa0c2f4/425_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ad1119d15e9da98e16bc406286e302b",
+    "ImageSource": "og:image",
+    "Date": "2026-05-23 04:08:04"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cannes 2026 : « L’Aventure rêvée », la quête d’une justicière, shérif des temps modernes",
+    "Link": "https://www.lemonde.fr/culture/article/2026/05/22/cannes-2026-l-aventure-revee-la-quete-d-une-justiciere-sherif-des-temps-modernes_6692319_3246.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-05-23 04:08:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": "El Defensor del Pueblo reclama a las administraciones que expliquen cómo protegen a los menores ante el “peligro extremo” de las redes sociales",
+    "Link": "https://elpais.com/tecnologia/2026-05-21/el-defensor-del-pueblo-reclama-a-las-administraciones-que-expliquen-como-protegen-a-los-menores-ante-el-peligro-extremo-de-las-redes-sociales.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_M%C3%BAgica_en_la_rueda_de_prensa_posterior_al_Consejo_de_Ministros.jpg/960px-Enrique_M%C3%BAgica_en_la_rueda_de_prensa_posterior_al_Consejo_de_Ministros.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-05-23 04:08:11"
   }
 ]
