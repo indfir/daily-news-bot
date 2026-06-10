@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Economy",
-    "Title": "Fakta Baru Kasus Pembunuhan Bidan di Situbondo, Suaminya Ternyata",
-    "Link": "https://www.jpnn.com/news/fakta-baru-kasus-pembunuhan-bidan-di-situbondo-suaminya-ternyata",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/06/09/tersangka-digelandang-ke-polres-situbondo-jawa-timur-antaran-6wdz.jpg",
+    "Topic": "Technology",
+    "Title": "Watch NASAs new experimental jet break the sound barrier for the first time",
+    "Link": "https://mashable.com/tech/nasa-x-59-reaches-supersonic-speed",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/069yCpFt0ejjFsVNROTKmzD/hero-image.fill.size_1200x675.v1780949909.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:11"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Neucleus Group Launches $20 Million U.S. IPO",
-    "Link": "https://seekingalpha.com/article/4913462-neucleus-group-launches-20-million-us-ipo?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1015149762/image_1015149762.jpg?io=getty-c-w1536",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:14"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Tekan Tambang Emas Ilegal Muratara, Pemerintah Didesak Segera Lelang WIUP",
-    "Link": "https://www.jpnn.com/news/tekan-tambang-emas-ilegal-muratara-pemerintah-didesak-segera-lelang-wiup",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/06/09/maraknya-aktivitas-pertambangan-tanpa-izin-di-musi-rawas-uta-8d7e.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:18"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Ekonom Sebut Meredanya Isu Reshuffle Kabinet Punya Efek Baik untuk Rupiah & IHSG",
-    "Link": "https://www.jpnn.com/news/ekonom-sebut-meredanya-isu-reshuffle-kabinet-punya-efek-baik-untuk-rupiah-ihsg",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/06/09/menkeu-purbaya-yudhi-sadewa-saat-dilantik-oleh-presiden-prab-wnov.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:21"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Rupiah Makin Perkasa 130 Poin, Jurus BI Rate Berhasil?",
-    "Link": "https://www.jpnn.com/news/rupiah-makin-perkasa-130-poin-jurus-bi-rate-berhasil",
-    "ImageUrl": "https://cloud.jpnn.com/photo/galeri/watermark/2026/03/05/karyawan-memperlihatkan-uang-rupiah-dan-dolar-as-di-kantor-c-s6zg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:25"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Full Trailer for Netflix's 'Human Vapor' Japanese Sci-Fi Thriller Series",
-    "Link": "https://www.firstshowing.net/2026/full-trailer-for-netflixs-human-vapor-japanese-sci-fi-thriller-series/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/humanvaporfulltrailerimgbigtw3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:34"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Fun Trailer for 'Kiri and Lou Go Raaa!' New Zealand Stop-Motion Film",
-    "Link": "https://www.firstshowing.net/2026/fun-trailer-for-kiri-and-lou-go-raaa-new-zealand-stop-motion-movie/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/Kiriandlougoraapostermainimgtw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:37"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Michael Kelly in Prison Mystery Thriller 'Time of Death' Official Trailer",
-    "Link": "https://www.firstshowing.net/2026/michael-kelly-in-prison-mystery-thriller-time-of-death-official-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/timeofdeathtrailerchairmaintw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:40"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Nicholas Galitzine to Star as Male Supermodel Hoyt Richards in New Movie",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/nicholas-galitzine-hoyt-richards-gus-van-sant-movie-1236617473/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Nicholas-Galitzine-and-Hoyt-Richards-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Supernatural Horror Thriller Film 'Lockbox' Trailer with Carla Gugino",
-    "Link": "https://www.firstshowing.net/2026/supernatural-horror-thriller-film-lockbox-trailer-starring-carla-gugino/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img17/lockboxhorrorpostermainimgtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Clément Hervieu-Léger : « Je crois à la force de la Comédie-Française, elle a pu tanguer mais elle n’a jamais sombré »",
-    "Link": "https://www.lemonde.fr/culture/article/2026/06/09/clement-hervieu-leger-je-crois-a-la-force-de-la-comedie-francaise-elle-a-pu-tanguer-mais-elle-n-a-jamais-sombre_6700179_3246.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-10 04:44:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Final piece of 'iconic' Denby Pottery signed",
-    "Link": "https://www.bbc.com/news/articles/cx2vljzw5ego?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aba5/live/9143f160-63dc-11f1-b1db-af71d47507d6.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:44:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "2020 election denier under scrutiny from fair elections advocates for new role at DOJ ",
-    "Link": "https://www.nbcnews.com/politics/justice-department/2020-election-denier-scrutiny-fair-elections-advocates-new-role-doj-rcna349010",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260210-kurt-olsen-mn-1530-075137.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "What now for West Ham after Sullivan allegations?",
-    "Link": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8753/live/5b7e8e70-63e4-11f1-8e1d-bbbb1017d210.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Avec « Disclosure Day », Steven Spielberg fait son retour vers le futur",
-    "Link": "https://www.lemonde.fr/culture/article/2026/06/09/avec-disclosure-day-steven-spielberg-fait-son-retour-vers-le-futur_6700187_3246.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-10 04:45:06"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "American Cities Are Quietly Declaring War on Crypto ATMs",
-    "Link": "https://www.globalcryptopress.com/2026/05/american-cities-are-quietly-declaring.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh71PZJyKX5XndNNhkogJX_ORZiUMYr5bgP5CzU1Z_s5Ikw0fKCAEWkETuKEov7fCgGyrwiObfBbNuLUClASUsHfnU9FIHWlwTbjoBDShghdxG8oq_M5F6Vc2cb2bVM1e_AYSeBATw1qVh10Ruy5yG1PtNe8iuzmnMtjne6Ypdk8yd7FRiMfxDPs4ooGfgG=w1200-h630-p-k-no-nu",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Iran's $7.7 BILLION Crypto Stockpile - and the Bitcoin Insurance Scheme Now in Washington's Crosshairs",
-    "Link": "https://www.globalcryptopress.com/2026/05/irans-77-billion-crypto-stockpile-and.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEghNY50gIYlL8zZXnZcWVH2aP1zhxazuYJUlvjcagqRcEuiMx4CR_q8L86ycWI3CM9rfv7dUDF0q24BOdvRe8wveFU6Ce709ixbcSZfcqOcbbdKsEnKUTm0ngCwp_2hYsWQKs10itB6a_Z5JxUM9jqBARoLQ5yQhCJslF8WtKa3uPfrznb37KXTRhGGHGS1=w1200-h630-p-k-no-nu",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:17"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "9,000 Bitcoin ATMs Just Went Dark Overnight - The Sudden Collapse of Bitcoin Depot",
-    "Link": "https://www.globalcryptopress.com/2026/05/9000-bitcoin-atms-just-went-dark.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjT6JmzIaWIAH88Nwh408f_JWf71gP3MJz_j-WhyX2_6sTuTgoeDVfYedft6DVPcI74rD4a8c_Awa388p4cOSSnbEpLAhoxwQb7EbX4Cc8wSXLCM1_wXddluai-OPk6bDr024m5JqxqzKLAhMmXuy6i-ZmFBmSUJieUi79q5dvddUSPy24ZodG98K-4DDfR=w1200-h630-p-k-no-nu",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Stellar faces renewed selling pressure amid bearish derivatives data",
-    "Link": "https://coinjournal.net/news/stellar-faces-renewed-selling-pressure-amid-bearish-derivatives-data/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/03/ChatGPT-Image-Mar-20-2026-08_17_31-PM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Circle Deploys cirBTC on Ethereum, Letting BTC Holders Tap DeFi Without Selling",
-    "Link": "https://news.bitcoin.com/circle-deploys-cirbtc-on-ethereum-letting-btc-holders-tap-defi-without-selling/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/circle-deploys-cirbtc-on-ethereum-letting-btc-holders-tap-defi-without-selling_nwmk.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:28"
+    "Date": "2026-06-11 04:54:34"
   },
   {
     "Topic": "Technology",
-    "Title": "The Untold Story of the Google Buses That Took Over San Francisco",
-    "Link": "https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/",
-    "ImageUrl": "https://media.wired.com/photos/6a2725c980c91df5cbc78f08/191:100/w_1280,c_limit/BookExceprt_GoogleBusesThatTookOverSanFrancisco_v3.jpg",
+    "Title": "The Beats Powerbeats Pro 2 just got a $50 discount right now on Amazon",
+    "Link": "https://mashable.com/tech/june-10-beats-powerbeats-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/003qyJGHKOhI7iqNIZ6NgUC/hero-image.fill.size_1200x675.v1781071547.png",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:36"
+    "Date": "2026-06-11 04:54:38"
   },
   {
     "Topic": "Technology",
-    "Title": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
-    "Link": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
-    "ImageUrl": "https://media.wired.com/photos/6a202a61b10c1400bea9fbfd/191:100/w_1280,c_limit/GettyImages-2218819259.jpg",
+    "Title": "The worlds first AI-designed vaccine, explained",
+    "Link": "https://mashable.com/science/worlds-first-ai-designed-vaccine-explained",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/01dYKRaG1YodGJVL7DI8vei/hero-image.fill.size_1200x675.v1781085903.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:39"
+    "Date": "2026-06-11 04:54:41"
   },
   {
     "Topic": "Technology",
-    "Title": "BBB refers Kalshi in advertising inquiry after company declines review participation",
-    "Link": "https://readwrite.com/bbb-kalshi-advertising-inquiry-review-participation/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-10 04:45:42"
+    "Title": "Tons of Fitbits are on sale ahead of Prime Day",
+    "Link": "https://mashable.com/life/best-prime-day-fitbit-deals-2026",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06M7smaAYLPJoilNmkZxlnx/hero-image.fill.size_1200x675.v1781102002.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:54:44"
   },
   {
     "Topic": "Technology",
-    "Title": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
-    "Link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
-    "ImageUrl": "https://media.wired.com/photos/6a27d2a80d6aa02c6a8cda54/191:100/w_1280,c_limit/Politics_ThreatsAgainstPoliticiansSkyrocketedAfterMetaChangedItsSpeechRules_v2.jpg",
+    "Title": "Samsung Galaxy Z Fold 8: What we know so far",
+    "Link": "https://mashable.com/tech/samsung-galaxy-z-fold-8-everything-we-know",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02RO47W56GvsX4EbCX9FrKX/hero-image.fill.size_1200x675.v1780686443.webp",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-    "Link": "https://www.wired.com/story/best-smart-bird-feeders/",
-    "ImageUrl": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/191:100/w_1280,c_limit/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:47"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Venus, Jupiter Converge in Stunning June 9th Dusk Conjunction",
-    "Link": "https://skyandtelescope.org/astronomy-news/venus-jupiter-converge-in-stunning-june-9th-dusk-conjunction/",
-    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/Venus-Jupiter-June-1-2026-with-iPhone-13-cell-S-900px.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:45:58"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "After Seven Years Away Exploring an Asteroid, OSIRIS-REx is Landing Soon with Precious Samples",
-    "Link": "https://manyworlds.space/2023/09/11/after-seven-years-away-exploring-an-asteroid-osiris-rex-is-landing-soon-with-precious-samples/",
-    "ImageUrl": "https://manyworlds.space/wp-content/uploads/2023/10/297b6-53153681225_173dc2e28d_k.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:01"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Amazon's Satellites Are Impacting Astronomy",
-    "Link": "https://skyandtelescope.org/astronomy-news/amazons-satellites-are-impacting-astronomy/",
-    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/Ariane-amazone-leo.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:03"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Proposed U.S. Grant Funding Rules Spark Worry, Backlash in Astronomy",
-    "Link": "https://skyandtelescope.org/astronomy-news/proposed-u-s-grant-funding-rules-spark-worry-backlash-in-astronomy/",
-    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/ISS-2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Mars MAVEN Mission Lost; NASA Says Farewell",
-    "Link": "https://skyandtelescope.org/astronomy-news/mars-maven-mission-may-be-lost-in-space/",
-    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/MAVEN-orbit-full1-ezgif.com-jpg-to-webp-converter.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:09"
+    "Date": "2026-06-11 04:54:47"
   },
   {
     "Topic": "Science",
-    "Title": "What LLM speed looks like when generating output",
-    "Link": "https://flowingdata.com/2026/06/05/what-llm-speed-looks-like-when-generating-output/",
-    "ImageUrl": "https://flowingdata.com/wp-content/uploads/2026/05/token-speed.png",
+    "Title": "This tiny, blue octopus is new to science",
+    "Link": "https://www.sciencenews.org/article/tiny-blue-octopus-new-species",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/052826_GT_octopus_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:19"
+    "Date": "2026-06-11 04:54:56"
   },
   {
     "Topic": "Science",
-    "Title": "How to Keep Quantum Information Alive for Machine Learning",
-    "Link": "https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/qerror-scaled-1.jpg",
+    "Title": "The weather and climate science AI revolution isn’t revolutionary",
+    "Link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:21"
+    "Date": "2026-06-11 04:55:00"
   },
   {
     "Topic": "Science",
-    "Title": "'Seismic champagne effect' may explain why fires break out long after earthquakes",
-    "Link": "https://phys.org/news/2026-06-seismic-champagne-effect-earthquakes.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Eras_Tour_-_Minneapolis%2C_MN_-_Lover_act.jpg/960px-Eras_Tour_-_Minneapolis%2C_MN_-_Lover_act.jpg",
+    "Title": "Feds failing in bid to take a supercomputer from a climate research center",
+    "Link": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-2560x1440.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:03"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Microsoft’s quantum chip got an upgrade. Critics are still skeptical",
+    "Link": "https://www.sciencenews.org/article/microsoft-quantum-chip-upgrade-majorana",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/060226_EC_microsoft_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Microsoft, Atom Computing update their quantum computing progress",
+    "Link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1152x648.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:12"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Towards developing future-ready skills with generative AI",
+    "Link": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:23"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+    "Link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:26"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
+    "Link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:30"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+    "Link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:35"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Toward provably private insights into AI use",
+    "Link": "https://research.google/blog/toward-provably-private-insights-into-ai-use/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:40"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Di AFF 2026, Dave Laksono Bahas Bahas Ekonomi Biru hingga Ketahanan Energi",
+    "Link": "https://www.jpnn.com/news/diaff-2026-dave-laksono-bahas-bahas-ekonomi-biru-hingga-ketahanan-energi",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/06/10/kegiatan-asean-future-forum-aff-2026-di-hanoi-pada-selasa-ma-tjvw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:55:55"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Dosen Tetap Non-ASN UPNVJ Soroti Alih Status Tenaga Profesional, THR & Gaji ke-13 Belum Cair",
+    "Link": "https://www.jpnn.com/news/dosen-tetap-non-asn-upnvj-soroti-alih-status-tenaga-profesional-thr-gaji-ke-13-belum-cair",
+    "ImageUrl": "https://cloud.jpnn.com/photo/ilustrasi/normal/2022/10/11/pns-dan-asn-foto-ricardojpnncom-k7bux-hxm7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:02"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Mineral Strategis Indonesia Menjadi Mesin Pendongkrak Daya Saing Industri",
+    "Link": "https://www.jpnn.com/news/mineral-strategis-indonesia-menjadi-mesin-pendongkrak-daya-saing-industri",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2025/12/19/mind-id-dinilai-telah-menjadi-pelopor-sekaligus-pemain-utama-vr0p.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:06"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Pemuda Merampok Emas dan Aniaya Bu Nurwati",
+    "Link": "https://www.jpnn.com/news/pemuda-merampok-emas-dan-aniaya-bu-nurwati",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/watermark/2021/08/17/ilustrasi-tersangka-dikawal-petugas-kepolisian-foto-ricard-54.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:18"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Iran: Pelanggaran Gencatan Senjata Berulang Oleh AS Merusak Diplomasi",
+    "Link": "https://www.jpnn.com/news/iran-pelanggaran-gencatan-senjata-berulang-oleh-as-merusak-diplomasi",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/watermark/2020/04/11/bendera-iran-foto-tehrantimescom-67.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin jumps above $62,000 after CPI report gives traders room to defend $60,000",
+    "Link": "https://cryptoslate.com/bitcoin-jumps-above-62000-after-cpi-report-gives-traders-room-to-defend-60000/",
+    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/06/cpi-bitcoin-60k.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:42"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
+    "Link": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:46"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
+    "Link": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
+    "ImageUrl": "https://cdn.jwplayer.com/v2/media/IuLdmgP6/poster.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:49"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
+    "Link": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+    "ImageUrl": "https://cdn.jwplayer.com/v2/media/EmmJkWJn/poster.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:52"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin trims losses after core CPI rises less than feared 0.2% in May",
+    "Link": "https://www.coindesk.com/markets/2026/06/10/u-s-inflation-meets-expectations-reinforcing-fed-s-higher-for-longer-stance",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/196a178af5d22874394e6f1fc7fcf26b9878e0ea-1440x1080.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:56:55"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "50 Best Free Movies on Fandango at Home (June 2026)",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-fandango-at-home/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/12/RT_Representative_BestFreeMovies.png?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Scary Movie Franchise Ranked",
+    "Link": "https://editorial.rottentomatoes.com/guide/the-scary-movie-franchise-ranked/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/03/Scary_Movie600-1.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:17"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Free Movies Online: 100 Fresh Movies to Watch Online For Free",
+    "Link": "https://editorial.rottentomatoes.com/article/fresh-movies-you-can-watch-for-free-online-right-now/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/Free_Movies_Online_April_2026-Legally_Blonde-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:20"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The 100 Best Movies on Prime Video (June 2026)",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-on-amazon-prime-right-now/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/04/12-ANGRY-THUMB.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:22"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Official: British Cinemas Failed Sinners, I Swear, F1, Superman &#038; More",
+    "Link": "https://bleedingcool.com/movies/official-british-cinemas-failed-sinners-i-swear-f1-superman-more/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/03/sinners_ver15_xxlg-2001x1126.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Una de romanos (y celtas), pero por Soria y en bicicleta",
+    "Link": "https://elpais.com/elviajero/viajes-paco-nadal/2026-06-07/una-de-romanos-y-celtas-pero-por-soria-y-en-bicicleta.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cruz_Azul_2026.png/960px-Cruz_Azul_2026.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-06-10 04:46:24"
+    "Date": "2026-06-11 04:57:39"
   },
   {
-    "Topic": "Science",
-    "Title": "Picking an Experimentation Platform: A Retrospective",
-    "Link": "https://towardsdatascience.com/picking-an-experimentation-platform-a-retrospective/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/experiment-platform-choosing.jpg",
+    "Topic": "General News",
+    "Title": "Einzelhandel hofft auf WM-Euphorie gegen die Konsumflaute",
+    "Link": "https://www.tagesschau.de/wirtschaft/einzelhandel-fussball-wm-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/4013f586-10b2-42b3-87de-a9489bd2d2f7/AAABnqzCOwg/AAABnSSvrFg/16x9-big/fanartikel-wm-2026-100.jpg?width=1280",
     "ImageSource": "og:image",
-    "Date": "2026-06-10 04:46:26"
+    "Date": "2026-06-11 04:57:43"
   },
   {
-    "Topic": "Science",
-    "Title": "Nature's 'master painters': Study reveals how damselflies break optical barriers to create saturated colors",
-    "Link": "https://phys.org/news/2026-06-nature-master-painters-reveals-damselflies.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%89cole_des_beaux-arts_%28from_the_live%29.jpg/960px-%C3%89cole_des_beaux-arts_%28from_the_live%29.jpg",
+    "Topic": "General News",
+    "Title": "Cecotec pone a la venta el microondas con diseño retro que le dará el toque chic a tu cocina por 65 euros ",
+    "Link": "https://elpais.com/escaparate/estilo-de-vida/microondas-retro-de-cecotec.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-11 04:57:46"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Trump says Iran ‘playing us for suckers’ and says US will launch fresh strikes",
+    "Link": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+    "ImageUrl": "https://i.guim.co.uk/img/media/900c7766c7f772357d78e4d157388244aaeacf35/262_0_4060_3248/master/4060.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d164a85eead36dc386e1a3da2983e759",
+    "ImageSource": "og:image",
+    "Date": "2026-06-11 04:57:50"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Limpiar un difusor de aromas parecía fácil hasta que empecé este artículo: una guía práctica de todo lo que no debes hacer (basada en mis propios errores)",
+    "Link": "https://elpais.com/escaparate/estilo-de-vida/limpiar-difusor-de-aromas.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-11 04:57:54"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Chandrayaan-3 successfully undertakes lunar flybys",
+    "Link": "https://www.thespacereview.com/article/5109/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/LVM3_M4%2C_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_%28SLP%29_of_SDSC-SHAR%2C_Sriharikota_03.webp/960px-LVM3_M4%2C_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_%28SLP%29_of_SDSC-SHAR%2C_Sriharikota_03.webp.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-06-10 04:46:29"
+    "Date": "2026-06-11 04:58:04"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Access to Venus",
+    "Link": "https://www.thespacereview.com/article/4623/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wien_NHM_Venus_von_Willendorf.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-11 04:58:08"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "My suborbital life, part 1: Childhood's end, perseverance pays",
+    "Link": "https://www.thespacereview.com/article/4675/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/960px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-11 04:58:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "More than machines: When AI explores the stars without us",
+    "Link": "https://www.thespacereview.com/article/5054/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Las_Vegas_slot_machines.jpg/960px-Las_Vegas_slot_machines.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-11 04:58:16"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Soviet television reconnaissance satellites",
+    "Link": "https://www.thespacereview.com/article/4646/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/U.S._RecSat_Big_Picture.jpg/960px-U.S._RecSat_Big_Picture.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-11 04:58:19"
   }
 ]
