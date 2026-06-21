@@ -1,322 +1,314 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
-    "Link": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:15"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Solstice Signal (Tuning into the Dark)",
-    "Link": "https://dev.to/piyush_das_1624/solstice-signal-tuning-into-the-dark-m8",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz59knwdl17ni9pbj4m56.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "THE CLOUD AND AI SECURITY NEWSLETTER #3 - The Cloud Security Tool Your Resume is Missing (Part 2)",
-    "Link": "https://dev.to/yescertified/the-cloud-and-ai-security-newsletter-3-the-cloud-security-tool-your-resume-is-missing-part-2-1bf9",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft25wplwj50mzdnb57bra.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:20"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Fox Buys Roku, The Problem With Fox’s Smart Strategy, Streaming That Works",
-    "Link": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
-    "ImageUrl": "https://stratechery.com/wp-content/uploads/2026/06/fox-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:23"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "I Built a CLI to Stop Missing Env Vars from Breaking Deployments",
-    "Link": "https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6omcwli97jdmt3wbx1u6.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:26"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to train your model dynamically using adversarial data",
-    "Link": "https://huggingface.co/blog/mnist-adversarial",
-    "ImageUrl": "https://huggingface.co/blog/assets/88_mnist_adversarial/mnist-adversarial.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:33"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI Watermarking 101: Tools and Techniques",
-    "Link": "https://huggingface.co/blog/watermarking",
-    "ImageUrl": "https://huggingface.co/blog/assets/watermarking/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:36"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "Link": "https://huggingface.co/blog/agent-glossary",
-    "ImageUrl": "https://huggingface.co/blog/assets/agent-glossary/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:39"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
-    "Link": "https://huggingface.co/blog/hardware-partners-program",
-    "ImageUrl": "https://huggingface.co/blog/assets/25_hardware_partners_program/carbon_inc_quantizer.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:41"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Welcome to the Falcon 3 Family of Open Models!",
-    "Link": "https://huggingface.co/blog/falcon3",
-    "ImageUrl": "https://huggingface.co/blog/assets/falcon3/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:43"
-  },
-  {
     "Topic": "Economy",
-    "Title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
-    "Link": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108144967-17471613532025-05-13t183340z_1013289502_rc25heakeap8_rtrmadp_0_baron-capital-ceo.jpeg?v=1747161384&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:56"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-    "Link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108248572-1767675615434-gettyimages-2252637479-raa-goldpriz251223_npCka.jpeg?v=1771974364&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:10:59"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-    "Link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108316188-1780508883798-108316188-17805088082025-03-03t030839z_1383740643_rc2c5dazmdos_rtrmadp_0_space-exploration-starship.jpg?v=1780508897&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:04"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "SpaceX doesn't have a timeline for its human missions to Mars. Kalshi traders say don't expect it this decade",
-    "Link": "https://www.cnbc.com/2026/06/15/kalshi-traders-say-spacex-wont-get-to-mars-this-decade.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108321004-1781270918389-gettyimages-2281230015-jr_10208_eawudhr4.jpeg?v=1781271003&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:08"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
-    "Link": "https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108226308-17631487092025-11-14t185106z_1528544273_rc2fwhaumd5w_rtrmadp_0_usa-fed.jpeg?v=1763148724&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:12"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "On the launchpad",
-    "Link": "https://www.planetary.org/the-downlink/on-the-launchpad",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/saturn-infrared-jwst-2026.png?mtime=1774466332",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
-    "Link": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/050626_EC_magnometer_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:23"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Solar flares may show predictable warning signs hours before erupting",
-    "Link": "https://www.sciencenews.org/article/solar-flare-warning-signs-eruptions",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/05/051426_LG_solarflares_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:26"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Save NASA Science returns to Capitol Hill",
-    "Link": "https://www.planetary.org/articles/save-nasa-science-returns-to-capitol-hill",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/Day-of-Action-2026-The-Planetary-Society-Group-Shot.jpg?mtime=1776721659",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II ends its historic lunar journey",
-    "Link": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/04/041026_LG_artemis_Fridaysplashdown_main_ac43ab.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:31"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Why a resilient jobs market keeps turning into a Bitcoin sell signal",
-    "Link": "https://cryptoslate.com/why-a-resilient-jobs-market-keeps-turning-into-a-bitcoin-sell-signal/",
-    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/06/good-jobs-bitcoin.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Solana price forecast: SOL stuck below $72 as bears take control",
-    "Link": "https://coinjournal.net/news/solana-price-forecast-sol-stuck-below-72-as-bears-take-control/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/03/Solana-token.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:47"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "HKEX and China Financial Futures Exchange Renew Cooperation Agreement",
-    "Link": "https://www.leaprate.com/financial-services/exchanges/hkex-and-china-financial-futures-exchange-renew-cooperation-agreement/",
-    "ImageUrl": "https://www.leaprate.com/wp-content/uploads/2022/02/HKEX-02.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Zcash dips 4% as broader crypto market remains bearish",
-    "Link": "https://coinjournal.net/news/zcash-dips-4-as-broader-crypto-market-remains-bearish/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-12_12_25-PM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:54"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum derivatives activity weakens as traders await a fresh catalyst",
-    "Link": "https://coinjournal.net/news/ethereum-derivatives-activity-weakens-as-traders-await-a-fresh-catalyst/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/02/ethereum-price-trading-laptop-chart.jpg.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:11:57"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Hollywood's First Major Black Superhero Movie Was, Unfortunately, A '90s Flop",
-    "Link": "https://www.slashfilm.com/2196924/hollywood-first-major-black-superhero-movie-90s-flop-the-meteor-man/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/hollywood-first-major-black-superhero-movie-90s-flop-the-meteor-man/l-intro-1781811802.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:04"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Kurt Russell's Disaster Movie Remake Was One Of 2006's Biggest Box Office Flops",
-    "Link": "https://www.slashfilm.com/2196944/kurt-russell-disaster-movie-poseidon-2006-big-box-office-flop/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/kurt-russells-disaster-movie-remake-was-one-of-2006s-biggest-box-office-flops/l-intro-1781740526.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:07"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Why Rachel Mills From Netflix's I Will Find You Looks So Familiar",
-    "Link": "https://www.slashfilm.com/2198130/rachel-mills-i-will-find-you-actress-britt-lower/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/why-rachel-mills-from-netflixs-i-will-find-you-looks-so-familiar/l-intro-1781891407.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:09"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Finnegan’s Foursome’ Review: Edward Burns’ Spiky-Quaint Sports Dramedy Is a Tale of Family Therapy Through Golf",
-    "Link": "https://variety.com/2026/film/reviews/finnegans-foursome-review-edward-burns-1236786224/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/06/large_Finnegan_s_Foursome-Clean-16x9-01.jpg?w=980&#038;h=551&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:12"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Forget 'Widow's Bay,' This Criminally Overlooked Horror Series Is the Perfect Weekend Binge",
-    "Link": "https://collider.com/wishmaster-series-guilty-pleasure-horror-franchise/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/widows-bay-tom-angry.jpg?w=1200&amp;h=675&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:14"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists discover spider that disguises itself as a parasitic fungus",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/taczanowskia-waska-spider.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:22"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists found a surprising problem with sugar-free diets",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/avoid-sugary-drinks-and-soda.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:25"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Will NIH Director Jay Bhattacharya stand up for scientists censored by the American Diabetes Association?",
-    "Link": "http://sciencebasedmedicine.org/will-bhattacharya-stand-up-for-scientists-censored-by-ada/?utm_source=rss&utm_medium=rss&utm_campaign=will-bhattacharya-stand-up-for-scientists-censored-by-ada",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2022/09/Censorship.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:28"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Can Medical Schools Really Teach 71 Nutrition ‘Competencies’?  Should They?",
-    "Link": "http://sciencebasedmedicine.org/can-medical-schools-really-teach-71-nutrition-competencies-should-they/?utm_source=rss&utm_medium=rss&utm_campaign=can-medical-schools-really-teach-71-nutrition-competencies-should-they",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/05/Medical-Education-Nutrition-Competency-Framework.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:31"
-  },
-  {
-    "Topic": "Science",
-    "Title": "NASA spots giant ocean swell that could signal El Niño’s return",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260614012002.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/sentinel-6-michael-freilich-el-nino.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:33"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Corbyn criticises ‘strange’ lack of policy in leadership debate and says Burnham must offer real change – as it happened",
-    "Link": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
-    "ImageUrl": "https://i.guim.co.uk/img/media/1de00b62cad586869f28a378ffd65a412841cf7c/699_0_6990_5592/master/6990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7f151627e67c5ad849f8378c8c685e51",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:41"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu",
-    "Link": "https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
-    "ImageUrl": "https://i.guim.co.uk/img/media/421505a79c724d8b7ff1f7aef5d24ca4c2a962ee/649_0_6490_5192/master/6490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=199389ab9851b2a07d58ed22af06403c",
-    "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:44"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Poland strips Zelensky of top state honour over WWII dispute",
-    "Link": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg",
+    "Title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
+    "Link": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Average_price_of_DDR5-5200_2x16_GB_RAM_kits.png/960px-Average_price_of_DDR5-5200_2x16_GB_RAM_kits.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-06-21 04:12:47"
+    "Date": "2026-06-22 04:09:05"
   },
   {
-    "Topic": "General News",
-    "Title": "Hezbollah-Israel flare-up in Lebanon despite ceasefire announced by the USA",
-    "Link": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2026_Lebanon_War_Map.svg/960px-2026_Lebanon_War_Map.svg.png",
+    "Topic": "Economy",
+    "Title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "Link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4751633",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-22 04:09:07"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.40%",
+    "Link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-040-4751669",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Saudi_Arabia_USA_Locator.svg/960px-Saudi_Arabia_USA_Locator.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-06-21 04:12:50"
+    "Date": "2026-06-22 04:09:10"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Goldman Sachs trims global smartphone market estimates on high memory costs",
+    "Link": "https://www.investing.com/news/stock-market-news/goldman-sachs-trims-global-smartphone-market-estimates-on-high-memory-costs-4751615",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wells_Fargo_Center_in_downtown_Los_Angeles%2C_California.jpg/960px-Wells_Fargo_Center_in_downtown_Los_Angeles%2C_California.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-22 04:09:12"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+    "Link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-22 04:09:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Google DeepMind’s Lila Ibrahim is helping the world get ready for AI",
+    "Link": "https://www.fastcompany.com/91550783/google-deepminds-lila-ibrahim-is-helping-the-world-get-ready-for-ai?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=15&partner=newsletter&campaign_date=06212026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-22 04:09:23"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How agentic AI helps heal the systems we can&#8217;t replace",
+    "Link": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/0406c0c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F5b%2Fdc%2F105868ac43228b60f759a91371db%2Frlgyms02-option02-detailed-16x9.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:26"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ml-21171.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:29"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-20804.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/21237-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:34"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Humans may have hidden regenerative powers",
+    "Link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-regeneration.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:41"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists found a cannabis compound that relieves pain without the high",
+    "Link": "https://www.sciencedaily.com/releases/2026/06/260619033343.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cannabis-terpenes.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:44"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Acupuncture for Heart Attacks and more State-Sanctioned Pseudoscience",
+    "Link": "https://sciencebasedmedicine.org/acupuncture-for-heart-attacks-and-more-state-sanctioned-pseudoscience/?utm_source=rss&utm_medium=rss&utm_campaign=acupuncture-for-heart-attacks-and-more-state-sanctioned-pseudoscience",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2015/01/Acupuncture-korean.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:48"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists found an early depression clue hidden in children’s eyes",
+    "Link": "https://www.sciencedaily.com/releases/2026/06/260616102214.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/sad-serious-little-girl.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:51"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just found a hidden weakness in forever chemicals",
+    "Link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/forever-chemicals-pfas-contamination-magnifying-glass-water-drops.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:09:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Lucy Spacecraft Uncovers Violent Birth Of Peanut-Shaped Asteroid",
+    "Link": "https://dailygalaxy.com/2026/06/nasas-lucy-birth-of-peanut-shaped-asteroid/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phoenix_landing.jpg/960px-Phoenix_landing.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-22 04:10:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A Meteorite Sat in an African Desert for Years, and Scientists Have Only Just Discovered What It Contained",
+    "Link": "https://dailygalaxy.com/2026/06/meteorite-found-desert-what-it-contained/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lake_House_-_geograph.org.uk_-_336918.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-22 04:10:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Otherworldly music albums feature space weather data",
+    "Link": "https://www.sciencenews.org/article/music-from-space-weather-data",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/0726_ArtColumn.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Ariane 6 Roars Into Orbit Carrying 36 Satellites in a High-Stakes Mission",
+    "Link": "https://dailygalaxy.com/2026/06/ariane-6-roars-into-orbit-36-satellites/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-06-22 04:10:15"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Chinese Rocket Breakup Near Starlink Sparks Fresh Space Junk Alarm Over Low Earth Orbit",
+    "Link": "https://dailygalaxy.com/2026/06/chinese-rocket-breakup-near-starlink/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fus%C3%A9e_V2_%28cropped%29.jpg/960px-Fus%C3%A9e_V2_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-22 04:10:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin ETFs See Record $6.4B Outflows in 30 Days as Market Turns Risk-Off",
+    "Link": "https://www.cryptobreaking.com/bitcoin-etfs-see-record-6/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/06/Bitcoin-ETFs-See-Record-64B-Outflows-in-30-Days-as.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:26"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pudgy Penguins Brings Vibes Series 3 Trading Cards to Target Stores",
+    "Link": "https://www.cryptobreaking.com/pudgy-penguins-brings-vibes-series/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/06/Pudgy-Penguins-Brings-Vibes-Series-3-Trading-Cards-to-Target.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:29"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trader Notes ‘Suspicious’ BTC Rally as Bitcoin Eyes $66K Peak",
+    "Link": "https://www.cryptobreaking.com/trader-notes-suspicious-btc-rally/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/06/Trader-Notes-‘Suspicious-BTC-Rally-as-Bitcoin-Eyes-66K-Peak.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Dash Targets the Philippines as a Growing Market for Crypto Payments",
+    "Link": "https://www.cryptobreaking.com/dash-targets-the-philippines-as/",
+    "ImageUrl": "https://www.cryptobreaking.com/wp-content/uploads/2026/06/Dash-Targets-the-Philippines-as-a-Growing-Market-for-Crypto.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "CIRO Approves Webull Canada Crypto as Dealer Member, Grants Insurance Relief",
+    "Link": "https://www.financemagnates.com/cryptocurrency/ciro-approves-webull-canada-crypto-as-dealer-member-grants-insurance-relief/",
+    "ImageUrl": "https://images.financemagnates.com/images/Webull_id_ea981a8b-2c5d-4626-87b4-1aa7c84cac74_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:38"
   },
   {
     "Topic": "General News",
-    "Title": "Five injured in suspected anti-Muslim incidents across Edinburgh",
-    "Link": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
-    "ImageUrl": "https://i.guim.co.uk/img/media/88f8cdf6e5f6cce7a3c180c403cba7e43d6fd325/252_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ef73d21e332152b4d63466ce1a90fc3",
+    "Title": "\n            Explained: What is 'Brussels IV' and how could it affect your French property?\n        ",
+    "Link": "\n            https://www.thelocal.com/20240923/explained-what-is-brussels-iv-and-how-could-it-affect-your-french-property\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/09/watermarks-logo-AFP__20180613__15W5C6__v2__Preview__ItalyFranceEuropeMigrantsPoliticsEconomy-1.jpg@webp",
     "ImageSource": "og:image",
-    "Date": "2026-06-21 04:12:52"
+    "Date": "2026-06-22 04:10:50"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Social Media: Unionsfraktion für variable Altersgrenzen statt Verbote",
+    "Link": "https://www.tagesschau.de/inland/gesellschaft/socialmedia-cdu-csu-fraktion-entwurf-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/ff8216b1-8949-4d84-9af0-98cbab45e074/AAABntTOGG8/AAABnSSvrFg/16x9-big/junge-frau-smartphone-112.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:53"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Snart är det semester! How to talk about summer holidays like a Swede\n        ",
+    "Link": "\n            https://www.thelocal.com/20260612/snart-ar-det-semester-how-to-talk-about-summer-holidays-like-a-swede\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-tina_axelsson-summer_house-80641.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:10:59"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Vorschläge an Bundesregierung: Das sind die Empfehlungen der Rentenkommission",
+    "Link": "https://www.tagesschau.de/inland/rentenkommission-renteneintrittsalter-fonds-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/d4b4b4cc-18be-40a9-a425-c0393713fc5e/AAABnuYgguE/AAABnSSvrFg/16x9-big/schatten-senioren-gehstock-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Man falls to his death during Madison Square Garden concert, police say",
+    "Link": "https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert",
+    "ImageUrl": "https://i.guim.co.uk/img/media/59153056c7ba0cebea0aa057ca43785703970001/19_0_4322_3459/master/4322.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9c7cfc486e23d32e4591fb9ed1afc08",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:05"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Wear OS 7 helps your smartwatch keep up with you",
+    "Link": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Wear_OS_7_social.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:12"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Learning to lead in a hybrid human-AI enterprise",
+    "Link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:14"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Meet the new Google Home Speaker, built for Gemini",
+    "Link": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_global_HS_2025Q4_Porcelain_Hero_2096x11.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Five things you need to know about AI",
+    "Link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How small businesses can leverage AI",
+    "Link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:22"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "TRAUMATIKA Interview with filmmakers Pierre Tsigaridis and Maxime Rancon",
+    "Link": "https://www.aintitcool.com/traumatika-pierre-tsigaridis-maxime-rancon-83628/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/traumatika_poster_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:41"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Tribeca Film Festival 2026 - The 25th Anniversary of the Venerated Festival",
+    "Link": "https://www.aintitcool.com/tribeca-2026-interview-drew-van-steenbergen-83653/?utm_source=full-feed&utm_medium=feed&utm_term=coolnews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/tribeca_25th_anniversary_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:45"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Jason Biggs Directorial Debut UNTITLED HOME INVASION ROMANCE Now Available!",
+    "Link": "https://www.aintitcool.com/jason-biggs-meaghan-rath-interview-uhir-83636/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/uhir_poster_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:48"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "HACKED: A DOUBLE ENTENDRE OF RAGE-FUELED KARMA Tells the Story of a Filmmaker Scorn - But It's Funny",
+    "Link": "https://www.aintitcool.com/interview-shane-brady-christopher-dudley-mceric-83652/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/hacked_poster_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-22 04:11:51"
   }
 ]
