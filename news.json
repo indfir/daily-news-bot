@@ -1,290 +1,322 @@
 [
   {
-    "Topic": "Science",
-    "Title": "What Are the Possibilities to Build Date Tables in Self-Service Environments?",
-    "Link": "https://towardsdatascience.com/what-are-the-possibilities-to-build-date-tables-in-self-service-environments/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg",
+    "Topic": "Economy",
+    "Title": "Bitcoin trades near $64,000, extends June consolidation amid cautious market sentiment",
+    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-64000-extends-june-consolidation-amid-cautious-market-sentiment/articleshow/131927747.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-131927735,width-1200,height-630,imgsize-295364,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 04:58:45"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " Warframe's latest update is all about space combat, constellations, and cosmic mythology ",
-    "Link": "https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/NPwZyFmv9AGSRBEnZDtSfB-1920-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:58:54"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Gone public, have a mission patch: SpaceX celebrates IPO with new collectibles",
-    "Link": "https://www.collectspace.com/news/news-061226a-spcx-spacex-ipo-mission-patch-raptor-bell.html",
-    "ImageUrl": "https://www.collectspace.com/images/news-061226a-fb.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:58:57"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA names Artemis III crew to test moon landers in Earth orbit",
-    "Link": "https://www.collectspace.com/news/news-060926a-nasa-artemis-iii-crew-annoucement.html",
-    "ImageUrl": "https://www.collectspace.com/images/news-060926aa-fb.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:58:59"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " Launch monster: SpaceX has lofted more satellites than everyone else in history, combined ",
-    "Link": "https://www.space.com/space-exploration/launches-spacecraft/launch-monster-spacex-has-lofted-more-satellites-than-everyone-else-in-history-combined",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-2000-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:03"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " James Webb Space Telescope captures the star-forming clouds of Orion A in stunning detail | Space photo of the day for June 22, 2026 ",
-    "Link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/55AkX4kckKH6ExTntmPVC3-1600-80.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:05"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Jean Montero doblega al Barça y pone al Valencia con ventaja",
-    "Link": "https://elpais.com/deportes/baloncesto/2026-06-22/jean-montero-doblega-al-barca-y-pone-al-valencia-con-ventaja.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-23 04:59:15"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Two men plead guilty over £39m TfL cyber attack that caused months of disruption",
-    "Link": "https://www.bbc.com/news/articles/czx5yp9qy0do?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:18"
-  },
-  {
-    "Topic": "General News",
-    "Title": "La vida al límite junto a la línea amarilla de Gaza: “Cuando se acerca el atardecer, salir es una sentencia de muerte”",
-    "Link": "https://elpais.com/planeta-futuro/2026-06-21/la-vida-al-limite-junto-a-la-linea-amarilla-de-gaza-cuando-se-acerca-el-atardecer-salir-es-una-sentencia-de-muerte.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-23 04:59:22"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Le Planning familial de Gironde redoute de disparaître, faute de subvention de l’agence régionale de santé",
-    "Link": "https://www.lemonde.fr/societe/article/2026/06/22/le-planning-familial-de-gironde-redoute-de-disparaitre-faute-de-subvention-de-l-agence-regionale-de-sante_6708087_3224.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-23 04:59:25"
-  },
-  {
-    "Topic": "General News",
-    "Title": "With no laws on heat in schools, are pupils and teachers at risk?",
-    "Link": "https://www.bbc.com/news/articles/c202n3ryp7xo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ceb3/live/1446c1a0-6e4b-11f1-8546-8f19e4fe30f4.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:28"
+    "Date": "2026-06-24 04:27:13"
   },
   {
     "Topic": "Economy",
-    "Title": "SpaceX Is Buying Cursor for $60 Billion. What That Means for SPCX Stock.",
-    "Link": "https://finance.yahoo.com/markets/stocks/articles/spacex-buying-cursor-60-billion-131502409.html",
-    "ImageUrl": "https://s.yimg.com/ny/api/res/1.2/M0ktzxh9idwJxTqJzKnV8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/1aed8d552349d5ac7011400ec0ad83d3",
+    "Title": "Waterways Leisure Tourism IPO sees a slow response on Day 1 so far. Should you subscribe?",
+    "Link": "https://economictimes.indiatimes.com/markets/ipos/fpos/waterways-leisure-tourism-ipo-sees-a-slow-response-on-day-1-so-far-should-you-subscribe/articleshow/131929387.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-131929375,width-1200,height-630,imgsize-59440,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:38"
+    "Date": "2026-06-24 04:27:16"
   },
   {
     "Topic": "Economy",
-    "Title": "Oracle Stock Tumbles on Higher Capex and Equity Raise - Shorting ORCL Puts Works",
-    "Link": "https://finance.yahoo.com/markets/options/articles/oracle-stock-tumbles-higher-capex-140002312.html",
-    "ImageUrl": "https://s.yimg.com/ny/api/res/1.2/JZjzmj7MJ7uz.6NrxfEUYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/e6270eaced21baa42d87300c42cfa807",
+    "Title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-131941635,width-1200,height-630,imgsize-54790,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:45"
+    "Date": "2026-06-24 04:27:20"
   },
   {
     "Topic": "Economy",
-    "Title": "Chubb CEO flags threat disrupting global oil supply",
-    "Link": "https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html",
-    "ImageUrl": "https://s.yimg.com/os/en/thestreet_881/357c55b41afe86e8e26312add6515655",
+    "Title": "Rupee flat as traders mull Fed rate path, keep eyes peeled for flow clues",
+    "Link": "https://economictimes.indiatimes.com/markets/forex/rupee-flat-as-traders-mull-fed-rate-path-keep-eyes-peeled-for-flow-clues/articleshow/131928033.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-131928045,width-1200,height-630,imgsize-207625,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:52"
+    "Date": "2026-06-24 04:27:23"
   },
   {
     "Topic": "Economy",
-    "Title": "Market Digest: ACN, AEE, EXC, HRL, ITW, DAL, FOXA",
-    "Link": "https://finance.yahoo.com/research/reports/ARGUS_47388_MarketSummary_1782124886000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "ImageUrl": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+    "Title": "AI stocks are in a 'blowoff top' phase but the game isn't over yet: Jonathan Schiessl",
+    "Link": "https://economictimes.indiatimes.com/markets/expert-view/ai-stocks-are-in-a-blowoff-top-phase-but-the-game-isnt-over-yet-jonathan-schiessl/articleshow/131936438.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-131936430,width-1200,height-630,imgsize-17366,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 04:59:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "You Retired This Year. Medicare Is Charging You Off the Six-Figure Salary You Earned in 2024",
-    "Link": "https://finance.yahoo.com/healthcare/articles/retired-medicare-charging-off-six-130927130.html",
-    "ImageUrl": "https://s.yimg.com/ny/api/res/1.2/U2dYZcmF3P0qLmGnV5mFFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://media.zenfs.com/en/24_7_wall_st__718/42d356c9c7503ad6b022f08eaa4c378c",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:01"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Scaling the UK government’s AI vision",
-    "Link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.width-1300.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:10"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "We’re expanding our support for breakthrough carbon removal technologies.",
-    "Link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/frontier-funding-expansion/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/serpentinite.max-1440x810.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:13"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Interactions API: our primary interface for Gemini models and agents",
-    "Link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interactions_API_GA_final.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:16"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How universities are preparing students for an AI-powered future",
-    "Link": "https://blog.google/products-and-platforms/products/education/higher-education-gemini-notebooklm/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lessons_from_leading_universities_herosocial.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
-    "Link": "https://blog.google/products/admanager/ask-ad-manager/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_social.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:21"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The One Supergirl Character Critics Can’t Stop Talking About & What It Means for the DCU",
-    "Link": "https://www.comingsoon.net/movies/features/2151882-the-one-supergirl-character-critics-cant-stop-talking-about-what-it-means-for-the-dcu",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/jason-momoa-lobo-still.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:38"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Acclaimed Ethan Hawke Movie Returns to Theaters, Release Date & Poster Revealed",
-    "Link": "https://www.comingsoon.net/movies/news/2151677-acclaimed-ethan-hawke-movie-returns-to-theaters-release-date-poster-revealed",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/Ethan-Hawke.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:41"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Minions & Monsters Finally Gets Good News With Positive Box Office Prediction",
-    "Link": "https://www.comingsoon.net/movies/features/2151724-minions-monsters-box-office-prediction-good-news-positive-forecast",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/minions-monsters-box-office-prediction-good-news-positive-forecast.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:44"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Toy Story 5’s Huge Box Office Debut Could Help Pixar Find Its Next Inside Out",
-    "Link": "https://www.comingsoon.net/movies/features/2151669-toy-story-5-box-office-good-news-pixar-original-movies",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/toy-story-5-record-shattering-box-office-prediction-new-forecast-tracking.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:46"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Toy Story 6: Tom Hanks Says Another Sequel Has to Clear 1 Big Hurdle",
-    "Link": "https://www.comingsoon.net/movies/news/2151793-toy-story-6-tom-hanks-says-another-sequel-has-to-clear-1-big-hurdle",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/woody.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:49"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing Gemma 4 models on Amazon Bedrock",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/Gemma4-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:55"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Context intelligence for your data and AI agents at scale",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21188.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:00:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-    "Link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!6wCM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b841d26-5b2d-4be9-9710-d89d4f023f0c_1600x900.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:01:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ml-21169.png",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:01:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "Link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-06-23 05:01:06"
+    "Date": "2026-06-24 04:27:27"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "ICE and OKX Form Joint Venture to Connect Traditional and Digital Asset Markets",
-    "Link": "https://www.leaprate.com/financial-services/exchanges/ice-and-okx-form-joint-venture-to-connect-traditional-and-digital-asset-markets/",
-    "ImageUrl": "https://www.leaprate.com/wp-content/uploads/2017/07/Intercontinental-Exchange-ICE.jpg",
+    "Title": "Bitwise XRP ETF inflows top $200m as demand holds",
+    "Link": "https://crypto.news/bitwise-xrp-etf-inflows-top-200m-as-demand-holds/",
+    "ImageUrl": "https://media.crypto.news/2026/06/XRP4.webp",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 05:01:18"
+    "Date": "2026-06-24 04:27:37"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool",
-    "Link": "https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ferrero_-_panoramio_%282%29.jpg/960px-Ferrero_-_panoramio_%282%29.jpg",
+    "Title": "Morgan Stanley Files Staking ETFs for ETH and SOL at 0.14% Fee",
+    "Link": "https://99bitcoins.com/news/altcoins/morgan-stanley-eth-sol-staking-etf-filing/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morgan_Stanley_Times_Square.jpg/960px-Morgan_Stanley_Times_Square.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-06-23 05:01:22"
+    "Date": "2026-06-24 04:27:40"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Re7 Labs Opens $223K USDC Compensation Pool for USR Exploit Victims",
-    "Link": "https://thedefiant.io/news/defi/re7-labs-223k-usdc-compensation-pool-usr-exploit-victims",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-23 05:01:25"
+    "Title": "BlackRock Bitcoin News: BTC at $62K and How Institutions Play Their Part",
+    "Link": "https://99bitcoins.com/news/bitcoin-btc/institutional-capital-bitcoin-blackrock-jpmorgan-2026/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/960px-Bitcoin.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-24 04:27:43"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "How Washington’s Power Shift Could Spark the Next Crypto Bull Run",
-    "Link": "https://webscrypto.com/how-washingtons-power-shift-could-spark-the-next-crypto-bull-run/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/10/image-2.png",
+    "Title": "What is a stablecoin? A complete guide for 2026",
+    "Link": "https://crypto.news/what-is-a-stablecoin-a-complete-guide-for-2026/",
+    "ImageUrl": "https://media.crypto.news/2025/10/crypto-news-The-stablecoin-market-is-in-for-a-diversification-boom-option04.webp",
     "ImageSource": "og:image",
-    "Date": "2026-06-23 05:01:28"
+    "Date": "2026-06-24 04:27:47"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Sui Processes $65 Billion in Stablecoin Transfers in Five Days After Zeroing Out Fees",
-    "Link": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-06-23 05:01:31"
+    "Title": "Arthur Hayes-Linked Address Buys $3.16M in HYPE, After He Denied Purchasing the Token",
+    "Link": "https://nulltx.com/arthur-hayes-linked-address-buys-3-16m-in-hype-after-he-denied-purchasing-the-token",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/wp/v2/arthur-hayes-linked-address-buys-3-16m-in-hype-after-he-deni-32f4538057.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:27:51"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Magic School Bus’ Live-Action Movie With Elizabeth Banks as Ms. Frizzle Lands ‘Detective Pikachu’ Director",
+    "Link": "https://variety.com/2026/film/news/magic-school-bus-live-action-movie-elizabeth-banks-ms-frizzle-director-1236787487/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/06/Elizabeth-Banks-and-Ms-Frizzle.jpg?crop=0px%2C3px%2C1000px%2C562px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:27:59"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Magic School Bus Live-Action Movie Casts A-List Star as Ms. Frizzle",
+    "Link": "https://www.comingsoon.net/movies/news/2152476-magic-school-bus-live-action-movie-casts-a-list-star-as-ms-frizzle",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/Magic-School-Bus.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:01"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "DDA Talent and Worldwide Production Agency Merge, Forming Global Talent Agency",
+    "Link": "https://variety.com/2026/artisans/news/dda-talent-worldwide-production-agency-merger-global-agency-1236787693/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/06/DDA-WPA-white-bg-1.png?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:04"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "How JD Vance’s The View Appearance Broke a Major Record for Whoopi Goldberg TV Show",
+    "Link": "https://www.comingsoon.net/tv/news/2152399-how-jd-vances-the-view-appearance-broke-a-major-record-for-whoopi-goldberg-tv-show",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/vance.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Glen Powell's Largely Ignored 2026 Thriller Is Finally Finding An Audience On HBO Max",
+    "Link": "https://www.slashfilm.com/2200042/glen-powell-2026-thriller-how-to-make-a-killing-streaming-hbo-max/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/glen-powells-largely-ignored-2026-thriller-is-finally-finding-an-audience-on-hbo-max/l-intro-1782238496.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
+    "Link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
+    "ImageUrl": "https://spacenews.com/wp-content/uploads/2025/05/India-scaled.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:16"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Blue micromoon makes rare appearance this weekend",
+    "Link": "https://www.cbsnews.com/news/blue-micromoon-how-to-see-it/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/28/914f41c8-a101-4c8b-8002-6017f6811205/thumbnail/1200x630/44ede74f61d7bf27c5805035f1f9f37a/ap26122209557727.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Space station crew briefly moves to \"safe haven\" amid concerns over leaks",
+    "Link": "https://www.cbsnews.com/news/space-station-crew-iss-safe-haven-leak-repair/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/22/e2938a3a-4e84-4c3b-a3df-bb65001c4d88/thumbnail/1200x630/d21d3418aeb1340d11a93bc95566efba/052223-iss.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "EQT to acquire Exolaunch",
+    "Link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
+    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/06/exolaunch-cas5002.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:24"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A look at lunar rovers for NASA's planned Moon Base",
+    "Link": "https://www.cbsnews.com/video/look-lunar-rovers-nasas-planned-moon-base/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/30/e42bb89e-0434-42f1-a308-41e262723280/thumbnail/1200x630/abaa5319680e07ed26c8558fae5af8a2/cbsn-fusion-look-lunar-rovers-nasas-planned-moon-base-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:27"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Miami welcomes Scotland fans and 'Tartan Army' ahead of World Cup match",
+    "Link": "https://www.nbcnews.com/now/video/miami-welcomes-scotland-fans-and-tartan-army-ahead-of-world-cup-match-265494085610",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_06/1782158123572_now_daily_b_kirsch_tartan_260622_S3_1920x1080-h7nmue.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:40"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Swedish security service warns Iran continues to recruit gang youth\n        ",
+    "Link": "\n            https://www.thelocal.com/20260623/swedish-security-service-warns-iran-continues-to-recruit-gang-youth\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-sdlq05UdnmDtRM_NormalHires.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Jozy Altidore: “Inglaterra tiene que mejorar defensivamente” | Pasión Mundial",
+    "Link": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jozy-altidore-inglaterra-tiene-que-mejorar-defensivamente-pasion-mundial-tmvo13196738",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/524/783/46729353770-1080pnbcstations.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:48"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Covid vaccine study the acting CDC director blocked is published in an outside journal",
+    "Link": "https://www.nbcnews.com/health/health-news/study-covid-vaccines-acting-cdc-director-blocked-published-rcna351174",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260618-moderna-vaccine-ew-325p-f62b0f.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:53"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            OPINION: Russia is stepping up its propaganda, helped by a French billionaire\n        ",
+    "Link": "\n            https://www.thelocal.com/20260617/opinion-russia-is-stepping-up-its-propaganda-helped-by-a-french-billionaire\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-AFP__20260613__B6Y79CW__v2__MidRes__RussiaUkraineConflictPolitics.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:28:58"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Quantum computer quickly mines cryptocurrency while using less energy",
+    "Link": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D-Wave-Washington-1000Q.jpg/960px-D-Wave-Washington-1000Q.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-24 04:29:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Practical SQL Tricks Every Data Scientist Should Know",
+    "Link": "https://www.kdnuggets.com/practical-sql-tricks-every-data-scientist-should-know",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-practical-sql-tricks.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:07"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Autism may have two distinct subtypes that vary by brain activity",
+    "Link": "https://www.newscientist.com/article/2530459-autism-may-have-two-distinct-subtypes-that-vary-by-brain-activity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/16101225/SEI_301530524.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:09"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Moose are native to Colorado, study shows",
+    "Link": "https://phys.org/news/2026-06-moose-native-colorado.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/960px-Alaska_moose.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-06-24 04:29:13"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Unapproved gene therapy for boosting longevity is set to go on sale",
+    "Link": "https://www.newscientist.com/article/2530933-unapproved-gene-therapy-for-boosting-longevity-is-set-to-go-on-sale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/23114215/SEI_301931303.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Why do South Koreans love AI so much?",
+    "Link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:23"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Influencers reportedly faked winning Polymarket bets",
+    "Link": "https://mashable.com/life/polymarket-influencer-scam-ads",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03QeUlyf6nCM4J10DOCNcDB/hero-image.fill.size_1200x675.v1782228366.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:25"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Noise-cancelling and open earbuds are down to record-low prices on Prime Day",
+    "Link": "https://mashable.com/tech/best-prime-day-earbuds-deals-2026",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06iXVhghFrmIjDG7qIKbaSR/hero-image.fill.size_1200x675.v1782199827.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Beats Solo 4 are under $100 for Prime Day — act fast to score the best-ever deal",
+    "Link": "https://mashable.com/tech/june-23-prime-day-deal-2026-beats-solo-4",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/01Q4WW7CMusPNs5NC2tsvhc/hero-image.fill.size_1200x675.v1782212481.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:30"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+    "Link": "https://www.wired.com/story/best-prime-day-headphone-deals-2026/",
+    "ImageUrl": "https://media.wired.com/photos/6a39c6009d6ce4c64a7952e7/191:100/w_1280,c_limit/The-Best-Amazon-Prime-Day-Deals-on-Headphones.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:32"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Highlighting Below Avg Sales per Hierarchy Level with SWITCH() and ISINSCOPE() DAX Functions in Power BI",
+    "Link": "https://biinsight.com/highlighting-below-avg-sales-per-hierarchy-level-with-switch-and-isinscope-dax-functions-in-power-bi/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2020/03/Highlighting-Below-Avg-Sales-per-Hierarchy-Level-with-SWITCH-and-ISINSCOPE-DAX-Functions-in-Power-BI-1024x581.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Endorsement in Power BI, Part 1, The Basics",
+    "Link": "https://biinsight.com/content-endorsement-in-power-bi-part-1-the-basics/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2022/12/Snag_41f5652-1024x504.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Slowly Changing Dimension (SCD) in Power BI, Part 1, Introduction to SCD",
+    "Link": "https://biinsight.com/slowly-changing-dimension-scd-in-power-bi-part-1-introduction-to-scd/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2022/07/image-1-1024x493.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:53"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Quick Tips: Find Power BI Desktop Local Port Number with Model Explorer",
+    "Link": "https://biinsight.com/quick-tips-find-power-bi-desktop-local-port-number-with-model-explorer/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/12/Snag_5deb1403-1024x577.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:29:58"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Incremental Refresh in Power BI, Part 3: Best Practices for Large Semantic Models",
+    "Link": "https://biinsight.com/incremental-refresh-in-power-bi-part-3-best-practices-for-large-semantic-models/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2024/03/Snag_12cf3e2-1024x573.png",
+    "ImageSource": "og:image",
+    "Date": "2026-06-24 04:30:02"
   }
 ]
