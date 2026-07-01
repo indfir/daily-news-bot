@@ -1,274 +1,322 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "UNDERTONE: The “Scariest Film You’ll Ever Hear” Doesn’t Quite Hit the Right Note",
-    "Link": "https://www.aintitcool.com/undertonereview2026-83643/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/8864814b-f3a7-9672-d6fb-085ab3ad137a_huge.jpg",
+    "Topic": "Technology",
+    "Title": "The Tim Ferriss Show Transcripts: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
+    "Link": "https://tim.blog/2026/06/26/coca-transcript/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/06/Andrew-Weil-and-Wade-Davis-Illustration.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-01 04:23:30"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Cynthia von Buhler Discusses MINKY WOODCOCK: THE GIRL CALLED CTHULHU",
-    "Link": "https://www.aintitcool.com/interview-cynthia-von-buhler-minky-woodcock-83633/?utm_source=full-feed&utm_medium=feed&utm_term=comics",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/the_girl_called_cthulhu_(1)_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:23:34"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "A Conversation with RENTAL FAMILY Writer/Director HIKARI",
-    "Link": "https://www.aintitcool.com/rental-family-writer-director-hikari-interview-83634/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/rental_family_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:23:37"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "We Chat with Veteran Character Actor Kevin Dunn about MERMAID",
-    "Link": "https://www.aintitcool.com/interview-kevin-dunn-eric-mcclanahan-mermaid-83651/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/mermaid_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:23:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Sends Mixed Signals as Two Ominous Warning Indicators Flash Red",
-    "Link": "https://webscrypto.com/bitcoin-sends-mixed-signals-as-two-ominous-warning-indicators-flash-red/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/10/image-3.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:21"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum ETFs End Six-Day Outflow Streak as Bitcoin Funds Face Mixed Results",
-    "Link": "https://webscrypto.com/ethereum-etfs-end-six-day-outflow-streak-as-bitcoin-funds-face-mixed-results/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-4.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:25"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken Plugs Institutional Liquidity into Europe’s Banking Rails via Trever Integration",
-    "Link": "https://www.financemagnates.com/cryptocurrency/exchange/kraken-plugs-institutional-liquidity-into-europes-banking-rails-via-trever-integration/",
-    "ImageUrl": "https://images.financemagnates.com/images/Kraken%20%28shutterstock%29_id_4ad88908-5240-4cf5-8c53-628cb3152b9f_size900.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:27"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Trump Pardons Binance Founder CZ, Ending Landmark Crypto Prosecution",
-    "Link": "https://webscrypto.com/trump-pardons-binance-founder-cz-ending-landmark-crypto-prosecution/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/10/Trump-Pardons-Binance-Founder-CZ.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:30"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Kraken Prime Goes Live on Trever, Opening Prime Brokerage Access for European Institutions",
-    "Link": "https://www.leaprate.com/cryptocurrency/kraken-prime-goes-live-on-trever-opening-prime-brokerage-access-for-european-institutions/",
-    "ImageUrl": "https://www.leaprate.com/wp-content/uploads/2026/04/kraken.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:41"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/ev-battery-technician.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:44"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A common vitamin could help fight one of the deadliest brain cancers",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/biological-lymphocytes-and-cancer-cell.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:47"
-  },
-  {
-    "Topic": "Science",
-    "Title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260623014018.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/giant-black-coral-found-in-fiordland.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:49"
-  },
-  {
-    "Topic": "Science",
-    "Title": "New vitamin B12 therapy shows promise against deadly brain cancer",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260622091518.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/head-scan-brain-cancer-tumor.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:52"
+    "Date": "2026-07-02 04:22:35"
   },
   {
     "Topic": "Technology",
-    "Title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
-    "Link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
-    "ImageUrl": "https://media.wired.com/photos/6a3c506b0e1573fd224c1987/191:100/w_1280,c_limit/USFW_BioVault.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:24:59"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Even the Internet’s Favorite Pool Guy Doesn’t Know How to Fix the Reflecting Pool",
-    "Link": "https://www.wired.com/story/internets-favorite-pool-guy-doesnt-know-how-to-fix-reflecting-pool/",
-    "ImageUrl": "https://media.wired.com/photos/6a39af34fec77bab93447d1b/191:100/w_1280,c_limit/GettyImages-2280988186.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:01"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Every Time Norway Scores at the World Cup the City of Bergen Trembles",
-    "Link": "https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/",
-    "ImageUrl": "https://media.wired.com/photos/6a3bed39f875943dad2ec17a/191:100/w_1280,c_limit/2282334280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:04"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "French Startup Uses Special Polymers to Better Help Nerves Heal",
-    "Link": "https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/",
-    "ImageUrl": "https://media.wired.com/photos/6a3b0f887b75838f8f0aa7ac/191:100/w_1280,c_limit/Startup-Using-Special-Polymers-Science-2158853453.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:07"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Towards Encrypted Large Language Models with FHE",
-    "Link": "https://huggingface.co/blog/encrypted-llm",
-    "ImageUrl": "https://huggingface.co/blog/assets/encrypted-llm/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease",
-    "Link": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
-    "ImageUrl": "https://huggingface.co/blog/assets/111_pytorch_ddp_accelerate_transformers/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:19"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
-    "Link": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
-    "ImageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:21"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "Link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "ImageUrl": "https://huggingface.co/blog/assets/ffasr-leaderboard/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:24"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Trace & Evaluate your Agent with Arize Phoenix",
-    "Link": "https://huggingface.co/blog/smolagents-phoenix",
-    "ImageUrl": "https://huggingface.co/blog/assets/smolagents-phoenix/thumbnail.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:26"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Reader's Top 5 Space Events of 2015",
-    "Link": "https://irishspaceblog.blogspot.com/2015/12/readers-top-5-space-events-of-2015.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkF8F02QnfOpOlIM64Yst1opPfu6BmwfCBhQ3abaV3rk0TewkVcF8a6r42AWsP0AaJJkOauComZ8w558bVNh3UrMT_nfT-hkEvrlo6oSeFTjVPWCmlDgHQPM9N17pyjMmjzmlx8ReqP3T/w1200-h630-p-k-no-nu/lunareclipse.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Solar Eclipse of the Heart",
-    "Link": "https://www.nasa.gov/image-detail/art002e009573/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009573orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "In Conversation with Astronaut Paolo Nespoli",
-    "Link": "https://irishspaceblog.blogspot.com/2017/07/in-conversation-with-astronaut-paolo.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCskG07THJdbgutX7YC5RKiN-KnLJCRZmLvLgot4qIjPPTmHjheIM93D3C8raMbgtinyULhbaVkw8pJ3ZlSg_FKbt6RN2w67TobbhNpnu7oHVE8yyiE0iL8n_3i1kmbYflI6Zku70R_nMe/w1200-h630-p-k-no-nu/Paolo+Nespoli+and+Cian+1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:41"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Millions of Stars in Cigar Galaxy",
-    "Link": "https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/55352876103-02b858152c-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II Flight Day 10: Crew Completes Final Burn Before Splashdown ",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-completes-final-burn-before-splashdown/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/reid-shows-photo-of-earth.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Pebalap HRI Avila Bahar Sapu Bersih Dua Kemenangan MTCC Malaysia 2026 Bersama HMRT",
-    "Link": "https://www.tribunnews.com/sport/7848618/pebalap-hri-avila-bahar-sapu-bersih-dua-kemenangan-mtcc-malaysia-2026-bersama-hmrt",
-    "ImageUrl": "https://asset.tribunnews.com/TveTDQbTZCp4RtQY_vNyCXV9dtI=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Performa-impresif-Avila-Bahar-di-Sepang.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-01 04:25:53"
-  },
-  {
-    "Topic": "General News",
-    "Title": "En Espagne, les autorités ont trois mois pour examiner les demandes d’un million de candidats à la régularisation",
-    "Link": "https://www.lemonde.fr/international/article/2026/06/30/en-espagne-les-autorites-ont-trois-mois-pour-examiner-les-demandes-d-un-million-de-sans-papiers-candidats-a-la-regularisation_6717319_3210.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pavillon_LouisXIV.svg/960px-Pavillon_LouisXIV.svg.png",
+    "Title": "North Carolina lawmakers approve tax overhaul affecting sports betting operators",
+    "Link": "https://readwrite.com/north-carolina-lawmakers-approve-tax-overhaul-sports-betting-operators/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/North_Carolina%27s_1st_congressional_district_%28since_2025%29.svg/960px-North_Carolina%27s_1st_congressional_district_%28since_2025%29.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-01 04:25:56"
+    "Date": "2026-07-02 04:22:39"
   },
   {
-    "Topic": "General News",
-    "Title": "Bétharram ferme cet été, ses élèves transférés à la rentrée",
-    "Link": "https://www.lemonde.fr/societe/article/2026/06/30/betharram-ferme-cet-ete-ses-eleves-transferes-a-la-rentree_6717335_3224.html",
+    "Topic": "Technology",
+    "Title": "Meta’s ‘prediction market plans’ draw attention as shares slip",
+    "Link": "https://readwrite.com/metas-prediction-market-plans-shares-slip/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-01 04:25:59"
+    "Date": "2026-07-02 04:22:42"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "New York orders statewide racetrack barn fire safety review after Saratoga Casino Hotel blaze",
+    "Link": "https://readwrite.com/new-york-racetrack-barn-fire-safety-review-saratoga-casino-hotel/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cea_Weaver_2019.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:22:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Meta ‘eyes its own exchange,’ more CFTC lawsuits, today in prediction market news LIVE",
+    "Link": "https://readwrite.com/meta-prediction-markets-cftc-lawsuits-news-live/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:22:49"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Faecal transplant makes the brains of old mice act young again",
+    "Link": "https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Elephant_feces_in_the_wildlife.jpg/960px-Elephant_feces_in_the_wildlife.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:22:56"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Your menstrual cycle may affect how well vaccines work",
+    "Link": "https://www.newscientist.com/article/2532245-your-menstrual-cycle-may-affect-how-well-vaccines-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:23:00"
+  },
+  {
+    "Topic": "Science",
+    "Title": "We’ve uncovered a master gene that switches on human development",
+    "Link": "https://www.newscientist.com/article/2531950-weve-uncovered-a-master-gene-that-switches-on-human-development/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:23:04"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Ancient gum disease may have helped reshape jaws before human brains expanded",
+    "Link": "https://phys.org/news/2026-07-ancient-gum-disease-reshape-jaws.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Paro1.JPG",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:23:08"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The weirdness of neutrinos could completely rewrite particle physics",
+    "Link": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Taner_Edis_at_TAM13_7-17-15.JPG/960px-Taner_Edis_at_TAM13_7-17-15.JPG",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:23:12"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How Agentic AI Data Integrity Powers ROI on Snowflake",
+    "Link": "https://www.precisely.com/blog/data-integrity/how-agentic-ai-data-integrity-powers-roi-on-snowflake/",
+    "ImageUrl": "https://www.precisely.com/wp-content/uploads/2024/12/2025-Planning-Insights-Data-Governance-Adoption-Has-Risen-Dramatically.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:23:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The latest AI news we announced in May 2026",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_social.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:23:25"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "MDM and AI: Why Master Data Management Is Key to Agentic-Ready Workflows",
+    "Link": "https://www.precisely.com/blog/master-data-management/mdm-and-ai-why-master-data-management-is-key-to-agentic-ready-workflows/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Iru_logo_%282025%29.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:23:38"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Agentic-Ready Location Intelligence: The Data Foundation Agentic AI Requires",
+    "Link": "https://www.precisely.com/blog/location-intelligence/agentic-ready-location-intelligence-the-data-foundation-agentic-ai-requires/",
+    "ImageUrl": "https://www.precisely.com/wp-content/uploads/2026/06/B_Blog_Agentic-Ready-Location-Intelligence-1024x684.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:23:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How the Precisely MCP Server Brings Location Intelligence Directly Into Your AI Workflows",
+    "Link": "https://www.precisely.com/blog/location-intelligence/precisely-mcp-server-brings-location-intelligence-directly-into-your-ai-workflows/",
+    "ImageUrl": "https://www.precisely.com/wp-content/uploads/2026/06/B_Blog_How-the-Precisely-MCP-Server-Brings-Loca.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:23:44"
   },
   {
     "Topic": "General News",
-    "Title": "Menyulap Limbah Pabrik Menjadi Miliaran Rupiah: Kisah BUMDes Kemudo Makmur Berhasil Menghidupi Warga",
-    "Link": "https://www.tribunnews.com/regional/7848620/menyulap-limbah-pabrik-menjadi-miliaran-rupiah-kisah-bumdes-kemudo-makmur-berhasil-menghidupi-warga",
-    "ImageUrl": "https://asset.tribunnews.com/rdR9_KAlGE-gxv5eCtr9wi5jsD0=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Gelar-Putri-ketika-mengawasi-pekerja-pengolahan-limbah-aval-di-BUMDes-Kemudo-Makmur.jpg",
+    "Title": "Andy Burnham says ‘nothing off table’ in case of Rochdale grooming gang leader",
+    "Link": "https://www.theguardian.com/politics/2026/jul/01/andy-burnham-says-nothing-off-table-in-case-of-rochdale-grooming-gang-leader",
+    "ImageUrl": "https://i.guim.co.uk/img/media/afd84fb8080c45805367e9d88f402e54ce2dc125/0_415_1586_1267/master/1586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cfa31578c23eb9ddd48abde64e7f9ac",
     "ImageSource": "og:image",
-    "Date": "2026-07-01 04:26:02"
+    "Date": "2026-07-02 04:23:53"
   },
   {
     "Topic": "General News",
-    "Title": "Polri Ungkap Alasan Hari Bhayangkara Digelar di Cikeas Bukan Monas",
-    "Link": "https://www.tribunnews.com/nasional/7848625/polri-ungkap-alasan-hari-bhayangkara-digelar-di-cikeas-bukan-monas",
-    "ImageUrl": "https://asset.tribunnews.com/cWlAtqZrilXQz9OeHe2dces3mEs=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Irjen-Pol-Johnny-Eddizon-Isir-Kepala-Divisi-Humas-Polri-jumpa-pers-di-Mabes-Polri-Jakarta.jpg",
+    "Title": "Cara Mengolah Ati Ampela Ayam Anti Bau Amis",
+    "Link": "https://www.merdeka.com/gaya/cara-mengolah-ati-ampela-ayam-anti-bau-amis-kln.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/21/1418557/540x270/cara-mengolah-ati-ampela-ayam-anti-bau-amis.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-01 04:26:04"
+    "Date": "2026-07-02 04:23:56"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+    "Link": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+    "ImageUrl": "https://i.guim.co.uk/img/media/f5f90f5bcbe9e5f984816e15175fd926b63386cd/565_0_4038_3231/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e17a3da83823471679ed9cf7a49d1c22",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:00"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+    "Link": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+    "ImageUrl": "https://i.guim.co.uk/img/media/bb1563467837e6c6eb332136fe7e0b0f6656f82a/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9260d4e9c7d840ab1b17f2c48a68abd",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases",
+    "Link": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+    "ImageUrl": "https://i.guim.co.uk/img/media/1f03bfe1131fabf1741b2b6a87e377855f96ef58/711_0_1616_1292/master/1616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034b9ddaf3eda42c98f2af6734483d6a",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "With a little help from our planet friends",
+    "Link": "https://www.planetary.org/the-downlink/with-a-little-help-from-our-planet-friends",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/psyche-crescent-mars.jpg?mtime=1779308641",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Asks For NEPA Comments But Says It Does Not Need To",
+    "Link": "https://nasawatch.com/2026/07/01/nasa-asks-for-nepa-comments-but-says-it-does-not-need-to/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/07/NASA-NEPA.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:17"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "What's keeping the Artemis astronauts safe?",
+    "Link": "https://www.planetary.org/articles/whats-keeping-the-artemis-astronauts-safe",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/artemis-ii-astronauts-white-room.jpg?mtime=1774435495",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:20"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "June research roundup: 6 cool science stories we almost missed",
+    "Link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-1152x648-1782840720.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:24"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The best images from Artemis II",
+    "Link": "https://www.planetary.org/articles/the-best-images-from-artemis-ii",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/earthset-artemis-ii.jpg?mtime=1775570063",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:27"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Hayley Kiyoko on Girls Like Girls and Celebrating Women’s Stories in Film",
+    "Link": "https://editorial.rottentomatoes.com/article/hayley-kiyoko-on-girls-like-girls-and-celebrating-womens-stories-in-film/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/06/Women_in_Focus_Hayley_Kiyoko-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:35"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The 163 Best Black Movies of the 21st Century",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-black-movies-21st-century/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/04/600Sinners5.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:37"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming",
+    "Link": "https://editorial.rottentomatoes.com/guide/popular-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/06/Toy_Story_5_600-1.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:41"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "60 Movies You Can Watch July 4th Weekend",
+    "Link": "https://editorial.rottentomatoes.com/guide/movies-to-watch-july-4/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/07/YOUNG-WASHINGTON-thumb.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:44"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Bear Season 5 First Reviews: An Intense, Entertaining, Satisfying Finale That Secures Its Legacy",
+    "Link": "https://editorial.rottentomatoes.com/article/the-bear-season-5-first-reviews/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/06/Bear_S5_Reviews-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:24:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Stratus Properties stock falls on Nasdaq delisting plan",
+    "Link": "https://www.investing.com/news/stock-market-news/stratus-properties-stock-falls-on-nasdaq-delisting-plan-93CH-4771571",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Frontera_Energy_Logo.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-02 04:24:53"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Moody’s affirms KLA stock rating, shifts outlook to positive on AI demand",
+    "Link": "https://www.investing.com/news/stock-market-news/moodys-affirms-kla-stock-rating-shifts-outlook-to-positive-on-ai-demand-93CH-4771631",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:24:56"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "BitGo stock gains after adding Robinhood Chain custody support",
+    "Link": "https://www.investing.com/news/stock-market-news/bitgo-stock-gains-after-adding-robinhood-chain-custody-support-93CH-4771591",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:24:59"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "S&P downgrades Dish DBS rating to D on bankruptcy filing",
+    "Link": "https://www.investing.com/news/stock-market-news/sp-downgrades-dish-dbs-rating-to-d-on-bankruptcy-filing-93CH-4771632",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-02 04:25:02"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand MPC Holds Rate at 1.0%, Lifts 2026 GDP Forecast to 2.3%",
+    "Link": "https://www.thailand-business-news.com/banking/317246-thailand-mpc-holds-rate-at-1-0-lifts-2026-gdp-forecast-to-2-3",
+    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/06/flash-mpc-maintains-policy-rate-as-anticipated-revises-economic.jpg?fit=945%2C630&#038;ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:05"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The ethereum.org Translatathon is back",
+    "Link": "https://blog.ethereum.org/en/2024/07/25/translatathon",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/2024/07/translatathon-hero-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:13"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "ETH Rangers Program Recap",
+    "Link": "https://blog.ethereum.org/en/2026/04/16/eth-rangers-recap",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:17"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The State of Eth2, June 2020",
+    "Link": "https://blog.ethereum.org/en/2020/06/02/the-state-of-eth2-june-2020",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/ef-update-01.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:20"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "SchellingCoin: A Minimal-Trust Universal Data Feed",
+    "Link": "https://blog.ethereum.org/en/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:24"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Geth v1.9.0",
+    "Link": "https://blog.ethereum.org/en/2019/07/10/geth-v1-9-0",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-02 04:25:28"
   }
 ]
