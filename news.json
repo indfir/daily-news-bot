@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Python Concepts Every AI Engineer Must Master",
-    "Link": "https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-python-concepts-every-ai-engineer-must-master.png",
+    "Topic": "Movies",
+    "Title": "Netflix’s 7-Part Fantasy Epic Is Guaranteed To Break A Streaming Record",
+    "Link": "https://screenrant.com/narnia-the-magicians-nephew-movie-netflix-box-office-record/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe_wkez9m.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:49:40"
+    "Date": "2026-07-06 03:52:25"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI as a research partner: Advancing theoretical computer science with AlphaEvolve",
-    "Link": "https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "All 7 YRF Spy Universe Movies, Ranked",
+    "Link": "https://collider.com/yrf-spy-universe-movies-ranked/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/pathaan-shah-rukh-khan.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:49:44"
+    "Date": "2026-07-06 03:52:29"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Accelerating scientific discovery with AI-powered Empirical Research Assistance",
-    "Link": "https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "10 Greatest War Movie Battle Scenes Of All Time, Ranked",
+    "Link": "https://screenrant.com/best-war-movie-battle-scenes-ranked/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/tom-hanks-captain-miller-and-edward-burns-reiben-lie-on-the-trenches-while-saving-private-ryan.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:49:46"
+    "Date": "2026-07-06 03:52:32"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "From pixels to planning: Earth AI for nature restoration",
-    "Link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "10 Prestige TV Shows That Are A Masterclass In Storytelling",
+    "Link": "https://screenrant.com/prestige-tv-shows-masterclass-storytelling/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-leftovers.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:49:51"
+    "Date": "2026-07-06 03:52:36"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
-    "Link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "Netflix Officially Finds Its Next Global Hit With This 8-Part Teen Thriller",
+    "Link": "https://collider.com/oasis-netflix-elite-replacement-streaming-success-july-2026/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/oasis-netflix-season-1-1.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:49:54"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-    "Link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?resize=1200,675",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:10"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-    "Link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?resize=1200,675",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:12"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-    "Link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?resize=1200,800",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "Link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-    "Link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?resize=1200,800",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:21"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "India's Godrej Consumer expects volume-driven first-quarter revenue rise",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-132163199,width-1200,height-630,imgsize-43438,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:31"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "IPO Calendar: Mainboard IPO of Kusumgar among 3 new public offers on investors' radar next week",
-    "Link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-mainboard-ipo-of-kusumgar-among-3-new-public-offers-on-investors-radar-next-week/articleshow/132177446.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-132177759,width-1200,height-630,imgsize-1787300,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:34"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Retail investors bet on these 10 small-cap stocks; they rally up to 185% in 3 months",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-bet-on-these-10-small-cap-stocks-they-rally-up-to-185-in-3-months/slideshow/132178345.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-132178345,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Explained: How India's bond market became more accessible over the last 10 years",
-    "Link": "https://economictimes.indiatimes.com/markets/bonds/explained-how-indias-bond-market-became-more-accessible-over-the-last-10-years/articleshow/132175043.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-132175044,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:43"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Reliance market value now equals India's top five IT companies combined",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-market-value-now-equals-indias-top-five-it-companies-combined/articleshow/132175237.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-132175243,width-1200,height-630,imgsize-34218,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:46"
-  },
-  {
-    "Topic": "General News",
-    "Title": "¡Rugen los Leones del Atlas! Soufiane Rahimi sentencia el 0-3 de Marruecos sobre Canadá",
-    "Link": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/rugen-los-leones-del-atlas-soufiane-rahimi-sentencia-el-0-3-de-marruecos-sobre-canada-tmvo13200508",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/551/59/46956438130-1080pnbcstations.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "India Tawarkan Rudal Hipersonik BrahMos ke Indonesia, Proses Negosiasi Makin Maju",
-    "Link": "https://www.tribunnews.com/nasional/7850319/india-tawarkan-rudal-hipersonik-brahmos-ke-indonesia-proses-negosiasi-makin-maju",
-    "ImageUrl": "https://asset.tribunnews.com/XIYfxU3zEPgP5VFyz_CDThcYqfM=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Rudal-Brahmos-buatan-Brahmos-Aerospace-OK.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:55"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Pengamat: PDIP-PSI Masih Saling Serang di Tataran Simbol, Harusnya Kritisi Warisan Kebijakan Jokowi",
-    "Link": "https://www.tribunnews.com/nasional/7850304/pengamat-pdip-psi-masih-saling-serang-di-tataran-simbol-harusnya-kritisi-warisan-kebijakan-jokowi",
-    "ImageUrl": "https://asset.tribunnews.com/LZiG2ZtS7WyWOCDIN3IAblHF1VA=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Iskandar-Sitorus-usai-pemeriksaan-sebagai-saksi-di-Gedung-KPK.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Piala AFF 2026 Jadi Momentum Timnas Indonesia Rebut Hati Suporter Lagi",
-    "Link": "https://www.tribunnews.com/superskor/7850311/piala-aff-2026-jadi-momentum-timnas-indonesia-rebut-hati-suporter-lagi",
-    "ImageUrl": "https://asset.tribunnews.com/ERWkj_KCyAIvkH4fwMB4iI5hvIo=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/PERSIAPAN-PIALA-AFF-Ketua-Badan-Tim-Nasional-BTN-PSSI-Sumardji.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:50:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address",
-    "Link": "https://www.nbcnews.com/politics/politics-news/mamdani-offers-contrast-trumps-vision-america-250th-anniversary-addres-rcna352868",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260703-mamdani-mb-1631-09f517.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:02"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The enigmatic summer phenomenon shining from the edge of space",
-    "Link": "https://www.theguardian.com/news/2026/jun/01/enigmatic-summer-phenomenon-noctilucent-clouds",
-    "ImageUrl": "https://i.guim.co.uk/img/media/9b2430327c71a4af2704d458a69360cd485daed0/228_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42b5bdd93694ff8a5bcb82130678aed4",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:10"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Nasa unveils astronaut crew for Artemis III mission – video",
-    "Link": "https://www.theguardian.com/science/video/2026/jun/09/nasa-unveils-astronaut-crew-for-artemis-iii-mission-video",
-    "ImageUrl": "https://i.guim.co.uk/img/media/ff018224e4e93fa5d5a56f4405e4b8f0d361c593/298_0_3176_2540/master/3176.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=601927c5570236cb71bfa0e6b57b3cc1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "OIG Has Issues With Commercial Crew",
-    "Link": "https://nasawatch.com/2026/06/30/oig-has-issues-with-commercial-crew/",
-    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/06/NASA-IG-CRew.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Crew Splits Day Between Relaxing, Spacesuit Work, and Cardiac Research",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/07/01/crew-splits-day-between-relaxing-spacesuit-work-and-cardiac-research/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/iss074e0788090/iss074e0788090~large.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "What is a blue micromoon and when is the best time to see it this weekend?",
-    "Link": "https://www.theguardian.com/science/2026/may/30/what-is-rare-blue-micromoon",
-    "ImageUrl": "https://i.guim.co.uk/img/media/fd8eede86823b271afb711918275b912e600c906/380_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cca9f5d1171156e8e4e7319b3d4b9de8",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:22"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Quantum computing startup says it will leapfrog everybody",
-    "Link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-1152x648.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:30"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Editorial: It's time to step up and have your say for science",
-    "Link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2203858255-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:33"
-  },
-  {
-    "Topic": "Science",
-    "Title": "New effort will get genome sequences for entire Endangered Species list",
-    "Link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-95576626-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:35"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why did this journal retract two 1940s papers by Max Planck? [UPDATED]",
-    "Link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/maxplanck-1152x648-1782657031.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:39"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
-    "Link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-579216572-2560x1440.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:51:44"
+    "Date": "2026-07-06 03:52:40"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Standard Chartered wins MiCA passport as EU approves 57 firms",
-    "Link": "https://crypto.news/standard-chartered-wins-mica-passport-amid-57-firms/",
-    "ImageUrl": "https://media.crypto.news/2025/03/crypto-news-MiCA-delivers-stablecoins-option04.webp",
+    "Title": "Ethereum Holds Lead as NFT Weekly Sales Jump 6.72% to $128.65M",
+    "Link": "https://webscrypto.com/ethereum-holds-lead-as-nft-weekly-sales-jump-6-72-to-128-65m/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-9.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:52:02"
+    "Date": "2026-07-06 03:52:54"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Gnosis Pay reveals hidden flaw behind $1.5 million crypto hack",
-    "Link": "https://crypto.news/gnosis-pay-reveals-hidden-flaw-behind-1-5-million-hack/",
-    "ImageUrl": "https://media.crypto.news/2025/10/crypto-news-hacker-coder-security-option02.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:52:05"
+    "Title": "Cardano Climbs 11% In a Green Day",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-11-in-a-green-day-4775298",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mussolini_1945_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:52:58"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Forget Bitcoin; XRP holders could earn up to $7,000 per day after ETF inflows",
-    "Link": "https://crypto.news/forget-bitcoin-xrp-holders-could-earn-up-to-7000-per-day-after-etf-inflows/",
-    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option05.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-05 03:52:08"
+    "Title": "Bitcoin slips as institutional inflows, corporate strategies remain in focus",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:53:02"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Why bitcoin's disconnect from record-high stocks won't last",
-    "Link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7a39a5a5c2bfa63c4f773a6ab3f70e9634da4f5e-6960x4640.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+    "Title": "Bitcoin: Corrective Channel Broken as Traders Turn More Active",
+    "Link": "https://fxopen.com/blog/en/al-bitcoin-corrective-channel-broken-as-traders-turn-more-active/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/06/Bitcoin-2-1.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:52:12"
+    "Date": "2026-07-06 03:53:06"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Ethereum price targets $1,800 after rare TD buy signal",
-    "Link": "https://crypto.news/ethereum-price-targets-1800-after-rare-td-buy-signal/",
-    "ImageUrl": "https://media.crypto.news/2026/06/ETHnew.webp",
+    "Title": "XRP Breaks $3 for First Time in Weeks as Ripple-BBVA Deal Fuels Optimism",
+    "Link": "https://webscrypto.com/xrp-breaks-3-for-first-time-in-weeks-as-ripple-bbva-deal-fuels-optimism/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-2.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-05 03:52:15"
+    "Date": "2026-07-06 03:53:10"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why McLaren is hyping AI on its Formula 1 car",
+    "Link": "https://www.fastcompany.com/91566830/why-mclaren-is-putting-ai-on-its-formula-1-car?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=13&partner=newsletter&campaign_date=07052026",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/960px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:53:23"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The secret AI that could help explain this wild World Cup",
+    "Link": "https://www.fastcompany.com/91567473/the-secret-ai-that-could-help-explain-this-wild-world-cup?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=1&partner=newsletter&campaign_date=07052026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-06 03:53:27"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Commvault brings its full suite of data backup and resilience capabilities to Google Cloud",
+    "Link": "https://siliconangle.com/2026/04/22/commvault-brings-full-suite-data-backup-resilience-capabilities-google-cloud/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-from-2026-04-22-08-31-02.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Lium raises $5.5M to unlock complex scientific data for AI models",
+    "Link": "https://siliconangle.com/2026/06/10/lium-raises-5-5m-unlock-complex-scientific-data-ai-models/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-10-09-59-54.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:34"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Datadog debuts Experiments to unify product testing and observability data",
+    "Link": "https://siliconangle.com/2026/04/02/datadog-debuts-experiments-unify-product-testing-observability-data/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Datadog.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:37"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
+    "Link": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/",
+    "ImageUrl": "https://media.wired.com/photos/6a4558d767fdeb11005ae06d/191:100/w_1280,c_limit/Heat-Domes-Are-Dangerous-Science-2158401574.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:45"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Gemini Spark updates: macOS launch, connected apps and more",
+    "Link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:49"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
+    "Link": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
+    "ImageUrl": "https://media.wired.com/photos/6a3e91c52a254c7dcc47c3d6/191:100/w_1280,c_limit/GettyImages-160936161.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:51"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Unlock deeper insights for YouTube brand campaigns.",
+    "Link": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-1440x810.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:55"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+    "Link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+    "ImageUrl": "https://media.wired.com/photos/6a4578b359073610a9b6b035/191:100/w_1280,c_limit/seleccionnacional.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:53:58"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A whopping 14 million species of insects — or more — may roam Earth",
+    "Link": "https://www.sciencenews.org/article/insects-species-estimate-earth",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062926_EG_insects_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:07"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Giant, deep-sea roly-polies steal a gene to endure starvation",
+    "Link": "https://www.sciencenews.org/article/big-deep-roly-polies-endure-starvation",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062326_JB_isopods_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:12"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A new species of walking shark has been found in Papua New Guinea",
+    "Link": "https://www.sciencenews.org/article/new-species-walking-shark-dudgeon",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062426_BR_walkingshark_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:15"
+  },
+  {
+    "Topic": "Science",
+    "Title": "New science on algae die-offs is too late for the Reflecting Pool",
+    "Link": "https://www.sciencenews.org/article/algae-die-offs-reflecting-pool",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062526_BB_algae_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:18"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A discovery about this bat’s diet was hiding in a Renaissance painting",
+    "Link": "https://www.sciencenews.org/article/discover-bat-diet-renaissance-painting",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/06/062926_BB_batart_main_rev1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:21"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Vingegaard takes yellow jersey as Tour de France begins in Barcelona",
+    "Link": "https://www.france24.com/en/vingegaard-takes-yellow-jersey-as-tour-de-france-begins-in-barcelona",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Gaudu%2C_Tadej_Poga%C4%8Dar%2C_Jonas_Vingegaard%2C_2023_Paris-Nice_%2852929456925%29_%28cropped2%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:54:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Could islamist fighters take Timbuktu?",
+    "Link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/MaliWar.svg/960px-MaliWar.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:54:35"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Why Iran's unseen leader remains in the shadows",
+    "Link": "https://www.france24.com/en/tv-shows/spotlight/20260705-why-iran-s-unseen-leader-remains-in-the-shadows",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/960px-Emblem_of_Iran.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:54:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Tips Hubungan LDR Tetap Harmonis",
+    "Link": "https://www.merdeka.com/gaya/tips-hubungan-ldr-tetap-harmonis-kln.html",
+    "ImageUrl": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/03/31/1422263/540x270/tips-hubungan-ldr-tetap-harmonis.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:42"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+    "Link": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:54:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global stocks mostly rise as beaten-down tech enjoys bounce",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-mostly-rise-as-beaten-down-tech-enjoys-bounce/articleshow/132174242.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-132174250,width-1200,height-630,imgsize-126437,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:55"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Top picks! Redington among 5 stocks with upside potential of up to 27%. Do you own any?",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/top-picks-redington-among-5-stocks-with-upside-potential-of-up-to-27-do-you-own-any/slideshow/132176857.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-132176857,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:54:59"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Explained: Why aluminium is emerging as manufacturers' preferred alternative to copper",
+    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-aluminium-is-emerging-as-manufacturers-preferred-alternative-to-copper/articleshow/132176242.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-132176232,width-1200,height-630,imgsize-251012,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:55:02"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Vedanta among top 5 stocks with lowest price-to-earnings ratio. Check details",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-among-top-5-stocks-with-lowest-price-to-earnings-ratio-check-details/slideshow/132175808.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-132175808,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:55:06"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Moneyview, Chandan Steel get Sebi's approval for IPOs",
+    "Link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moneyview-chandan-steel-get-sebis-approval-for-ipos/articleshow/132163475.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-132163475,width-1200,height-630,imgsize-39326,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:55:10"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Rescue mission launches to save NASA telescope that's falling back to Earth",
+    "Link": "https://phys.org/news/2026-07-mission-nasa-telescope-falling-earth.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Testing_for_the_Katalyst-NASA_Swift_Boost_Mission_%28SVS15044_-_Testing_Link_-_Thermal_Vacuum_Testing-2%29_%28cropped%29.jpg/960px-Testing_for_the_Katalyst-NASA_Swift_Boost_Mission_%28SVS15044_-_Testing_Link_-_Thermal_Vacuum_Testing-2%29_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:55:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA's Hubble spots star-spangled cosmic scene",
+    "Link": "https://phys.org/news/2026-07-nasa-hubble-star-spangled-cosmic.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/960px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:55:22"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "What makes a star a star? A strange 'in‑between' celestial object is testing astronomers' boundaries",
+    "Link": "https://phys.org/news/2026-07-star-strange-inbetween-celestial-astronomers.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-06 03:55:26"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Lunar Exploration Update",
+    "Link": "https://nasawatch.com/2026/06/30/nasa-lunar-exploration-update/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/06/unnamed.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-06 03:55:29"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "XMM-Newton and Chandra help revise distance to Milky Way's outer spiral arms",
+    "Link": "https://phys.org/news/2026-07-xmm-newton-chandra-distance-milky.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ESA_XMM-Newton.svg/960px-ESA_XMM-Newton.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-06 03:55:33"
   }
 ]
