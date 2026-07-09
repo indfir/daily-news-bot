@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "Starwatch: Sliver of moon and bright Venus create delightful twilight conjunction",
-    "Link": "https://www.theguardian.com/science/2026/jun/15/starwatch-sliver-of-moon-and-bright-venus-create-delightful-twilight-conjunction",
-    "ImageUrl": "https://i.guim.co.uk/img/media/56bac23c76f89d5438036ff81859d4679df36bac/652_227_1061_849/master/1061.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=060f533096542af0cc29bb0fb6ed63fa",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:00:48"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Starwatch: Waning crescent moon pairs up with the Seven Sisters",
-    "Link": "https://www.theguardian.com/science/2026/jul/06/starwatch-waning-crescent-moon-pairs-up-with-the-seven-sisters",
-    "ImageUrl": "https://i.guim.co.uk/img/media/fe3831c94c0e1f3efe5c7b1cb0bc8c21391411e8/304_6_657_526/master/657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56adb952a7d670a501e64687c9b1fbe6",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:00:50"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Captured a Ghostly Halo Over the Pacific, Created by Tiny Organisms With a Deadly Double Life",
-    "Link": "https://dailygalaxy.com/2026/07/chatham-islands-turquoise-phytoplankton-bloom-satellite-image/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aschgraues.Mondlicht.P1162513.jpg/960px-Aschgraues.Mondlicht.P1162513.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-09 04:00:53"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "JWST Reveals a Giant Barred Spiral Galaxy That Already Existed Just 1.2 Billion Years After the Big Bang",
-    "Link": "https://dailygalaxy.com/2026/07/jwst-discovers-giant-barred-spiral-galaxy/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-09 04:00:56"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Interstellar comet may be oldest object seen in our solar system, scientists say",
-    "Link": "https://www.theguardian.com/science/2026/jun/22/interstellar-comet-may-be-oldest-object-seen-in-our-solar-system-research-finds",
-    "ImageUrl": "https://i.guim.co.uk/img/media/1d715497446687f1ed1150a28cf56a7311a785a6/51_0_1179_943/master/1179.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c78e385cb05962a335029130de74f765",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:00:58"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "CNBC: The US wants to restrict corporate use of Chinese AI",
-    "Link": "https://www.engadget.com/2210340/us-reportedly-wants-to-restrict-corporate-use-chinese-ai/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/cnbc-the-us-wants-to-restrict-corporate-use-of-chinese-ai/l-intro-1783509013.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Amazon is reportedly working on a more powerful agentic Alexa assistant",
-    "Link": "https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/l-intro-1783528237.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "PC shipments just fell for the first time in two years, thanks to the memory shortage",
-    "Link": "https://www.engadget.com/2210856/pc-shipments-just-fell-for-the-first-time-in-two-years-thanks-to-the-memory-shortage/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/pc-shipments-just-fell-for-the-first-time-in-two-years-thanks-to-the-memory-shortage/l-intro-1783537188.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:21"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Apple reportedly testing RAM chips from US-blocked Chinese company",
-    "Link": "https://www.engadget.com/2210342/apple-reportedly-testing-chinese-dram-cxmt/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/apple-reportedly-starts-testing-memory-chips-from-us-blacklisted-company/l-intro-1783509177.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:24"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google announces new 'Video Remix' feature its for AI subscribers",
-    "Link": "https://www.engadget.com/2210417/google-announces-new-video-remix-feature-for-ai-subscribers/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/google-announces-new-video-remix-feature-its-for-ai-subscribers/l-intro-1783516961.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:26"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Solana News: Solana Hits $5.77B Tokenized Asset Volume in Q2 2026 All-Time High",
-    "Link": "https://cryptonews.com/news/news-tokenized-equities-solana-q2-2026-record-volume/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-09 04:01:34"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "US-Iran Strikes and $7.7B Stablecoin Exit Put Bitcoin at $62,870",
-    "Link": "https://cryptonews.com/news/us-iran-tensions-bitcoin-price-stablecoin-contraction/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2026_protests_in_Neyshabur.jpg/960px-2026_protests_in_Neyshabur.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-09 04:01:37"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum Price Stabilizes as Tether Burns $2.5 Billion USDT Stablecoins",
-    "Link": "https://cryptonews.com/news/ethereum-price-tether-usdt-burn/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-09 04:01:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Elon Musk Grok AI Predicts Incredible XRP Price Target by End of 2026",
-    "Link": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-incredible-xrp-price-target-by-end-of-2026/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Grok_chatbot_example_screenshot.webp",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-09 04:01:42"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Eric Trump Doubles Down on Crypto as American Bitcoin Amasses 8,000 BTC",
-    "Link": "https://cryptonews.com/news/american-bitcoin-crypto-eric-trump-btc-price/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Trump-Epstein_Friendship_Month_Statues.jpg/960px-Trump-Epstein_Friendship_Month_Statues.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-09 04:01:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
-    "Link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html",
-    "ImageUrl": "https://images.tagesschau.de/image/ec17087b-846e-44ef-ad82-9c97bf358e54/AAABn0IMtN8/AAABnSSvrFg/16x9-big/nato-gipfel-220.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
-    "Link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/797334d6-7d9f-44a3-b1d7-2dc0265fe89c/AAABn0Nhmo4/AAABnSSvrFg/16x9-big/nato-gipfel-230.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:01:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Die zentralen Punkte der NATO-Erklärung",
-    "Link": "https://www.tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/86f09b33-15c7-4a54-94eb-1ec049f5f53c/AAABn0J5ELU/AAABnSSvrFg/16x9-big/nato-gipfel-222.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Millionen-Geschäft mit illegalen Online-Casinos",
-    "Link": "https://www.tagesschau.de/investigativ/br-recherche/illegal-online-casino-gluecksspiel-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/d8fa81fe-92ba-4b9c-849d-2a5efe1e5da6/AAABnzyqARw/AAABnSSvrFg/16x9-big/gluecksspiel-smartphone-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:04"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Wie Windräder beim Waldumbau helfen können",
-    "Link": "https://www.tagesschau.de/wissen/klima/windraeder-helfen-beim-waldumbau-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/f783e081-69ad-4207-8402-17ce5b1397c4/AAABnzbyI9Q/AAABnSSvrFg/16x9-big/windraeder-216.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:07"
-  },
-  {
-    "Topic": "Science",
-    "Title": "How menopause radically changes the brain – and what happens after",
-    "Link": "https://www.newscientist.com/article/2529751-how-menopause-radically-changes-the-brain-and-what-happens-after/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:15"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A quantum state that lasts forever may finally be within our grasp",
-    "Link": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/16102025/SEI_301079228.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:17"
-  },
-  {
-    "Topic": "Science",
-    "Title": "How some people's brains make an extraordinary recovery from stroke",
-    "Link": "https://www.newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-09 04:02:20"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists stunned as bumble bees solve a classic intelligence test",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/bumble-bee-problem-solving-experiment.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:22"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260625060220.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/tsunami-destruction-fukushima-japan.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:25"
-  },
-  {
     "Topic": "Data / AI",
-    "Title": "The Ideal AI Device",
-    "Link": "https://www.artificial-intelligence.blog/ai-news/the-ideal-ai-device",
-    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/69263642ac202a0119374486/1764111938657/ai-blog-the-ideal-ai-device.jpg?format=1500w",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:37"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Building an Intelligent Chatbot with Qwen3 Instruct and Thinking Models",
-    "Link": "https://pyimagesearch.com/2026/06/29/building-an-intelligent-chatbot-with-qwen3-instruct-and-thinking-models/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/06/building-intelligent-chatbot-qwen3-instruct-thinking-models-featured.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:39"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "We Live in an AI-First World",
-    "Link": "https://www.artificial-intelligence.blog/ai-news/we-live-in-an-ai-first-world",
-    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/68a345b838562859d9f2d8ab/1755530680310/ai-blog-ai-first-world.jpg?format=1500w",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:43"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Using AI to identify genetic variants in tumors with DeepSomatic",
-    "Link": "https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/",
+    "Title": "Teaching Gemini to spot exploding stars with just a few examples",
+    "Link": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/",
     "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:46"
+    "Date": "2026-07-10 04:17:46"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Exploring a space-based, scalable AI infrastructure system design",
-    "Link": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
+    "Title": "Evaluating alignment of behavioral dispositions in LLMs",
+    "Link": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
     "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:02:49"
+    "Date": "2026-07-10 04:17:49"
   },
   {
-    "Topic": "Economy",
-    "Title": "Accor taps Goldman for Ennismore US IPO - Bloomberg",
-    "Link": "https://www.investing.com/news/stock-market-news/accor-taps-goldman-for-ennismore-us-ipo--bloomberg-93CH-4782460",
+    "Topic": "Data / AI",
+    "Title": "A differentially private framework for gaining insights into AI chatbot use",
+    "Link": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:17:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Improving breast cancer screening workflows with machine learning",
+    "Link": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:17:55"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+    "Link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:00"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "Link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2dxu1k2dx.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Skill Level Of Young Developers Is Dropping. And Barely Anyone Wants To Admit It.",
+    "Link": "https://dev.to/josaphatstar/the-skill-level-of-young-developers-is-dropping-and-barely-anyone-wants-to-admit-it-1ff",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1663075847012-c781e0d194ce%3Fq%3D80%26w%3D1170%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How I Built a Local AI Orchestrator and City AI: My Journey as a Developer",
+    "Link": "https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffmt9h0wmxt1ailqoft42.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:23"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Create shareable video clips in seconds with Video Remix in Google Photos.",
+    "Link": "https://blog.google/products-and-platforms/products/photos/video-remix/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/05_Google_Photo_Video_Remix_Social_Share.max-1440x810.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:25"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
+    "Link": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:28"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Data Scientists Are Becoming AI Managers, Not Model Builders",
+    "Link": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/Rosidi_Data-Scientists-Becoming-AI-Managers_1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:35"
+  },
+  {
+    "Topic": "Science",
+    "Title": "What is a Lagrangian used for in physics?",
+    "Link": "https://www.scientificamerican.com/article/what-is-a-lagrangian-used-for-in-physics/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/6308e448-908d-43e1-994e-257bcee7ecf3/Solar-system-Lagangrian.jpg?m=1782226858.058&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Earth is home to 20 million insect species—three times more than we thought",
+    "Link": "https://www.scientificamerican.com/article/earth-is-home-to-20-million-insect-species-three-times-more-than-we-thought/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/f7251e64-7648-4ec5-8af4-3701ca24d09b/sa0125Adva08.jpg?m=1782930187.88&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:41"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Archaeologists uncover new history from the Battle of Bunker Hill, the first major battle of the American Revolution",
+    "Link": "https://www.scientificamerican.com/article/archaeologists-uncover-new-history-from-the-battle-of-bunker-hill-the-first-major-battle-of-the-american-revolution/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/f6951b48-e119-4719-9504-c55d1d04dc50/bunker-hill-web.jpg?m=1783017539.292&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:44"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs",
+    "Link": "https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/",
+    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/compare_letterpress_drawer_4140925_v3_card.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:18:46"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Video shows moment man throws yogurt on two women in Iran",
+    "Link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402034756-01-yogurt-attack-iran-040223.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:00"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+    "Link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403095141-01-lionel-messi-booed-psg-040223.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:03"
+  },
+  {
+    "Topic": "General News",
+    "Title": " Extreme heat and weather conditions attributed to stagnant jet stream ",
+    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream/",
+    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240798.jpg?v=3.1",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:07"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Man rides out tornado inside van. See the footage",
+    "Link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402065239-man-inside-van-tornado-little-rock-arkansas.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her ",
+    "Link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403100256-03-ncaa-angel-reese-caitlin-clark-040223.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:13"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SETI may have missed alien signals because of space weather",
+    "Link": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-09 04:02:57"
+    "Date": "2026-07-10 04:19:21"
   },
   {
-    "Topic": "Economy",
-    "Title": "Iperindo Gandeng Galangan Kapal Rusia, Bidik Alih Teknologi dan Pasar Ekspor",
-    "Link": "https://ekonomi.republika.co.id/berita/thuxss416/iperindo-gandeng-galangan-kapal-rusia-bidik-alih-teknologi-dan-pasar-ekspor",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_260708200900-356.png",
+    "Topic": "Astronomy",
+    "Title": " Chinese scientists find the best way to nuke an asteroid on its way to impact Earth ",
+    "Link": "https://www.space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/VWEMPYGUcRzb6ti9WB7AnH-2000-80.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:00"
+    "Date": "2026-07-10 04:19:23"
   },
   {
-    "Topic": "Economy",
-    "Title": "Direksi AMMN Ramai-Ramai Tambah Kepemilikan Saham",
-    "Link": "https://ekonomi.republika.co.id/berita/thuo4z416/direksi-ammn-ramairamai-tambah-kepemilikan-saham",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/smelter-amman_251102115752-179.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:04"
+    "Topic": "Astronomy",
+    "Title": "Largest ever map of universe captures 47 million galaxies and quasars",
+    "Link": "https://www.newscientist.com/article/2520008-largest-ever-map-of-universe-captures-47-million-galaxies-and-quasars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-10 04:19:26"
   },
   {
-    "Topic": "Economy",
-    "Title": "Trump promises Philadelphia gas discounts ahead of July 4, claims oil prices are 'plummeting'",
-    "Link": "https://www.foxbusiness.com/economy/trump-promises-philadelphia-gas-discounts-ahead-july-4-claims-oil-prices-plummeting",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/gas-pump.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:08"
+    "Topic": "Astronomy",
+    "Title": "Ann Leckie continues to shine with new sci-fi novel Radiant Star",
+    "Link": "https://www.newscientist.com/article/mg27035931-800-ann-leckie-continues-to-shine-with-new-sci-fi-novel-radiant-star/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-10 04:19:29"
   },
   {
-    "Topic": "Economy",
-    "Title": "10 reasons to be bullish on America's economy as the nation turns 250 years old",
-    "Link": "https://www.foxbusiness.com/economy/10-reasons-bullish-americas-economy-nation-turns-250-years-old",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/wall-street-american-flag-people-getty.jpg?ve=1&amp;tl=1",
+    "Topic": "Astronomy",
+    "Title": " More clues surface about the origins of interstellar comet 3I/ATLAS ",
+    "Link": "https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/epvWQajZBgjE4vYbwKeNB4-2000-80.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:11"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Reboots Wishlist, with Columnist Off the Cuff Tom",
-    "Link": "https://www.aintitcool.com/off-the-cuff-tom-lists-top-5-reboots-wishlist-83655/?utm_source=full-feed&utm_medium=feed&utm_term=animation",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/gargoyles_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:19"
+    "Date": "2026-07-10 04:19:31"
   },
   {
     "Topic": "Movies",
-    "Title": "Zendaya and Anne Hathaway Dazzle at ‘The Odyssey’ Premieres and More Celeb Red Carpet Photos: July 2026",
-    "Link": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-july-2026/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/PicFrame-84552A69-4BA0-4B61-A729-A677ACA05257.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Title": "Is ‘Evil Dead Burn’ Streaming on Netflix or HBO Max?",
+    "Link": "https://decider.com/2026/07/09/watch-evil-dead-burn-streaming-netflix-amazon-prime-video/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/watch-evil-dead-burn-streaming.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:22"
+    "Date": "2026-07-10 04:19:38"
   },
   {
     "Topic": "Movies",
-    "Title": "Sundance Film Festival, International Federation of Film Critics Establish Jury to Assess Movies From First-Time Foreign Directors (EXCLUSIVE)",
-    "Link": "https://variety.com/2026/film/markets-festivals/sundance-international-federation-film-critics-jury-1236804288/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/Fipresci-e1783516855953.webp?w=1000&#038;h=563&#038;crop=1",
+    "Title": "It's Official, Alan Ritchson's Batman Casting Can Finally Happen",
+    "Link": "https://screenrant.com/alan-ritchson-absolute-batman-animated-series-fancast/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/ordinary-angels_exwlix.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:24"
+    "Date": "2026-07-10 04:19:41"
   },
   {
     "Topic": "Movies",
-    "Title": "‘Evil Dead Burn’ Review: The Gonzo Comedy Is Gone, but the Series’ Sixth Entry Is an Effective Piece of Gross-Out Guignol",
-    "Link": "https://variety.com/2026/film/reviews/evil-dead-burn-review-1236802737/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/evil-dead.webp?w=1000&#038;h=563&#038;crop=1",
+    "Title": "Is ‘Gail Daughtry and the Celebrity Sex Pass’ Streaming on Netflix or Amazon Prime Video?",
+    "Link": "https://decider.com/2026/07/09/watch-gail-daughtry-and-the-celebrity-sex-pass-movie-streaming-netflix-amazon-prime-video/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/watch-gail-daughtry-movie-streaming.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:27"
+    "Date": "2026-07-10 04:19:43"
   },
   {
     "Topic": "Movies",
-    "Title": "Focus Features Acquires Andrew Scott’s Ian Charleson Biopic ‘Elsinore,’ Eyes Fall Release and Festival Bow (EXCLUSIVE)",
-    "Link": "https://variety.com/2026/film/awards/focus-features-elsinore-andrew-scott-acquisition-1236801625/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/2-Split-3x2-4.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Title": "31 Years Later, Matthew Rhys Achieves A Rare Emmy Feat",
+    "Link": "https://screenrant.com/matthew-rhys-emmy-double-acting-award-nomination/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/matthew-rhys-emmy.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-07-09 04:03:29"
+    "Date": "2026-07-10 04:19:46"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Every Character Recast For Disney's Moana Live-Action Remake",
+    "Link": "https://screenrant.com/disney-moana-live-action-characters-recast/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/moana-steering-and-smiling-in-new-live-action-disney-remake.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:48"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ripple Beats Europe's Crypto Deadline by 8 Days - Most Competitors Won't Make It",
+    "Link": "https://www.globalcryptopress.com/2026/06/ripple-beats-europes-crypto-deadline-by.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjUrXbQPfJ6E1nuZ50qJ-lQQJKnf-ikmr1ubH9CxuayFN-5tReAQwdVFj7RLOqAtZEQn1rRD1skTspOd8i06gGomlAyCJnxMpW6WTYHnVyNY-9785aokkf_QvrKK98ZYwlvn2OouLT0Kl_8AX2PkbQIOFktPAngpLHrZg60QvZA0Lwa1VbokiUBl-eXdzky=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pump.fun's New 'Pay Anyone to Do Anything' Platform Is Already Drawing 'Black Mirror' Comparisons - and a NY Governor Wants It Banned",
+    "Link": "https://www.globalcryptopress.com/2026/06/pumpfuns-new-pay-anyone-to-do-anything.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEikugYGoaOVFoI1YfexWsQT_vZY2nYLRV-rsAeoYrc06sJX0UE_M9hJF0RtCvExyOz05iEhzf9-hYOUAoHdp_SutAMJDJpSUKGf4IkfJtWDjW2IuIb4XxB3Gnz83ObPE2Lo2VbBY9Vxp_pQ6bEQMVs0_08essIszuZPMGxlcDVsyGQbK2emmTdNm79zcaRF=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:19:59"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "USDPT is available for trading!",
+    "Link": "https://blog.kraken.com/product/asset-listings/usdpt-is-available-for-trading",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/07/image-13-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:20:01"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Kraken Pro fee tiers now reward what you hold, not just what you trade",
+    "Link": "https://blog.kraken.com/product/pro/new-kraken-pro-fee-tiers",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/07/Blog_3070x1400-3-1024x467.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:20:03"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "UFC Just Paid their Fighters in a Trump-Family Stablecoin - on the White House Lawn",
+    "Link": "https://www.globalcryptopress.com/2026/06/ufc-just-paid-their-fighters-in-trump.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEikFU5reNDGhI007puFv7-PXh-EesUtw5nxQxWRdvCCUU25NC3TpAzXLGV49ushWDNw3H9HLOilfKzOk4lmWVVCPOIxTAA5rQCu7oMncGZg0DtDwsP4Umqnkiclkj3ACiR2JJ72t21wufv7WrNCyzeWdfK7x9XyT4Lr9vHajbgU5iwkiTWD9Nyni4CMiwoQ=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-07-10 04:20:06"
   }
 ]
