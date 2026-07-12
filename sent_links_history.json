@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260604044244.htm",
-    "SentDate": "2026-06-12 04:56:36"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260610003047.htm",
-    "SentDate": "2026-06-12 04:56:40"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260611024621.htm",
-    "SentDate": "2026-06-12 04:56:42"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260605023415.htm",
-    "SentDate": "2026-06-12 04:56:45"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260604044255.htm",
-    "SentDate": "2026-06-12 04:56:49"
-  },
-  {
-    "CanonicalKey": "https://universetoday.com/articles/reading-the-moon-in-x-rays",
-    "SentDate": "2026-06-12 04:56:57"
-  },
-  {
-    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/06/04/final-artemis-iii-sls-booster-segments-en-route-to-nasa-kennedy",
-    "SentDate": "2026-06-12 04:57:00"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/jun/02/british-paralympian-john-mcfall-astronaut-disability-space-station-haven-1-vast",
-    "SentDate": "2026-06-12 04:57:04"
-  },
-  {
-    "CanonicalKey": "https://universetoday.com/articles/david-kipping-has-a-new-take-on-the-existence-of-advanced-life-in-the-universe-and-the-numbers-are-n",
-    "SentDate": "2026-06-12 04:57:06"
-  },
-  {
-    "CanonicalKey": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets",
-    "SentDate": "2026-06-12 04:57:09"
-  },
-  {
-    "CanonicalKey": "https://coinjournal.net/news/kucoin-launches-crypto-cup-with-up-to-1-4m-usdt-in-rewards",
-    "SentDate": "2026-06-12 04:57:18"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo",
-    "SentDate": "2026-06-12 04:57:23"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
-    "SentDate": "2026-06-12 04:57:28"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
-    "SentDate": "2026-06-12 04:57:32"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-    "SentDate": "2026-06-12 04:57:35"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2147116-the-housemaids-secret-update-sydney-sweeney-movie-casts-ahs-star-in-big-role",
-    "SentDate": "2026-06-12 04:57:43"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2150786/paramount-didnt-want-release-eddie-muprhy-80s-box-office-hit-coming-to-america",
-    "SentDate": "2026-06-12 04:57:45"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/trailers/2147173-night-nurse-trailer-previews-bizarre-uncomfortable-erotic-psychosexual-thriller-movie",
-    "SentDate": "2026-06-12 04:57:48"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2192199/how-to-watch-obsession-curry-barker-first-movie-milk-and-serial-free-youtube",
-    "SentDate": "2026-06-12 04:57:52"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2147215-new-transformers-movie-update-enlists-writer-of-beloved-hbo-max-show",
-    "SentDate": "2026-06-12 04:57:56"
-  },
-  {
-    "CanonicalKey": "https://economicprism.com/dollar-debasement-as-permanent-policy",
-    "SentDate": "2026-06-12 04:58:10"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/news/4602787-is-177t-spacex-ipo-already-priced-for-decades-ahead-wall-street-voices",
-    "SentDate": "2026-06-12 04:58:16"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/news/4602743-childrens-place-retail-stores-q1-2027-earnings-preview",
-    "SentDate": "2026-06-12 04:58:29"
-  },
-  {
-    "CanonicalKey": "https://economicprism.com/is-everything-contained-in-the-private-credit-market",
-    "SentDate": "2026-06-12 04:58:42"
-  },
-  {
-    "CanonicalKey": "https://economicprism.com/the-great-gold-fever-of-the-2020s",
-    "SentDate": "2026-06-12 04:58:46"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
-    "SentDate": "2026-06-12 04:58:56"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/06/11/nx-s1-5853489/ebola-testing-has-improved-in-drc-but-still-isnt-nearly-enough",
-    "SentDate": "2026-06-12 04:59:00"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702",
-    "SentDate": "2026-06-12 04:59:02"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/06/11/nx-s1-5851670/world-cup-2026-guide-players",
-    "SentDate": "2026-06-12 04:59:06"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics",
-    "SentDate": "2026-06-12 04:59:09"
-  },
-  {
-    "CanonicalKey": "https://tim.blog/2026/06/02/jake-becraft-strand-therapeutics",
-    "SentDate": "2026-06-12 04:59:17"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits",
-    "SentDate": "2026-06-12 04:59:20"
-  },
-  {
-    "CanonicalKey": "https://dev.to/soytuber/amd-rce-ignored-github-boosts-secret-scanning-with-llms-aur-supply-chain-attack-49l",
-    "SentDate": "2026-06-12 04:59:24"
-  },
-  {
-    "CanonicalKey": "https://tim.blog/2026/06/11/max-levchin-2-transcript",
-    "SentDate": "2026-06-12 04:59:28"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment",
-    "SentDate": "2026-06-12 04:59:31"
-  },
-  {
-    "CanonicalKey": "https://biinsight.com/power-bi-101-what-is-power-bi",
-    "SentDate": "2026-06-12 04:59:42"
-  },
-  {
-    "CanonicalKey": "https://biinsight.com/using-unicode-characters-in-power-bi",
-    "SentDate": "2026-06-12 04:59:46"
-  },
-  {
-    "CanonicalKey": "https://biinsight.com/quick-tips-registering-sql-server-profiler-as-an-external-tool",
-    "SentDate": "2026-06-12 04:59:50"
-  },
-  {
-    "CanonicalKey": "https://biinsight.com/what-is-power-bi-documenter",
-    "SentDate": "2026-06-12 04:59:55"
-  },
-  {
-    "CanonicalKey": "https://biinsight.com/sharing-power-bi-reports-with-external-users-part-1-understanding-the-problem-and-core-concepts",
-    "SentDate": "2026-06-12 04:59:59"
-  },
-  {
     "CanonicalKey": "https://screenrant.com/i-am-frankelda-rotten-tomatoes-score-netflix",
     "SentDate": "2026-06-13 04:26:59"
   },
@@ -4758,5 +4598,145 @@
   {
     "CanonicalKey": "https://cryptopotato.com/btcs-hidden-liquidity-cluster-that-will-decide-the-next-move-bitcoin-price-analysis",
     "SentDate": "2026-07-12 03:43:55"
+  },
+  {
+    "CanonicalKey": "https://fxopen.com/blog/en/ru-us-dollar-consolidates-ahead-of-fomc-minutes-release",
+    "SentDate": "2026-07-13 03:38:18"
+  },
+  {
+    "CanonicalKey": "https://fxopen.com/blog/en/ar-ethereum-has-the-recovery-begun",
+    "SentDate": "2026-07-13 03:38:22"
+  },
+  {
+    "CanonicalKey": "https://fxopen.com/blog/en/an-nzd-chf-analysis-which-currency-breaks-the-consolidation-first",
+    "SentDate": "2026-07-13 03:38:25"
+  },
+  {
+    "CanonicalKey": "https://fxopen.com/blog/en/al-s-p-500-index-narrows-its-range-as-the-labour-market-cools",
+    "SentDate": "2026-07-13 03:38:28"
+  },
+  {
+    "CanonicalKey": "https://fxopen.com/blog/en/an-dax-40-can-the-index-print-fresh-record-highs-once-again",
+    "SentDate": "2026-07-13 03:38:32"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2172976/why-first-mortal-kombat-movie-replaced-cameron-diaz-sonya-blade",
+    "SentDate": "2026-07-13 03:38:41"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2211679/battlestar-galactica-jane-seymour-90s-western-series-dr-quinn-medicine-woman",
+    "SentDate": "2026-07-13 03:38:43"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2212822/star-trek-the-wrath-of-khan-impact-sci-fi-andy-weir",
+    "SentDate": "2026-07-13 03:38:46"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2190579/before-tatiana-maslany-marvel-she-hulk-80s-star-brigitte-nielsen",
+    "SentDate": "2026-07-13 03:38:49"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2174001/arrival-author-ted-chiang-favorite-book-movie-adaptation-not-sci-fi-the-princess-bride",
+    "SentDate": "2026-07-13 03:38:52"
+  },
+  {
+    "CanonicalKey": "https://cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure",
+    "SentDate": "2026-07-13 03:39:11"
+  },
+  {
+    "CanonicalKey": "https://cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling",
+    "SentDate": "2026-07-13 03:39:13"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks",
+    "SentDate": "2026-07-13 03:39:17"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides",
+    "SentDate": "2026-07-13 03:39:19"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease",
+    "SentDate": "2026-07-13 03:39:22"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/societe/article/2026/07/12/resultats-du-brevet-81-6-des-eleves-de-troisieme-admis-une-baisse-historique-de-3-9-points_6722849_3224.html",
+    "SentDate": "2026-07-13 03:39:39"
+  },
+  {
+    "CanonicalKey": "https://npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
+    "SentDate": "2026-07-13 03:39:43"
+  },
+  {
+    "CanonicalKey": "https://npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+    "SentDate": "2026-07-13 03:39:45"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/societe/article/2026/07/12/a-beaucaire-le-rn-deboute-de-sa-procedure-en-diffamation-contre-l-arlesienne-et-streetpress_6722878_3224.html",
+    "SentDate": "2026-07-13 03:39:48"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/disparitions/article/2026/07/12/hamad-ben-khalifa-al-thani-ancien-emir-du-qatar-est-mort-a-l-age-de-72-ans_6722881_3382.html",
+    "SentDate": "2026-07-13 03:39:51"
+  },
+  {
+    "CanonicalKey": "https://planetary.org/articles/artemis-ii-hit-taylor-swift-levels-of-fame-then-what",
+    "SentDate": "2026-07-13 03:40:00"
+  },
+  {
+    "CanonicalKey": "https://planetary.org/articles/three-charts-that-show-how-nasas-artemis-compares-to-apollo",
+    "SentDate": "2026-07-13 03:40:03"
+  },
+  {
+    "CanonicalKey": "https://planetary.org/articles/are-we-ready-to-send-humans-to-mars",
+    "SentDate": "2026-07-13 03:40:09"
+  },
+  {
+    "CanonicalKey": "https://centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes",
+    "SentDate": "2026-07-13 03:40:12"
+  },
+  {
+    "CanonicalKey": "https://astronomynow.com/2026/03/16/molten-sulphur-lava-world-points-to-new-class-of-planet",
+    "SentDate": "2026-07-13 03:40:17"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260707025047.htm",
+    "SentDate": "2026-07-13 03:40:28"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260711010131.htm",
+    "SentDate": "2026-07-13 03:40:31"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260711010123.htm",
+    "SentDate": "2026-07-13 03:40:34"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260711010125.htm",
+    "SentDate": "2026-07-13 03:40:37"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260701015242.htm",
+    "SentDate": "2026-07-13 03:40:41"
+  },
+  {
+    "CanonicalKey": "https://zdnet.com/article/ai-model-release-tracker",
+    "SentDate": "2026-07-13 03:40:52"
+  },
+  {
+    "CanonicalKey": "https://zdnet.com/article/best-email-hosting-for-small-businesses",
+    "SentDate": "2026-07-13 03:40:55"
+  },
+  {
+    "CanonicalKey": "https://zdnet.com/article/i-ditched-google-drive-for-self-hosted-storage-nextcloud",
+    "SentDate": "2026-07-13 03:41:02"
+  },
+  {
+    "CanonicalKey": "https://zdnet.com/article/insignia-f50-best-buy-deal",
+    "SentDate": "2026-07-13 03:41:06"
+  },
+  {
+    "CanonicalKey": "https://zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity",
+    "SentDate": "2026-07-13 03:41:10"
   }
 ]

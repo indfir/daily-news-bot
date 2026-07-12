@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "‘Love Island USA’ reveals the final four couples competing for first place",
-    "Link": "https://mashable.com/entertainment/love-island-usa-final-four-couples",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/023bCl2rib8c7tGeDYfwHzl/hero-image.fill.size_1200x675.v1783739001.jpg",
+    "Topic": "Trading & Crypto",
+    "Title": "US Dollar Consolidates Ahead of FOMC Minutes Release",
+    "Link": "https://fxopen.com/blog/en/ru-us-dollar-consolidates-ahead-of-fomc-minutes-release/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/07/usd--2-.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:08"
+    "Date": "2026-07-13 03:38:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum: Has the Recovery Begun?",
+    "Link": "https://fxopen.com/blog/en/ar-ethereum-has-the-recovery-begun/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/07/ETH.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First?",
+    "Link": "https://fxopen.com/blog/en/an-nzd-chf-analysis-which-currency-breaks-the-consolidation-first/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/07/new-zealand-dollar--nzd.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "S&P 500: Index Narrows Its Range as the Labour Market Cools",
+    "Link": "https://fxopen.com/blog/en/al-s-p-500-index-narrows-its-range-as-the-labour-market-cools/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/07/s-p-500.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "DAX 40: Can the Index Print Fresh Record Highs Once Again?",
+    "Link": "https://fxopen.com/blog/en/an-dax-40-can-the-index-print-fresh-record-highs-once-again/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/07/dax.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Why The First Mortal Kombat Movie Replaced Cameron Diaz As Sonya Blade",
+    "Link": "https://www.slashfilm.com/2172976/why-first-mortal-kombat-movie-replaced-cameron-diaz-sonya-blade/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/why-the-first-mortal-kombat-movie-replaced-cameron-diaz-as-sonya-blade/l-intro-1778775109.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:41"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "One Of Battlestar Galactica's Biggest Stars Led This Immensely Popular '90s Western Series",
+    "Link": "https://www.slashfilm.com/2211679/battlestar-galactica-jane-seymour-90s-western-series-dr-quinn-medicine-woman/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/one-of-battlestar-galacticas-biggest-stars-led-this-immensely-popular-90s-western-series/l-intro-1783619926.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:43"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Star Trek Movie That Left A Major Mark On Sci-Fi Author Andy Weir",
+    "Link": "https://www.slashfilm.com/2212822/star-trek-the-wrath-of-khan-impact-sci-fi-andy-weir/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/the-star-trek-movie-that-left-a-major-mark-on-sci-fi-author-andy-weir/l-intro-1783728417.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:46"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Before Tatiana Maslany, Marvel's She-Hulk Was Nearly Played By An '80s Action Star",
+    "Link": "https://www.slashfilm.com/2190579/before-tatiana-maslany-marvel-she-hulk-80s-star-brigitte-nielsen/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/before-tatiana-maslany-marvels-she-hulk-was-nearly-played-by-an-80s-action-star/l-intro-1782341436.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:49"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Arrival Author Ted Chiang's Favorite Film Adaptation Isn't Even A Sci-Fi Story",
+    "Link": "https://www.slashfilm.com/2174001/arrival-author-ted-chiang-favorite-book-movie-adaptation-not-sci-fi-the-princess-bride/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/arrival-author-ted-chiangs-favorite-film-adaptation-isnt-even-a-sci-fi-story/l-intro-1778874012.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:38:52"
   },
   {
     "Topic": "Technology",
-    "Title": "One year later: Looking back at Brennan Quits Dropout",
-    "Link": "https://mashable.com/entertainment/brennan-quits-dropout-game-changer",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/videos/07qSLq9sC16KRTRO60npSCs/hero-image.fill.size_1200x675.v1783687788.png",
+    "Title": "Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game",
+    "Link": "https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/6f184d471db4b11bf35dc75b941263856a137eef/hub/2026/06/10/127d5a91-86fe-4959-ab86-07183ba8fc3d/pokemongofest-2026-jigglypuff.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:10"
+    "Date": "2026-07-13 03:39:11"
   },
   {
     "Topic": "Technology",
-    "Title": "Strengthening Singapore’s AI Future: A New National Partnership",
-    "Link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_AI_Arms_Race_Is_Changing_Everything.webp/960px-The_AI_Arms_Race_Is_Changing_Everything.webp.png",
+    "Title": "Warframe's Next Expansion Is the Epic Payoff to 13 Years of Storytelling",
+    "Link": "https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/",
+    "ImageUrl": "https://www.cnet.com/a/img/resize/ed7a83803a3d7655dea4878fccee1454d87a153d/hub/2026/07/11/7bdb3604-c838-4661-9bbc-4cf4af8796d5/wf-taupromo-keyart-1080p-logo.png?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:39:13"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
+    "Link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
+    "ImageUrl": "https://media.wired.com/photos/6a4bb2899a04d6f37d84ef36/191:100/w_1280,c_limit/GettyImages-2166320719.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:39:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "Link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "ImageUrl": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:39:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease",
+    "Link": "https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/",
+    "ImageUrl": "https://media.wired.com/photos/6a4570f1dae48c15b88ce83f/191:100/w_1280,c_limit/2269394826",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:39:22"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Résultats du brevet 2026 : 81,6 % des élèves de troisième admis, une baisse historique de 3,9 points",
+    "Link": "https://www.lemonde.fr/societe/article/2026/07/12/resultats-du-brevet-81-6-des-eleves-de-troisieme-admis-une-baisse-historique-de-3-9-points_6722849_3224.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Benoit_Saint_Denis_2023.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-12 03:41:15"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Razers new Cinnamoroll headset launches with adorable floppy ears — and its yours for under $140",
-    "Link": "https://mashable.com/tech/razer-cinnamoroll-headset-sanrio-collaboration",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06O7Cv5Hia5J1RaXMedm8SX/hero-image.fill.size_1200x675.v1783674094.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:18"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Introducing Google Antigravity",
-    "Link": "https://deepmind.google/blog/introducing-google-antigravity/",
-    "ImageUrl": "https://antigravity.google/assets/image/sitecards/sitecard-default.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:21"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Evil Dead Burn First Reviews: The Nastiest Entry in the Franchise Yet",
-    "Link": "https://editorial.rottentomatoes.com/article/evil-dead-burn-first-reviews/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/evil-dead-burn-600x314-1.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:29"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Netflix’s 100 Best Movies Right Now (July 2026)",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-netflix-movies-to-watch-right-now/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/Born_on_the_fourth600.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "100 Best Netflix Series To Watch Right Now (July 2026)",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-netflix-shows-and-movies-to-binge-watch-now/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/the_boroughs600-1.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "7 TV and Streaming Shows You Should Binge-Watch in July",
-    "Link": "https://editorial.rottentomatoes.com/article/7-tv-and-streaming-shows-you-should-binge-watch-in-july-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/Binge_Guide-X-Men_97-Season_1-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:38"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Free Movies Online: 100 Fresh Movies to Watch Online For Free",
-    "Link": "https://editorial.rottentomatoes.com/article/fresh-movies-you-can-watch-for-free-online-right-now/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2023/02/SAG_Awards_2023_Everything_Everywhere-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:40"
+    "Date": "2026-07-13 03:39:39"
   },
   {
     "Topic": "General News",
-    "Title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
-    "Link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5c%2Fb681002e468b9f956f6e18100ea4%2Fnyt.jpg",
+    "Title": "A promising tale from Senegal of fish, rice .... and dangerous worms",
+    "Link": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7728x4347+0+361/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F7a%2F6bf9fcdc4272ab0a0beeb2966e95%2Fsenegal-rice-farmers-13.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:49"
+    "Date": "2026-07-13 03:39:43"
   },
   {
     "Topic": "General News",
-    "Title": "España avanza a semifinales y los expertos analizan las claves del triunfo",
-    "Link": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-avanza-a-semifinales-y-los-expertos-analizan-las-claves-del-triunfo-tmvo13202649",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/108/615/47084379236-1080pnbcstations.jpg",
+    "Title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+    "Link": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5329x2998+0+278/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Faf%2F1d7298644dc69717c70936f4b947%2Fap26193248050177.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:52"
+    "Date": "2026-07-13 03:39:45"
   },
   {
     "Topic": "General News",
-    "Title": "\n            Six hidden gems which will make you consider a move to 'Empty Spain'\n        ",
-    "Link": "\n            https://www.thelocal.com/20250827/six-hidden-gems-which-will-make-you-consider-a-move-to-empty-spain\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/08/watermarks-logo-pexels-paulino-acosta-santana-1035706821-20376006.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:41:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Sander Berge confía en que Noruega puede vencer a Inglaterra",
-    "Link": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/sander-berge-confia-en-que-noruega-puede-vencer-a-inglaterra-tmvo13202825",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/171/102/47101292220-1080pnbcstations.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            Swedish gang member crashes car in Ireland 'en route to contract killing'\n        ",
-    "Link": "\n            https://www.thelocal.com/20260710/swedish-gang-member-crashes-car-in-ireland-en-route-to-contract-killing\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-a001_NormalPreviewferry.jpg@webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:05"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The Day of the Trifid Nebula",
-    "Link": "https://www.nasa.gov/image-detail/full-res-for-display-4/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-    "Link": "https://www.nasa.gov/image-detail/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis II Crew Returns to Houston",
-    "Link": "https://www.nasa.gov/image-detail/jsc2026e022311/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/jsc2026e022311orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Hubble Sights Galaxy in Transition",
-    "Link": "https://www.nasa.gov/image-detail/hubble-ngc1266-2-4f-flat-final-crop2-2/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:24"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Soccer Meets Space Science",
-    "Link": "https://www.nasa.gov/image-detail/iss074e0349331/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0349331.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:27"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Understanding HGB Land Rights and Other Land Titles for Foreign Investors in Indonesia",
-    "Link": "https://www.thailand-business-news.com/asean/315522-understanding-hgb-land-rights-and-other-land-titles-for-foreign-investors-in-indonesia",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/06/understanding-hgb-land-rights-and-other-land-titles-for-foreign.jpg?fit=900%2C506&#038;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Manufacturing Hubs, Supply Chains, and Connectivity in ASEAN",
-    "Link": "https://www.thailand-business-news.com/asean/309872-manufacturing-hubs-supply-chains-and-connectivity-in-asean",
-    "ImageUrl": "https://i3.wp.com/source.ichongqing.info/2026/05045650a3be318d245a8540ba53c7045e1779686187.jpg?ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "China Touts Yuan as Stable Alternative Amid US Dollar Strength",
-    "Link": "https://www.thailand-business-news.com/china/318866-china-touts-yuan-as-stable-alternative-amid-us-dollar-strength",
-    "ImageUrl": "https://wp.fifu.app/www.thailand-business-news.com/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9RQnZvamxhb0R1RS9tYXhyZXNkZWZhdWx0LmpwZw/f28c9ea21fde/china-touts-yuan-as-stable-alternative-amid-us-dollar-strength.webp?p=318866",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:42"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Thailand’s Board of Investment approves $688 million Nestlé investment to create an AI-powered regional coffee hub",
-    "Link": "https://www.thailand-business-news.com/companies/319301-thailands-board-of-investment-approves-688-million-nestle-investment-to-create-an-ai-powered-regional-coffee-hub",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/07/boi-board.jpg?fit=1498%2C843&#038;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:45"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Thailand and Australia Hold Exercise Chapel Gold 2026",
-    "Link": "https://www.thailand-business-news.com/australia/318857-thailand-and-australia-hold-exercise-chapel-gold-2026",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/07/thailand-and-australia-hold-exercise-chapel-gold-2026.jpg?fit=800%2C533&#038;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:48"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Scientists Gave Mice Cocaine. This Is What It Did to Their Brains",
-    "Link": "https://www.404media.co/mice-cocaine-research-addiction-fens-forum/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/1280px-Lab_mouse_mg_3263.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:55"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "We Are Living in a ‘ChatGPT Flyer Pandemic’",
-    "Link": "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-08-at-06.48.52@2x.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:42:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star",
-    "Link": "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Patreon Blocks Crawlers From Stealing Creators' Work for AI Training",
-    "Link": "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
-    "ImageUrl": "https://images.unsplash.com/photo-1730818027454-3ebf9a08e78a?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBhdHJlb258ZW58MHx8fHwxNzgzNjMzNTEwfDA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Farmers Finally Get a John Deere Right to Repair Agreement That Doesn’t Screw Them Over",
-    "Link": "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-09-at-07.07.10@2x.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:06"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Human brains may have got bigger for no particular reason",
-    "Link": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brain_autopsy_lateral_view.jpg/960px-Brain_autopsy_lateral_view.jpg",
+    "Title": "A Beaucaire, le RN débouté de sa procédure en diffamation contre « L’Arlésienne » et « StreetPress »",
+    "Link": "https://www.lemonde.fr/societe/article/2026/07/12/a-beaucaire-le-rn-deboute-de-sa-procedure-en-diffamation-contre-l-arlesienne-et-streetpress_6722878_3224.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beaucaire_vue.JPG/960px-Beaucaire_vue.JPG",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-12 03:43:14"
+    "Date": "2026-07-13 03:39:48"
   },
   {
-    "Topic": "Science",
-    "Title": "Slowdown of AMOC ocean current may be gradual and reversible",
-    "Link": "https://www.newscientist.com/article/2532392-slowdown-of-amoc-ocean-current-may-be-gradual-and-reversible/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/OCP07_Fig-6.jpg",
+    "Topic": "General News",
+    "Title": "Hamad Ben Khalifa Al Thani, ancien émir du Qatar, est mort à l’âge de 72 ans",
+    "Link": "https://www.lemonde.fr/disparitions/article/2026/07/12/hamad-ben-khalifa-al-thani-ancien-emir-du-qatar-est-mort-a-l-age-de-72-ans_6722881_3382.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bilateral_Meeting_with_King_Hamad_bin_Isa_Al_Khalifa_-_54551307222_%28cropped%29.jpg/960px-Bilateral_Meeting_with_King_Hamad_bin_Isa_Al_Khalifa_-_54551307222_%28cropped%29.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-12 03:43:18"
+    "Date": "2026-07-13 03:39:51"
   },
   {
-    "Topic": "Science",
-    "Title": "Peter Shor’s algorithm could break the internet – but he's not worried",
-    "Link": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "Topic": "Astronomy",
+    "Title": "Artemis II hit Taylor Swift levels of fame. Now what?",
+    "Link": "https://www.planetary.org/articles/artemis-ii-hit-taylor-swift-levels-of-fame-then-what",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/christina-koch-views-earth.jpg?mtime=1775486983",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:40:00"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "3 charts that show how Artemis compares to Apollo",
+    "Link": "https://www.planetary.org/articles/three-charts-that-show-how-nasas-artemis-compares-to-apollo",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/John_Houbolt_Large.jpg?mtime=1774460826",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:40:03"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Are we ready to send humans to Mars?",
+    "Link": "https://www.planetary.org/articles/are-we-ready-to-send-humans-to-mars",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/destiny-module-iss.jpg?mtime=1780504542",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:40:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A Metallurgist’s Doubts About Self-Replicating Probes",
+    "Link": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-12 03:43:22"
+    "Date": "2026-07-13 03:40:12"
   },
   {
-    "Topic": "Science",
-    "Title": "A volcano has erupted remnants of Earth's primordial magma ocean",
-    "Link": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-12 03:43:26"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ancient human DNA found on cave art for the first time",
-    "Link": "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ancient_DNA.png",
+    "Topic": "Astronomy",
+    "Title": "Molten lava world points to new class of planet",
+    "Link": "https://astronomynow.com/2026/03/16/molten-sulphur-lava-world-points-to-new-class-of-planet/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Yellowstone_River_in_Hayden_Valley.jpg/960px-Yellowstone_River_in_Hayden_Valley.jpg",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-12 03:43:30"
+    "Date": "2026-07-13 03:40:17"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Reclaims $64K Despite Strategy’s New Sale and Resumed US-Iran Strikes: Weekly Recap",
-    "Link": "https://cryptopotato.com/bitcoin-reclaims-64k-despite-strategys-new-sale-and-resumed-us-iran-strikes-weekly-recap/",
-    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2024/12/market_update_cover_new.jpg",
+    "Topic": "Science",
+    "Title": "Scientists used AI to crack one of water's biggest mysteries",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/ai-decodes-water.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:40"
+    "Date": "2026-07-13 03:40:28"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Ripple Price Analysis: XRP Looks Ready for a Comeback as Sellers Fade",
-    "Link": "https://cryptopotato.com/ripple-price-analysis-xrp-looks-ready-for-a-comeback-as-sellers-fade/",
-    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/07/XRP-D-1.jpg",
+    "Topic": "Science",
+    "Title": "Columbia scientists discover surprising link between serotonin and heart valve disease",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-heart-anatomy-structure.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:44"
+    "Date": "2026-07-13 03:40:31"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "BTC vs ETH vs XRP: Which Could Explode the Most in H2 2026? AIs Pick Their Winner",
-    "Link": "https://cryptopotato.com/btc-vs-eth-vs-xrp-which-could-explode-the-most-in-h2-2026-ais-pick-their-winner/",
-    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/01/xrp_btc_eth_cb.jpg",
+    "Topic": "Science",
+    "Title": "Physicists finally build a quantum material predicted more than a decade ago",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/abstract-modern-technology-crystal-material.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:48"
+    "Date": "2026-07-13 03:40:34"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Strategy or Binance: Who’s Sitting on More Unrealized Bitcoin Losses? CryptoQuant Weighs In",
-    "Link": "https://cryptopotato.com/strategy-or-binance-whos-sitting-on-more-unrealized-bitcoin-losses-cryptoquant-weighs-in/",
-    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/10/bitcoin_dark_cover.jpg",
+    "Topic": "Science",
+    "Title": "Second pregnancy changes the brain in surprising new ways",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/concerned-pregnant-woman-holding-belly.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:51"
+    "Date": "2026-07-13 03:40:37"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "BTC’s Hidden Liquidity Cluster That Will Decide the Next Move: Bitcoin Price Analysis",
-    "Link": "https://cryptopotato.com/btcs-hidden-liquidity-cluster-that-will-decide-the-next-move-bitcoin-price-analysis/",
-    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/07/BTCUSD-July-11.png",
+    "Topic": "Science",
+    "Title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/quantum-entanglement-strange-metal.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-12 03:43:55"
+    "Date": "2026-07-13 03:40:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'",
+    "Link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/402a71cc8521dc706fee555a58b2448f3263f925/2026/05/19/b73a5b7e-0da9-4e3c-acb3-65d7bc71b971/openais-new-image-watermarks-could-make-ai-fakes-harder-to-hide.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:40:52"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The best email hosting for small businesses in 2026: Expert tested",
+    "Link": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/9e8fbeba829c6b0c564e74b0b21941678c95be67/2026/07/10/995268be-f542-4f8a-bbd7-d8f12a1b0980/gettyimages-2257062238.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:40:55"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "I ditched Google Drive for my own self-hosted storage - and I wish I'd done it sooner",
+    "Link": "https://www.zdnet.com/article/i-ditched-google-drive-for-self-hosted-storage-nextcloud/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/52abb8903c009c5f806165808ce4973616b225ee/2026/07/10/d0192e77-3750-4ee2-9f65-bf4d65a94268/drive2nextcloud.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:41:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Best Buy is selling a 70-inch Fire TV for just $350 right now - and it's a model I recommend",
+    "Link": "https://www.zdnet.com/article/insignia-f50-best-buy-deal/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/896d8206995af00c334608b22a34b042213a179a/2026/07/09/963ff9ab-98e1-49c3-88a7-071af829953a/insignia-f50-1.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:41:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
+    "Link": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
+    "ImageUrl": "https://www.zdnet.com/a/img/resize/300e7f56c876bef8ec70a53cb7e5000488b8c696/2026/07/09/c83db4ec-520e-41b7-ba6f-41f3c146c5b2/models.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-13 03:41:10"
   }
 ]
