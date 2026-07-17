@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about",
-    "SentDate": "2026-06-17 05:07:00"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users",
-    "SentDate": "2026-06-17 05:07:03"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
-    "SentDate": "2026-06-17 05:07:06"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost",
-    "SentDate": "2026-06-17 05:07:08"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai",
-    "SentDate": "2026-06-17 05:07:11"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026",
-    "SentDate": "2026-06-17 05:07:20"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026",
-    "SentDate": "2026-06-17 05:07:22"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2195052/wear-os-7-comes-to-pixel-watches",
-    "SentDate": "2026-06-17 05:07:25"
-  },
-  {
-    "CanonicalKey": "https://wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered",
-    "SentDate": "2026-06-17 05:07:28"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price",
-    "SentDate": "2026-06-17 05:07:30"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/forex/webull-canada-expands-trading-day-with-245-access-to-us-stocks-etfs",
-    "SentDate": "2026-06-17 05:07:39"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/forex/stonex-plants-a-flag-in-singapores-fx-server-race",
-    "SentDate": "2026-06-17 05:07:43"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/institutional-forex/beeks-wins-10-million-in-contracts-for-market-edge-intelligence-across-banks-and-exchanges",
-    "SentDate": "2026-06-17 05:07:46"
-  },
-  {
-    "CanonicalKey": "https://nulltx.com/siren-collapses-70-as-single-wallet-controlling-94-of-supply-executes-massive-dump",
-    "SentDate": "2026-06-17 05:07:49"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/forex/retail-traders-gain-mt5-access-as-cmc-markets-expands-canada-offering",
-    "SentDate": "2026-06-17 05:07:53"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/can-medical-schools-really-teach-71-nutrition-competencies-should-they",
-    "SentDate": "2026-06-17 05:08:01"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-06-qa-crop-resilience-drought-reverse.html",
-    "SentDate": "2026-06-17 05:08:05"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-06-nanomedicine-discovery-salt-major-obstacle.html",
-    "SentDate": "2026-06-17 05:08:11"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/revolutions-in-drug-delivery",
-    "SentDate": "2026-06-17 05:08:14"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-06-darkness-nanotubes-responsive-molecular.html",
-    "SentDate": "2026-06-17 05:08:18"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/dead-by-daylight-film-has-found-its-director-blumhouse-atomic-monster",
-    "SentDate": "2026-06-17 05:08:35"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/tv/heartstopper-forever-trailer-drop-set-for-tuesday-new-poster-released",
-    "SentDate": "2026-06-17 05:08:38"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/how-lionsgate-made-the-housemaid-into-uk-box-office-christmas-hit",
-    "SentDate": "2026-06-17 05:08:41"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/tv/heartstopper-forever-trailer-previews-nick-charlies-finale-farewell",
-    "SentDate": "2026-06-17 05:08:45"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/disclosure-day-tops-the-weekend-box-office-chart",
-    "SentDate": "2026-06-17 05:08:48"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2604",
-    "SentDate": "2026-06-17 05:08:57"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2601",
-    "SentDate": "2026-06-17 05:09:01"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2606",
-    "SentDate": "2026-06-17 05:09:06"
-  },
-  {
-    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/little-red-dot-is-a-cocooned-black-hole",
-    "SentDate": "2026-06-17 05:09:09"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2519",
-    "SentDate": "2026-06-17 05:09:12"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/this-little-known-ai-stock-has-beaten-micron-and-arm-this-year-and-now-its-extending-its-lead-7ed7b273",
-    "SentDate": "2026-06-17 05:09:23"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/internasional/2026/06/16/el-nino-diprediksi-ancam-pangan-dan-ekonomi-asia-tenggara",
-    "SentDate": "2026-06-17 05:09:27"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453",
-    "SentDate": "2026-06-17 05:09:31"
-  },
-  {
-    "CanonicalKey": "https://investmentwatchblog.com/semis-and-memory-etfs-are-becoming-the-markets-quiet-ai-leveraged-trade",
-    "SentDate": "2026-06-17 05:09:34"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/bisnis/7842951/buy-indonesia-sell-singapore-ketahanan-fiskal-dimulai-dari-basis-pajak-yang-kuat",
-    "SentDate": "2026-06-17 05:09:38"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tgqd1v490/purbaya-meredanya-konflik-asiran-buka-ruang-tambahan-di-apbn",
-    "SentDate": "2026-06-17 05:09:52"
-  },
-  {
-    "CanonicalKey": "https://merdeka.com/gaya/wisata-indoor-di-batu-paling-hits-kln.html",
-    "SentDate": "2026-06-17 05:09:56"
-  },
-  {
-    "CanonicalKey": "https://news.republika.co.id/berita/tgqa8u368/doktor-ilmu-hukum-gagas-sociopreneurship-policing-untuk-perkuat-keamanan-berbasis-komunitas",
-    "SentDate": "2026-06-17 05:09:59"
-  },
-  {
-    "CanonicalKey": "https://merdeka.com/cek-fakta/developer-hightlight-testing-on-input.html",
-    "SentDate": "2026-06-17 05:10:10"
-  },
-  {
-    "CanonicalKey": "https://analisis.republika.co.id/berita/tgq9pa368/menata-ulang-keadilan-ekosistem-pendidikan-tinggi",
-    "SentDate": "2026-06-17 05:10:13"
-  },
-  {
     "CanonicalKey": "https://zdnet.com/article/best-early-lenovo-deals-amazon-prime-day-2026",
     "SentDate": "2026-06-18 04:55:34"
   },
@@ -4718,5 +4558,145 @@
   {
     "CanonicalKey": "https://thespacereview.com/article/4670/1",
     "SentDate": "2026-07-17 03:54:56"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/nasa-declares-end-mars-orbiter-maven-mission",
+    "SentDate": "2026-07-18 03:47:20"
+  },
+  {
+    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets",
+    "SentDate": "2026-07-18 03:47:25"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
+    "SentDate": "2026-07-18 03:47:28"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/science/2026/jul/13/young-crescent-moon-to-meet-venus-in-evening-twilight",
+    "SentDate": "2026-07-18 03:47:32"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/nasa-all-male-crew-for-artemis-iii-mission",
+    "SentDate": "2026-07-18 03:47:35"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/c20zgjzz0e4o",
+    "SentDate": "2026-07-18 03:47:44"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/c5yz4wnz6jdo",
+    "SentDate": "2026-07-18 03:47:46"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo",
+    "SentDate": "2026-07-18 03:47:48"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/cwyjv3znypyo",
+    "SentDate": "2026-07-18 03:47:50"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/cpv3eky4w2do",
+    "SentDate": "2026-07-18 03:47:54"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+    "SentDate": "2026-07-18 03:48:02"
+  },
+  {
+    "CanonicalKey": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries",
+    "SentDate": "2026-07-18 03:48:05"
+  },
+  {
+    "CanonicalKey": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai",
+    "SentDate": "2026-07-18 03:48:09"
+  },
+  {
+    "CanonicalKey": "https://blog.google/products-and-platforms/products/earth/estadio-azteca",
+    "SentDate": "2026-07-18 03:48:12"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/hobbs-signs-order-prediction-market-insider-trading-arizona",
+    "SentDate": "2026-07-18 03:48:15"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html",
+    "SentDate": "2026-07-18 03:48:26"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-rise-for-5th-straight-week-above-6-mortgage-and-refinance-interest-rates-today-100000623.html",
+    "SentDate": "2026-07-18 03:48:29"
+  },
+  {
+    "CanonicalKey": "https://investmentwatchblog.com/hyperscalers-burn-cash-on-ai-buildout-while-chip-makers-rake-in-record-profits",
+    "SentDate": "2026-07-18 03:48:32"
+  },
+  {
+    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/strait-hormuz-closure-sent-gas-105000594.html",
+    "SentDate": "2026-07-18 03:48:35"
+  },
+  {
+    "CanonicalKey": "https://investmentwatchblog.com/canada-buys-record-us-treasuries-while-pm-pushes-to-cut-us-trade-reliance",
+    "SentDate": "2026-07-18 03:48:39"
+  },
+  {
+    "CanonicalKey": "https://amazon.science/blog/how-catastrophic-is-your-llm",
+    "SentDate": "2026-07-18 03:48:58"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai",
+    "SentDate": "2026-07-18 03:49:01"
+  },
+  {
+    "CanonicalKey": "https://amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
+    "SentDate": "2026-07-18 03:49:03"
+  },
+  {
+    "CanonicalKey": "https://amazon.science/blog/promptimus-improving-already-good-llm-prompts-with-zero-manual-engineering",
+    "SentDate": "2026-07-18 03:49:06"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise",
+    "SentDate": "2026-07-18 03:49:09"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space",
+    "SentDate": "2026-07-18 03:49:20"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread",
+    "SentDate": "2026-07-18 03:49:23"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe",
+    "SentDate": "2026-07-18 03:49:27"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits",
+    "SentDate": "2026-07-18 03:49:31"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science",
+    "SentDate": "2026-07-18 03:49:35"
+  },
+  {
+    "CanonicalKey": "https://news.bitcoin.com/a16z-whale-dumps-28-million-hype",
+    "SentDate": "2026-07-18 03:49:44"
+  },
+  {
+    "CanonicalKey": "https://news.bitcoin.com/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m",
+    "SentDate": "2026-07-18 03:49:48"
+  },
+  {
+    "CanonicalKey": "https://news.bitcoin.com/grant-cardone-10-5-btc-july-cash-flow",
+    "SentDate": "2026-07-18 03:49:51"
+  },
+  {
+    "CanonicalKey": "https://news.bitcoin.com/1-38-billion-in-one-month-how-venezuelas-binance-p2p-market-now-rivals-its-oil-exports",
+    "SentDate": "2026-07-18 03:49:54"
+  },
+  {
+    "CanonicalKey": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token",
+    "SentDate": "2026-07-18 03:49:57"
   }
 ]
