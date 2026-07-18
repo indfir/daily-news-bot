@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "NASA reluctantly gives up on lost orbiter: \"Best Mars mission ever\"",
-    "Link": "https://www.cbsnews.com/news/nasa-declares-end-mars-orbiter-maven-mission/",
-    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/03/02629e75-28c1-4067-9fb3-4ccfcf02fdf0/thumbnail/1200x630/8ad09f78f8ccab36eb81418b27d8afca/maven-artist.jpg",
+    "Topic": "General News",
+    "Title": "Teen stuck on M25 for eight hours on first drive",
+    "Link": "https://www.bbc.co.uk/news/articles/ce8kvv6g16eo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fbf/live/2c4fd7c0-81e5-11f1-8b86-31ce3d5ecce7.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:20"
+    "Date": "2026-07-19 03:40:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "German politician resigns over surrogacy child controversy",
+    "Link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:04"
+  },
+  {
+    "Topic": "General News",
+    "Title": "The best deals still available from Lululemon’s Summer Sale",
+    "Link": "https://www.nbcnews.com/select/shopping/lululemon-summer-sale-2026-rcna587343",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260713-sotw-lululemon-summer-sale-dj-main-bd1513.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:06"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Why you should care about the third-place play-off",
+    "Link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3097/live/5acbca60-809a-11f1-926f-c90d1bcfbc84.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Idaho pushed anti-trans laws for years. Then a teen died.",
+    "Link": "https://www.nbcnews.com/news/us-news/idaho-pushed-anti-trans-laws-transition-care-bathroom-trump-rcna350199",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260717-trans-teen-death-tease-1-cs-9874f4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:11"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Prabowo Terima Laporan Purbaya, Ekonomi Indonesia Masih Tangguh Presiden Prabowo Subianto memimpin Panen Raya TNI yang digelar serentak di 43 lokasi dari Lanud Abdulrachman Saleh, Kabupaten Malang, Jawa Timur, Jumat (17/7/2026).",
+    "Link": "https://www.liputan6.com/bisnis/read/8248700/prabowo-terima-laporan-purbaya-ekonomi-indonesia-masih-tangguh",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/hmz--LrjxiALFnS-CcR5KKt7ni8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9300081/original/031492700_1784290845-Screenshot_2026-07-17_191916.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:27"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Siasat Bisnis di Balik 'Satu Harga' Daiso Pendiri Toko Daiso Hirotake Yano Meninggal Dunia di Usia 80 Tahun karena Gagal Jantung",
+    "Link": "https://www.liputan6.com/bisnis/read/8248562/siasat-bisnis-di-balik-satu-harga-daiso",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/2w0f4NUnpZ5j_VHt80SrqJectx8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4747787/original/066082900_1708414820-000_34JT8E4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand News Roundup: Visa Reforms, Bangkok Bar Fire Tragedy and Economic Shifts",
+    "Link": "https://www.thailand-business-news.com/news/320066-thailand-news-roundup-visa-reforms-bangkok-bar-fire-tragedy-and-economic-shifts",
+    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/07/1783494315_building-aseans-resilience-to-fuel-further-economic-growth.jpg?fit=800%2C533&#038;ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:33"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Rosan Ungkap 4 Alasan Investasi Asing Tetap Masuk Indonesia Menteri Investasi dan Hilirisasi/Kepala BKPM, Rosan Perkasa Roeslani. Dok Bakom",
+    "Link": "https://www.liputan6.com/bisnis/read/8248662/rosan-ungkap-4-alasan-investasi-asing-tetap-masuk-indonesia",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/WtnfIbTMkv1ZtBMQw3gv-0OpUdM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5562282/original/003523000_1776823938-Rosan_2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:43"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Semester I 2026, Realisasi Investasi di Luar Pulau Jawa Lebih Tinggi CEO Danantara, Rosan Roeslani. (Foto: istimewa)",
+    "Link": "https://www.liputan6.com/bisnis/read/8248602/semester-i-2026-realisasi-investasi-di-luar-pulau-jawa-lebih-tinggi",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/XJxuJsG5TUpIwENXyeYLIbvebyE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5509268/original/035698400_1771672433-CEO_Danantara__Rosan_Roeslani-21_Februari_2026a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:40:45"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Did a Passing Star Shower Us with Comets?",
-    "Link": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
+    "Title": "Risks of solar storms may be underestimated, warn researchers",
+    "Link": "https://phys.org/news/2026-07-solar-storms-underestimated.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png/960px-Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-19 03:41:02"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "What if disabled astronauts are just better suited to space?",
+    "Link": "https://phys.org/news/2026-07-disabled-astronauts-space.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ESA_astronaut_announcement_Class_of_2022_%2852519917105%29.jpg/960px-ESA_astronaut_announcement_Class_of_2022_%2852519917105%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-19 03:41:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "AI is not ready to fly solo in space",
+    "Link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_tech-fic.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:08"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Giant planets could act as dark matter detectors",
+    "Link": "https://phys.org/news/2026-07-giant-planets-dark-detectors.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jupiter_OPAL_2024_%28cropped%29.png/960px-Jupiter_OPAL_2024_%28cropped%29.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-19 03:41:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Spiral arms and bars are galactic fuel pumps for star formation",
+    "Link": "https://phys.org/news/2026-07-spiral-arms-bars-galactic-fuel.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg/960px-Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-19 03:41:15"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ripple Backs Britain’s Tokenization Push: Did Brad Garlinghouse Just Save XRP?",
+    "Link": "https://99bitcoins.com/news/altcoins/xrp-news-ripple-uk-treasury-taskforce-tokenized-markets/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Capacitors_%287189597135%29.jpg/960px-Capacitors_%287189597135%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-19 03:41:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Thailand Mount Major Anti-Crypto Crackdown: We’re Coming For Your Stablecoins",
+    "Link": "https://99bitcoins.com/news/altcoins/thailand-crypto-crackdown-usdt-stablecoin-aml/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-18 03:47:25"
+    "Date": "2026-07-19 03:41:25"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
-    "Link": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
-    "ImageUrl": "https://i.guim.co.uk/img/media/e6998a28e4d9cc051f1a87ac994645dd7700c9d3/0_262_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceaee92d24564a4aed6ed731f2aa4de9",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Young crescent moon to meet Venus in evening twilight",
-    "Link": "https://www.theguardian.com/science/2026/jul/13/young-crescent-moon-to-meet-venus-in-evening-twilight",
-    "ImageUrl": "https://i.guim.co.uk/img/media/32758a75274eeb562140644c68daf9f69147bf07/926_0_2037_1630/master/2037.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94ec1d3ed673521cc90688a1ca5488cf",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:32"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA chief defends choice of all-male crew for Artemis III mission",
-    "Link": "https://www.cbsnews.com/news/nasa-all-male-crew-for-artemis-iii-mission/",
-    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/10/a5cd6d9e-daeb-4e10-ad2f-d465a5d41556/thumbnail/1200x630/63e822d9f5d120d6b25a92fa88f9fb8d/aiii-crew-suits-1500.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:35"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Why are UK fuel prices rising again?",
-    "Link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:44"
-  },
-  {
-    "Topic": "General News",
-    "Title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-    "Link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/254d/live/67655330-7934-11f1-8d20-776ad947bebb.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:46"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-    "Link": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbb9/live/39302660-81fa-11f1-b81f-6b9faca7ef3f.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:48"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Lauren Laverne diagnosed with blood and bone marrow disorder",
-    "Link": "https://www.bbc.co.uk/news/articles/cwyjv3znypyo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d73/live/d98b7f30-81f3-11f1-b6ff-e9b8db4416d1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:50"
-  },
-  {
-    "Topic": "General News",
-    "Title": "What type of procrastinator are you - and how to fix it now (not later)",
-    "Link": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00b0/live/f29dcd70-7bae-11f1-9b70-93a7d5047ee3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:47:54"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "D4RT: Teaching AI to see the world in four dimensions",
-    "Link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Ripple Was Weeks From Closing In SEC Lawsuit Reveals Garlinghouse",
+    "Link": "https://99bitcoins.com/news/altcoins/sec-vs-xrp-ripple-shutdown-garlinghouse/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-18 03:48:02"
+    "Date": "2026-07-19 03:41:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin, Ethereum Reverse CPI-Fueled Gains as Strategy Stays Quiet: Your Weekly Crypto Recap",
+    "Link": "https://cryptopotato.com/bitcoin-ethereum-reverse-cpi-fueled-gains-as-strategy-stays-quiet-your-weekly-crypto-recap/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2024/12/market_update_cover_new.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:31"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bullish ADA Predictions, SOL Shows Rally Potential, and More: Bits Recap July 17",
+    "Link": "https://cryptopotato.com/bullish-ada-predictions-sol-shows-rally-potential-and-more-bits-recap-july-17/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/07/Recap_CB-30.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:35"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+    "Link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/komododragon_slasher_ZA_7204-750x500-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:42"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Genes offer new clues to stopping Huntington’s disease in its tracks",
+    "Link": "https://www.sciencenews.org/article/genes-huntingtons-therapy-expansion",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_huntingtons_feat.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:46"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Quantum error correction can constantly recalibrate a processor",
+    "Link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Sycamore-Rainbow-cropped-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:49"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Lost in Curiosity reveals the messy reality of doing science",
+    "Link": "https://www.sciencenews.org/article/review-lost-in-curiosity",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_review.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:41:55"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Generated book slop",
+    "Link": "https://flowingdata.com/2026/07/17/generated-book-slop/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-19 03:41:58"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+    "Link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Testing LLMs on superconductivity research questions",
+    "Link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:09"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Titans + MIRAS: Helping AI have long-term memory",
+    "Link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:13"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Towards demystifying the creativity of diffusion models",
+    "Link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:17"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How AI trained on birds is surfacing underwater mysteries",
+    "Link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:20"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Official Trailer for Netflix's 'One Hundred Years of Solitude: Part Two'",
+    "Link": "https://www.firstshowing.net/2026/full-trailer-for-netflixs-one-hundred-years-of-solitude-part-two/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/onehundredyrssolpt2trailertw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:29"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "R.I.P. Chef Dom Taylor: Star and Winner of Netflix’s ‘Five Star Chef,’ Dead at 44",
+    "Link": "https://decider.com/2026/07/18/r-i-p-chef-dom-taylor-star-and-winner-of-netflixs-five-star-chef-dead-at-44/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/Chef-Dom-Taylor.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Andrew Garfield Leads Wat Tyler's Rebellion in 'The Uprising' Trailer",
+    "Link": "https://www.firstshowing.net/2026/andrew-garfield-leads-wat-tylers-rebellion-in-the-uprising-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/theuprisinggarfscifiposterbigtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:35"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Full Trailer for Clever Coming-of-Age Film 'Olmo' Starring Aivan Uttapa",
+    "Link": "https://www.firstshowing.net/2026/full-trailer-for-clever-coming-of-age-film-olmo-starring-aivan-uttapa/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/olmofilm26mexpostermaintw3.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:38"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Lioness’ Season 3 Release Date: Here’s When The Zoe Saldaña Spy Thriller Returns With New Episodes",
+    "Link": "https://decider.com/2026/07/18/lioness-season-3-release-date-taylor-sheridan-lioness-return-new-episodes/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/lioness-s3.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-07-19 03:42:41"
   },
   {
     "Topic": "Technology",
-    "Title": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
-    "Link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-1440x810.png",
+    "Title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+    "Link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:05"
+    "Date": "2026-07-19 03:42:50"
   },
   {
     "Topic": "Technology",
-    "Title": "We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
-    "Link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-1440x810.jpg",
+    "Title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "Link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:09"
+    "Date": "2026-07-19 03:42:52"
   },
   {
     "Topic": "Technology",
-    "Title": "Experience the legacy of Estadio Azteca on Google Earth.",
-    "Link": "https://blog.google/products-and-platforms/products/earth/estadio-azteca/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-time_host_st.max-1440x810.png",
+    "Title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+    "Link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1239983684.jpeg?resize=1200,800",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:12"
+    "Date": "2026-07-19 03:42:54"
   },
   {
     "Topic": "Technology",
-    "Title": "Gov. Hobbs orders ethics crackdown on prediction market insider trading in Arizona",
-    "Link": "https://readwrite.com/hobbs-signs-order-prediction-market-insider-trading-arizona/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Screenshot_of_TikTok_announcing_the_app_being_unbanned_in_the_United_States.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-18 03:48:15"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise",
-    "Link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html",
-    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/A7207B37981D558CA7FACD56BFDB70BD3C69EB557CDC3FB0AE9AECFA4ED4AD20/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2Fab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
+    "Title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+    "Link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:26"
+    "Date": "2026-07-19 03:42:57"
   },
   {
-    "Topic": "Economy",
-    "Title": "Mortgage rates rise for 5th straight week above 6%: Mortgage and refinance interest rates today",
-    "Link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-rise-for-5th-straight-week-above-6-mortgage-and-refinance-interest-rates-today-100000623.html",
-    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/D6F6B0716B0AF1CCAE477FD365FA21513D190BF76CDFAFEE41221BCD3947C4B7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Ff7080f21-3d56-4487-8b69-053cefdb5b2a",
+    "Topic": "Technology",
+    "Title": "Parents want safer phones for kids. These companies are answering the call.",
+    "Link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
     "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:29"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Hyperscalers burn cash on AI buildout while chip makers rake in record profits",
-    "Link": "https://www.investmentwatchblog.com/hyperscalers-burn-cash-on-ai-buildout-while-chip-makers-rake-in-record-profits/",
-    "ImageUrl": "https://www.investmentwatchblog.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-204242.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:32"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The Strait of Hormuz Closure Sent Gas Prices Up. EV Stocks Quietly Benefited. Here's Why.",
-    "Link": "https://finance.yahoo.com/markets/stocks/articles/strait-hormuz-closure-sent-gas-105000594.html",
-    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/3ABDF83ACB69359CFB41065383009D81E9BC6DEDC217025B5F13AE40A819D86E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0e8fa349be572886e5678113062a2d56",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:35"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Canada buys record US Treasuries while PM pushes to cut US trade reliance",
-    "Link": "https://www.investmentwatchblog.com/canada-buys-record-us-treasuries-while-pm-pushes-to-cut-us-trade-reliance/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/960px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-18 03:48:39"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How catastrophic is your LLM?",
-    "Link": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/073516e/2147483647/strip/true/crop/1974x1036+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F74%2F82%2Fcab000014803972a2bc53089c281%2Fc3llm-framework.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:48:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Your family’s $300 stake in OpenAI",
-    "Link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Making LLMs faster without sacrificing accuracy",
-    "Link": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/f58d065/2147483647/strip/true/crop/1331x699+49+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F06%2F10%2F33372ecf4a939d84a16e09e42d99%2Fthroughput-and-predicted-training-loss.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Promptimus: Improving already good LLM prompts with zero manual engineering",
-    "Link": "https://www.amazon.science/blog/promptimus-improving-already-good-llm-prompts-with-zero-manual-engineering",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/71c253d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F71%2F43%2Fed92ff934c64892903a6cc1c9f39%2Fpromptimus-02b-16x9.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Building the foundation for an autonomous enterprise",
-    "Link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:09"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
-    "Link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/BOHR_Assembly_Finished-539x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:20"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ocean rift zone saw spreading happen in a sudden burst",
-    "Link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1316974926-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:23"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Is an air-conditioning revolution coming to Europe?",
-    "Link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:27"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The report oil companies are worried about: Climate attribution science",
-    "Link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1167319798-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:31"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
-    "Link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Gus-TRex-Science-Photo-credit_-Matthew-Sherman-3-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:35"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "A16z-Linked Whale Dumps $28 Million in HYPE as Token Slides 10% in a Day",
-    "Link": "https://news.bitcoin.com/a16z-whale-dumps-28-million-hype/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/a16z-linked-whale-dumps-28-million-in-hype-as-token-slides-122_nwmk.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:44"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Investors Push $79M Into Bitcoin ETFs as Ether Funds Lose $28M",
-    "Link": "https://news.bitcoin.com/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:48"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Grant Cardone Stacks Another 10.5 Bitcoin From July Rent Cash Flow, Keeping Holdings Above 2,700 BTC",
-    "Link": "https://news.bitcoin.com/grant-cardone-10-5-btc-july-cash-flow/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/06/grant-cardone-calls-bitcoin-treasury-companies-the-new-gold-rush.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:51"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "$1.38 Billion in One Month: How Venezuela’s Binance P2P Market Now Rivals Its Oil Exports",
-    "Link": "https://news.bitcoin.com/1-38-billion-in-one-month-how-venezuelas-binance-p2p-market-now-rivals-its-oil-exports/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/venezuelapost.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:54"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Argentine Judge Orders Urgent Freeze of Crypto Wallets Tied to Controversial Libra Token",
-    "Link": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/librawebpage.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-18 03:49:57"
+    "Date": "2026-07-19 03:42:59"
   }
 ]

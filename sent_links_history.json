@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://zdnet.com/article/best-early-lenovo-deals-amazon-prime-day-2026",
-    "SentDate": "2026-06-18 04:55:34"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/how-google-android-sideloading-crackdown-works-limits",
-    "SentDate": "2026-06-18 04:55:38"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac",
-    "SentDate": "2026-06-18 04:55:41"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/amazon-kindle-scribe-2026-vs-remarkable-paper-pure",
-    "SentDate": "2026-06-18 04:55:47"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026",
-    "SentDate": "2026-06-18 04:55:51"
-  },
-  {
-    "CanonicalKey": "https://news.republika.co.id/berita/tgsprm6930000/ombak-besar-hantam-ibu-dan-balita-di-pantai-drini-petugas-sigap-evakuasi",
-    "SentDate": "2026-06-18 04:56:00"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
-    "SentDate": "2026-06-18 04:56:03"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/nasional/7843423/profil-busyro-muqqodas-ketua-pp-muhammadiyah-yang-minta-mbg-disetop-sementara",
-    "SentDate": "2026-06-18 04:56:07"
-  },
-  {
-    "CanonicalKey": "https://news.republika.co.id/berita/tgsiw84230000/bp-bumn-dan-danantara-targetkan-konsolidasi-asuransi-bumn-rampung-2026",
-    "SentDate": "2026-06-18 04:56:10"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-    "SentDate": "2026-06-18 04:56:12"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/stuart-fails-to-save-the-universe-apocalypse-sheldon-right",
-    "SentDate": "2026-06-18 04:56:21"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/new-sorcerer-supreme-powers-turin",
-    "SentDate": "2026-06-18 04:56:24"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/the-boroughs-netflix-season-2-canceled",
-    "SentDate": "2026-06-18 04:56:28"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/spider-man-brand-new-day-movie-trailer-reveals",
-    "SentDate": "2026-06-18 04:56:32"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/leviticus-movie-rotten-tomatoes-score-release-date-theaters",
-    "SentDate": "2026-06-18 04:56:36"
-  },
-  {
-    "CanonicalKey": "https://openrouter.ai/blog/insights/royale-last-agent-standing",
-    "SentDate": "2026-06-18 04:56:46"
-  },
-  {
-    "CanonicalKey": "https://dev.to/whatsonyourmind/a-model-with-r-squared-near-0-can-still-give-valid-90-prediction-intervals-heres-why-and-the-31jp",
-    "SentDate": "2026-06-18 04:56:49"
-  },
-  {
-    "CanonicalKey": "https://johnowhitaker.github.io/inkwash/about",
-    "SentDate": "2026-06-18 04:56:52"
-  },
-  {
-    "CanonicalKey": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat",
-    "SentDate": "2026-06-18 04:56:56"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2195930/dell-xps-13-available",
-    "SentDate": "2026-06-18 04:56:59"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/coindesk-indices/2026/06/17/crypto-long-and-short-the-measure-of-a-maturing-market",
-    "SentDate": "2026-06-18 04:57:08"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/markets/2026/06/17/bitcoin-s-june-downturn-leaves-usd8-6-billion-in-options-out-of-the-money",
-    "SentDate": "2026-06-18 04:57:12"
-  },
-  {
-    "CanonicalKey": "https://smartliquidity.info/2026/06/15/defis-race-toward-abstraction",
-    "SentDate": "2026-06-18 04:57:14"
-  },
-  {
-    "CanonicalKey": "https://investinglive.com/stocks/markets-shift-in-a-hawkish-direction-after-the-fomc-statement-and-dot-plot-20260617",
-    "SentDate": "2026-06-18 04:57:18"
-  },
-  {
-    "CanonicalKey": "https://cointelegraph.com/markets/altcoins-witness-266b-in-selling-at-5-year-high-is-capital-leaving-crypto",
-    "SentDate": "2026-06-18 04:57:22"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-flat-as-investors-await-iran-deal-details-fed-policy-bmw-slides/articleshow/131795164.cms",
-    "SentDate": "2026-06-18 04:57:32"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-flat-at-94-52-vs-usd-as-oil-led-rally-faces-off-against-dollar-demand-fed-verdict-looms/articleshow/131796362.cms",
-    "SentDate": "2026-06-18 04:57:36"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-of-no-regulatory-recourse-for-investors-trading-in-unlisted-securities/articleshow/131801933.cms",
-    "SentDate": "2026-06-18 04:57:40"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/ipos/fpos/clay-craft-indias-rs-110-crore-ipo-to-open-on-june-17-price-band-fixed-at-rs-193-203/articleshow/131790335.cms",
-    "SentDate": "2026-06-18 04:57:43"
-  },
-  {
-    "CanonicalKey": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-rates-steady-at-kevin-warshs-first-fomc-meeting/articleshow/131808769.cms",
-    "SentDate": "2026-06-18 04:57:47"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/heart-diabetes-kidney-disease-treatment",
-    "SentDate": "2026-06-18 04:57:56"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/older-adults-memory-loss-outside-lab",
-    "SentDate": "2026-06-18 04:57:59"
-  },
-  {
-    "CanonicalKey": "https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search",
-    "SentDate": "2026-06-18 04:58:03"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
-    "SentDate": "2026-06-18 04:58:06"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/nuclear-clock-atomic-nucleus-first",
-    "SentDate": "2026-06-18 04:58:09"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/may/31/meteor-explodes-over-massachusetts-setting-off-loud-booms",
-    "SentDate": "2026-06-18 04:58:18"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5196/1",
-    "SentDate": "2026-06-18 04:58:22"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4975/1",
-    "SentDate": "2026-06-18 04:58:26"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4635/1",
-    "SentDate": "2026-06-18 04:58:30"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5024/1",
-    "SentDate": "2026-06-18 04:58:34"
-  },
-  {
     "CanonicalKey": "https://cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
     "SentDate": "2026-06-19 05:01:14"
   },
@@ -4698,5 +4538,165 @@
   {
     "CanonicalKey": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token",
     "SentDate": "2026-07-18 03:49:57"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/ce8kvv6g16eo",
+    "SentDate": "2026-07-19 03:40:02"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/news/articles/cq56e9n1ddzo",
+    "SentDate": "2026-07-19 03:40:04"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/select/shopping/lululemon-summer-sale-2026-rcna587343",
+    "SentDate": "2026-07-19 03:40:06"
+  },
+  {
+    "CanonicalKey": "https://bbc.co.uk/sport/football/articles/cly5we2lgq4o",
+    "SentDate": "2026-07-19 03:40:08"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/news/us-news/idaho-pushed-anti-trans-laws-transition-care-bathroom-trump-rcna350199",
+    "SentDate": "2026-07-19 03:40:11"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8248700/prabowo-terima-laporan-purbaya-ekonomi-indonesia-masih-tangguh",
+    "SentDate": "2026-07-19 03:40:27"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8248562/siasat-bisnis-di-balik-satu-harga-daiso",
+    "SentDate": "2026-07-19 03:40:31"
+  },
+  {
+    "CanonicalKey": "https://thailand-business-news.com/news/320066-thailand-news-roundup-visa-reforms-bangkok-bar-fire-tragedy-and-economic-shifts",
+    "SentDate": "2026-07-19 03:40:33"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8248662/rosan-ungkap-4-alasan-investasi-asing-tetap-masuk-indonesia",
+    "SentDate": "2026-07-19 03:40:43"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8248602/semester-i-2026-realisasi-investasi-di-luar-pulau-jawa-lebih-tinggi",
+    "SentDate": "2026-07-19 03:40:45"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-07-solar-storms-underestimated.html",
+    "SentDate": "2026-07-19 03:41:02"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-07-disabled-astronauts-space.html",
+    "SentDate": "2026-07-19 03:41:06"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/ai-task-completion-ability-space-scifi",
+    "SentDate": "2026-07-19 03:41:08"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-07-giant-planets-dark-detectors.html",
+    "SentDate": "2026-07-19 03:41:12"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-07-spiral-arms-bars-galactic-fuel.html",
+    "SentDate": "2026-07-19 03:41:15"
+  },
+  {
+    "CanonicalKey": "https://99bitcoins.com/news/altcoins/xrp-news-ripple-uk-treasury-taskforce-tokenized-markets",
+    "SentDate": "2026-07-19 03:41:22"
+  },
+  {
+    "CanonicalKey": "https://99bitcoins.com/news/altcoins/thailand-crypto-crackdown-usdt-stablecoin-aml",
+    "SentDate": "2026-07-19 03:41:25"
+  },
+  {
+    "CanonicalKey": "https://99bitcoins.com/news/altcoins/sec-vs-xrp-ripple-shutdown-garlinghouse",
+    "SentDate": "2026-07-19 03:41:28"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/bitcoin-ethereum-reverse-cpi-fueled-gains-as-strategy-stays-quiet-your-weekly-crypto-recap",
+    "SentDate": "2026-07-19 03:41:31"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/bullish-ada-predictions-sol-shows-rally-potential-and-more-bits-recap-july-17",
+    "SentDate": "2026-07-19 03:41:35"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests",
+    "SentDate": "2026-07-19 03:41:42"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/genes-huntingtons-therapy-expansion",
+    "SentDate": "2026-07-19 03:41:46"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor",
+    "SentDate": "2026-07-19 03:41:49"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/review-lost-in-curiosity",
+    "SentDate": "2026-07-19 03:41:55"
+  },
+  {
+    "CanonicalKey": "https://flowingdata.com/2026/07/17/generated-book-slop",
+    "SentDate": "2026-07-19 03:41:58"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+    "SentDate": "2026-07-19 03:42:06"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/testing-llms-on-superconductivity-research-questions",
+    "SentDate": "2026-07-19 03:42:09"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory",
+    "SentDate": "2026-07-19 03:42:13"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
+    "SentDate": "2026-07-19 03:42:17"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries",
+    "SentDate": "2026-07-19 03:42:20"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/full-trailer-for-netflixs-one-hundred-years-of-solitude-part-two",
+    "SentDate": "2026-07-19 03:42:29"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/07/18/r-i-p-chef-dom-taylor-star-and-winner-of-netflixs-five-star-chef-dead-at-44",
+    "SentDate": "2026-07-19 03:42:32"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/andrew-garfield-leads-wat-tylers-rebellion-in-the-uprising-trailer",
+    "SentDate": "2026-07-19 03:42:35"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/full-trailer-for-clever-coming-of-age-film-olmo-starring-aivan-uttapa",
+    "SentDate": "2026-07-19 03:42:38"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/07/18/lioness-season-3-release-date-taylor-sheridan-lioness-return-new-episodes",
+    "SentDate": "2026-07-19 03:42:41"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada",
+    "SentDate": "2026-07-19 03:42:50"
+  },
+  {
+    "CanonicalKey": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard",
+    "SentDate": "2026-07-19 03:42:52"
+  },
+  {
+    "CanonicalKey": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore",
+    "SentDate": "2026-07-19 03:42:54"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start",
+    "SentDate": "2026-07-19 03:42:57"
+  },
+  {
+    "CanonicalKey": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call",
+    "SentDate": "2026-07-19 03:42:59"
   }
 ]
