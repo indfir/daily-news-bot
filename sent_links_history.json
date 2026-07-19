@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-    "SentDate": "2026-06-19 05:01:14"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/article/4916143-do-ai-models-make-good-traders-and-do-they-make-good-traders-better",
-    "SentDate": "2026-06-19 05:01:16"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tgu03j522/b50-dinilai-bisa-kurangi-impor-solar-hingga-perkuat-ketahanan-energi-nasional",
-    "SentDate": "2026-06-19 05:01:20"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/article/4916146-we-have-valuation-problem-may-dividend-income-report",
-    "SentDate": "2026-06-19 05:01:23"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tgu6xp484/berkapitalisasi-rp-1100-triliun-himbara-jadi-motor-ekonomi-nasional",
-    "SentDate": "2026-06-19 05:01:26"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-    "SentDate": "2026-06-19 05:01:33"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/june-18-jackery-explorer-2000-v2-portable-power-station-deal",
-    "SentDate": "2026-06-19 05:01:36"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy",
-    "SentDate": "2026-06-19 05:01:40"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/justice-department-ai-data-centers-pollution-lawsuit",
-    "SentDate": "2026-06-19 05:01:43"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/best-early-prime-day-kindle-deals-2026",
-    "SentDate": "2026-06-19 05:01:45"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260616/french-spies-drop-ai-giant-palantir-over-us-overreliance-fears",
-    "SentDate": "2026-06-19 05:01:57"
-  },
-  {
-    "CanonicalKey": "https://lemonde.fr/international/article/2026/06/18/au-perou-le-tres-lent-depouillement-du-second-tour-de-la-presidentielle-donne-pour-le-moment-keiko-fujimori-en-tete_6704599_3210.html",
-    "SentDate": "2026-06-19 05:02:00"
-  },
-  {
-    "CanonicalKey": "https://lemonde.fr/sport/article/2026/06/18/jo-d-hiver-2030-dans-les-hautes-alpes-plus-de-3-hectares-d-arbres-sont-menaces-par-les-futures-pistes-de-snowboardcross-et-de-skicross_6704606_3242.html",
-    "SentDate": "2026-06-19 05:02:03"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260618/finance-minister-defends-swedens-economy-as-riksbank-flags-potential-interest-rate-hike",
-    "SentDate": "2026-06-19 05:02:08"
-  },
-  {
-    "CanonicalKey": "https://news.republika.co.id/berita/tguhu65530000/pkb-minta-pdip-tegas-pilih-koalisi-atau-oposisi-jangan-abuabu",
-    "SentDate": "2026-06-19 05:02:11"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/the-authors-of-the-book-the-war-on-science-won-their-war-are-they-happy-now",
-    "SentDate": "2026-06-19 05:02:28"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/lockdownjay",
-    "SentDate": "2026-06-19 05:02:32"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/in-animal-study-nanobots-repair-spinal-cords",
-    "SentDate": "2026-06-19 05:02:36"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-06-climate-local-extinction-temperate-regions.html",
-    "SentDate": "2026-06-19 05:02:39"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-06-wildfire-small.html",
-    "SentDate": "2026-06-19 05:02:42"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
-    "SentDate": "2026-06-19 05:02:49"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
-    "SentDate": "2026-06-19 05:02:52"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check",
-    "SentDate": "2026-06-19 05:02:54"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
-    "SentDate": "2026-06-19 05:02:57"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
-    "SentDate": "2026-06-19 05:02:59"
-  },
-  {
-    "CanonicalKey": "https://wired.com/story/sk-telecom-anthropic-mythos-export-controls",
-    "SentDate": "2026-06-19 05:03:14"
-  },
-  {
-    "CanonicalKey": "https://precisely.com/blog/sap-automation/sap-automation-and-ai-readiness-start-with-the-same-thing-better-data",
-    "SentDate": "2026-06-19 05:03:17"
-  },
-  {
-    "CanonicalKey": "https://precisely.com/blog/engineering/ai-agents-for-platform-engineering",
-    "SentDate": "2026-06-19 05:03:28"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress",
-    "SentDate": "2026-06-19 05:03:31"
-  },
-  {
-    "CanonicalKey": "https://wired.com/story/anthropic-mythos-export-controls-ai-regulations",
-    "SentDate": "2026-06-19 05:03:33"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2520960-we-could-protect-earth-from-dangerous-asteroids-using-a-huge-magnet",
-    "SentDate": "2026-06-19 05:03:44"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2521666-historic-artemis-ii-launch-sends-astronauts-bound-for-the-moon",
-    "SentDate": "2026-06-19 05:03:47"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system",
-    "SentDate": "2026-06-19 05:03:51"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/mg26935811-100-a-new-brief-history-of-the-universe-paints-a-wide-picture",
-    "SentDate": "2026-06-19 05:03:55"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2527597-mercury-may-have-gained-all-of-its-unexpected-water-in-a-single-day",
-    "SentDate": "2026-06-19 05:03:58"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/sci-fi-action-thriller-movie-kill-code-trailer-with-keitel-tyrese-grillo",
-    "SentDate": "2026-06-19 05:04:06"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/second-trailer-for-spider-man-brand-new-day-starring-tom-holland",
-    "SentDate": "2026-06-19 05:04:08"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2196384/hugh-jackman-music-biopic-movie-song-sung-blue-streaming-netflix",
-    "SentDate": "2026-06-19 05:04:11"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2196847/a24-best-movies-rotten-tomatoes",
-    "SentDate": "2026-06-19 05:04:14"
-  },
-  {
-    "CanonicalKey": "https://firstshowing.net/2026/official-trailer-for-the-welcome-table-doc-film-about-climate-migrants",
-    "SentDate": "2026-06-19 05:04:16"
-  },
-  {
     "CanonicalKey": "https://firstshowing.net/2026/korean-ghost-slayer-action-series-the-east-palace-teaser-trailer",
     "SentDate": "2026-06-20 04:04:42"
   },
@@ -4698,5 +4538,153 @@
   {
     "CanonicalKey": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call",
     "SentDate": "2026-07-19 03:42:59"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-xrp-will-do-this-by-next-30-days-and-nobody-is-ready",
+    "SentDate": "2026-07-20 03:39:50"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/google-gemini-ai-predicts-xrp-price-will-surprise-everyone-by-next-60-days",
+    "SentDate": "2026-07-20 03:39:54"
+  },
+  {
+    "CanonicalKey": "https://financemagnates.com/institutional-forex/jump-trading-expands-prediction-markets-team-as-cultural-alpha-becomes-part-of-the-quant-stack",
+    "SentDate": "2026-07-20 03:39:57"
+  },
+  {
+    "CanonicalKey": "https://financemagnates.com/thought-leadership/crypto-payments-for-merchants-why-education-not-technology-is-the-real-barrier",
+    "SentDate": "2026-07-20 03:40:01"
+  },
+  {
+    "CanonicalKey": "https://dailycoinpost.com/bitcoin-91-day-bear-market-window-42000-47000-bottom",
+    "SentDate": "2026-07-20 03:40:04"
+  },
+  {
+    "CanonicalKey": "https://news.republika.co.id/berita/tifuxo2030000/ribuan-warga-tangerang-antusias-nobar-final-piala-dunia-2026-spanyol-vs-argentina",
+    "SentDate": "2026-07-20 03:40:13"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/wirtschaft/unternehmen/italo-fernverkehr-italien-100.html",
+    "SentDate": "2026-07-20 03:40:17"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html",
+    "SentDate": "2026-07-20 03:40:21"
+  },
+  {
+    "CanonicalKey": "https://zeit.de/news/2026-07/19/154-british-open-fox-siegt-und-holt-ersten-major-titel",
+    "SentDate": "2026-07-20 03:40:25"
+  },
+  {
+    "CanonicalKey": "https://news.republika.co.id/berita/tiftp29330000/pengamat-serangan-pribadi-ke-prabowo-bukan-kritik-tapi-penghinaan",
+    "SentDate": "2026-07-20 03:40:28"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/official-trailer-for-kinetic-london-thriller-the-runner-with-gal-gadot",
+    "SentDate": "2026-07-20 03:40:47"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/anders-danielsen-lie-is-bill-evans-in-everybody-digs-bill-evans-trailer",
+    "SentDate": "2026-07-20 03:40:50"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/watch-seed-sci-fi-comedy-short-film-two-dudes",
+    "SentDate": "2026-07-20 03:40:54"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/kelsey-grammer-in-sci-fi-mystery-lars-shrike-walks-the-night-trailer",
+    "SentDate": "2026-07-20 03:40:58"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/full-spanish-trailer-for-la-bola-negra-wonderful-triptych-from-spain",
+    "SentDate": "2026-07-20 03:41:02"
+  },
+  {
+    "CanonicalKey": "https://huyenchip.com//2023/06/07/generative-ai-strategy.html",
+    "SentDate": "2026-07-20 03:41:14"
+  },
+  {
+    "CanonicalKey": "https://insightsoftware.com/blog/ai-feels-out-of-reach-for-smb-finance-teams-heres-how-to-change-that",
+    "SentDate": "2026-07-20 03:41:18"
+  },
+  {
+    "CanonicalKey": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
+    "SentDate": "2026-07-20 03:41:22"
+  },
+  {
+    "CanonicalKey": "https://datafloq.com/agentic-ai-wont-fix-bad-engineering-it-amplifies-whatever-is-already-there",
+    "SentDate": "2026-07-20 03:41:26"
+  },
+  {
+    "CanonicalKey": "https://huyenchip.com//2024/07/25/genai-platform.html",
+    "SentDate": "2026-07-20 03:41:30"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/search-for-earth-like-planet-step-forward",
+    "SentDate": "2026-07-20 03:41:37"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/07/production-ai-platforms-evals",
+    "SentDate": "2026-07-20 03:41:41"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/whats-up-with-polymarkets-panama-entity",
+    "SentDate": "2026-07-20 03:41:44"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries",
+    "SentDate": "2026-07-20 03:41:47"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents",
+    "SentDate": "2026-07-20 03:41:50"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/astronomers-discover-sugar-space-found-in-raspberries",
+    "SentDate": "2026-07-20 03:41:58"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/super-puff-planets-lighter-than-cotton-candy-found",
+    "SentDate": "2026-07-20 03:42:01"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/euclid-telescope-most-detailed-image-milky-way-stars",
+    "SentDate": "2026-07-20 03:42:04"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/nasa-swift-observatory-katalyst-space-rescue",
+    "SentDate": "2026-07-20 03:42:07"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/video/full-interview-nasa-administrator-jared-isaacman-artemis-iii-moon-mission-space",
+    "SentDate": "2026-07-20 03:42:10"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260715083542.htm",
+    "SentDate": "2026-07-20 03:42:21"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260713000753.htm",
+    "SentDate": "2026-07-20 03:42:24"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260712011751.htm",
+    "SentDate": "2026-07-20 03:42:27"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260717033213.htm",
+    "SentDate": "2026-07-20 03:42:31"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260714225542.htm",
+    "SentDate": "2026-07-20 03:42:35"
+  },
+  {
+    "CanonicalKey": "https://ekbis.sindonews.com/read/1730073/34/mengemaskan-indonesia-wamenaker-jadi-saksi-keunggulan-manajerial-pegadaian-1784473645",
+    "SentDate": "2026-07-20 03:42:49"
+  },
+  {
+    "CanonicalKey": "https://ekbis.sindonews.com/read/1730037/33/ekonom-beberkan-utang-pemerintah-indonesia-nilainya-tembus-segini-1784462849",
+    "SentDate": "2026-07-20 03:42:59"
   }
 ]
