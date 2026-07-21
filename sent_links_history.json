@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai",
-    "SentDate": "2026-06-21 04:10:15"
-  },
-  {
-    "CanonicalKey": "https://dev.to/piyush_das_1624/solstice-signal-tuning-into-the-dark-m8",
-    "SentDate": "2026-06-21 04:10:17"
-  },
-  {
-    "CanonicalKey": "https://dev.to/yescertified/the-cloud-and-ai-security-newsletter-3-the-cloud-security-tool-your-resume-is-missing-part-2-1bf9",
-    "SentDate": "2026-06-21 04:10:20"
-  },
-  {
-    "CanonicalKey": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works",
-    "SentDate": "2026-06-21 04:10:23"
-  },
-  {
-    "CanonicalKey": "https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke",
-    "SentDate": "2026-06-21 04:10:26"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/mnist-adversarial",
-    "SentDate": "2026-06-21 04:10:33"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/watermarking",
-    "SentDate": "2026-06-21 04:10:36"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/agent-glossary",
-    "SentDate": "2026-06-21 04:10:39"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/hardware-partners-program",
-    "SentDate": "2026-06-21 04:10:41"
-  },
-  {
-    "CanonicalKey": "https://huggingface.co/blog/falcon3",
-    "SentDate": "2026-06-21 04:10:43"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-    "SentDate": "2026-06-21 04:10:56"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-    "SentDate": "2026-06-21 04:10:59"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-    "SentDate": "2026-06-21 04:11:04"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/06/15/kalshi-traders-say-spacex-wont-get-to-mars-this-decade.html",
-    "SentDate": "2026-06-21 04:11:08"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html",
-    "SentDate": "2026-06-21 04:11:12"
-  },
-  {
-    "CanonicalKey": "https://planetary.org/the-downlink/on-the-launchpad",
-    "SentDate": "2026-06-21 04:11:20"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/quantum-earth-magnetic-field-space",
-    "SentDate": "2026-06-21 04:11:23"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/solar-flare-warning-signs-eruptions",
-    "SentDate": "2026-06-21 04:11:26"
-  },
-  {
-    "CanonicalKey": "https://planetary.org/articles/save-nasa-science-returns-to-capitol-hill",
-    "SentDate": "2026-06-21 04:11:28"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/artemis-ii-moon-finale",
-    "SentDate": "2026-06-21 04:11:31"
-  },
-  {
-    "CanonicalKey": "https://cryptoslate.com/why-a-resilient-jobs-market-keeps-turning-into-a-bitcoin-sell-signal",
-    "SentDate": "2026-06-21 04:11:41"
-  },
-  {
-    "CanonicalKey": "https://coinjournal.net/news/solana-price-forecast-sol-stuck-below-72-as-bears-take-control",
-    "SentDate": "2026-06-21 04:11:47"
-  },
-  {
-    "CanonicalKey": "https://leaprate.com/financial-services/exchanges/hkex-and-china-financial-futures-exchange-renew-cooperation-agreement",
-    "SentDate": "2026-06-21 04:11:52"
-  },
-  {
-    "CanonicalKey": "https://coinjournal.net/news/zcash-dips-4-as-broader-crypto-market-remains-bearish",
-    "SentDate": "2026-06-21 04:11:54"
-  },
-  {
-    "CanonicalKey": "https://coinjournal.net/news/ethereum-derivatives-activity-weakens-as-traders-await-a-fresh-catalyst",
-    "SentDate": "2026-06-21 04:11:57"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2196924/hollywood-first-major-black-superhero-movie-90s-flop-the-meteor-man",
-    "SentDate": "2026-06-21 04:12:04"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2196944/kurt-russell-disaster-movie-poseidon-2006-big-box-office-flop",
-    "SentDate": "2026-06-21 04:12:07"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2198130/rachel-mills-i-will-find-you-actress-britt-lower",
-    "SentDate": "2026-06-21 04:12:09"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/reviews/finnegans-foursome-review-edward-burns-1236786224",
-    "SentDate": "2026-06-21 04:12:12"
-  },
-  {
-    "CanonicalKey": "https://collider.com/wishmaster-series-guilty-pleasure-horror-franchise",
-    "SentDate": "2026-06-21 04:12:14"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260617032201.htm",
-    "SentDate": "2026-06-21 04:12:22"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260614011843.htm",
-    "SentDate": "2026-06-21 04:12:25"
-  },
-  {
-    "CanonicalKey": "http://sciencebasedmedicine.org/will-bhattacharya-stand-up-for-scientists-censored-by-ada",
-    "SentDate": "2026-06-21 04:12:28"
-  },
-  {
-    "CanonicalKey": "http://sciencebasedmedicine.org/can-medical-schools-really-teach-71-nutrition-competencies-should-they",
-    "SentDate": "2026-06-21 04:12:31"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260614012002.htm",
-    "SentDate": "2026-06-21 04:12:33"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
-    "SentDate": "2026-06-21 04:12:41"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa",
-    "SentDate": "2026-06-21 04:12:44"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
-    "SentDate": "2026-06-21 04:12:47"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
-    "SentDate": "2026-06-21 04:12:50"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
-    "SentDate": "2026-06-21 04:12:52"
-  },
-  {
     "CanonicalKey": "https://marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549",
     "SentDate": "2026-06-22 04:09:05"
   },
@@ -4682,5 +4522,157 @@
   {
     "CanonicalKey": "https://cbsnews.com/news/soyuz-launches-space-station-crew-8-months",
     "SentDate": "2026-07-21 04:08:40"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2218548/hugh-jackman-2019-hbo-crime-drama-oscar-bad-education",
+    "SentDate": "2026-07-22 04:01:10"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2219801/spider-man-brand-new-day-final-trailer",
+    "SentDate": "2026-07-22 04:01:14"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/tv/james-gunn-confirms-jimmy-tatro-as-gorilla-grodd-in-new-dcu-series",
+    "SentDate": "2026-07-22 04:01:17"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2218785/avengers-doomsday-trailer-question-robert-downey-jr-doctor-doom",
+    "SentDate": "2026-07-22 04:01:20"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/movies/other-mommy-official-trailer-poster-and-images-released",
+    "SentDate": "2026-07-22 04:01:24"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/07/02/stirlingx-raises-20m-sovereign-data-intelligence-platform",
+    "SentDate": "2026-07-22 04:01:33"
+  },
+  {
+    "CanonicalKey": "https://huyenchip.com//2024/03/14/ai-oss.html",
+    "SentDate": "2026-07-22 04:01:36"
+  },
+  {
+    "CanonicalKey": "https://404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny",
+    "SentDate": "2026-07-22 04:01:39"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/04/14/starburst-adds-ai-front-end-bid-make-conventional-bi-dashboards-obsolete",
+    "SentDate": "2026-07-22 04:01:43"
+  },
+  {
+    "CanonicalKey": "https://huyenchip.com//2025/01/07/agents.html",
+    "SentDate": "2026-07-22 04:01:45"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself",
+    "SentDate": "2026-07-22 04:01:53"
+  },
+  {
+    "CanonicalKey": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends",
+    "SentDate": "2026-07-22 04:01:57"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth",
+    "SentDate": "2026-07-22 04:02:01"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app",
+    "SentDate": "2026-07-22 04:02:04"
+  },
+  {
+    "CanonicalKey": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security",
+    "SentDate": "2026-07-22 04:02:08"
+  },
+  {
+    "CanonicalKey": "https://sciencebasedmedicine.org/negative-health-effects-of-vaping",
+    "SentDate": "2026-07-22 04:02:17"
+  },
+  {
+    "CanonicalKey": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-11",
+    "SentDate": "2026-07-22 04:02:21"
+  },
+  {
+    "CanonicalKey": "https://sciencebasedmedicine.org/maha-doctors-love-kennedy",
+    "SentDate": "2026-07-22 04:02:25"
+  },
+  {
+    "CanonicalKey": "https://sciencebasedmedicine.org/science-vs-hype-the-unproven-promise-of-nad-iv-therapy",
+    "SentDate": "2026-07-22 04:02:28"
+  },
+  {
+    "CanonicalKey": "https://sciencebasedmedicine.org/ebmguruslovemaha",
+    "SentDate": "2026-07-22 04:02:32"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html",
+    "SentDate": "2026-07-22 04:02:41"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/idees/article/2026/07/21/laurent-nunez-ministre-de-l-interieur-faire-confiance-aux-policiers-et-aux-gendarmes-ne-signifie-jamais-les-soustraire-au-controle-de-la-justice_6728153_3232.html",
+    "SentDate": "2026-07-22 04:02:46"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html",
+    "SentDate": "2026-07-22 04:02:52"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/international/article/2026/07/21/andy-burnham-entre-a-downing-street-et-choisit-l-ex-ministre-de-la-defense-john-healey-comme-chancelier-de-l-echiquier_6728014_3210.html",
+    "SentDate": "2026-07-22 04:02:56"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/m-styles/article/2026/07/21/anna-wintour-et-andre-leon-talley-une-rupture-brutale_6728190_4497319.html",
+    "SentDate": "2026-07-22 04:03:00"
+  },
+  {
+    "CanonicalKey": "https://gfmag.com/economics-policy-regulation/central-bank-gold-purchases-accelerate",
+    "SentDate": "2026-07-22 04:03:08"
+  },
+  {
+    "CanonicalKey": "https://gfmag.com/capital-raising-corporate-finance/egypts-ipo-pipeline-grows-as-cairo-courts-private-capital",
+    "SentDate": "2026-07-22 04:03:11"
+  },
+  {
+    "CanonicalKey": "https://gfmag.com/commentary/your-supply-chain-is-leaking-cash",
+    "SentDate": "2026-07-22 04:03:14"
+  },
+  {
+    "CanonicalKey": "https://smartliquidity.info/2026/07/10/why-wallets-are-becoming-digital-passports",
+    "SentDate": "2026-07-22 04:03:22"
+  },
+  {
+    "CanonicalKey": "https://smartliquidity.info/2026/07/21/blockchain-loyalty-programs-explained-the-future-of-customer-rewards",
+    "SentDate": "2026-07-22 04:03:25"
+  },
+  {
+    "CanonicalKey": "https://smartliquidity.info/2026/07/09/can-defi-survive-without-token-incentives",
+    "SentDate": "2026-07-22 04:03:29"
+  },
+  {
+    "CanonicalKey": "https://smartliquidity.info/2026/07/15/defi-as-critical-digital-infrastructure-building-the-financial-backbone-of-the-digital-age",
+    "SentDate": "2026-07-22 04:03:32"
+  },
+  {
+    "CanonicalKey": "https://smartliquidity.info/2026/07/16/blockchain-based-credit-markets-reinventing-lending-for-a-borderless-financial-future",
+    "SentDate": "2026-07-22 04:03:36"
+  },
+  {
+    "CanonicalKey": "https://collectspace.com/news/news-071626a-moonswatch-mission-moon-1969-apollo_11.html",
+    "SentDate": "2026-07-22 04:03:43"
+  },
+  {
+    "CanonicalKey": "https://dailygalaxy.com/2026/07/evidence-pluto-moon-still-losing-its-spin",
+    "SentDate": "2026-07-22 04:03:46"
+  },
+  {
+    "CanonicalKey": "https://astronomy.com/science/is-this-the-first-known-binary-system-to-produce-two-supernova-remnants",
+    "SentDate": "2026-07-22 04:03:50"
+  },
+  {
+    "CanonicalKey": "https://dailygalaxy.com/2026/07/starlink-joins-artemis-iii-mission",
+    "SentDate": "2026-07-22 04:03:53"
+  },
+  {
+    "CanonicalKey": "https://dailygalaxy.com/2026/07/magnetic-signature-universes-explosions",
+    "SentDate": "2026-07-22 04:03:56"
   }
 ]

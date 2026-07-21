@@ -1,314 +1,306 @@
 [
   {
-    "Topic": "Economy",
-    "Title": "Fund managers dump cash into US stocks and crowded semis while gold takes biggest hit in decade",
-    "Link": "https://www.investmentwatchblog.com/fund-managers-dump-cash-into-us-stocks-and-crowded-semis-while-gold-takes-biggest-hit-in-decade/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-21 04:05:54"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Just How Volatile Are U.S. Stocks Overnight?",
-    "Link": "https://www.nasdaq.com/articles/just-how-volatile-are-us-stocks-overnight",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?2085015528",
+    "Topic": "Movies",
+    "Title": "Hugh Jackman's 2019 HBO Crime Drama Should Have Won Him An Oscar",
+    "Link": "https://www.slashfilm.com/2218548/hugh-jackman-2019-hbo-crime-drama-oscar-bad-education/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/hugh-jackmans-2019-hbo-crime-drama-should-have-won-him-an-oscar/l-intro-1784554139.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:01"
+    "Date": "2026-07-22 04:01:10"
   },
   {
-    "Topic": "Economy",
-    "Title": "This is one of the strangest market setups right now.",
-    "Link": "https://www.investmentwatchblog.com/this-is-one-of-the-strangest-market-setups-right-now/",
+    "Topic": "Movies",
+    "Title": "Spider-Man: Brand New Day Trailer: Peter Parker's The Only One Who Can Sense A Mysterious Villain",
+    "Link": "https://www.slashfilm.com/2219801/spider-man-brand-new-day-final-trailer/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-trailer-shell/l-intro-1783465895.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "James Gunn Confirms Jimmy Tatro as Gorilla Grodd in New DCU Series",
+    "Link": "https://bleedingcool.com/tv/james-gunn-confirms-jimmy-tatro-as-gorilla-grodd-in-new-dcu-series/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/MixCollage-08-Jul-2026-06-07-PM-6371-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:17"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Avengers: Doomsday Trailer Raises One Giant Question About Robert Downey Jr.'s Doctor Doom",
+    "Link": "https://www.slashfilm.com/2218785/avengers-doomsday-trailer-question-robert-downey-jr-doctor-doom/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/avengers-doomsday-trailer-raises-one-giant-question-about-robert-downey-jr-s-doctor-doom/l-intro-1784563551.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:20"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Other Mommy: Official Trailer, Poster, And Images Released",
+    "Link": "https://bleedingcool.com/movies/other-mommy-official-trailer-poster-and-images-released/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/other-mommy-feature-image-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:24"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "StirlingX raises $20M for sovereign data intelligence platform",
+    "Link": "https://siliconangle.com/2026/07/02/stirlingx-raises-20m-sovereign-data-intelligence-platform/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/stirlingx.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "What I learned from looking at 900 most popular open source AI tools",
+    "Link": "https://huyenchip.com//2024/03/14/ai-oss.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/ai-oss/2-ai-timeline.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:36"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
+    "Link": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/maxresdefault.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:39"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Starburst adds AI front end in a bid to make conventional business intelligence dashboards obsolete",
+    "Link": "https://siliconangle.com/2026/04/14/starburst-adds-ai-front-end-bid-make-conventional-bi-dashboards-obsolete/",
+    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/explosion-2483998_1920.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Agents",
+    "Link": "https://huyenchip.com//2025/01/07/agents.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/agents/2-agent-pattern.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:45"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "China’s AI models have Trump’s AI world at war with itself",
+    "Link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:53"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
+    "Link": "https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/",
+    "ImageUrl": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20260715-1455",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:01:57"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Using AI to perceive the universe in greater depth",
+    "Link": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Shrimp_Jesus_example.jpg/960px-Shrimp_Jesus_example.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:02:01"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Try Deep Think in the Gemini app",
+    "Link": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2-5_deep-think_blog_social_share.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:04"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Introducing CodeMender: an AI agent for code security",
+    "Link": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-21 04:06:04"
+    "Date": "2026-07-22 04:02:08"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Negative Health Effects of Vaping",
+    "Link": "https://sciencebasedmedicine.org/negative-health-effects-of-vaping/?utm_source=rss&utm_medium=rss&utm_campaign=negative-health-effects-of-vaping",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/vaping-flavors.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:17"
+  },
+  {
+    "Topic": "Science",
+    "Title": "RFK Jr. is definitely coming for your vaccines (part 11): Eliminate the CDC vaccine schedule!",
+    "Link": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-11/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-11",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2024/09/TrumpRFK.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:21"
+  },
+  {
+    "Topic": "Science",
+    "Title": "MAHA Doctors Promised Kennedy Would be the Savior of Vaccines. What Happened Next?",
+    "Link": "https://sciencebasedmedicine.org/maha-doctors-love-kennedy/?utm_source=rss&utm_medium=rss&utm_campaign=maha-doctors-love-kennedy",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/06/image-6.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:25"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Science vs. Hype: The Unproven Promise of NAD+ IV Therapy",
+    "Link": "https://sciencebasedmedicine.org/science-vs-hype-the-unproven-promise-of-nad-iv-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=science-vs-hype-the-unproven-promise-of-nad-iv-therapy",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2021/12/NAD-stick-and-ball.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:28"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The Men of Data and Science Who Enabled the Quackery of MAHA and the Scientific Sabotage of MAGA",
+    "Link": "https://sciencebasedmedicine.org/ebmguruslovemaha/?utm_source=rss&utm_medium=rss&utm_campaign=ebmguruslovemaha",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2025/10/image-17.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:02:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Le projet de loi d’urgence agricole adopté dans la cacophonie par une Assemblée nationale fracturée sur la question des pesticides",
+    "Link": "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/BIPM_courtyard.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:02:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Laurent Nuñez, ministre de l’intérieur : « Faire confiance aux policiers et aux gendarmes ne signifie jamais les soustraire au contrôle de la justice »",
+    "Link": "https://www.lemonde.fr/idees/article/2026/07/21/laurent-nunez-ministre-de-l-interieur-faire-confiance-aux-policiers-et-aux-gendarmes-ne-signifie-jamais-les-soustraire-au-controle-de-la-justice_6728153_3232.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_du_Minist%C3%A8re_de_l%27Int%C3%A9rieur_%282020%29.svg/960px-Logo_du_Minist%C3%A8re_de_l%27Int%C3%A9rieur_%282020%29.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:02:46"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Interruption du concert de Barbara Butch à Grenoble : la maire écologiste, Laurence Ruffin, dénonce la « stratégie d’intimidation » des « insoumis »",
+    "Link": "https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/960px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:02:52"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Andy Burnham entre à Downing Street en promettant de « distribuer le pouvoir partout dans le pays »",
+    "Link": "https://www.lemonde.fr/international/article/2026/07/21/andy-burnham-entre-a-downing-street-et-choisit-l-ex-ministre-de-la-defense-john-healey-comme-chancelier-de-l-echiquier_6728014_3210.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-22 04:02:56"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Anna Wintour et André Leon Talley, une rupture brutale",
+    "Link": "https://www.lemonde.fr/m-styles/article/2026/07/21/anna-wintour-et-andre-leon-talley-une-rupture-brutale_6728190_4497319.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-07-22 04:03:00"
   },
   {
     "Topic": "Economy",
-    "Title": "SCHD biggest dividend income contributors shown in new chart",
-    "Link": "https://www.investmentwatchblog.com/schd-biggest-dividend-income-contributors-shown-in-new-chart/",
-    "ImageUrl": "https://www.investmentwatchblog.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-211833.png",
+    "Title": "Gold Purchases Accelerate as Dollar Confidence Wanes",
+    "Link": "https://gfmag.com/economics-policy-regulation/central-bank-gold-purchases-accelerate/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/07/gold_shutterstock_2691851945-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:12"
+    "Date": "2026-07-22 04:03:08"
   },
   {
     "Topic": "Economy",
-    "Title": "Crown Holdings raises profit outlook after Q2 beat",
-    "Link": "https://seekingalpha.com/news/4615605-crown-holdings-raises-profit-outlook-after-q2-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172368282/image_172368282.jpg?io=getty-c-w630",
+    "Title": "Egypt’s IPO Pipeline Grows as Cairo Courts Private Capital",
+    "Link": "https://gfmag.com/capital-raising-corporate-finance/egypts-ipo-pipeline-grows-as-cairo-courts-private-capital/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/07/Untitled-design-7.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:15"
+    "Date": "2026-07-22 04:03:11"
   },
   {
-    "Topic": "General News",
-    "Title": "Video shows moment of deadly explosion at cafe in Russia",
-    "Link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402131233-01-russia-cafe-explosion-0402.jpg?c=16x9&q=w_800,c_fill",
+    "Topic": "Economy",
+    "Title": "Here’s Why Your Supply Chain Is Leaking Cash",
+    "Link": "https://gfmag.com/commentary/your-supply-chain-is-leaking-cash/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/07/shutterstock_2714220523-scaled.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:25"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Dishub Kaltara Fokus Rehabilitasi dan Bangun Fasilitas Pelabuhan Tengkayu I dan PLBL Liem Hie Djung di 2026",
-    "Link": "https://news.republika.co.id/berita/tihh9k9430000/dishub-kaltara-fokus-rehabilitasi-dan-bangun-fasilitas-pelabuhan-tengkayu-i-dan-plbl-liem-hie-djung-di-2026",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/076891300-1784567720-1000564411jpg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:28"
-  },
-  {
-    "Topic": "General News",
-    "Title": "CEOs are tired of being held responsible for gun regulation",
-    "Link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330103817-01-nashville-school-shooting-weapons.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:30"
-  },
-  {
-    "Topic": "General News",
-    "Title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-    "Link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402102934-03-mens-march-madness-final-preview-2023.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:32"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Finland's Prime Minister Sanna Marin concedes election",
-    "Link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402171722-03-finland-election-sanna-marin.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:35"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Pokémon TCG Pitch Black Booster Packs are already on sale at Amazon — save $2 right now",
-    "Link": "https://mashable.com/life/july-20-pokemon-tcg-pitch-black-booster-pack-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07HbO3VkZSROYEzAUVO80CC/hero-image.fill.size_1200x675.v1784528960.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:43"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "France orders Polymarket blocked over illegal gambling promotion",
-    "Link": "https://mashable.com/life/france-blocks-polymarket-over-illegal-gambling-promotion",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02U26RiAXHgV91EKA0f80d3/hero-image.fill.size_1200x675.v1784448125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Today only: The Ecovacs Goat A2000 LiDAR Pro robot lawn mower is on sale for over $500 off",
-    "Link": "https://mashable.com/life/july-20-ecovacs-goat-a2000-lidar-pro-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02onjzmr6gP4UVIppvQtO9j/hero-image.fill.size_1200x675.v1784562070.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:47"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The DJI Mic Mini is on sale for under $60 at Amazon — save over $20",
-    "Link": "https://mashable.com/tech/july-20-dji-mic-mini-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04X7pkoij0glThh4nhf0t9l/hero-image.fill.size_1200x675.v1784537271.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:51"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Google Pixel 10a is on offer at T-Mobile — here’s how to save up to $800",
-    "Link": "https://mashable.com/tech/july-20-t-mobile-google-pixel-10a-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03F3KLigYpZmsiltvibStva/hero-image.fill.size_1200x675.v1784537685.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:06:53"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing Mobile Layout for Amazon Quick dashboards",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:02"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Integrating and Visualising Multiple Microsoft To Do Accounts with Power BI",
-    "Link": "https://biinsight.com/integrating-and-visualising-multiple-microsoft-to-do-accounts-with-power-bi/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/07/Integrating-and-Visualising-Multiple-Microsoft-To-Do-Accounts-with-Power-BI.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Copilot for Power BI, What Does it Mean for Power BI Development?",
-    "Link": "https://biinsight.com/copilot-for-power-bi-what-does-it-mean-for-power-bi-development/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/05/image-3-1024x494.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:14"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Power BI 101, Report Authoring Tools",
-    "Link": "https://biinsight.com/power-bi-101-report-authoring-tools/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/12/Power-BI-101-Report-Authoring-Tools.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:17"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘My Friend the Porn Star’ Review: German Documentary About Desire Is a Kooky, Kinky Delight",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/my-friend-the-porn-star-review-1236651715/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/My-Friend-the-Porn-Star.jpg?w=1400&#038;h=788&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:36"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Paramount/Warner Bros Update: Restraining Order Decision on Wednesday",
-    "Link": "https://bleedingcool.com/tv/paramount-warner-bros-update-restraining-order-decision-on-wednesday/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-12-Jun-2026-05-46-PM-2057-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Paramount/Warner Bros Update: Big Hearing on Friday, WGA Sues &#038; More",
-    "Link": "https://bleedingcool.com/tv/paramount-warner-bros-update-big-hearing-on-friday-wga-sues-more/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-12-Jun-2026-05-46-PM-2057-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "I Play Rocky: Take On The Role Of A Lifetime In The Official Trailer",
-    "Link": "https://bleedingcool.com/movies/i-play-rocky-take-on-the-role-of-a-lifetime-in-the-official-trailer/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/i-play-rocky-feature-image-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:44"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Avengers: Doomsday’ Trailer Reveals First Look at Robert Downey Jr.’s Doctor Doom",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-robert-downey-jr-doctor-doom-mcu-1236611483/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2024/07/GettyImages-2163995189-e1722459153404.jpg?w=1440&#038;h=810&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:07:47"
+    "Date": "2026-07-22 04:03:14"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Gold tests $3,955 support with bearish trend intact: Live levels",
-    "Link": "https://www.investing.com/news/commodities-news/gold-tests-3955-support-with-bearish-trend-intact-live-levels-93CH-4801555",
+    "Title": "Why Wallets Are Becoming Digital Passports",
+    "Link": "https://smartliquidity.info/2026/07/10/why-wallets-are-becoming-digital-passports/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/07/SMARTCRYTONEWS-4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Blockchain Loyalty Programs Explained: The Future of Customer Rewards",
+    "Link": "https://smartliquidity.info/2026/07/21/blockchain-loyalty-programs-explained-the-future-of-customer-rewards/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/07/SMARTCRYTONEWS-25.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Can DeFi Survive Without Token Incentives?",
+    "Link": "https://smartliquidity.info/2026/07/09/can-defi-survive-without-token-incentives/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/07/SMARTCRYTONEWS-2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:29"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "DeFi as Critical Digital Infrastructure: Building the Financial Backbone of the Digital Age",
+    "Link": "https://smartliquidity.info/2026/07/15/defi-as-critical-digital-infrastructure-building-the-financial-backbone-of-the-digital-age/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/07/SMARTCRYTONEWS-13.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Blockchain-Based Credit Markets: Reinventing Lending for a Borderless Financial Future",
+    "Link": "https://smartliquidity.info/2026/07/16/blockchain-based-credit-markets-reinventing-lending-for-a-borderless-financial-future/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/07/SMARTCRYTONEWS-14.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:36"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Swatch: Apply by Apollo 11 anniversary to buy '1969' limited MoonSwatch",
+    "Link": "https://www.collectspace.com/news/news-071626a-moonswatch-mission-moon-1969-apollo_11.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-071626a-fb.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:43"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Scientists Found Evidence Pluto’s Largest Moon Is Still Losing Its Spin After Billions of Years",
+    "Link": "https://dailygalaxy.com/2026/07/evidence-pluto-moon-still-losing-its-spin/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:03:46"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Is this the first known binary system to produce two supernova remnants?",
+    "Link": "https://www.astronomy.com/science/is-this-the-first-known-binary-system-to-produce-two-supernova-remnants/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/07/IC443_wide_10GeV_modeled_X-ray_G189_sml.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-07-22 04:03:50"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Starlink Joins Artemis III Mission to Bring Lunar Images Back to Earth Faster",
+    "Link": "https://dailygalaxy.com/2026/07/starlink-joins-artemis-iii-mission/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Falcon9_rocket_family.svg/960px-Falcon9_rocket_family.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-07-22 04:03:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Scientists Capture A Hidden Magnetic Signature From One Of The Universe’s Most Violent Explosions",
+    "Link": "https://dailygalaxy.com/2026/07/magnetic-signature-universes-explosions/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-21 04:07:54"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Gold marginally lower amid firmer dollar as U.S.-Iran tensions escalate further",
-    "Link": "https://www.investing.com/news/commodities-news/gold-steadies-near-4000-as-iran-conflict-keeps-fed-inflation-fears-in-focus-4799771",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crisis_of_dragon%27s_blood_at_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng_Street_10-03-2026_E6.jpg/960px-Crisis_of_dragon%27s_blood_at_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng_Street_10-03-2026_E6.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-21 04:07:57"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "European wheat futures hold steady despite French crop decline",
-    "Link": "https://www.investing.com/news/commodities-news/european-wheat-futures-hold-steady-despite-french-crop-decline-93CH-4801451",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-21 04:08:00"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Silver stalls below $58.30 resistance: Live hourly levels",
-    "Link": "https://www.investing.com/news/commodities-news/silver-stalls-below-5830-resistance-live-hourly-levels-93CH-4801554",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Italian_lira_banknotes.JPG/960px-Italian_lira_banknotes.JPG",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-21 04:08:03"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Is it a problem for cats to eat insects? Researchers are probing feline diets to find out",
-    "Link": "https://www.scientificamerican.com/article/is-it-a-problem-for-cats-to-eat-insects-researchers-are-probing-feline-diets-to-find-out/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/m/3120f8540987c47a/original/cat-on-lattice-fence.jpg?m=1741722864.992&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:11"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists spot sugar in interstellar space for the first time ever",
-    "Link": "https://www.scientificamerican.com/article/scientists-spot-sugar-in-interstellar-space-for-the-first-time-ever/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/afa2c196-b354-419f-9dc5-f4b880b76966/GettyImages-2263472819-web.jpg?m=1783957893.323&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:13"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists discover a ‘remarkable’ new monkey species with orange lips and a froglike roar",
-    "Link": "https://www.scientificamerican.com/video/scientists-discover-a-remarkable-new-monkey-species-with-orange-lips-and-a-froglike-roar/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/d15a3b58-e8a6-4d73-b88b-535e7e2891fa/Colobus-congensis.jpg?m=1784132126.203&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:16"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Permanent daylight savings is bad for Americans’ health—here’s what science says could be better",
-    "Link": "https://www.scientificamerican.com/article/permanent-daylight-savings-is-bad-for-americans-health-heres-what-science-says-could-be-better/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/m/a35ef0aa96ae27c8/original/Night-owl-sleep.jpg?m=1769621879.252&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:19"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Accidental mix-ups of sounds reveal how the brain produces speech",
-    "Link": "https://www.scientificamerican.com/article/accidental-mix-ups-of-sounds-reveal-how-the-brain-produces-speech/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/6b6e67f5-54e4-4996-8b8d-bf4d8e015bfe/Brain-energy.jpg?m=1781620006.462&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "July 19, 418: A solar eclipse/comet combo",
-    "Link": "https://www.astronomy.com/today-in-the-history-of-astronomy/july-19-418-a-solar-eclipse-comet-combo/",
-    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2025/05/eclipse_1-e1752701173106.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:29"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Blue Origin rocket explodes in spectacular fireball",
-    "Link": "https://www.cbsnews.com/video/blue-origin-rocket-explodes-in-spectacular-fireball/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Administrator_Isaacman_Visits_Blue_Origin_%28NHQ20260529_admin_0004%29.jpg/960px-Administrator_Isaacman_Visits_Blue_Origin_%28NHQ20260529_admin_0004%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-21 04:08:32"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA taps 2 companies to develop buggies for its moon base program",
-    "Link": "https://www.cbsnews.com/news/nasa-taps-2-companies-to-develop-buggies-for-moon-base-program/",
-    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/31/0de1246d-245d-405a-8a55-6f83495e4ecb/thumbnail/1200x630/197ae03e6e3a87d9019a8475f4a189ce/1780186193141.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA administrator on selecting Artemis III crew, timeline for moon landing mission",
-    "Link": "https://www.cbsnews.com/video/nasa-administrator-on-selecting-artemis-iii-crew-timeline-for-moon-landing-mission/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/960px-NASA_seal.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-21 04:08:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Russian Soyuz rocket launches fresh crew to space station",
-    "Link": "https://www.cbsnews.com/news/soyuz-launches-space-station-crew-8-months/",
-    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/14/b4d4c1b3-a5c1-4398-84e5-b1c045119e0e/thumbnail/1200x630/42162fd29f402cc048836e159a120a2a/crew-portrait.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-21 04:08:40"
+    "Date": "2026-07-22 04:03:56"
   }
 ]
