@@ -1,322 +1,282 @@
 [
   {
     "Topic": "General News",
-    "Title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-    "Link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404141742-04b-kwame-brathwaite-obituary-orange-crop.jpg?c=16x9&q=w_800,c_fill",
+    "Title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+    "Link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3471/live/5f73f4d0-8b52-11f1-8139-b39d1c7486b2.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-29 04:02:37"
+    "Date": "2026-07-30 03:47:30"
   },
   {
     "Topic": "General News",
-    "Title": "El Consejo Audiovisual de Andalucía lleva a la Fiscalía el vídeo viral del ataque a una menor en Huelva y pide su retirada",
-    "Link": "https://elpais.com/sociedad/2026-07-28/el-consejo-audiovisual-de-andalucia-lleva-a-la-fiscalia-el-video-viral-del-ataque-a-una-menor-en-huelva-y-pide-su-retirada.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2020-02-06_Visita_de_los_Reyes_a_%C3%89cija_con_motivo_del_%22Premio_Escuela_del_A%C3%B1o_2019%22_de_la_Fundaci%C3%B3n_Princesa_de_Girona%2C_31_%28Queen_Letizia%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-29 04:02:42"
+    "Title": "Limiting sugar before age two linked to better brain health",
+    "Link": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1448/live/0dc2e760-8b69-11f1-aeab-95d4580645f0.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:32"
   },
   {
     "Topic": "General News",
-    "Title": "Lo último de OMA: un edificio como un puzle",
-    "Link": "https://elpais.com/cultura/del-tirador-a-la-ciudad/2026-07-28/lo-ultimo-de-oma-un-edificio-como-un-puzle.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:02:45"
+    "Title": "Fleming expected to be named England Test coach",
+    "Link": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5df7/live/9b8ee420-8b7a-11f1-9c0c-350e6e46be56.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:34"
   },
   {
     "Topic": "General News",
-    "Title": "Gymnast Evans delivers first gold for Wales ",
-    "Link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2jxdrz71zo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4e6b/live/1797b480-8a9e-11f1-bdb4-61a481e25caf.jpg",
+    "Title": "BBC cancels Blankety Blank, Celebrity Mastermind and Live at the Apollo due to budget cuts",
+    "Link": "https://www.bbc.co.uk/news/articles/clyx8j33k7zo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9dd/live/b6201210-8b47-11f1-a205-290436224ccc.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-07-29 04:02:48"
+    "Date": "2026-07-30 03:47:37"
   },
   {
     "Topic": "General News",
-    "Title": "Agustín Gregori, el abuelo que a los 73 años fundó una marca de ropa junto a sus nietos y sus colegas",
-    "Link": "https://elpais.com/eps/2026-07-22/agustin-gregori-el-abuelo-de-la-ropa-urbana-y-sus-jovenes-secuaces.html",
+    "Title": "Moment police officers set foot in 'horror scene' funeral home",
+    "Link": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39b5/live/2f300c70-8a79-11f1-b7a2-89c39e80e970.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:39"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building Browser-Using AI Agents in Python",
+    "Link": "https://machinelearningmastery.com/building-browser-using-ai-agents-in-python/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-Building-Browser-Using-AI-Agents-in-Python-1024x680.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:49"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Model Context Protocol Explained in 3 Levels of Difficulty",
+    "Link": "https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-mcp-3-levels-1024x683.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:52"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Apache Airflow Document Ingestion Pipeline for RAG Systems",
+    "Link": "https://pyimagesearch.com/2026/06/01/apache-airflow-document-ingestion-pipeline-for-rag-systems/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/06/apache-airflow-document-ingestion-pipeline-rag-systems-featured.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:55"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building Multimodal AI Applications with Gemma 4 and Transformers",
+    "Link": "https://pyimagesearch.com/2026/07/12/building-multimodal-ai-applications-with-gemma-4-and-transformers/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/07/build-multimodal-ai-apps-w-gemma-4-transformers-featured-v2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:47:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Roadmap to Mastering AI Agent Evaluation",
+    "Link": "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-the-roadmap-to-mastering-ai-agent-evaluation.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:01"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
+    "Link": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/scam-compound-myanmar-decrypt-style-1-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:08"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "236,000 Crypto Scam Sites Trace Back to a Single Chinese App Builder...",
+    "Link": "https://www.globalcryptopress.com/2026/06/236000-crypto-scam-sites-trace-back-to.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-29 04:02:51"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Your dreams aren’t random. Your brain is rewriting reality",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-dream-city-skyline.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:02:59"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why the same DNA damage causes cancer in some people but not others",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/dna-damage-genetic-mutation.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:02"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Twisted laser light can tell mirror-image molecules apart",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/twisted-laser-light-mirror-image-molecules.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:04"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/fluorescent-image-of-brain-organoid.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:07"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/queen-and-worker-bees.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:10"
+    "Date": "2026-07-30 03:48:11"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Arthur Hayes Buys $6.39 Million More ETH Despite a $301K Paper Loss: Here’s What He’s Betting on",
-    "Link": "https://news.bitcoin.com/crypto-news/arthur-hayes-buys-eth-301k-paper-loss/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/07/arthur-hayes-buys-6-39-million-more-eth-despite-a-301k-paper-loss-heres-what-hes-betting-on2_nwmk.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:25"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "BitMEX sued for engineering customer liquidations to seize traders’ Bitcoin collateral",
-    "Link": "https://coinjournal.net/news/bitmex-sued-for-engineering-customer-liquidations-to-seize-traders-bitcoin-collateral/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/07/BitMEX-sued.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:30"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "DOGE slides below $0.070 as market sentiment weakens",
-    "Link": "https://coinjournal.net/news/doge-slides-below-0-070-as-market-sentiment-weakens/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-07_30_37-AM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethena price prediction: can ENA hold $0.085 after $26.4M whale wallet transfer?",
-    "Link": "https://coinjournal.net/news/ethena-price-prediction-can-ena-hold-0-085-after-26-4m-whale-wallet-transfer/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/07/Ethena-price-prediction.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:36"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum outperforms Bitcoin as Bitmine buys 9,946 ETH",
-    "Link": "https://coinjournal.net/news/ethereum-outperforms-bitcoin-as-bitmine-buys-9946-eth/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/02/ethereum-price-trading-laptop-chart.jpg.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:39"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "Link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:03:48"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Scoring Documents Against a Content Model Without an LLM",
-    "Link": "https://dev.to/david_shibley/scoring-documents-against-a-content-model-without-an-llm-8lg",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwsg13n0cepc23c333g94.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:50"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "AI is more likely than humans to form biases when hiring",
-    "Link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-    "Link": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:55"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Closing the data loop in AI-driven drug discovery",
-    "Link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:03:57"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to control AI agents  before they control you",
-    "Link": "https://www.aiacceleratorinstitute.com/how-to-control-ai-agents-before-they-control-you-2/",
-    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/07/AIAI_Website_Article_Images_Author_Highlight--4--2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Explaining Receiving, Clearing and Accrual Balances in Oracle",
-    "Link": "https://splashbi.com/resources/upcoming-webinar/oracle-balances-explained/",
-    "ImageUrl": "https://splashbi.com/wp-content/uploads/2026/05/Datasheet-Images_14052026.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:09"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Helping Finance Teams Explain Receiving and Accrual Balances in Oracle Fusion and EBS",
-    "Link": "https://splashbi.com/resources/on-demand-webinars/explaining-receiving-and-accrual-balances-in-oracle/",
-    "ImageUrl": "https://splashbi.com/wp-content/uploads/2026/06/image-3.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:11"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "25 AI engineers you should be  following in 2026",
-    "Link": "https://www.aiacceleratorinstitute.com/25-ai-engineers-you-should-be-following-in-2026/",
-    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/07/2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:14"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SplashBI is at O5Live London",
-    "Link": "https://splashbi.com/events/splashbi-at-o5live-london/",
-    "ImageUrl": "https://splashbi.com/wp-content/uploads/2026/05/Splash-BI-X-O5Live-Image-1.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:19"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Renewed and Canceled TV Shows 2026",
-    "Link": "https://editorial.rottentomatoes.com/article/renewed-and-cancelled-tv-shows-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/Renewed_Canceled_Queen_of_Damned-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:29"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Avengers: Doomsday: Release Date, Trailer, Cast & More",
-    "Link": "https://editorial.rottentomatoes.com/article/everything-we-know-about-avengers-doomsday/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/01/EWKA_Avengers_Doomsday_July2026_Update-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Weekend Box Office: The Odyssey Holds Strong to Dominate with $87 Million",
-    "Link": "https://editorial.rottentomatoes.com/article/weekend-box-office-the-odyssey-holds-strong-to-dominate-with-87-million/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/Odyssey_BO2-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:34"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Amazon's New Sci-Fi Fantasy Reboot Gets Massive Streaming Redemption After $170M Box Office Failure",
-    "Link": "https://screenrant.com/masters-of-the-universe-amazon-streaming-success-july-2026/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/untitled-25.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:37"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "RT Recommends: Our Favorite Movies This Week",
-    "Link": "https://editorial.rottentomatoes.com/guide/rtrecommends-our-favorite-movies-this-week/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/02/RT_Representative_RT-Recommends.png?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Why is Bloom Energy stock surging today?",
-    "Link": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4818151",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:04:49"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Armstrong World Industries, Inc. (AWI) Q2 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4926432-armstrong-world-industries-inc-awi-q2-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:51"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Bladex Inc. (BLX) Q2 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4926443-bladex-inc-blx-q2-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-29 04:04:54"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Royal Caribbean Cruises Ltd. (RCL) Q2 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4926409-royal-caribbean-cruises-ltd-rcl-q2-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Royal_Caribbean_headquarters.jpg/960px-Royal_Caribbean_headquarters.jpg",
+    "Title": "Ethereum's Most Notorious Front Running Bot's Own Greed Gets Used Against It - Tricked Into Giving Up MILLIONS worth of ETH...",
+    "Link": "https://www.globalcryptopress.com/2026/06/ethereums-most-notorious-front-running.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/USDCSDNY.svg/960px-USDCSDNY.svg.png",
     "ImageSource": "wikipedia",
-    "Date": "2026-07-29 04:04:57"
+    "Date": "2026-07-30 03:48:15"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+    "Link": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/microsoft-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:17"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+    "Link": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:20"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "What’s Coming to Netflix in August 2026",
+    "Link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2024/10/MSDCHPL_EC021.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Danny DeVito Weds a Corpse in It’s Always Sunny in Philadelphia Season 18 Trailer",
+    "Link": "https://www.comingsoon.net/tv/trailers/2169019-its-always-sunny-in-philadelphia-season-18-trailer",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/07/4_534f6e.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:34"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Terminator’s Call of Duty Crossover Gets Action-Packed Trailer That T2 Fans Will Love",
+    "Link": "https://www.comingsoon.net/games/news/2169137-terminator-call-of-duty-mobile-season-7-crossover",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/07/Untitled-design-67.png?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:37"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Glen Powell’s Beloved TV Show Returns as Chad Powers Season 2 Gets Release Date, First Look",
+    "Link": "https://www.comingsoon.net/tv/news/2169140-chad-powers-season-2-glen-powell-first-look",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/07/10_4c6e12.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:40"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Bruce Campbell to Bring ‘Ernie & Emma’ on Nationwide Alamo Drafthouse Tour This Fall (EXCLUSIVE) – Film News in Brief",
+    "Link": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/Ernie-Emma-Bruce-Campbell-as-Ernie-at-Big-Foot-Trap.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:42"
   },
   {
     "Topic": "Economy",
-    "Title": "Ferrovial posts revenue growth in first half of 2026",
-    "Link": "https://www.investing.com/news/stock-market-news/ferrovial-posts-revenue-growth-in-first-half-of-2026-4818125",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Amey_plc_logo.svg/960px-Amey_plc_logo.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-29 04:05:00"
+    "Title": "World's most profitable airline now accepts crypto payments for flights",
+    "Link": "https://finance.yahoo.com/markets/crypto/articles/worlds-most-profitable-airline-now-181500999.html",
+    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/3EC4CB91EBDE7F3A6466B6BD10ABFF3B9C83EC6D65FDAD9BC2FEB4E229BDEF04/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa774f16c1b60dbbc388327e0967c236a",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:51"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Ranger Energy Services, Inc. Q2 2026 Earnings Call Summary",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/ranger-energy-services-inc-q2-123000454.html",
+    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/7849A228BF9A596878AA2D956936645B50DA7978DE57F1E1D11A534F7EA22F30/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fe3776cc4c2d5763d6ef3c8e88c2987f5",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:54"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Principal Financial Group, Inc. Q2 2026 Earnings Call Summary",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/principal-financial-group-inc-q2-123000540.html",
+    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/A5F62303B74A0D3B61D5C639A121157C07DFBDC85FDA64D54E3867EF13C0ABA5/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F05d6d7196009d4223cd0dfa92e9676a3",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:48:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Nucor Corporation Q2 2026 Earnings Call Summary",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/nucor-corporation-q2-2026-earnings-123000833.html",
+    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/37DB6293A4F5D1B0C2210EC5F24AB0CE67E9DDF771D19561E38144BCF76783B6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F92f6f29005ddc12447ca04e0e61cd459",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:00"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Cincinnati Financial Corporation Q2 2026 Earnings Call Summary",
+    "Link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-corporation-q2-2026-123000837.html",
+    "ImageUrl": "https://s.yimg.com/lo/mysterio/api/187AF1D67CD6BC7ACD0E56CA3C5977B92609BF14F8EB01E9EAF2685EE0A8270E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F2bf5e88c65f866ba2922a4c444ec7004",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:03"
   },
   {
     "Topic": "Astronomy",
-    "Title": "GAMBIT vs KENNEN: The persistence of film reconnaissance in the digital age",
-    "Link": "https://www.thespacereview.com/article/4773/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:05:08"
+    "Title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+    "Link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "ImageUrl": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:11"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Getting space traffic coordination on track",
-    "Link": "https://www.thespacereview.com/article/4866/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Parish_Church_of_St_John%2C_Owlerton%2C_Hillsborough_-_2_-_geograph.org.uk_-_1009731.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-29 04:05:12"
+    "Title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+    "Link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:13"
   },
   {
     "Topic": "Astronomy",
-    "Title": "The commercial case for Mars",
-    "Link": "https://www.thespacereview.com/article/5045/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:05:15"
+    "Title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+    "Link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+    "ImageUrl": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:15"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Tame the wolf, release the panda: The case for US-China space cooperation",
-    "Link": "https://www.thespacereview.com/article/5158/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wolf_Alice_%40_Grammy_Museum_10_27_2021_%2851782701242%29.jpg/960px-Wolf_Alice_%40_Grammy_Museum_10_27_2021_%2851782701242%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-29 04:05:20"
+    "Title": "Expedition 74 Trio Returning to Earth Soon in Soyuz on NASA+",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/07/26/expedition-74-trio-returning-to-earth-soon-in-soyuz-on-nasa/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/jsc2024e077037_alt/jsc2024e077037_alt~large.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:17"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Space sensemaking and space domain understanding: enabling data-centric AI for space flight safety",
-    "Link": "https://www.thespacereview.com/article/4710/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-29 04:05:23"
+    "Title": "SpaceX's Super Heavy-Starship blasts off on 13th test flight",
+    "Link": "https://www.cbsnews.com/news/spacex-giant-super-heavy-starship-rocket-test-flight/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/796c6cf9-d3e9-4730-8dcd-63787e46d76a/thumbnail/1200x630/d5e88c27681f8c969bfe68a647fb91bb/ap26206009691207.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Anthropic is finding bugs faster than Microsoft can fix them",
+    "Link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+    "Link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:30"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Dashboard Was Green. The Customers Were Angry.",
+    "Link": "https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdukxgxqwmbmh9kj4q3x9.png",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+    "Link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:36"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+    "Link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-1152x648-1785271314.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-07-30 03:49:39"
   }
 ]
