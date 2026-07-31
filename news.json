@@ -1,322 +1,322 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "Martha Stewart is the face of Hint, an AI app for home maintenance",
-    "Link": "https://mashable.com/tech/martha-stewart-hint-ai-home-app",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/001WNi3fmVr4ZB8XSZiLQxM/hero-image.fill.size_1200x675.v1785345199.jpg",
+    "Topic": "Data / AI",
+    "Title": "PipelineRL",
+    "Link": "https://huggingface.co/blog/ServiceNow/pipelinerl",
+    "ImageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow/pipelinerl.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:01:23"
+    "Date": "2026-08-01 03:58:01"
   },
   {
-    "Topic": "Technology",
-    "Title": "The best Dyson vacuum deals to shop right now: Save over $100 on cordless and robot vacuums",
-    "Link": "https://mashable.com/tech/july-30-best-dyson-vacuum-deals-this-week",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03IHFrnt2mviefnevzMwvCo/hero-image.fill.size_1200x675.v1785394075.png",
+    "Topic": "Data / AI",
+    "Title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "Link": "https://huggingface.co/blog/gradio-vton-mcp",
+    "ImageUrl": "https://huggingface.co/blog/assets/gradio-vton-mcp/AiAssistantTitle.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:01:25"
+    "Date": "2026-08-01 03:58:04"
   },
   {
-    "Topic": "Technology",
-    "Title": "The Samsung internal SSD 990 with 2TB is on sale for a record-low price",
-    "Link": "https://mashable.com/tech/july-30-samsung-ssd-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06EHoysd1IavKOXMr4QywuW/hero-image.fill.size_1200x675.v1785425824.jpg",
+    "Topic": "Data / AI",
+    "Title": "Welcome Falcon Mamba: The first strong attention-free 7B model",
+    "Link": "https://huggingface.co/blog/falconmamba",
+    "ImageUrl": "https://huggingface.co/blog/assets/falconmamba/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:01:28"
+    "Date": "2026-08-01 03:58:06"
   },
   {
-    "Topic": "Technology",
-    "Title": "Prepare for power outages: Save $200 on ABOK’s massive Ark3600 power station at Amazon",
-    "Link": "https://mashable.com/tech/july-30-abok-ark-3600-power-station-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02h3faC4LnZkbpEW7wKlc5q/hero-image.fill.size_1200x675.v1785418385.jpg",
+    "Topic": "Data / AI",
+    "Title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "Link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/n-ZhnrOiuWH5rhAFi86lL.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:01:31"
+    "Date": "2026-08-01 03:58:09"
   },
   {
-    "Topic": "Technology",
-    "Title": "Level up your living room with 43% off this 75-inch Hisense Mini-LED TV",
-    "Link": "https://mashable.com/tech/july-29-hisense-tv-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05OrILNvlrH5l2PJySnc2cA/hero-image.fill.size_1200x675.v1785340832.png",
+    "Topic": "Data / AI",
+    "Title": "Let's talk about biases in machine learning! Ethics and Society Newsletter #2",
+    "Link": "https://huggingface.co/blog/ethics-soc-2",
+    "ImageUrl": "https://huggingface.co/blog/assets/122_ethics_soc_2/thumbnail-solstice.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:01:33"
+    "Date": "2026-08-01 03:58:12"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Review: Star Bound",
-    "Link": "https://www.thespacereview.com/article/4912/1",
+    "Title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket ",
+    "Link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-005.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX launches novel geosynchronous robotic servicing satellite on decade-long mission",
+    "Link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-01 03:58:24"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+    "Link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:27"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX launches classified payload for National Reconnaissance Office",
+    "Link": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-01 03:58:30"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+    "Link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/burnham.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "After $8.2B loss forced Bitcoin sales, Michael Saylor gives Strategy to September to repair broken dividend engine",
+    "Link": "https://cryptoslate.com/after-an-8-2b-loss-forced-bitcoin-sales-michael-saylor-gives-strategy-until-september-to-repair-its-broken-dividend-engine/",
+    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/07/strategy-strc-path-to-par-september-target.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:50"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
+    "Link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/03fd18d91d0256863aca046dd26ae81faeb58698-1892x1064.jpg?auto=format&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:53"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Dogecoin treasury firm borrowed $1.4M at 10.7% interest – promising repayment in CleanCore stock already pledged elsewhere",
+    "Link": "https://cryptoslate.com/dogecoin-treasury-firm-borrowed-1-4m-at-10-7-interest-promising-repayment-in-cleancore-stock-already-pledged-elsewhere/",
+    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/07/house-of-doge-yorkville-cleancore-share-repayment-risk.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+    "Link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f9747ccb3b3edaff1ec28ee4730bc4ae5cbf95b9-2854x1488.png?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:58:59"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin seesaws as hit to risk sentiment and surging oil offsets Fed rate hold",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-64k-ahead-of-fed-decision-shrugs-off-ailed-tech-weakness-4818621",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Stock_Market_April_5_2025_3_Months.png/960px-Stock_Market_April_5_2025_3_Months.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-01 03:59:02"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Unwetter: Toter und Verletzte bei Unwetter in Sächsischer Schweiz",
+    "Link": "https://www.zeit.de/news/2026-07/31/mann-von-baum-erschlagen-toter-bei-unwetter-in-sachsen",
+    "ImageUrl": "https://img.zeit.de/news/2026-07/31/mann-von-baum-erschlagen-toter-bei-unwetter-in-sachsen-image-group/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:12"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Omega X Umumkan Tur Asia BEYOND, Jakarta Masuk Daftar",
+    "Link": "https://news.republika.co.id/berita/tj205t7130000/omega-x-umumkan-tur-asia-beyond-jakarta-masuk-daftar",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/076026000-1785525329-dewfdjpeg.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:16"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pemerintah Gelar Pesta Rakyat di Monas pada 17 Agustus 2026, Ada Makanan Gratis Hingga Hiburan",
+    "Link": "https://www.tribunnews.com/nasional/7862293/pemerintah-gelar-pesta-rakyat-di-monas-pada-17-agustus-2026-ada-makanan-gratis-hingga-hiburan",
+    "ImageUrl": "https://asset.tribunnews.com/F069bSSMpP_3I63NGf6CBcZej90=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Konferensi-Pers-Bulan-Kemerdekaan-RI-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:19"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Dishub Badung Siapkan Penertiban Terpadu Atasi Parkir Liar Truk di Jalan Terminal Mengwi",
+    "Link": "https://news.republika.co.id/berita/tj1zgi4930000/dishub-badung-siapkan-penertiban-terpadu-atasi-parkir-liar-truk-di-jalan-terminal-mengwi",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/093798000-1785524418-PHOTO-2026-07-30-19-41-15jpg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:22"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Jaleswari Pramodhawardani Sorot Kenaikan Tukin Pejabat TNI: Bagaimana Dengan Guru dan Nakes?",
+    "Link": "https://www.tribunnews.com/nasional/7862303/jaleswari-pramodhawardani-sorot-kenaikan-tukin-pejabat-tni-bagaimana-dengan-guru-dan-nakes",
+    "ImageUrl": "https://asset.tribunnews.com/i4Xul1ZCwLrYZPHa8_ttlMViEZ8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Kepala-Laboratorium-Indonesia-2045-LAB45-Jaleswari-Pramodhawardani-3210.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:26"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading ",
+    "Link": "https://www.investing.com/news/economy-news/us-commodity-futures-trading-commission-fines-george-santos-for-alleged-manipulative-trading-4829191",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Commodity_Futures_Trading_Commission_seal.svg/960px-Commodity_Futures_Trading_Commission_seal.svg.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-01 03:59:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Rupiah Perkasa di Akhir Pekan, Menguat ke 18.022 per Dolar AS Nilai Tukar Rupiah Terhadap Dolar Sudah Masuk Level Undervalued",
+    "Link": "https://www.liputan6.com/bisnis/read/8259125/rupiah-perkasa-di-akhir-pekan-menguat-ke-18022-per-dolar-as",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/zVrQ8EfB8kXwpe-dim1no52aluE=/0x160:3024x1863/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,1100,20,0)/kly-media-production/medias/1954437/original/003823600_1519994760-20180302-Dolar-AY1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:38"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Pjs Gubernur BI Ungkap Strategi Jaga Rupiah, Inflasi dan Pertumbuhan Ekonomi Deputi Gubernur Senior Bank Indonesia (BI) Destry Damayanti menjadi Pjs Gubernur BI, Senin, (27/7/2026) (Foto: Bank Indonesia)",
+    "Link": "https://www.liputan6.com/bisnis/read/8258812/pjs-gubernur-bi-ungkap-strategi-jaga-rupiah-inflasi-dan-pertumbuhan-ekonomi",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/eM9l51k7aoIzFpA6NSjfOMlWnKw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9307904/original/072599800_1785120801-Pjs_Gubernur_BI_Destry_Damayanti-27_Juli_2026b.JPG",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:41"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bank Sentral Jepang Tahan Suku Bunga Acuan 1% Kantor pusat Bank of Japan di Tokyo, Jepang. (Foto: Shuji Kajiyama, file/AP)",
+    "Link": "https://www.liputan6.com/bisnis/read/8258788/bank-sentral-jepang-tahan-suku-bunga-acuan-1",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/MKA9qCouz6wZuCl-RXA9ozKDrlw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/8260346/original/053716200_1781587529-Bank_Sentral_Jepang-16_Juni_2026a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 03:59:44"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Colombia’s central bank keeps interest rate at 12%",
+    "Link": "https://www.investing.com/news/economy-news/colombias-central-bank-keeps-interest-rate-at-12-93CH-4829152",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-07-31 04:01:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The Iranian use of space operations during Epic Fury",
-    "Link": "https://www.thespacereview.com/article/5265/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%D9%BE%DB%8C%DA%A9%D8%B1%D9%87%D8%A7%DB%8C_%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C_%D8%A7%D8%B2_%D9%85%D8%B9%D8%AA%D8%B1%D8%B6%D8%A7%D9%86.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:01:46"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Taiwan's satellites: A lawfare vulnerability and an option to cure and enhance deterrence against the PRC (part 1)",
-    "Link": "https://www.thespacereview.com/article/5014/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PRC-ROC_Locator.svg/960px-PRC-ROC_Locator.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:01:50"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Could a 500-year-old treaty hold the key to peace in space?",
-    "Link": "https://www.thespacereview.com/article/4619/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/960px-Treaty_of_Versailles%2C_English_version.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:01:53"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "China, Article V, Starlink, and hybrid warfare: An assessment of a lawfare operation",
-    "Link": "https://www.thespacereview.com/article/4650/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Starlink_Logo_2024.svg/960px-Starlink_Logo_2024.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:01:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
-    "Link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/870e23f24d3a975a63fcf3a585ce35a63311601f-5820x3880.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:08"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-    "Link": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:11"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto for Advisors: Is the Clarity Act dead?",
-    "Link": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/870e23f24d3a975a63fcf3a585ce35a63311601f-5820x3880.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-    "Link": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:17"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Vehicle Equipment Finance Explained: Options for Growing Businesses",
-    "Link": "https://www.tradersdna.com/vehicle-equipment-finance-explained-options-for-growing-businesses/",
-    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/07/7722.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:20"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "HPE advances its self-driving networking strategy for the AI era",
-    "Link": "https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Ben-Baker-director-of-data-center-networking-at-HPE-CUBE-Conversation-2026.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:29"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Snowflake debuts Cortex AI Gateway to govern and monitor enterprise AI agents",
-    "Link": "https://siliconangle.com/2026/07/28/snowflake-debuts-cortex-ai-gateway-govern-monitor-enterprise-ai-agents/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/snowflakecortexaigateway.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:31"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SnapLogic transforms SnapGPT into a high-powered agentic assistant for the entire integration lifecycle",
-    "Link": "https://siliconangle.com/2026/07/29/snaplogic-transforms-snapgpt-high-powered-agentic-assistant-entire-integration-lifecycle/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-programming-sitting-in-front-of-a-keyboard-in-a-dark-office-as-an-AI-agent-appears-on-a-screen-ass.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:34"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform",
-    "Link": "https://siliconangle.com/2026/07/27/ilya-sutskevers-safe-superintelligence-gets-access-nvidias-vera-rubin-platform/",
-    "ImageUrl": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Photo-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:37"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "The AI ‘tokenmaxxing’  corporate fad is fading as workplaces look to cut costs",
-    "Link": "https://www.fastcompany.com/91580979/ai-token-openai-anthropic-corporate?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=14&partner=newsletter&campaign_date=07302026",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Autographer_lifelogging_device.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:02:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Is the ‘Sheep in the Box’ Movie Streaming on Netflix or Amazon Prime Video?",
-    "Link": "https://decider.com/2026/07/30/watch-sheep-in-the-box-movie-streaming-netflix-amazon-prime-video/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/watch-sheep-in-the-box-streaming.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:47"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "5 Best Star Wars Books That Disney Should Adapt For Movies Or TV Shows",
-    "Link": "https://www.slashfilm.com/2225167/best-star-wars-books-disney-adapt-movies-tv-shows/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/5-best-star-wars-books-that-disney-should-adapt-for-movies-or-tv-shows/l-intro-1785254458.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Is Netflix’s ‘The Bombing of Pan Am 103’ Based on a True Story? Where to Watch Every Pam Am 103 Documentary",
-    "Link": "https://decider.com/2026/07/30/is-netflixs-the-bombing-of-pan-am-103-based-on-a-true-story/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/TCDBOOF_ZX001-e1785424780500.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:53"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Emmy Rossum's 2026 Crime Series On Hulu Is An Absolute Must-Watch",
-    "Link": "https://www.slashfilm.com/2225551/emmy-rossum-2026-crime-series-furious-streaming-hulu/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/emmy-rossums-2026-crime-series-on-hulu-is-an-absolute-must-watch/l-intro-1785270166.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Who Is Exodus On X-Men '97? The Marvel Comics Villain Explained",
-    "Link": "https://www.slashfilm.com/2225739/exodus-x-men-97-marvel-comics-villain-explained/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/who-is-exodus-on-x-men-97-the-marvel-comics-villain-explained/l-intro-1785287487.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-07-31 04:02:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-    "Link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sandisk-HQ.png/960px-Sandisk-HQ.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:03:14"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
-    "Link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meta_HQ_2023.png/960px-Meta_HQ_2023.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:03:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
-    "Link": "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-07-31 04:03:41"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-    "Link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Minoru_Kihara_meets_Jonathan_Powell_02_%28cropped%29.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:03:44"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
-    "Link": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Titan_submersible_on_the_ocean_floor.jpg/960px-Titan_submersible_on_the_ocean_floor.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-07-31 04:03:48"
+    "Date": "2026-08-01 03:59:48"
   },
   {
     "Topic": "Science",
-    "Title": "The Most Beautiful Statistic: The History and the Science of the Humble Mean",
-    "Link": "https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Viking_spacecraft.jpg",
+    "Title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/abstract-hot-energy-chemistry-reaction.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:03:57"
+    "Date": "2026-08-01 03:59:58"
   },
   {
     "Topic": "Science",
-    "Title": "How to Build a Context Layer and a Company Brain",
-    "Link": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jeroen-overschie-i03lRgNVKW4-unsplash-scaled-1.jpg",
+    "Title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
+    "Link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-3-1152x648.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:01"
+    "Date": "2026-08-01 04:00:01"
   },
   {
     "Topic": "Science",
-    "Title": "Healthy pregnancies and newborns are possible after CAR T cell therapy",
-    "Link": "https://www.sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072926_AC_CARTcell_main.jpg",
+    "Title": "Scientists reveal what sparkling water really does to your teeth",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/woman-drinking-glass-of-sparkling-mineral-water.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:04"
+    "Date": "2026-08-01 04:00:05"
   },
   {
     "Topic": "Science",
-    "Title": "Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?",
-    "Link": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-ollama-lm-studio-llama-cpp-comparison-feature-scaled.jpg",
+    "Title": "APOE2 may protect the brain from Alzheimer’s and aging",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/apoe2-helps-neurons-repair-dna-and-resist-aging.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:08"
+    "Date": "2026-08-01 04:00:08"
   },
   {
     "Topic": "Science",
-    "Title": "A new monkey species has been found deep in Congo’s forests",
-    "Link": "https://www.sciencenews.org/article/new-monkey-species-endangered",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072226_tk_likweli_main.jpg",
+    "Title": "Scientists create an “electron lighthouse” with laser light",
+    "Link": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/electron-lighthouse.webp",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:12"
+    "Date": "2026-08-01 04:00:13"
   },
   {
-    "Topic": "General News",
-    "Title": "\n            OPINION: French politicians are failing their trial by wildfire\n        ",
-    "Link": "\n            https://www.thelocal.com/20260729/opinion-french-politicians-are-failing-their-trial-by-wildfire\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260727__C3BP3B3__v1__MidRes__FranceEnvironmentClimateWeatherWildfire-1.jpg@webp",
+    "Topic": "Technology",
+    "Title": "Copilot vs. raw API access: What are you actually paying for?",
+    "Link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-copilot-flying-invertocat-logo-github.png?fit=1920%2C1080",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:23"
+    "Date": "2026-08-01 04:00:21"
   },
   {
-    "Topic": "General News",
-    "Title": "\n            German government promises tougher laws after attack on Berlin's Pride\n        ",
-    "Link": "\n            https://www.thelocal.com/20260728/german-government-promises-tougher-laws-after-attack-on-berlins-pride\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-609584141.jpg@webp",
+    "Topic": "Technology",
+    "Title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "Link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:30"
+    "Date": "2026-08-01 04:00:24"
   },
   {
-    "Topic": "General News",
-    "Title": "\n            Woman and child still missing after boat accident off Swedish coast\n        ",
-    "Link": "\n            https://www.thelocal.com/20260729/woman-and-child-still-missing-after-boat-accident-off-swedish-coast\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-a001_NormalPreviewsearch.jpg@webp",
+    "Topic": "Technology",
+    "Title": "My AI makes YouTube videos. It's only allowed to publish after 21 automated checks.",
+    "Link": "https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs47wdsf7x6dm75udxs9z.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:36"
+    "Date": "2026-08-01 04:00:27"
   },
   {
-    "Topic": "General News",
-    "Title": "\n            The story behind the viral photo of French wildfires\n        ",
-    "Link": "\n            https://www.thelocal.com/20260727/the-story-behind-the-viral-photo-of-french-wildfires\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260724__C3462G8__v2__MidRes__TopshotFranceEnvironmentClimateWeatherWildfire.jpg@webp",
+    "Topic": "Technology",
+    "Title": "A practical control checklist before an AI agent moves money",
+    "Link": "https://dev.to/credian/a-practical-control-checklist-before-an-ai-agent-moves-money-32l0",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0yhh7z13y5pt35r2d7or.png",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:40"
+    "Date": "2026-08-01 04:00:30"
   },
   {
-    "Topic": "General News",
-    "Title": "Alien Terrorist Removal Court holds its first-ever hearing after 30 years",
-    "Link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x4415+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F35%2Fa52cdeed4abdab16dcc3b7b132b9%2Fgettyimages-2262149675.jpg",
+    "Topic": "Technology",
+    "Title": "Next chapter: Restructuring GitHub’s bug bounty program",
+    "Link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "ImageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty.png?fit=1498%2C826",
     "ImageSource": "og:image",
-    "Date": "2026-07-31 04:04:42"
+    "Date": "2026-08-01 04:00:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Tom Holland Movies Ranked by Tomatometer",
+    "Link": "https://editorial.rottentomatoes.com/guide/tom-holland-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2022/06/TOM-NEW-THUMB.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 04:00:43"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Best New Movies of 2026, Ranked by Tomatometer",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-new-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/the-odyssey-03-600x314-1.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 04:00:46"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The 100 Best Movies on Prime Video (August 2026)",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-on-amazon-prime-right-now/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/06/CHALLENGERS-thumb.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 04:00:50"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Your Full List of All Upcoming Marvel Movies and TV Shows — With Key Details!",
+    "Link": "https://editorial.rottentomatoes.com/article/full-list-of-all-upcoming-marvel-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/01/Upcoming_Marvel-Avengers_Doomsday_Trailer-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 04:00:52"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "When Does ‘Lioness’ Season 3 Premiere on Paramount+?",
+    "Link": "https://decider.com/2026/07/31/when-does-lioness-season-3-start-on-paramount-plus-release-date/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/NicoleKidmanLioness.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-01 04:00:55"
   }
 ]
