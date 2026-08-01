@@ -1,322 +1,314 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "PipelineRL",
-    "Link": "https://huggingface.co/blog/ServiceNow/pipelinerl",
-    "ImageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow/pipelinerl.png",
+    "Topic": "Trading & Crypto",
+    "Title": "XRP ETF inflows surpass $1.5 billion: XRP holders can earn up to $10,000 daily",
+    "Link": "https://crypto.news/xrp-etf-inflows-surpass-1-5-billion-xrp-holders-can-earn-up-to-10000-daily/",
+    "ImageUrl": "https://media.crypto.news/2026/06/XRPnew2.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-    "Link": "https://huggingface.co/blog/gradio-vton-mcp",
-    "ImageUrl": "https://huggingface.co/blog/assets/gradio-vton-mcp/AiAssistantTitle.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Welcome Falcon Mamba: The first strong attention-free 7B model",
-    "Link": "https://huggingface.co/blog/falconmamba",
-    "ImageUrl": "https://huggingface.co/blog/assets/falconmamba/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "Link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/n-ZhnrOiuWH5rhAFi86lL.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:09"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Let's talk about biases in machine learning! Ethics and Society Newsletter #2",
-    "Link": "https://huggingface.co/blog/ethics-soc-2",
-    "ImageUrl": "https://huggingface.co/blog/assets/122_ethics_soc_2/thumbnail-solstice.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:12"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket ",
-    "Link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-005.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX launches novel geosynchronous robotic servicing satellite on decade-long mission",
-    "Link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-01 03:58:24"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-    "Link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:27"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX launches classified payload for National Reconnaissance Office",
-    "Link": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-01 03:58:30"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
-    "Link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/burnham.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:32"
+    "Date": "2026-08-02 03:43:07"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "After $8.2B loss forced Bitcoin sales, Michael Saylor gives Strategy to September to repair broken dividend engine",
-    "Link": "https://cryptoslate.com/after-an-8-2b-loss-forced-bitcoin-sales-michael-saylor-gives-strategy-until-september-to-repair-its-broken-dividend-engine/",
-    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/07/strategy-strc-path-to-par-september-target.jpg",
+    "Title": "Bitcoin price tests $63K as ETF outflows hit $265M",
+    "Link": "https://crypto.news/bitcoin-price-tests-63k-as-etf-outflows-hit-265m/",
+    "ImageUrl": "https://media.crypto.news/2026/07/Bitcoin2.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:50"
+    "Date": "2026-08-02 03:43:11"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-    "Link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/03fd18d91d0256863aca046dd26ae81faeb58698-1892x1064.jpg?auto=format&amp;q=75",
+    "Title": "The $4 billion Iran sanctions evasion network through crypto",
+    "Link": "https://crypto.news/iran-crypto-sanctions-evasion-network-4-billion/",
+    "ImageUrl": "https://media.crypto.news/2024/01/crypto-news-Iran-option05.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:53"
+    "Date": "2026-08-02 03:43:13"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Dogecoin treasury firm borrowed $1.4M at 10.7% interest – promising repayment in CleanCore stock already pledged elsewhere",
-    "Link": "https://cryptoslate.com/dogecoin-treasury-firm-borrowed-1-4m-at-10-7-interest-promising-repayment-in-cleancore-stock-already-pledged-elsewhere/",
-    "ImageUrl": "https://cryptoslate.com/wp-content/uploads/2026/07/house-of-doge-yorkville-cleancore-share-repayment-risk.jpg",
+    "Title": "Circle adds NYDFS trust charter after OCC bank approval",
+    "Link": "https://crypto.news/circle-adds-nydfs-trust-charter-after-occ-bank-approval/",
+    "ImageUrl": "https://media.crypto.news/2025/04/crypto-news-Circle-USDC-option01.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:56"
+    "Date": "2026-08-02 03:43:15"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
-    "Link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f9747ccb3b3edaff1ec28ee4730bc4ae5cbf95b9-2854x1488.png?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "Title": "Coinbase posts $359 million loss as revenue misses for a third straight quarter",
+    "Link": "https://crypto.news/coinbase-posts-359-million-loss-revenue-misses-third-quarter/",
+    "ImageUrl": "https://media.crypto.news/2026/06/Coinbasenew.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:58:59"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin seesaws as hit to risk sentiment and surging oil offsets Fed rate hold",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-64k-ahead-of-fed-decision-shrugs-off-ailed-tech-weakness-4818621",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Stock_Market_April_5_2025_3_Months.png/960px-Stock_Market_April_5_2025_3_Months.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-01 03:59:02"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Unwetter: Toter und Verletzte bei Unwetter in Sächsischer Schweiz",
-    "Link": "https://www.zeit.de/news/2026-07/31/mann-von-baum-erschlagen-toter-bei-unwetter-in-sachsen",
-    "ImageUrl": "https://img.zeit.de/news/2026-07/31/mann-von-baum-erschlagen-toter-bei-unwetter-in-sachsen-image-group/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:12"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Omega X Umumkan Tur Asia BEYOND, Jakarta Masuk Daftar",
-    "Link": "https://news.republika.co.id/berita/tj205t7130000/omega-x-umumkan-tur-asia-beyond-jakarta-masuk-daftar",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/076026000-1785525329-dewfdjpeg.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:16"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Pemerintah Gelar Pesta Rakyat di Monas pada 17 Agustus 2026, Ada Makanan Gratis Hingga Hiburan",
-    "Link": "https://www.tribunnews.com/nasional/7862293/pemerintah-gelar-pesta-rakyat-di-monas-pada-17-agustus-2026-ada-makanan-gratis-hingga-hiburan",
-    "ImageUrl": "https://asset.tribunnews.com/F069bSSMpP_3I63NGf6CBcZej90=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Konferensi-Pers-Bulan-Kemerdekaan-RI-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:19"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Dishub Badung Siapkan Penertiban Terpadu Atasi Parkir Liar Truk di Jalan Terminal Mengwi",
-    "Link": "https://news.republika.co.id/berita/tj1zgi4930000/dishub-badung-siapkan-penertiban-terpadu-atasi-parkir-liar-truk-di-jalan-terminal-mengwi",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/093798000-1785524418-PHOTO-2026-07-30-19-41-15jpg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:22"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Jaleswari Pramodhawardani Sorot Kenaikan Tukin Pejabat TNI: Bagaimana Dengan Guru dan Nakes?",
-    "Link": "https://www.tribunnews.com/nasional/7862303/jaleswari-pramodhawardani-sorot-kenaikan-tukin-pejabat-tni-bagaimana-dengan-guru-dan-nakes",
-    "ImageUrl": "https://asset.tribunnews.com/i4Xul1ZCwLrYZPHa8_ttlMViEZ8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Kepala-Laboratorium-Indonesia-2045-LAB45-Jaleswari-Pramodhawardani-3210.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:26"
+    "Date": "2026-08-02 03:43:18"
   },
   {
     "Topic": "Economy",
-    "Title": "US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading ",
-    "Link": "https://www.investing.com/news/economy-news/us-commodity-futures-trading-commission-fines-george-santos-for-alleged-manipulative-trading-4829191",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Commodity_Futures_Trading_Commission_seal.svg/960px-Commodity_Futures_Trading_Commission_seal.svg.png",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-01 03:59:35"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Rupiah Perkasa di Akhir Pekan, Menguat ke 18.022 per Dolar AS Nilai Tukar Rupiah Terhadap Dolar Sudah Masuk Level Undervalued",
-    "Link": "https://www.liputan6.com/bisnis/read/8259125/rupiah-perkasa-di-akhir-pekan-menguat-ke-18022-per-dolar-as",
-    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/zVrQ8EfB8kXwpe-dim1no52aluE=/0x160:3024x1863/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,1100,20,0)/kly-media-production/medias/1954437/original/003823600_1519994760-20180302-Dolar-AY1.jpg",
+    "Title": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
+    "Link": "https://www.foxbusiness.com/markets/apple-briefly-overtakes-nvidia-worlds-most-valuable-company-amid-ai-investment-doubts",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/apple-store-new-iphone.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:38"
+    "Date": "2026-08-02 03:43:35"
   },
   {
     "Topic": "Economy",
-    "Title": "Pjs Gubernur BI Ungkap Strategi Jaga Rupiah, Inflasi dan Pertumbuhan Ekonomi Deputi Gubernur Senior Bank Indonesia (BI) Destry Damayanti menjadi Pjs Gubernur BI, Senin, (27/7/2026) (Foto: Bank Indonesia)",
-    "Link": "https://www.liputan6.com/bisnis/read/8258812/pjs-gubernur-bi-ungkap-strategi-jaga-rupiah-inflasi-dan-pertumbuhan-ekonomi",
-    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/eM9l51k7aoIzFpA6NSjfOMlWnKw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9307904/original/072599800_1785120801-Pjs_Gubernur_BI_Destry_Damayanti-27_Juli_2026b.JPG",
+    "Title": "Cathie Wood says battered SpaceX could become 'most important company in global history'",
+    "Link": "https://www.foxbusiness.com/markets/cathie-wood-says-battered-spacex-most-important-company-global-history",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/cathie-wood-elon-musk-split.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:41"
+    "Date": "2026-08-02 03:43:41"
   },
   {
     "Topic": "Economy",
-    "Title": "Bank Sentral Jepang Tahan Suku Bunga Acuan 1% Kantor pusat Bank of Japan di Tokyo, Jepang. (Foto: Shuji Kajiyama, file/AP)",
-    "Link": "https://www.liputan6.com/bisnis/read/8258788/bank-sentral-jepang-tahan-suku-bunga-acuan-1",
-    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/MKA9qCouz6wZuCl-RXA9ozKDrlw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/8260346/original/053716200_1781587529-Bank_Sentral_Jepang-16_Juni_2026a.jpg",
+    "Title": "Tesla touts 380,000 unsupervised robotaxi miles with ‘zero notable incidents’",
+    "Link": "https://www.foxbusiness.com/markets/tesla-touts-380000-unsupervised-robotaxi-miles-zero-notable-incidents",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/tesla-robotaxi-in-austin.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:44"
+    "Date": "2026-08-02 03:43:46"
   },
   {
     "Topic": "Economy",
-    "Title": "Colombia’s central bank keeps interest rate at 12%",
-    "Link": "https://www.investing.com/news/economy-news/colombias-central-bank-keeps-interest-rate-at-12-93CH-4829152",
+    "Title": "Y'all Street launches: Texas Stock Exchange goes live in Dallas",
+    "Link": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/dallas-metro-skyline.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:43:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Jamie Dimon says he wouldn’t buy stocks or Treasurys at current prices",
+    "Link": "https://www.foxbusiness.com/markets/jamie-dimon-says-he-wouldnt-buy-stocks-treasurys-current-prices",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/jamie-dimon-reagan-nef-26.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:01"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Trump and far right seize on Spanish migration crisis\n        ",
+    "Link": "\n            https://www.thelocal.com/20260731/trump-says-terrible-spain-migrant-crisis-warning-for-us\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260730__C3LW3PU__v1__MidRes__UsPoliticsTrumpTrucking.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            France to 'step up controls' at Spanish border\n        ",
+    "Link": "\n            https://www.thelocal.com/20260731/france-to-step-up-controls-at-spanish-border\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20250917__74UY7MF__v1__MidRes__FranceDrugTraffickingPolice.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:15"
+  },
+  {
+    "Topic": "General News",
+    "Title": " British PM Rishi Sunak avoids wipeout in key local elections ",
+    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/politics/uk-sunak-avoids-wipeout-local-elections/",
+    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240844.JPG?v=3.1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:19"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Your key questions answered about the Schengen area's 90-day rule\n        ",
+    "Link": "\n            https://www.thelocal.com/20230518/your-key-questions-answered-about-the-schengen-areas-90-day-rule\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/05/watermarks-logo-AFP__20211006__9P86AQ__v2__MidRes__SloveniaEuPoliticsDiplomacySummit.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": " Japanese sake brewery to make foray into Indian market ",
+    "Link": "https://www.japantimes.co.jp/business/2024/12/17/companies/sake-brewery-india/",
+    "ImageUrl": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:44:27"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Walz orders ethics clampdown targeting state employees using prediction market information",
+    "Link": "https://readwrite.com/minnesota-walz-state-employees-prediction-market/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-01 03:59:48"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/abstract-hot-energy-chemistry-reaction.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 03:59:58"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
-    "Link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-3-1152x648.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:01"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists reveal what sparkling water really does to your teeth",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/woman-drinking-glass-of-sparkling-mineral-water.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:05"
-  },
-  {
-    "Topic": "Science",
-    "Title": "APOE2 may protect the brain from Alzheimer’s and aging",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/apoe2-helps-neurons-repair-dna-and-resist-aging.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:08"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists create an “electron lighthouse” with laser light",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/electron-lighthouse.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:13"
+    "Date": "2026-08-02 03:44:34"
   },
   {
     "Topic": "Technology",
-    "Title": "Copilot vs. raw API access: What are you actually paying for?",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-copilot-flying-invertocat-logo-github.png?fit=1920%2C1080",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:21"
+    "Title": "NCLGS urges states keep control as prediction markets debate intensifies",
+    "Link": "https://readwrite.com/nclgs-urges-states-keep-control-prediction-markets/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-02 03:44:37"
   },
   {
     "Topic": "Technology",
-    "Title": "Stacked sessions and pull requests in the GitHub Copilot app",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:24"
+    "Title": "Evolution pays UK settlement after gambling games reached unlicensed British websites investigation",
+    "Link": "https://readwrite.com/evolution-pays-uk-settlement-gambling-unlicensed-investigation/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PayPal_San_Jose_Headquarters.jpg/960px-PayPal_San_Jose_Headquarters.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-02 03:44:40"
   },
   {
     "Topic": "Technology",
-    "Title": "My AI makes YouTube videos. It's only allowed to publish after 21 automated checks.",
-    "Link": "https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs47wdsf7x6dm75udxs9z.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:27"
+    "Title": "Mets partner Novig launches landmark MLB prediction market alliance amid expansion",
+    "Link": "https://readwrite.com/new-york-mets-partner-novig-mlb-prediction-market/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-02 03:44:43"
   },
   {
     "Topic": "Technology",
-    "Title": "A practical control checklist before an AI agent moves money",
-    "Link": "https://dev.to/credian/a-practical-control-checklist-before-an-ai-agent-moves-money-32l0",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0yhh7z13y5pt35r2d7or.png",
+    "Title": "The Tim Ferriss Show Transcripts: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
+    "Link": "https://tim.blog/2026/07/16/the-random-show-transcript/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2022/04/The-Random-Show-with-Kevin-Rose-scaled.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:30"
+    "Date": "2026-08-02 03:44:46"
   },
   {
-    "Topic": "Technology",
-    "Title": "Next chapter: Restructuring GitHub’s bug bounty program",
-    "Link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty.png?fit=1498%2C826",
+    "Topic": "Astronomy",
+    "Title": "The Star That Exploded Without Hydrogen",
+    "Link": "https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen",
+    "ImageUrl": "https://www.universetoday.com/article_images/eso0943a_20260731_164540.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:33"
+    "Date": "2026-08-02 03:44:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "China Is Sending BALLS to the Moon for a First-of-Its-Kind Space Experiment to Detect Signals Earth Cannot Hear",
+    "Link": "https://dailygalaxy.com/2026/07/china-sending-balls-moon-detect-signals/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yvette_Cooper_Official_Cabinet_Portrait%2C_September_2025_%28cropped%29.jpg/960px-Yvette_Cooper_Official_Cabinet_Portrait%2C_September_2025_%28cropped%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-02 03:44:56"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Swift Rescue Mission Hits A Major Obstacle As Spacecraft Suffers Critical Hardware Failures",
+    "Link": "https://dailygalaxy.com/2026/07/nasas-swift-rescue-mission-major-obstacle/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Testing_for_the_Katalyst-NASA_Swift_Boost_Mission_%28crop%29.jpg/960px-Testing_for_the_Katalyst-NASA_Swift_Boost_Mission_%28crop%29.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-02 03:44:59"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "AI Just Found Seven Rare Quasar Lenses Hidden Among 800,000 Cosmic Objects, and Astronomers Didn’t Expect It",
+    "Link": "https://dailygalaxy.com/2026/07/ai-finds-seven-quasar-lenses/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-02 03:45:03"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Is Sending 1.35 Million Human Names a Million Miles Into Space: Here’s Why",
+    "Link": "https://dailygalaxy.com/2026/08/nasa-sending-1-35-million-names-into-space/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/960px-Voyager_spacecraft_model.png",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-02 03:45:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Great AI Pop: What Will We Call the First AI Bust?",
+    "Link": "https://www.artificial-intelligence.blog/ai-news/the-great-ai-pop-what-will-we-call-the-first-ai-bust",
+    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/62ec2e89b322261781153909/691c75330c9cea6b02575ac5/1763497302684/ai-explosions-with-names.jpg?format=1500w",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:15"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How does AI work?",
+    "Link": "https://www.artificial-intelligence.blog/ai-news/how-does-ai-work",
+    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/690d0d3ab0c4a7226c50fa18/1762463034774/how-dows-ai-work.jpg?format=1500w",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:19"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Teaching LLMs to reason like Bayesians",
+    "Link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+    "Link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:25"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
+    "Link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:28"
   },
   {
     "Topic": "Movies",
-    "Title": "Tom Holland Movies Ranked by Tomatometer",
-    "Link": "https://editorial.rottentomatoes.com/guide/tom-holland-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2022/06/TOM-NEW-THUMB.jpg?w=600",
+    "Title": "Spider-Man Actors Through The Years For Spider-Man Day",
+    "Link": "https://www.tmz.com/2026/08/01/spider-man-actors-through-the-years/",
+    "ImageUrl": "https://imagez.tmz.com/image/7b/16by9/2026/07/27/7b48d9688528410d8c9d3692314b395e_xl.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:43"
+    "Date": "2026-08-02 03:45:35"
   },
   {
     "Topic": "Movies",
-    "Title": "Best New Movies of 2026, Ranked by Tomatometer",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-new-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/07/the-odyssey-03-600x314-1.jpg?w=600",
+    "Title": "‘The Inbetweeners’ Reunion Movie in the Works at Netflix With Original Lead Cast to Return",
+    "Link": "https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2025/10/TCDINBE_EC001.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:46"
+    "Date": "2026-08-02 03:45:38"
   },
   {
     "Topic": "Movies",
-    "Title": "The 100 Best Movies on Prime Video (August 2026)",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-movies-on-amazon-prime-right-now/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/06/CHALLENGERS-thumb.jpg?w=600",
+    "Title": "‘Wild Inside’ Review: The Story of the Central Park Owl Becomes a Moving and Haunting Documentary",
+    "Link": "https://variety.com/2026/film/reviews/wild-inside-review-the-central-park-owl-1236825626/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Still-4-WILD-INSIDE_Image-courtesy-of-Sandbox-Films_Photographer_-David-Lei.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:50"
+    "Date": "2026-08-02 03:45:41"
   },
   {
     "Topic": "Movies",
-    "Title": "Your Full List of All Upcoming Marvel Movies and TV Shows — With Key Details!",
-    "Link": "https://editorial.rottentomatoes.com/article/full-list-of-all-upcoming-marvel-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/01/Upcoming_Marvel-Avengers_Doomsday_Trailer-Rep.jpg?w=600",
+    "Title": "10 Most Powerful Characters In James Gunn's DCU So Far",
+    "Link": "https://screenrant.com/most-powerful-james-gunn-dcu-characters-ranked/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/superman_otspal.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:52"
+    "Date": "2026-08-02 03:45:44"
   },
   {
     "Topic": "Movies",
-    "Title": "When Does ‘Lioness’ Season 3 Premiere on Paramount+?",
-    "Link": "https://decider.com/2026/07/31/when-does-lioness-season-3-start-on-paramount-plus-release-date/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/NicoleKidmanLioness.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "Richard L. O’Connor, Emmy-Winning Producer and ‘The Muppet Movie’ Executive, Dies at 96",
+    "Link": "https://variety.com/2026/film/news/richard-l-oconnor-dead-the-muppet-movie-on-golden-pond-1236825613/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/6a76bf79-ba27-4d48-a029-77f744e0a4f3.jpgx-2.jpeg?crop=0px%2C186px%2C1800px%2C1013px&#038;resize=1000%2C563",
     "ImageSource": "og:image",
-    "Date": "2026-08-01 04:00:55"
+    "Date": "2026-08-02 03:45:47"
+  },
+  {
+    "Topic": "Science",
+    "Title": "To detect CTE while alive, a test for another brain disease may help",
+    "Link": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072826_RJM_CTEtest_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:45:58"
+  },
+  {
+    "Topic": "Science",
+    "Title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
+    "Link": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-02 03:46:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "7 Machine Learning Algorithms That Still Matter",
+    "Link": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/awan_7_machine_learning_algorithms_still_matter_age_ai_1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:46:06"
+  },
+  {
+    "Topic": "Science",
+    "Title": "What Professionals Should Know About Data Science and AI, According to Harvard Business School Online",
+    "Link": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/awan_data_science_ai_professionals_know_according_harvard_business_school_online_2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-02 03:46:11"
   }
 ]
