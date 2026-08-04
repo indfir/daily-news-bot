@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "The Big LLM Architecture Comparison",
-    "Link": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!LmVE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45c50202-0e8b-4e64-8296-4e2ccf4cb287_1756x1227.png",
+    "Topic": "Movies",
+    "Title": "Lanterns: DC Studios' Upcoming DCU Series Gets New \"Oath\" Teaser",
+    "Link": "https://bleedingcool.com/tv/lanterns-dc-studios-upcoming-dcu-series-gets-new-oath-teaser/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-02-Aug-2026-04-43-PM-8122-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:35"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Alan Turing's biggest AI assumption may have been wrong",
-    "Link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SpaceX wants to build AI data centers in space. Will it work?",
-    "Link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/spacecraft-satellite-orbiting-earth.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:42"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Scientists reveal a tiny brain chip that streams thoughts in real time",
-    "Link": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:45"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "What if AI becomes conscious and we never know",
-    "Link": "https://www.sciencedaily.com/releases/2025/12/251221043223.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/conscious-artificial-intelligence-entity-escaping-control-of-creator.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:49"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Webb Telescope Finds No Signs of a Thick Atmosphere Around a Second TRAPPIST-1 Planet",
-    "Link": "https://manyworlds.space/2023/06/26/webb-telescope-finds-no-signs-of-a-thick-atmosphere-on-a-second-trappist-1-planet/",
-    "ImageUrl": "https://manyworlds.space/wp-content/uploads/2023/10/70e4d-ssc2018-04d.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:57:57"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "HD 39474: A Brown Dwarf Shapes a Planetary System",
-    "Link": "https://www.centauri-dreams.org/2026/06/19/hd-39474-a-brown-dwarf-shapes-a-planetary-system/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-04 03:58:01"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-    "Link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types/",
-    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2025/12/Seeley-Moon-Orig-scaled.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:04"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Meet the 4 astronauts for NASA's Artemis III mission",
-    "Link": "https://www.cbsnews.com/video/meet-the-4-astronauts-for-nasas-artemis-iii-mission/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Earthset_%28art002e009288%29.jpg/960px-Earthset_%28art002e009288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 03:58:08"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "What the Comments Taught Me: A Reply on Self-Replicating Probes",
-    "Link": "https://www.centauri-dreams.org/2026/07/13/what-the-comments-taught-me-a-reply-on-self-replicating-probes/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-04 03:58:12"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Ethics panel recommends censure for GOP congressman for ‘inappropriate conduct’",
-    "Link": "https://www.nbcnews.com/politics/congress/ethics-panel-recommends-censure-gop-rep-chuck-edwards-inappropriate-co-rcna590649",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260514-chuck-edwards-vl-430p-4dbe27.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:21"
-  },
-  {
-    "Topic": "General News",
-    "Title": "18-year-old educator sets Guinness World Record for youngest male college professor",
-    "Link": "https://www.nbcnews.com/news/us-news/nathan-thomas-sets-guinness-world-record-youngest-male-professor-miami-rcna590635",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/270803-miami-dade-college-wolfson-campus-mn-1355-f0596c.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:24"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Senate leaders reach a deal to avert a shutdown before the 2026 elections",
-    "Link": "https://www.nbcnews.com/politics/congress/senate-leaders-reach-deal-avert-shutdown-2026-elections-rcna590564",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260331-us-capitol-ew-1143a-cbfb41.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:27"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Shop Owala’s Back-to-School sale: Save 20% on FreeSips, SmoothSips and more deals",
-    "Link": "https://www.nbcnews.com/select/shopping/owala-back-to-school-sale-of-the-week-2026-rcna590608",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-sotw-owala-oo-main-04fed3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:30"
-  },
-  {
-    "Topic": "General News",
-    "Title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
-    "Link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5349x3009+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F69%2F6ffe9816414eaf8756c6b523ae1d%2Fap26183085536365.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Does public health “need” MAHA? No more than medicine “needs” CAM!",
-    "Link": "https://sciencebasedmedicine.org/does-public-health-need-maha/?utm_source=rss&utm_medium=rss&utm_campaign=does-public-health-need-maha",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/MAHAInst.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:42"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Fungus-made fashion—researchers turn living organisms into textiles",
-    "Link": "https://www.scientificamerican.com/article/fungus-made-fashion-researchers-turn-living-organisms-into-textiles/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/9297c616-0a61-4b2a-8d60-b5cfdeb130e3/Fungus-collar.jpeg?m=1784924469.553&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:45"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Senate funding resolution seeks to put OMB rule changes to research grants on hold",
-    "Link": "https://www.scientificamerican.com/article/senate-funding-resolution-seeks-to-put-omb-rule-changes-to-research-grants-on-hold/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/82b01ee5-284e-4370-becc-67351a2e0110/Congress.jpg?m=1785773367.637&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:50"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why environmental groups are suing over SpaceX’s land swap deal",
-    "Link": "https://www.scientificamerican.com/article/why-environmental-groups-are-suing-over-spacexs-land-swap-deal/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/a6bf2331-a748-40fc-ba89-bdb48b58af08/spacex-launch.jpg?m=1784834830.685&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:54"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Stephen Macedo And Frances Lee:  Defend Your Essay That Dr. Jay Bhattacharya Would Restore Trust in Public Health",
-    "Link": "https://sciencebasedmedicine.org/macedo-lee-maha-maga-fluffers/?utm_source=rss&utm_medium=rss&utm_campaign=macedo-lee-maha-maga-fluffers",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/image-23.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:58:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Doppler Finance Brings Institutional DeFi to cbXRP on Base",
-    "Link": "https://99bitcoins.com/news/altcoins/cbxrp-defi-doppler-finance-base/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/960px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 03:59:05"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Digital Tulips or Financial Future? Decoding the Meme Coin Revolution",
-    "Link": "https://webscrypto.com/digital-tulips-or-financial-future-decoding-the-meme-coin-revolution/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/10/image-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:09"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto News Today (July 29): BTC Loses $64K Following FOMC, Tether Expands into Africa, and the US Targets Iran’s Crypto",
-    "Link": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-july-29-btc-loses-64k-following-fomc-tether-expands-into-africa-and-the-us-targets-irans-crypto/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-04 03:59:12"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Senate Stall on CLARITY Act Puts Crypto’s Biggest 2026 Catalyst at Risk",
-    "Link": "https://99bitcoins.com/news/bitcoin-btc/clarity-act-crypto-senate-jpmorgan-warning/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tim_Scott_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 03:59:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AI Stock Weakness Fails To Deter Bitcoin Ahead of FOMC News",
-    "Link": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-fomc-2026-btc-price-ai-stock-selloff/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meta_HQ_2023.png/960px-Meta_HQ_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 03:59:20"
+    "Date": "2026-08-05 04:05:24"
   },
   {
     "Topic": "Movies",
-    "Title": "Epic Full Trailer for India's 'Ramayana' Religious Fantasy Action Movie",
-    "Link": "https://www.firstshowing.net/2026/epic-full-trailer-for-indias-ramayana-religious-fantasy-action-movie/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/ramayanaposterfinalmainbtw1.jpg",
+    "Title": "Ghosts Star Holland Joins Jimmy Olsen/Gorilla Grodd DCU Series: Report",
+    "Link": "https://bleedingcool.com/tv/ghosts-star-holland-joins-jimmy-olsen-gorilla-grodd-dcu-series-report/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-03-Aug-2026-10-50-PM-2880-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:29"
+    "Date": "2026-08-05 04:05:27"
   },
   {
     "Topic": "Movies",
-    "Title": "Star Wars: Aaron Pierre Shares Exciting Details About Starfighter Movie’s Immersive World",
-    "Link": "https://www.comingsoon.net/movies/news/2170700-star-wars-starfighter-aaron-pierre",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/10.jpg?resize=1200,630",
+    "Title": "Spider-Man: Brand New Day Review: A Rare Marvel Delight these Days",
+    "Link": "https://bleedingcool.com/movies/spider-man-brand-new-day-review-a-rare-marvel-delight-these-days/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/06/SBND-27223_r-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:32"
+    "Date": "2026-08-05 04:05:31"
   },
   {
     "Topic": "Movies",
-    "Title": "Scary Movie 6 Costume Designer on Industry Changes, Influences &#038; More",
-    "Link": "https://bleedingcool.com/movies/scary-movie-6-costume-designer-on-industry-changes-influences-more/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/Scary-Movie-6-Regina-Hall-and-Anna-Faris-2000x1125.jpg",
+    "Title": "Elden Ring Film Has Reportedly Wrapped Filming",
+    "Link": "https://bleedingcool.com/movies/elden-ring-film-has-reportedly-wrapped-filming/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/Elden-Ring-Title-Art-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:36"
+    "Date": "2026-08-05 04:05:35"
   },
   {
     "Topic": "Movies",
-    "Title": "Paramount+’s Hilarious 'Only Murders in the Building' Replacement Returns in Season 2 Sneak Peek [Exclusive]",
-    "Link": "https://collider.com/diarra-from-detroit-season-2-episode-3-sneak-peek/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/paramount.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "Star Wars: Visions Presents &#8211; The Ninth Jedi Unleashes Final Trailers",
+    "Link": "https://bleedingcool.com/tv/star-wars-visions-presents-the-ninth-jedi-unleashes-final-trailers/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-03-Aug-2026-12-38-PM-1930-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:40"
+    "Date": "2026-08-05 04:05:38"
   },
   {
-    "Topic": "Movies",
-    "Title": "Review: Cretton's 'Spider-Man: Brand New Day' is Spidey at His Best",
-    "Link": "https://www.firstshowing.net/2026/review-crettons-spider-man-brand-new-day-is-spidey-at-his-best/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/spidermandbrandnewreviewtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:45"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say ",
-    "Link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108266955-1771442352852-108266955-1771442166552-gettyimages-2261796700-021826_connelly_zuckerbergcourt009.jpeg?v=1774400158&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 03:59:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Clifford Capital invests in India&#39;s Continuum via MAS&#39; blended finance fund",
-    "Link": "https://www.financeasia.com/article/clifford-capital-invests-in-indias-continuum-via-mas-blended-finance-fund/508106",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2f20260729020344_Clifford+Capital+Singapore.png&amp;h=630&amp;w=1200&amp;q=100&amp;v=7abd35f457&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 04:00:04"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-    "Link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 04:00:12"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-    "Link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/107171021-1671826737567-gettyimages-1245801059-CFTC_HQ_DC.jpeg?v=1779394057&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 04:00:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "SFC asks Futu Hong Kong to freeze assets of HK$125m linked to suspected IPO fraud",
-    "Link": "https://www.financeasia.com/article/sfc-asks-futu-hong-kong-to-freeze-assets-of-hk125m-linked-to-suspected-ipo-fraud/508124",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2802272199.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=7abd35f457&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 04:00:24"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Former Senator Dodd challenges CFTC prediction markets proposal citing congressional intent",
-    "Link": "https://readwrite.com/dodd-challenges-cftc-prediction-markets-proposal/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Christopher_Dodd_official_portrait_2.jpg/960px-Christopher_Dodd_official_portrait_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 04:00:32"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Kalshi wins injunction, Fanatics buys exchange, tastytrade enters the arena, today in prediction market news LIVE",
-    "Link": "https://readwrite.com/kalshi-wins-injunction-fanatics-buys-exchange-tastytrade-prediction-market-news-live/",
+    "Topic": "Astronomy",
+    "Title": "Guardians on the West Coast: The Space and Missile Technology Center and Vandenberg museum (part 2)",
+    "Link": "https://www.thespacereview.com/article/5016/1",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-04 04:00:35"
+    "Date": "2026-08-05 04:05:48"
   },
   {
-    "Topic": "Technology",
-    "Title": "Better Than Free: How To Differentiate In The Age Of AI",
-    "Link": "https://tim.blog/2026/07/17/better-than-free/",
-    "ImageUrl": "https://tim.blog/wp-content/uploads/2016/06/kevin-kelly_wired-1024x804.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-04 04:00:39"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Federal judge lets Wisconsin continue sports prediction market enforcement fight forward",
-    "Link": "https://readwrite.com/federal-judge-wisconsin-sports-prediction-market/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2023_Wisconsin_Supreme_Court_election_results_map_by_county.svg/960px-2023_Wisconsin_Supreme_Court_election_results_map_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-04 04:00:42"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "New York sues Kalshi alleging illegal prediction markets defying state gambling laws",
-    "Link": "https://readwrite.com/new-york-sues-kalshi-alleging-illegal-prediction-markets-state-gambling-laws/",
+    "Topic": "Astronomy",
+    "Title": "Inspiring Star Trek and NASA",
+    "Link": "https://www.thespacereview.com/article/5029/1",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-04 04:00:46"
+    "Date": "2026-08-05 04:05:52"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "National Reconnaissance Program crisis photography concepts, part 4: FASTBACK and FASTBACK-B",
+    "Link": "https://www.thespacereview.com/article/4899/1",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Postcard_of_Westover_Air_Force_Base%2C_Chicopee_Falls%2C_Mass.jpg/960px-Postcard_of_Westover_Air_Force_Base%2C_Chicopee_Falls%2C_Mass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-05 04:05:57"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Review: Lunar: A History of the Moon in Myths, Maps, and Matter",
+    "Link": "https://www.thespacereview.com/article/4928/1",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-05 04:06:00"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Titan's spinners: the FARRAH satellites",
+    "Link": "https://www.thespacereview.com/article/4925/1",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-05 04:06:04"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Stocks surge to records as Wall Street scrambles to explain the rally after the fact",
+    "Link": "https://investinglive.com/stock-market-update/stocks-surge-to-records-as-wall-street-scrambles-to-explain-the-rally-after-the-fact/",
+    "ImageUrl": "https://investinglive.com/cms/media/Processed/Categories/featured/SP%20500%20surge%2004%20August%202026-featured-1785876022.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:14"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Fake Google Support Calls, $13 Million in Stolen Crypto, and a Lamborghini - The 19-Year-Old Behind It Just Pleaded Guilty",
+    "Link": "https://www.globalcryptopress.com/2026/06/fake-google-support-calls-13-million-in.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhxkFYMVMaIyVW40OtY5xGHwTGQA59me8mYWiOUxkNyKQHMzeQ4_JHKqlV99fWd1pzOomDeveWl2cVjATpiB32sIfO31YOFSvtO5xpkujQDhLtav30nbrohBQ42vtmpsafjQDflqUglSZrdptBYWK7K6w2eIIqk_CXMqZViudPd_Hg-PlQEKwC_RIM2J4e9=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethical Hackers Found a Way to Break a $70 Billion Blockchain - With a $3,000 Budget...",
+    "Link": "https://www.globalcryptopress.com/2026/07/ethical-hackers-found-way-to-break-70.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgL1FkCJvOm6xPIfE-AM1Sv8E0V3pALkpthE4KJUp4m2jsYwk9PVses12fhdcXXC6CkTTnKEzeZkhoh1CA6L-LEr43q-uXcH6O2uB9MwKYWNdbspzmqeNRnvv3Fjln8iXJj2kjMHf-xb9eDlGkUbr3WingETluocEI_dxUIWDMbKTCo-RNTUqqdqdRjs0-i=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trump Family's $500 Million Profit from a Single Crypto Transaction...",
+    "Link": "https://www.globalcryptopress.com/2026/06/trump-familys-500-million-profit-from.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhGgQZGFy2EULR46Gyw17j2SDtNhjpQ_C-3Nqh9G8hVEVBH_1oFI2gyhTVT_Zqeo38Wpu52fEzFDG1_9O55T71bNDQS5AoZ_b_4VvGU7C1UwD5HhRs32GQ017kwr8DC10zXdRYo8Uf9NpBmfYfjuiharFJhpkAMSMp_F4xlotjAkclDdWIrwjVskRCQpJhh=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Jito's New Trading App Sends 80% of Revenue to Token Holders - the Promise Most DeFi Projects Won't Make",
+    "Link": "https://www.globalcryptopress.com/2026/06/jitos-new-trading-app-sends-80-of.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgbQO3854a4p4oLUKocYIHo3NyebGR_u0SEs282ASaPNWuEdRs8SCeTeVJOwsLN4F8F7kmVlvVEql2rKXj1oYKL4-cfz-FrjHK_ScMOeJEgQY596N_ztta2FpPymaY76xbtlCkuxDsdAawyZ4sua3eheQdfLnxTowcdQulGniHdJwnFR-XdttTNEXNdG2Wl=w1200-h630-p-k-no-nu",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
+    "Link": "https://www.theguardian.com/world/2026/aug/04/india-bjp-rare-byelection-loss-cockroach-student-protests",
+    "ImageUrl": "https://i.guim.co.uk/img/media/0e47cb1145615802beba71304aa58b076f69f41a/572_0_3225_2581/master/3225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6150f4c7abb7573aebadd47a46aec432",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:37"
+  },
+  {
+    "Topic": "General News",
+    "Title": "BPK Tekankan Tata Kelola Berbasis ESG Fondasi Wujudkan Indonesia Emas 2045",
+    "Link": "https://www.tribunnews.com/nasional/7863909/bpk-tekankan-tata-kelola-berbasis-esg-fondasi-wujudkan-indonesia-emas-2045",
+    "ImageUrl": "https://asset.tribunnews.com/iNYGRNQe-y5Q7rLFCPfiUeqf0X8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/penyerahan-LHP-BPK.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pas Band Janjikan Penampilan Berbeda di Remember Fest 2026",
+    "Link": "https://www.tribunnews.com/seleb/7863898/pas-band-janjikan-penampilan-berbeda-di-remember-fest-2026",
+    "ImageUrl": "https://asset.tribunnews.com/zRF4EtK52lJ1VOLNaWKW8gmmQq8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Sandy-Pas-Band-saat-ditemui-dalam-jumpa-pers-Remember-Fest-2026.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pelindo Regional 2 Banten dan APBMI Teken Kerjasama Bongkar Muat di Pelabuhan Ciwandan",
+    "Link": "https://www.tribunnews.com/bisnis/7863902/pelindo-regional-2-banten-dan-apbmi-teken-kerjasama-bongkar-muat-di-pelabuhan-ciwandan",
+    "ImageUrl": "https://asset.tribunnews.com/PM-kms4Ac2tDyOd172wX65bE3gY=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/MoU-Pelabuhan-Ciwandan-OK.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:48"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Reading and writing worsens in Australian schools as one in three students fail to meet Naplan benchmarks",
+    "Link": "https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards",
+    "ImageUrl": "https://i.guim.co.uk/img/media/731d9b7584f7d0179f8adb9c0d4ea7a1e5dd875a/2270_422_3917_3135/master/3917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9b39ced7e9e628941973ffdf6b3cee4",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "We measured the public security posture of 6,289 launched web apps. 76% ship without a Content-Security-Policy.",
+    "Link": "https://dev.to/quantumadopter/we-measured-the-public-security-posture-of-6289-launched-web-apps-76-ship-without-a-p5m",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhedc3puyak6iraz0n18d.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:06:59"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Keyv Supply Chain Attack: What You Need to Know Now",
+    "Link": "https://dev.to/onsen/keyv-supply-chain-attack-what-you-need-to-know-now-1466",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx164374doxpz0t77r6we.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "I built a 126-page site optimised to be quoted by LLMs. Here is everything I shipped.",
+    "Link": "https://dev.to/lucian_tudor_303e1e12b9e5/i-built-a-126-page-site-optimised-to-be-quoted-by-llms-here-is-everything-i-shipped-38lp",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqpryh6ltyn26ddwiylc3.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:05"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "Link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:08"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "Link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-smiling-flying-logo.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:10"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The ultimate science summer reading list",
+    "Link": "https://www.scientificamerican.com/podcast/episode/the-ultimate-science-summer-reading-list/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/1838903b-c401-47f8-94b3-92ae1f07a0b0/2607_SQ_WED_READING_02.png?m=1785264914.395&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:19"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Project backed by Leonardo DiCaprio and Jeff Bezos aims to save 100 critically endangered species",
+    "Link": "https://www.scientificamerican.com/article/project-backed-by-leonardo-dicaprio-and-jeff-bezos-aims-to-save-100-critically-endangered-species/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/cd7ea6d7-baf2-4863-aa32-c1773120ecd7/Endangered-species.jpg?m=1785864618.692&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:22"
+  },
+  {
+    "Topic": "Science",
+    "Title": "What caused the magnitude 6.8 earthquake in Japan?",
+    "Link": "https://www.scientificamerican.com/article/what-caused-the-magnitude-6-8-earthquake-in-japan/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/dd9cc3e6-eb95-4513-88e1-78695576d58a/GettyImages-2287334876_web.jpeg?m=1785255277.019&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:26"
+  },
+  {
+    "Topic": "Science",
+    "Title": "550 years later, scientists claim to have solved what killed Botticelli’s muse",
+    "Link": "https://www.scientificamerican.com/article/550-years-later-scientists-claim-to-have-solved-what-killed-botticellis-muse/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/684ba68d-4431-4ad4-9a80-ead03bb60c3d/botticelli-venus.jpg?m=1784563363.629&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:29"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Is it possible to regain a sense of smell? These scientists are working on it",
+    "Link": "https://www.scientificamerican.com/article/is-it-possible-to-regain-a-sense-of-smell-these-scientists-are-working-on-it/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/d037bb26-3e91-48bb-ba12-c81b775f8796/smell-aids-2.jpg?m=1784731379.007&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+    "Link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:44"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Here’s why AI agents lie and cheat to reach their goals",
+    "Link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:47"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Run an Apache Airflow DAG with Docker Compose and PostgreSQL",
+    "Link": "https://pyimagesearch.com/2026/06/08/run-an-apache-airflow-dag-with-docker-compose-and-postgresql/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/06/run-apache-airflow-dag-docker-compose-postgresql-featured.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:50"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How AI helps scientists design the next generation of medicines",
+    "Link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:53"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Running Gemma 4 in the Browser with Transformers.js and WebGPU",
+    "Link": "https://pyimagesearch.com/2026/07/27/running-gemma-4-in-the-browser-with-transformers-js-and-webgpu/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/07/running-gemma-4-in-browser-transformers-js-webgpu-featured.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-05 04:07:56"
   }
 ]
