@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://theguardian.com/science/2026/jun/15/starwatch-sliver-of-moon-and-bright-venus-create-delightful-twilight-conjunction",
-    "SentDate": "2026-07-09 04:00:48"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/jul/06/starwatch-waning-crescent-moon-pairs-up-with-the-seven-sisters",
-    "SentDate": "2026-07-09 04:00:50"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/07/chatham-islands-turquoise-phytoplankton-bloom-satellite-image",
-    "SentDate": "2026-07-09 04:00:53"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/07/jwst-discovers-giant-barred-spiral-galaxy",
-    "SentDate": "2026-07-09 04:00:56"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/jun/22/interstellar-comet-may-be-oldest-object-seen-in-our-solar-system-research-finds",
-    "SentDate": "2026-07-09 04:00:58"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2210340/us-reportedly-wants-to-restrict-corporate-use-chinese-ai",
-    "SentDate": "2026-07-09 04:01:17"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant",
-    "SentDate": "2026-07-09 04:01:19"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2210856/pc-shipments-just-fell-for-the-first-time-in-two-years-thanks-to-the-memory-shortage",
-    "SentDate": "2026-07-09 04:01:21"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2210342/apple-reportedly-testing-chinese-dram-cxmt",
-    "SentDate": "2026-07-09 04:01:24"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2210417/google-announces-new-video-remix-feature-for-ai-subscribers",
-    "SentDate": "2026-07-09 04:01:26"
-  },
-  {
-    "CanonicalKey": "https://cryptonews.com/news/news-tokenized-equities-solana-q2-2026-record-volume",
-    "SentDate": "2026-07-09 04:01:34"
-  },
-  {
-    "CanonicalKey": "https://cryptonews.com/news/us-iran-tensions-bitcoin-price-stablecoin-contraction",
-    "SentDate": "2026-07-09 04:01:37"
-  },
-  {
-    "CanonicalKey": "https://cryptonews.com/news/ethereum-price-tether-usdt-burn",
-    "SentDate": "2026-07-09 04:01:39"
-  },
-  {
-    "CanonicalKey": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-incredible-xrp-price-target-by-end-of-2026",
-    "SentDate": "2026-07-09 04:01:42"
-  },
-  {
-    "CanonicalKey": "https://cryptonews.com/news/american-bitcoin-crypto-eric-trump-btc-price",
-    "SentDate": "2026-07-09 04:01:45"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html",
-    "SentDate": "2026-07-09 04:01:54"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html",
-    "SentDate": "2026-07-09 04:01:57"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html",
-    "SentDate": "2026-07-09 04:02:01"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/investigativ/br-recherche/illegal-online-casino-gluecksspiel-100.html",
-    "SentDate": "2026-07-09 04:02:04"
-  },
-  {
-    "CanonicalKey": "https://tagesschau.de/wissen/klima/windraeder-helfen-beim-waldumbau-100.html",
-    "SentDate": "2026-07-09 04:02:07"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2529751-how-menopause-radically-changes-the-brain-and-what-happens-after",
-    "SentDate": "2026-07-09 04:02:15"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp",
-    "SentDate": "2026-07-09 04:02:17"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke",
-    "SentDate": "2026-07-09 04:02:20"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260625014755.htm",
-    "SentDate": "2026-07-09 04:02:22"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/06/260625060220.htm",
-    "SentDate": "2026-07-09 04:02:25"
-  },
-  {
-    "CanonicalKey": "https://artificial-intelligence.blog/ai-news/the-ideal-ai-device",
-    "SentDate": "2026-07-09 04:02:37"
-  },
-  {
-    "CanonicalKey": "https://pyimagesearch.com/2026/06/29/building-an-intelligent-chatbot-with-qwen3-instruct-and-thinking-models",
-    "SentDate": "2026-07-09 04:02:39"
-  },
-  {
-    "CanonicalKey": "https://artificial-intelligence.blog/ai-news/we-live-in-an-ai-first-world",
-    "SentDate": "2026-07-09 04:02:43"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic",
-    "SentDate": "2026-07-09 04:02:46"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design",
-    "SentDate": "2026-07-09 04:02:49"
-  },
-  {
-    "CanonicalKey": "https://investing.com/news/stock-market-news/accor-taps-goldman-for-ennismore-us-ipo--bloomberg-93ch-4782460",
-    "SentDate": "2026-07-09 04:02:57"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/thuxss416/iperindo-gandeng-galangan-kapal-rusia-bidik-alih-teknologi-dan-pasar-ekspor",
-    "SentDate": "2026-07-09 04:03:00"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/thuo4z416/direksi-ammn-ramairamai-tambah-kepemilikan-saham",
-    "SentDate": "2026-07-09 04:03:04"
-  },
-  {
-    "CanonicalKey": "https://foxbusiness.com/economy/trump-promises-philadelphia-gas-discounts-ahead-july-4-claims-oil-prices-plummeting",
-    "SentDate": "2026-07-09 04:03:08"
-  },
-  {
-    "CanonicalKey": "https://foxbusiness.com/economy/10-reasons-bullish-americas-economy-nation-turns-250-years-old",
-    "SentDate": "2026-07-09 04:03:11"
-  },
-  {
-    "CanonicalKey": "https://aintitcool.com/off-the-cuff-tom-lists-top-5-reboots-wishlist-83655",
-    "SentDate": "2026-07-09 04:03:19"
-  },
-  {
-    "CanonicalKey": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-july-2026",
-    "SentDate": "2026-07-09 04:03:22"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/markets-festivals/sundance-international-federation-film-critics-jury-1236804288",
-    "SentDate": "2026-07-09 04:03:24"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/reviews/evil-dead-burn-review-1236802737",
-    "SentDate": "2026-07-09 04:03:27"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/awards/focus-features-elsinore-andrew-scott-acquisition-1236801625",
-    "SentDate": "2026-07-09 04:03:29"
-  },
-  {
     "CanonicalKey": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples",
     "SentDate": "2026-07-10 04:17:46"
   },
@@ -4714,5 +4554,145 @@
   {
     "CanonicalKey": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories",
     "SentDate": "2026-08-08 03:37:11"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4933776-nippon-shokubai-co-ltd-2027-q1-results-earnings-call-presentation",
+    "SentDate": "2026-08-09 03:21:44"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4932319-scout24-se-sccty-q2-2026-earnings-call-transcript",
+    "SentDate": "2026-08-09 03:21:47"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4933795-grindr-inc-grnd-q2-2026-earnings-call-transcript",
+    "SentDate": "2026-08-09 03:21:49"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4933775-august-buys-4-ideal-sp500-safer-dividend-dogs",
+    "SentDate": "2026-08-09 03:21:52"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+    "SentDate": "2026-08-09 03:21:55"
+  },
+  {
+    "CanonicalKey": "https://engadget.com/2229979/apple-watch-heart-rate-app-feature-didnt-realize-existed",
+    "SentDate": "2026-08-09 03:22:05"
+  },
+  {
+    "CanonicalKey": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips",
+    "SentDate": "2026-08-09 03:22:07"
+  },
+  {
+    "CanonicalKey": "https://engadget.com/2228889/why-phone-case-type-works-best-for-wireless-charging",
+    "SentDate": "2026-08-09 03:22:11"
+  },
+  {
+    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+    "SentDate": "2026-08-09 03:22:13"
+  },
+  {
+    "CanonicalKey": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "SentDate": "2026-08-09 03:22:17"
+  },
+  {
+    "CanonicalKey": "https://webscrypto.com/government-shutdown-ends-after-40-days-as-senate-passes-funding-bill-crypto-markets-eye-recovery",
+    "SentDate": "2026-08-09 03:22:29"
+  },
+  {
+    "CanonicalKey": "https://webscrypto.com/bitcoin-and-ethereum-etfs-rebound-with-376m-net-inflows",
+    "SentDate": "2026-08-09 03:22:34"
+  },
+  {
+    "CanonicalKey": "https://webscrypto.com/microstrategy-stumbles-as-diamond-hands-myth-cracks-company-signals-potential-bitcoin-sale-amid-liquidity-push",
+    "SentDate": "2026-08-09 03:22:39"
+  },
+  {
+    "CanonicalKey": "https://webscrypto.com/nvidia-hits-historic-5-trillion-market-cap-from-crypto-mining-boom-to-ai-dominance",
+    "SentDate": "2026-08-09 03:22:44"
+  },
+  {
+    "CanonicalKey": "https://webscrypto.com/bitcoin-sends-mixed-signals-as-two-ominous-warning-indicators-flash-red",
+    "SentDate": "2026-08-09 03:22:49"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+    "SentDate": "2026-08-09 03:22:58"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
+    "SentDate": "2026-08-09 03:23:01"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
+    "SentDate": "2026-08-09 03:23:13"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
+    "SentDate": "2026-08-09 03:23:17"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
+    "SentDate": "2026-08-09 03:23:20"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/movies/one-night-only-is-bts-featurette-has-the-cast-describing-the-film",
+    "SentDate": "2026-08-09 03:23:28"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/tv/judge-sets-paramount-skydance-warner-bros-antitrust-trial-march-2027",
+    "SentDate": "2026-08-09 03:23:32"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/movies/sounds-like-sonys-universe-of-marvel-characters-is-officially-no-more",
+    "SentDate": "2026-08-09 03:23:35"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/movies/your-mother-your-mother-your-mother-trailer-poster-and-images",
+    "SentDate": "2026-08-09 03:23:39"
+  },
+  {
+    "CanonicalKey": "https://bleedingcool.com/tv/paramount-skydance-reacts-to-march-2027-warner-bros-deal-trial-date",
+    "SentDate": "2026-08-09 03:23:43"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/07/launch-preview-072726",
+    "SentDate": "2026-08-09 03:23:54"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/08/launch-preview-080326",
+    "SentDate": "2026-08-09 03:23:57"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r",
+    "SentDate": "2026-08-09 03:24:00"
+  },
+  {
+    "CanonicalKey": "https://eso.org/public/news/eso2608",
+    "SentDate": "2026-08-09 03:24:04"
+  },
+  {
+    "CanonicalKey": "https://eso.org/public/news/eso2607",
+    "SentDate": "2026-08-09 03:24:08"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+    "SentDate": "2026-08-09 03:24:17"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/04/22/commvault-brings-full-suite-data-backup-resilience-capabilities-google-cloud",
+    "SentDate": "2026-08-09 03:24:20"
+  },
+  {
+    "CanonicalKey": "https://technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+    "SentDate": "2026-08-09 03:24:23"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/07/09/market-data-platform-startup-databento-closes-97m-round-drawing-300m-investor-demand",
+    "SentDate": "2026-08-09 03:24:26"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/05/20/informatica-expands-agentic-ai-strategy-headless-data-services-unified-agent-governance",
+    "SentDate": "2026-08-09 03:24:29"
   }
 ]
