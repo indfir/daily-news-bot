@@ -1,145 +1,5 @@
 [
   {
-    "CanonicalKey": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples",
-    "SentDate": "2026-07-10 04:17:46"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms",
-    "SentDate": "2026-07-10 04:17:49"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use",
-    "SentDate": "2026-07-10 04:17:51"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning",
-    "SentDate": "2026-07-10 04:17:55"
-  },
-  {
-    "CanonicalKey": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations",
-    "SentDate": "2026-07-10 04:18:00"
-  },
-  {
-    "CanonicalKey": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-    "SentDate": "2026-07-10 04:18:17"
-  },
-  {
-    "CanonicalKey": "https://dev.to/josaphatstar/the-skill-level-of-young-developers-is-dropping-and-barely-anyone-wants-to-admit-it-1ff",
-    "SentDate": "2026-07-10 04:18:20"
-  },
-  {
-    "CanonicalKey": "https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea",
-    "SentDate": "2026-07-10 04:18:23"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products-and-platforms/products/photos/video-remix",
-    "SentDate": "2026-07-10 04:18:25"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience",
-    "SentDate": "2026-07-10 04:18:28"
-  },
-  {
-    "CanonicalKey": "https://kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
-    "SentDate": "2026-07-10 04:18:35"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/what-is-a-lagrangian-used-for-in-physics",
-    "SentDate": "2026-07-10 04:18:38"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/earth-is-home-to-20-million-insect-species-three-times-more-than-we-thought",
-    "SentDate": "2026-07-10 04:18:41"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/archaeologists-uncover-new-history-from-the-battle-of-bunker-hill-the-first-major-battle-of-the-american-revolution",
-    "SentDate": "2026-07-10 04:18:44"
-  },
-  {
-    "CanonicalKey": "https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs",
-    "SentDate": "2026-07-10 04:18:46"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
-    "SentDate": "2026-07-10 04:19:00"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-    "SentDate": "2026-07-10 04:19:03"
-  },
-  {
-    "CanonicalKey": "https://japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream",
-    "SentDate": "2026-07-10 04:19:07"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-    "SentDate": "2026-07-10 04:19:10"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-    "SentDate": "2026-07-10 04:19:13"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather",
-    "SentDate": "2026-07-10 04:19:21"
-  },
-  {
-    "CanonicalKey": "https://space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth",
-    "SentDate": "2026-07-10 04:19:23"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/2520008-largest-ever-map-of-universe-captures-47-million-galaxies-and-quasars",
-    "SentDate": "2026-07-10 04:19:26"
-  },
-  {
-    "CanonicalKey": "https://newscientist.com/article/mg27035931-800-ann-leckie-continues-to-shine-with-new-sci-fi-novel-radiant-star",
-    "SentDate": "2026-07-10 04:19:29"
-  },
-  {
-    "CanonicalKey": "https://space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas",
-    "SentDate": "2026-07-10 04:19:31"
-  },
-  {
-    "CanonicalKey": "https://decider.com/2026/07/09/watch-evil-dead-burn-streaming-netflix-amazon-prime-video",
-    "SentDate": "2026-07-10 04:19:38"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/alan-ritchson-absolute-batman-animated-series-fancast",
-    "SentDate": "2026-07-10 04:19:41"
-  },
-  {
-    "CanonicalKey": "https://decider.com/2026/07/09/watch-gail-daughtry-and-the-celebrity-sex-pass-movie-streaming-netflix-amazon-prime-video",
-    "SentDate": "2026-07-10 04:19:43"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/matthew-rhys-emmy-double-acting-award-nomination",
-    "SentDate": "2026-07-10 04:19:46"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/disney-moana-live-action-characters-recast",
-    "SentDate": "2026-07-10 04:19:48"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/06/ripple-beats-europes-crypto-deadline-by.html",
-    "SentDate": "2026-07-10 04:19:56"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/06/pumpfuns-new-pay-anyone-to-do-anything.html",
-    "SentDate": "2026-07-10 04:19:59"
-  },
-  {
-    "CanonicalKey": "https://blog.kraken.com/product/asset-listings/usdpt-is-available-for-trading",
-    "SentDate": "2026-07-10 04:20:01"
-  },
-  {
-    "CanonicalKey": "https://blog.kraken.com/product/pro/new-kraken-pro-fee-tiers",
-    "SentDate": "2026-07-10 04:20:03"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/06/ufc-just-paid-their-fighters-in-trump.html",
-    "SentDate": "2026-07-10 04:20:06"
-  },
-  {
     "CanonicalKey": "https://france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned",
     "SentDate": "2026-07-11 04:01:54"
   },
@@ -4694,5 +4554,165 @@
   {
     "CanonicalKey": "https://siliconangle.com/2026/05/20/informatica-expands-agentic-ai-strategy-headless-data-services-unified-agent-governance",
     "SentDate": "2026-08-09 03:24:29"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-extends-crypto-credential-to-stablecoin-payments-in-borderless-pilot",
+    "SentDate": "2026-08-10 03:25:04"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/tokens/eliza-labs-shaw-walters-says-ai16z-token-is-dead-after-settling-burwick-law-class-action",
+    "SentDate": "2026-08-10 03:25:06"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/nfts-and-web3/ygg-play-shuts-down-services-as-yield-guild-pivots-to-ai-data",
+    "SentDate": "2026-08-10 03:25:09"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026",
+    "SentDate": "2026-08-10 03:25:12"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-solana-in-tokenized-stock-volume-via-memecoin-pairs",
+    "SentDate": "2026-08-10 03:25:15"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/agco-fines-betty-gaming-underage-gambling",
+    "SentDate": "2026-08-10 03:25:23"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/novig-sues-new-york-federal-law",
+    "SentDate": "2026-08-10 03:25:26"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/08/github-npm-actions-defaults",
+    "SentDate": "2026-08-10 03:25:29"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/08/cloudflare-precursor-detection",
+    "SentDate": "2026-08-10 03:25:33"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/novig-launches-nationwide-sports-prediction-market",
+    "SentDate": "2026-08-10 03:25:35"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/politics/congress/jim-banks-max-miller-resign-reelection-bid-moreno-ohio-rcna591571",
+    "SentDate": "2026-08-10 03:25:43"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
+    "SentDate": "2026-08-10 03:25:46"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169",
+    "SentDate": "2026-08-10 03:25:48"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/sport/article/2026/08/09/l-ete-contrarie-de-leon-marchand-diminue-par-une-blessure-a-l-approche-des-championnats-d-europe-de-natation-a-paris_6742704_3242.html",
+    "SentDate": "2026-08-10 03:25:51"
+  },
+  {
+    "CanonicalKey": "https://lemonde.fr/les-decodeurs/article/2026/08/09/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-8-et-9-aout_6742708_4355770.html",
+    "SentDate": "2026-08-10 03:25:54"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/08/260806050722.htm",
+    "SentDate": "2026-08-10 03:26:01"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/08/260805082508.htm",
+    "SentDate": "2026-08-10 03:26:03"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/08/260807235103.htm",
+    "SentDate": "2026-08-10 03:26:05"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/08/260805082510.htm",
+    "SentDate": "2026-08-10 03:26:08"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/08/260807035133.htm",
+    "SentDate": "2026-08-10 03:26:10"
+  },
+  {
+    "CanonicalKey": "https://hollywoodreporter.com/movies/movie-news/christopher-nolan-the-odyssey-highest-grossing-ever-1236669574",
+    "SentDate": "2026-08-10 03:26:18"
+  },
+  {
+    "CanonicalKey": "https://hollywoodreporter.com/movies/movie-reviews/paw-patrol-the-dino-movie-review-1236669413",
+    "SentDate": "2026-08-10 03:26:20"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2232353/best-warner-bros-movies-all-time-ranked",
+    "SentDate": "2026-08-10 03:26:23"
+  },
+  {
+    "CanonicalKey": "https://slashfilm.com/2231306/clint-eastwood-70s-heist-movie-thunderbolt-and-lightfoot-streaming-free-tubi",
+    "SentDate": "2026-08-10 03:26:25"
+  },
+  {
+    "CanonicalKey": "https://hollywoodreporter.com/movies/movie-features/documentary-spotlight-game-set-match-1236668913",
+    "SentDate": "2026-08-10 03:26:28"
+  },
+  {
+    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/observing-news/a-perfectly-timed-perseid-meteor-shower",
+    "SentDate": "2026-08-10 03:26:38"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
+    "SentDate": "2026-08-10 03:26:40"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon",
+    "SentDate": "2026-08-10 03:26:43"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats",
+    "SentDate": "2026-08-10 03:26:45"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract",
+    "SentDate": "2026-08-10 03:26:47"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk",
+    "SentDate": "2026-08-10 03:26:54"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore",
+    "SentDate": "2026-08-10 03:26:56"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock",
+    "SentDate": "2026-08-10 03:26:58"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore",
+    "SentDate": "2026-08-10 03:27:01"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools",
+    "SentDate": "2026-08-10 03:27:04"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4933849-arista-networks-strong-quarterly-earnings-keeps-the-buy-thesis-intact",
+    "SentDate": "2026-08-10 03:27:12"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8265408/bps-ungkap-alasan-krusial-di-balik-sensus-ekonomi-2026",
+    "SentDate": "2026-08-10 03:27:15"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8264515/jutawan-di-inggris-menyusut-ke-level-terendah-sejak-2008",
+    "SentDate": "2026-08-10 03:27:18"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/article/4933861-dream-finders-the-beazer-acquisition-adds-unnecessary-risk-downgrade",
+    "SentDate": "2026-08-10 03:27:20"
+  },
+  {
+    "CanonicalKey": "https://liputan6.com/bisnis/read/8265127/kejaksaan-agung-hingga-kementerian-hukum-kawal-pemangkasan-bumn",
+    "SentDate": "2026-08-10 03:27:23"
   }
 ]
