@@ -1,145 +1,5 @@
 [
   {
-    "CanonicalKey": "https://crypto.news/david-schwartz-invokes-first-amendment-to-defend-xrp-sports-ads",
-    "SentDate": "2026-07-16 03:53:57"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/former-ethereum-foundation-team-launches-ethsystems-for-institutional-ethereum",
-    "SentDate": "2026-07-16 03:54:00"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/sbi-taps-solana-for-world-first-tokenized-japan-equity",
-    "SentDate": "2026-07-16 03:54:03"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/jpmorgan-warns-hyperliquid-deal-could-squeeze-circle",
-    "SentDate": "2026-07-16 03:54:06"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/coinbase-prediction-markets-100-million-fastest-product",
-    "SentDate": "2026-07-16 03:54:09"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-07-faintest-planet-imaged-earth-years.html",
-    "SentDate": "2026-07-16 03:54:19"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-07-grs-giant-radio-galaxy.html",
-    "SentDate": "2026-07-16 03:54:22"
-  },
-  {
-    "CanonicalKey": "https://spacedaily.com/t-mercury-polar-craters-water-ice-billions-years",
-    "SentDate": "2026-07-16 03:54:25"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/satellite-nuclear-weapons-space",
-    "SentDate": "2026-07-16 03:54:29"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-07-asteroid-breakup-solar-bombardment-million.html",
-    "SentDate": "2026-07-16 03:54:32"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260714225525.htm",
-    "SentDate": "2026-07-16 03:54:39"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/naturopathic-medicine-in-crisis",
-    "SentDate": "2026-07-16 03:54:43"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260711010116.htm",
-    "SentDate": "2026-07-16 03:54:47"
-  },
-  {
-    "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260713000804.htm",
-    "SentDate": "2026-07-16 03:54:50"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/who-and-the-death-of-evidence-based-medicine",
-    "SentDate": "2026-07-16 03:54:53"
-  },
-  {
-    "CanonicalKey": "https://futurism.com/artificial-intelligence/us-realizing-chinese-ai-models-way-cheaper",
-    "SentDate": "2026-07-16 03:55:02"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/firewally-mac-tool-monitor-app-traffic",
-    "SentDate": "2026-07-16 03:55:05"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit",
-    "SentDate": "2026-07-16 03:55:08"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
-    "SentDate": "2026-07-16 03:55:11"
-  },
-  {
-    "CanonicalKey": "https://zdnet.com/article/greg-kroah-hartman-linux-kernel-rust",
-    "SentDate": "2026-07-16 03:55:14"
-  },
-  {
-    "CanonicalKey": "https://tim.blog/2026/06/17/sebastian-mallaby",
-    "SentDate": "2026-07-16 03:55:21"
-  },
-  {
-    "CanonicalKey": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-    "SentDate": "2026-07-16 03:55:25"
-  },
-  {
-    "CanonicalKey": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing",
-    "SentDate": "2026-07-16 03:55:28"
-  },
-  {
-    "CanonicalKey": "https://dev.to/tiny_spark_23534/5-mistakes-i-made-building-my-first-android-app-and-how-i-fixed-them-4jem",
-    "SentDate": "2026-07-16 03:55:32"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
-    "SentDate": "2026-07-16 03:55:35"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/nasional/7854772/ahli-sebut-dakwaan-kasus-satelit-123-bt-tidak-cermat-berpotensi-batal-demi-hukum",
-    "SentDate": "2026-07-16 03:55:52"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/superskor/7854788/elkan-baggott-resmi-gabung-millwall-fc-bek-timnas-indonesia-dikontrak-jangka-panjang",
-    "SentDate": "2026-07-16 03:55:56"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/nasional/7854774/kasus-eks-jampidsus-febrie-adriansyah-lebih-dari-sekadar-persoalan-antar-elite-atau-antar-lembaga",
-    "SentDate": "2026-07-16 03:55:58"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/superskor/7854781/sandy-walsh-bongkar-alasan-gabung-persib-bandung-ada-peran-rekan-rekannya-di-timnas-indonesia",
-    "SentDate": "2026-07-16 03:56:02"
-  },
-  {
-    "CanonicalKey": "https://tribunnews.com/nasional/7854771/gus-ipul-ungkap-sejumlah-nama-masuk-bursa-calon-ketua-umum-pbnu-siapa-saja",
-    "SentDate": "2026-07-16 03:56:04"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2162792-spider-man-gets-his-scariest-costume-makeover-ever-for-new-2026-marvel-release",
-    "SentDate": "2026-07-16 03:56:22"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/ghost-in-the-shell-series-neuromancer-meets-blade-runner",
-    "SentDate": "2026-07-16 03:56:25"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/netflix-13-going-on-30-remake-series-cast-jessica-alba",
-    "SentDate": "2026-07-16 03:56:29"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/tv/news/2162782-jodie-whittaker-ellen-pompeo-hulu-tv-show",
-    "SentDate": "2026-07-16 03:56:32"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/features/2162718-the-batman-part-2-should-have-been-canceled",
-    "SentDate": "2026-07-16 03:56:36"
-  },
-  {
     "CanonicalKey": "https://sciencedaily.com/releases/2026/07/260713000809.htm",
     "SentDate": "2026-07-17 03:52:16"
   },
@@ -4718,5 +4578,153 @@
   {
     "CanonicalKey": "https://investinglive.com/technical-analysis/usdcad-runs-lower-adding-to-the-sellers-control-the-key-200-day-ma-is-eyed",
     "SentDate": "2026-08-15 03:27:31"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/ml-web-games",
+    "SentDate": "2026-08-16 03:15:00"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/sempre-health-eap-case-study",
+    "SentDate": "2026-08-16 03:15:03"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/torch-profiler",
+    "SentDate": "2026-08-16 03:15:05"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/tensorflow-philosophy",
+    "SentDate": "2026-08-16 03:15:08"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/bert-101",
+    "SentDate": "2026-08-16 03:15:10"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/estrogen-therapy-alzheimers-brain",
+    "SentDate": "2026-08-16 03:15:18"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming",
+    "SentDate": "2026-08-16 03:15:21"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist",
+    "SentDate": "2026-08-16 03:15:23"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/light-scan-deadly-bowel-disease-babies",
+    "SentDate": "2026-08-16 03:15:26"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/science-school-screen-limits-devices",
+    "SentDate": "2026-08-16 03:15:29"
+  },
+  {
+    "CanonicalKey": "https://tmz.com/2026/08/15/netflix-wants-tyra-banks-defamation-suit-dismissed",
+    "SentDate": "2026-08-16 03:15:36"
+  },
+  {
+    "CanonicalKey": "https://tmz.com/2026/08/15/pop-culture-watches-from-famous-movies",
+    "SentDate": "2026-08-16 03:15:39"
+  },
+  {
+    "CanonicalKey": "https://tmz.com/2026/08/15/baywatch-cast-hot-behind-the-scenes-pictures",
+    "SentDate": "2026-08-16 03:15:42"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty",
+    "SentDate": "2026-08-16 03:15:58"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/best-photos-august-solar-eclipse-spain",
+    "SentDate": "2026-08-16 03:16:02"
+  },
+  {
+    "CanonicalKey": "https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60",
+    "SentDate": "2026-08-16 03:16:06"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/first-images-spacex-rocket-moon-crater",
+    "SentDate": "2026-08-16 03:16:09"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining",
+    "SentDate": "2026-08-16 03:16:11"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/oil-slides-trump-delays-iran-strikes-signals-peace-talks",
+    "SentDate": "2026-08-16 03:16:20"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/oil-us-strategic-petroleum-reserve-falls-lowest-level-since-1983",
+    "SentDate": "2026-08-16 03:16:24"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/magnificent-7-stocks-shed-hundreds-billions-amid-ai-spending-fears",
+    "SentDate": "2026-08-16 03:16:28"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/united-reportedly-approached-delta-air-lines-potential-merger",
+    "SentDate": "2026-08-16 03:16:33"
+  },
+  {
+    "CanonicalKey": "https://space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
+    "SentDate": "2026-08-16 03:16:40"
+  },
+  {
+    "CanonicalKey": "https://space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video",
+    "SentDate": "2026-08-16 03:16:43"
+  },
+  {
+    "CanonicalKey": "https://space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness",
+    "SentDate": "2026-08-16 03:16:45"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/04/27/nasas-artemis-core-stage-arrives-at-kennedy",
+    "SentDate": "2026-08-16 03:16:48"
+  },
+  {
+    "CanonicalKey": "https://space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
+    "SentDate": "2026-08-16 03:16:50"
+  },
+  {
+    "CanonicalKey": "https://coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+    "SentDate": "2026-08-16 03:16:57"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
+    "SentDate": "2026-08-16 03:17:00"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/crypto-hacks-hit-record-212-incidents-in-h1-2026-blockaid",
+    "SentDate": "2026-08-16 03:17:03"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/infrastructure/lightning-labs-launches-site-for-l402-bitcoin-agent-payments",
+    "SentDate": "2026-08-16 03:17:05"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
+    "SentDate": "2026-08-16 03:17:08"
+  },
+  {
+    "CanonicalKey": "https://thelocal.com/20260811/munich-cafe-goes-viral-for-defending-staff-for-not-speaking-german",
+    "SentDate": "2026-08-16 03:17:17"
+  },
+  {
+    "CanonicalKey": "https://japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream",
+    "SentDate": "2026-08-16 03:17:21"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+    "SentDate": "2026-08-16 03:17:24"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/five-years-of-taliban-rule-afghan-women-face-deepening-repression",
+    "SentDate": "2026-08-16 03:17:27"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/france-approves-assisted-dying-law-but-rejects-social-media-ban-for-under-15s",
+    "SentDate": "2026-08-16 03:17:30"
   }
 ]
