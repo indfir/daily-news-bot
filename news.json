@@ -1,298 +1,290 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Making ML-powered web games with Transformers.js",
-    "Link": "https://huggingface.co/blog/ml-web-games",
-    "ImageUrl": "https://huggingface.co/blog/assets/ml-web-games/thumbnail.png",
+    "Topic": "Economy",
+    "Title": "Amazon secures $8 bn in term loan to safeguard against economic headwinds",
+    "Link": "https://www.business-standard.com/article/beyond-business/amazon-secures-8-bn-in-term-loan-to-safeguard-against-economic-headwinds-123010400503_1.html",
+    "ImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/20/full/1660985948-1234.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:00"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
-    "Link": "https://huggingface.co/blog/sempre-health-eap-case-study",
-    "ImageUrl": "https://huggingface.co/blog/assets/70_sempre_health/thumbnail.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "Link": "https://huggingface.co/blog/torch-profiler",
-    "ImageUrl": "https://huggingface.co/blog/assets/torch-profiler/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:05"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Hugging Face's TensorFlow Philosophy",
-    "Link": "https://huggingface.co/blog/tensorflow-philosophy",
-    "ImageUrl": "https://huggingface.co/blog/assets/96_tensorflow_philosophy/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "BERT 101 - State Of The Art NLP Model Explained",
-    "Link": "https://huggingface.co/blog/bert-101",
-    "ImageUrl": "https://huggingface.co/blog/assets/52_bert_101/thumbnail.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:10"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Estrogen therapy is linked to fewer signs of Alzheimer’s in the brain",
-    "Link": "https://www.sciencenews.org/article/estrogen-therapy-alzheimers-brain",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081226_NB_menopause_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:18"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming",
-    "Link": "https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/1hVWgrxTiXs6M3c4lGNPjdg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:21"
-  },
-  {
-    "Topic": "Science",
-    "Title": "How to Shine as a Data Scientist in the Vibe Coding Era",
-    "Link": "https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/",
-    "ImageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/nick-fewings-5RjdYvDRNpA-unsplash-scaled-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:23"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A light-based scan could detect deadly bowel disease in preterm babies",
-    "Link": "https://www.sciencenews.org/article/light-scan-deadly-bowel-disease-babies",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080726_BP_NECdetection_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:26"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Science backs calls for limiting screens in schools",
-    "Link": "https://www.sciencenews.org/article/science-school-screen-limits-devices",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/0926_BeingHuman_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:29"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Netflix Asks Judge to Toss Tyra Banks' Defamation Lawsuit Over Docuseries",
-    "Link": "https://www.tmz.com/2026/08/15/netflix-wants-tyra-banks-defamation-suit-dismissed/",
-    "ImageUrl": "https://imagez.tmz.com/image/61/16by9/2026/08/15/618745a2eec543008d0011ebfae7af7a_xl.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:36"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Pop Culture Watches from Famous Movies",
-    "Link": "https://www.tmz.com/2026/08/15/pop-culture-watches-from-famous-movies/",
-    "ImageUrl": "https://imagez.tmz.com/image/c1/16by9/2026/08/11/c1f49f76997942af951063e6bc48a50d_xl.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "'Baywatch' Reboot ... The Hottest BTS Photos",
-    "Link": "https://www.tmz.com/2026/08/15/baywatch-cast-hot-behind-the-scenes-pictures/",
-    "ImageUrl": "https://imagez.tmz.com/image/d8/16by9/2026/08/04/d87bd42beb464492be1571d7841f1b16_xl.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:42"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
-    "Link": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
-    "ImageUrl": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/191:100/w_1280,c_limit/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:15:58"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Best Photos of the Big August Solar Eclipse",
-    "Link": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
-    "ImageUrl": "https://media.wired.com/photos/6a7cea9a2028a1e0af655f0d/191:100/w_1280,c_limit/GettyImages-2289709351.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:02"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes",
-    "Link": "https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb9fpwihef16ikfipcj7r.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:06"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
-    "Link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
-    "ImageUrl": "https://media.wired.com/photos/6a7651c98a575c891a2cf22e/191:100/w_1280,c_limit/HPBHQIZbAAA0Y1q.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:09"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Big Tech Wants to Harvest Your Thoughts",
-    "Link": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
-    "ImageUrl": "https://media.wired.com/photos/6a7a29949f31fa362de72566/191:100/w_1280,c_limit/BookExcerpt_BrainMining_v1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:11"
+    "Date": "2026-08-17 03:14:59"
   },
   {
     "Topic": "Economy",
-    "Title": "Oil slides as Trump delays Iran strikes, signals peace talks",
-    "Link": "https://www.foxbusiness.com/markets/oil-slides-trump-delays-iran-strikes-signals-peace-talks",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/straight-of-hormuz-2.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Oil in US Strategic Petroleum Reserve falls to lowest level since 1983",
-    "Link": "https://www.foxbusiness.com/markets/oil-us-strategic-petroleum-reserve-falls-lowest-level-since-1983",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/strategic-petroleum-reserve-texas-2022.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:24"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Magnificent 7 stocks shed hundreds of billions amid AI spending fears",
-    "Link": "https://www.foxbusiness.com/markets/magnificent-7-stocks-shed-hundreds-billions-amid-ai-spending-fears",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/trading-floor.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:28"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "United reportedly approached Delta Air Lines about a potential merger",
-    "Link": "https://www.foxbusiness.com/markets/united-reportedly-approached-delta-air-lines-potential-merger",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/united-airlines-flights.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites' ",
-    "Link": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/yL7kusp8LCpShc9tFfuF4E-1606-80.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:40"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video) ",
-    "Link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/QAnybNbsW6aRzyKNs6zAuE-2000-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " New private 'Perceptor' probes will keep an eye on satellites high above Earth ",
-    "Link": "https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/wAZHdmRykEGaSCywCi4dGd-2560-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:45"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Artemis Core Stage Arrives at Kennedy",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/04/27/nasas-artemis-core-stage-arrives-at-kennedy/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260427-PH-FMX01_0024/KSC-20260427-PH-FMX01_0024~large.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:48"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too ",
-    "Link": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/cHd4Rbtr9bexBQPqgzCWDH-2000-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-    "Link": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-08-16 03:16:57"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
-    "Link": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-16 03:17:00"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto Hacks Hit Record 212 Incidents in H1 2026: Blockaid",
-    "Link": "https://thedefiant.io/news/hacks/crypto-hacks-hit-record-212-incidents-in-h1-2026-blockaid",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-16 03:17:03"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Lightning Labs Launches Site for L402 Bitcoin Agent Payments",
-    "Link": "https://thedefiant.io/news/infrastructure/lightning-labs-launches-site-for-l402-bitcoin-agent-payments",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/200131-D-RQ659-0001.JPG/960px-200131-D-RQ659-0001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Thailand News Roundup: Rescues, Tragedies, and Economic Developments",
+    "Link": "https://www.thailand-business-news.com/news/323301-thailand-news-roundup-rescues-tragedies-and-economic-developments",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rescue_equipment_in_Tham_Luang_entrance_chamber_%28cropped%29.jpg/960px-Rescue_equipment_in_Tham_Luang_entrance_chamber_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-16 03:17:05"
+    "Date": "2026-08-17 03:15:05"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Starting a financial services or fintech business in Singapore: key things foreign investors should know",
+    "Link": "https://www.thailand-business-news.com/banking/321443-launching-a-financial-services-or-fintech-business-in-singapore-what-foreign-investors-need-to-know",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-17 03:15:08"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand Boosts Herbal SMEs to Tap Global Wellness Market",
+    "Link": "https://www.thailand-business-news.com/health/323058-thailand-boosts-herbal-smes-to-tap-global-wellness-market",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/960px-Flag_of_the_Philippines.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-17 03:15:14"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "PSE joins CDP as the first stock exchange capital markets signatory",
+    "Link": "https://www.thailand-business-news.com/asean/philippines/322610-pse-joins-cdp-as-the-first-stock-exchange-capital-markets-signatory",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lake_Stevens_northeast_shore.jpg/960px-Lake_Stevens_northeast_shore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-17 03:15:18"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Michael Fassbender & Taika Waititi’s Underrated Sports Movie Scores on Hulu Today",
+    "Link": "https://www.comingsoon.net/movies/news/2176643-michael-fassbender-taika-waititi-sports-movie-hulu-today",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/Michael-Fassbender.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:25"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Kingdom Hearts TV Show Announced, View Motion Poster With Sora",
+    "Link": "https://www.comingsoon.net/tv/news/2177024-kingdom-hearts-tv-show-announced-view-motion-poster-with-sora",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/kingdom-hearts-4-screenshot.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:28"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Anne Hathaway’s Pop Star Film, Patrick Dempsey’s Slasher & More HBO Max Releases This Week",
+    "Link": "https://www.comingsoon.net/movies/news/2174941-new-hbo-max-releases-this-week-august-17-23",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Untitled-design-2026-08-12T135132.514.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:30"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Average Joe Season 2 & More Paramount+ Releases This Week",
+    "Link": "https://www.comingsoon.net/tv/news/2175741-new-paramount-releases-this-week-august-17-23",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Untitled-design-2026-08-13T123734.044.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Reboots Wishlist, with Columnist Off the Cuff Tom",
+    "Link": "https://www.aintitcool.com/off-the-cuff-tom-lists-top-5-reboots-wishlist-83655/?utm_source=full-feed&utm_medium=feed&utm_term=animation",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/gargoyles_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:36"
+  },
+  {
+    "Topic": "General News",
+    "Title": "PLN UP2B Bali Edukasi Siswa SMK tentang Budaya Aman Berlistrik",
+    "Link": "https://esgnow.republika.co.id/berita/tjv8qh370/pln-up2b-bali-edukasi-siswa-smk-tentang-budaya-aman-berlistrik",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_260816210956-969.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:47"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘She is a hero’: 13-year-old survivor of Michigan shooting rampage called 911",
+    "Link": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+    "ImageUrl": "https://i.guim.co.uk/img/media/67a6bd8b3ae8870121bfa1f1b454ccba759b5a2b/770_0_3645_2916/master/3645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dec250d0e17d8479af7e8c90851fc5c5",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:50"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+    "Link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+    "ImageUrl": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a05969c4ffdbc46cb3d0bd883eb189e2",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:52"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+    "Link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+    "ImageUrl": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e377a24efd8de65b851fa05989ea020",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:55"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+    "Link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+    "ImageUrl": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=939691c8f4d550b04dd39b99734e4b52",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:15:57"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A look at the fast-growing space economy as Elon Musk's SpaceX is set to go public",
+    "Link": "https://www.cbsnews.com/video/fast-growing-space-economy-elon-musks-spacex-public/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/11/b6553255-e4db-42ba-bc40-f7aed4ac5270/thumbnail/1200x630/b01c0b2130c811d6e3cb7c3c07a2827e/cbsn-fusion-fast-growing-space-economy-elon-musks-spacex-public-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:05"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Telescope spots most distant quasars ever discovered",
+    "Link": "https://www.cbsnews.com/news/oldest-quasars-ever-discovered-euclid-telescope/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/06/16e5ec80-16d4-42ae-8b4f-04e1102ed7a8/thumbnail/1200x630/f1a63219f8e17b26285b7780d1b1c6dc/artist-s-concept-of-an-ancient-quasar-pillars.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:07"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Perseid meteor shower reaches peak viewing on Wednesday night",
+    "Link": "https://www.cbsnews.com/news/perseid-meteor-shower-peak-viewing-wednesday-nasa/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/d99d2409-3c63-4c7f-9d75-581491dc3b5e/thumbnail/1200x630/deb608d88141eda1b18136301f4584ef/gettyimages-2289674428.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:11"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX rocket booster slams into moon, creating crater that could be 16 feet deep",
+    "Link": "https://www.cbsnews.com/news/spacex-rocket-moon-collision/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/04/dafa9dc4-1f03-49f1-92f1-f412cd7352af/thumbnail/1200x630/4eb90624f486553e013c3c16fb20e11e/gettyimages-2193430514.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA names 4 astronauts for next Artemis mission",
+    "Link": "https://www.cbsnews.com/news/nasa-names-astronauts-crew-artemis-iii-moon-mission/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/09/9912036e-c4a9-4c22-b9da-5f159b482960/thumbnail/1200x630g2/8029965c626908ec8a7500368ec236e4/screenshot-2026-06-09-at-12-14-56-pm.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "Link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-17 03:16:24"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Real-world grounding in agentic AI",
+    "Link": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/fefd037/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F00%2Ff3%2F0325df924561b91de469b0f01226%2Fgroundingaiagents-01-16x9.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building a Multimodal Chatbot with Qwen3-VL Instruct and Thinking Models",
+    "Link": "https://pyimagesearch.com/2026/07/06/building-a-multimodal-chatbot-with-qwen3-vl-instruct-and-thinking-models/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/07/building-multimodal-chatbot-qwen3-vl-instruct-thinking-models-featured.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:36"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Scaling, Optimizing, and Exporting Transformers with PyTorch Lightning",
+    "Link": "https://pyimagesearch.com/2026/08/10/scaling-optimizing-and-exporting-transformers-with-pytorch-lightning/",
+    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/08/scaling-optimizing-exporting-transformers-pytorch-lightning-featured.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:39"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+    "Link": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/59f4542/2147483647/strip/true/crop/2640x1386+0+50/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F1e%2F87%2F9bb4772c49c0ac4043d219fd994c%2Fproject-rainier-ai-trainium-chips-compute-cluster.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Bridging intent and execution in agentic systems",
+    "Link": "https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/e480c1c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F70%2F66%2Ff607b3084255b8539cdeec1a5f7c%2Freasoning-nudge-16x9.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:45"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/edmontosaurus-hip-bone.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:54"
+  },
+  {
+    "Topic": "Science",
+    "Title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/superconducting-quantum-heat-engine.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:56"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:16:59"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/chiniquodon-theotonicus-life-reconstruction.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:17:02"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Exercise may help the aging brain “take out the trash”",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260810015719.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-disease-neuroscience-psychology.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:17:05"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Lightning Nodes Drained As BTCPay Server Users Race To Patch",
-    "Link": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-16 03:17:08"
-  },
-  {
-    "Topic": "General News",
-    "Title": "\n            Munich cafe goes viral for defending staff for not speaking German\n        ",
-    "Link": "\n            https://www.thelocal.com/20260811/munich-cafe-goes-viral-for-defending-staff-for-not-speaking-german\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-512056721.jpg@webp",
+    "Title": "Visions, Part 1: The Value of Blockchain Technology",
+    "Link": "https://blog.ethereum.org/en/2015/04/13/visions-part-1-the-value-of-blockchain-technology",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-08-16 03:17:17"
+    "Date": "2026-08-17 03:17:15"
   },
   {
-    "Topic": "General News",
-    "Title": " Extreme heat and weather conditions attributed to stagnant jet stream ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240798.jpg?v=3.1",
+    "Topic": "Trading & Crypto",
+    "Title": "eth2 quick update no. 22",
+    "Link": "https://blog.ethereum.org/en/2021/02/11/eth2-quick-update-no-22",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/kumiko-background.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-16 03:17:21"
+    "Date": "2026-08-17 03:17:19"
   },
   {
-    "Topic": "General News",
-    "Title": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-    "Link": "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/960px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-16 03:17:24"
+    "Topic": "Trading & Crypto",
+    "Title": "Solidity Bugfix Release",
+    "Link": "https://blog.ethereum.org/en/2018/09/13/solidity-bugfix-release",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:17:22"
   },
   {
-    "Topic": "General News",
-    "Title": "Five years of Taliban rule: Afghan women face deepening repression",
-    "Link": "https://www.france24.com/en/five-years-of-taliban-rule-afghan-women-face-deepening-repression",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-16 03:17:27"
+    "Topic": "Trading & Crypto",
+    "Title": "Toward a 12-second Block Time",
+    "Link": "https://blog.ethereum.org/en/2014/07/11/toward-a-12-second-block-time",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:17:25"
   },
   {
-    "Topic": "General News",
-    "Title": "France approves assisted dying law but rejects social media ban for under-15s",
-    "Link": "https://www.france24.com/en/france-approves-assisted-dying-law-but-rejects-social-media-ban-for-under-15s",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-16 03:17:30"
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum scalability research and development subsidy programs",
+    "Link": "https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-17 03:17:28"
   }
 ]
