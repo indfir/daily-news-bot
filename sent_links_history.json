@@ -1,145 +1,5 @@
 [
   {
-    "CanonicalKey": "https://cbsnews.com/news/nasa-declares-end-mars-orbiter-maven-mission",
-    "SentDate": "2026-07-18 03:47:20"
-  },
-  {
-    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets",
-    "SentDate": "2026-07-18 03:47:25"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
-    "SentDate": "2026-07-18 03:47:28"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/science/2026/jul/13/young-crescent-moon-to-meet-venus-in-evening-twilight",
-    "SentDate": "2026-07-18 03:47:32"
-  },
-  {
-    "CanonicalKey": "https://cbsnews.com/news/nasa-all-male-crew-for-artemis-iii-mission",
-    "SentDate": "2026-07-18 03:47:35"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/c20zgjzz0e4o",
-    "SentDate": "2026-07-18 03:47:44"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/c5yz4wnz6jdo",
-    "SentDate": "2026-07-18 03:47:46"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo",
-    "SentDate": "2026-07-18 03:47:48"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/cwyjv3znypyo",
-    "SentDate": "2026-07-18 03:47:50"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/cpv3eky4w2do",
-    "SentDate": "2026-07-18 03:47:54"
-  },
-  {
-    "CanonicalKey": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-    "SentDate": "2026-07-18 03:48:02"
-  },
-  {
-    "CanonicalKey": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries",
-    "SentDate": "2026-07-18 03:48:05"
-  },
-  {
-    "CanonicalKey": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai",
-    "SentDate": "2026-07-18 03:48:09"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products-and-platforms/products/earth/estadio-azteca",
-    "SentDate": "2026-07-18 03:48:12"
-  },
-  {
-    "CanonicalKey": "https://readwrite.com/hobbs-signs-order-prediction-market-insider-trading-arizona",
-    "SentDate": "2026-07-18 03:48:15"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html",
-    "SentDate": "2026-07-18 03:48:26"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-rise-for-5th-straight-week-above-6-mortgage-and-refinance-interest-rates-today-100000623.html",
-    "SentDate": "2026-07-18 03:48:29"
-  },
-  {
-    "CanonicalKey": "https://investmentwatchblog.com/hyperscalers-burn-cash-on-ai-buildout-while-chip-makers-rake-in-record-profits",
-    "SentDate": "2026-07-18 03:48:32"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/strait-hormuz-closure-sent-gas-105000594.html",
-    "SentDate": "2026-07-18 03:48:35"
-  },
-  {
-    "CanonicalKey": "https://investmentwatchblog.com/canada-buys-record-us-treasuries-while-pm-pushes-to-cut-us-trade-reliance",
-    "SentDate": "2026-07-18 03:48:39"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/how-catastrophic-is-your-llm",
-    "SentDate": "2026-07-18 03:48:58"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai",
-    "SentDate": "2026-07-18 03:49:01"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
-    "SentDate": "2026-07-18 03:49:03"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/promptimus-improving-already-good-llm-prompts-with-zero-manual-engineering",
-    "SentDate": "2026-07-18 03:49:06"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise",
-    "SentDate": "2026-07-18 03:49:09"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space",
-    "SentDate": "2026-07-18 03:49:20"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread",
-    "SentDate": "2026-07-18 03:49:23"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe",
-    "SentDate": "2026-07-18 03:49:27"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits",
-    "SentDate": "2026-07-18 03:49:31"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science",
-    "SentDate": "2026-07-18 03:49:35"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/a16z-whale-dumps-28-million-hype",
-    "SentDate": "2026-07-18 03:49:44"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/investors-push-79m-into-bitcoin-etfs-as-ether-funds-lose-28m",
-    "SentDate": "2026-07-18 03:49:48"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/grant-cardone-10-5-btc-july-cash-flow",
-    "SentDate": "2026-07-18 03:49:51"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/1-38-billion-in-one-month-how-venezuelas-binance-p2p-market-now-rivals-its-oil-exports",
-    "SentDate": "2026-07-18 03:49:54"
-  },
-  {
-    "CanonicalKey": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token",
-    "SentDate": "2026-07-18 03:49:57"
-  },
-  {
     "CanonicalKey": "https://bbc.co.uk/news/articles/ce8kvv6g16eo",
     "SentDate": "2026-07-19 03:40:02"
   },
@@ -4710,5 +4570,165 @@
   {
     "CanonicalKey": "https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs",
     "SentDate": "2026-08-17 03:17:28"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/new-chatgpt-predicts-the-price-of-xrp-solana-and-shiba-inu-by-the-end-of-2026",
+    "SentDate": "2026-08-18 03:18:51"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/mark-zuckerberg-meta-ai-predicts-the-price-of-bitcoin-by-the-end-of-2026",
+    "SentDate": "2026-08-18 03:18:55"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
+    "SentDate": "2026-08-18 03:18:57"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/bitcoin-price-prediction-btc-ai-trade",
+    "SentDate": "2026-08-18 03:19:00"
+  },
+  {
+    "CanonicalKey": "https://cryptonews.com/news/dario-amodei-claude-ai-predicts-xrp-price-in-2026",
+    "SentDate": "2026-08-18 03:19:02"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/wilkie-gambling-reform-anti-corruption-referral-labor",
+    "SentDate": "2026-08-18 03:19:11"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/flightaware-drops-federal-lawsuit-against-kalshi",
+    "SentDate": "2026-08-18 03:19:14"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/honolulu-police-shut-ewa-beach-gambling-room",
+    "SentDate": "2026-08-18 03:19:16"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/08/cloudflare-agent-tracing",
+    "SentDate": "2026-08-18 03:19:20"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/08/java-news-roundup-aug10-2026",
+    "SentDate": "2026-08-18 03:19:23"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/virustotal",
+    "SentDate": "2026-08-18 03:19:41"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/diffusion-models-event",
+    "SentDate": "2026-08-18 03:19:44"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/tf_tpu",
+    "SentDate": "2026-08-18 03:19:47"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/multi-lora-serving",
+    "SentDate": "2026-08-18 03:19:50"
+  },
+  {
+    "CanonicalKey": "https://huggingface.co/blog/ml-for-games-2",
+    "SentDate": "2026-08-18 03:19:52"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+    "SentDate": "2026-08-18 03:20:09"
+  },
+  {
+    "CanonicalKey": "https://today.com/video/hayden-panettiere-heroes-and-nashville-actor-dies-at-36-268393029918",
+    "SentDate": "2026-08-18 03:20:12"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/politics/elections/steve-kornacki-questions-primaries-florida-alaska-rcna592891",
+    "SentDate": "2026-08-18 03:20:14"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/select/shopping/best-kbeauty-deals-on-amazon-sale-of-the-week-2026-rcna592952",
+    "SentDate": "2026-08-18 03:20:17"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/politics/trump-administration/trump-bomb-oman-iran-strait-hormuz-rcna592971",
+    "SentDate": "2026-08-18 03:20:20"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/returning-home-to-lebanon-in-shadows-of-beirut-official-uk-trailer",
+    "SentDate": "2026-08-18 03:20:27"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/june-shreiner-in-gnarly-creature-feature-dark-hollow-horror-trailer",
+    "SentDate": "2026-08-18 03:20:30"
+  },
+  {
+    "CanonicalKey": "https://variety.com/2026/film/global/amy-schumer-star-in-produce-comedy-best-divorce-ever-1236836178",
+    "SentDate": "2026-08-18 03:20:33"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/watch-amziah-kings-mcconaughey-patterson-talk-movie-posters",
+    "SentDate": "2026-08-18 03:20:35"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/tv/trailers/2177363-hollywood-arts-trailer-victorious-back-to-netflix",
+    "SentDate": "2026-08-18 03:20:38"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/yale-study-finds-medicare-for-all-could-save-1-trillion-and-114-000-lives-every-year",
+    "SentDate": "2026-08-18 03:20:46"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons",
+    "SentDate": "2026-08-18 03:20:49"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/colombia-rocked-by-7-4-magnitude-earthquake-its-largest-in-the-last-decade",
+    "SentDate": "2026-08-18 03:20:53"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026",
+    "SentDate": "2026-08-18 03:20:57"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/how-climate-change-created-a-new-ice-silk-road-in-the-arctic",
+    "SentDate": "2026-08-18 03:21:00"
+  },
+  {
+    "CanonicalKey": "https://space.com/stargazing/skywatching-kit/our-expert-thinks-this-portable-celestron-telescope-will-delight-beginners-and-younger-stargazers",
+    "SentDate": "2026-08-18 03:21:13"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/image-detail/jsc2026e392659",
+    "SentDate": "2026-08-18 03:21:16"
+  },
+  {
+    "CanonicalKey": "https://space.com/stargazing/solar-eclipses/total-solar-eclipse-stuns-skywatchers-space-photo-of-the-day-for-aug-13-2026",
+    "SentDate": "2026-08-18 03:21:18"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing",
+    "SentDate": "2026-08-18 03:21:22"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/image-detail/ixpemagnetarartistsconcept-web",
+    "SentDate": "2026-08-18 03:21:24"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+    "SentDate": "2026-08-18 03:21:33"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+    "SentDate": "2026-08-18 03:21:37"
+  },
+  {
+    "CanonicalKey": "https://financeasia.com/article/bangladesh-lowers-rates-and-signs-south-korea-trade-pact/508195",
+    "SentDate": "2026-08-18 03:21:41"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/economy-news/european-shares-tick-higher-as-easing-fed-hike-bets-lift-gold-4862249",
+    "SentDate": "2026-08-18 03:21:46"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "SentDate": "2026-08-18 03:21:49"
   }
 ]
