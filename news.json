@@ -1,242 +1,282 @@
 [
   {
+    "Topic": "Astronomy",
+    "Title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+    "Link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Draper750px.png?fit=750%2C750&ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:11"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+    "Link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HPDYEsnWcAAM16m-scaled-e1787001268860.jpeg?fit=2534%2C1476&ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:13"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Mars attacks: How much dust from the red planet is safe to breathe?",
+    "Link": "https://phys.org/news/2026-08-mars-red-planet-safe.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-21 03:22:16"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Eartheye Space forges strategic partnership with IN2",
+    "Link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away",
+    "Link": "https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg/960px-Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-21 03:22:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/12/ML-20875-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:28"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Implement vector-prompt document classification using Amazon Bedrock",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-18402-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-20861-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ml-20735.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:36"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Debates over AI consciousness are a trap",
+    "Link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Blocc chemistry could automate molecular discovery and democratize access to new materials",
+    "Link": "https://phys.org/news/2026-08-blocc-chemistry-automate-molecular-discovery.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-21 03:22:45"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Preventing Traumatic Brain Injury",
+    "Link": "https://sciencebasedmedicine.org/preventing-traumatic-brain-injury/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-traumatic-brain-injury",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/TBI.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:49"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Trump’s Frontal Assault on Vaccines",
+    "Link": "https://sciencebasedmedicine.org/trumps-frontal-assault-on-vaccines/?utm_source=rss&utm_medium=rss&utm_campaign=trumps-frontal-assault-on-vaccines",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/trump-vaccines.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:22:53"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Temporary liver coating may improve safety and targeting of mRNA vaccines and cancer therapies",
+    "Link": "https://phys.org/news/2026-08-temporary-liver-coating-safety-mrna.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Schematic_of_silicone_membrane_oxygenator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-21 03:22:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one",
+    "Link": "https://phys.org/news/2026-08-farm-mice-antibiotic-resistance-environmental.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Of_Mice_and_Men_%281937_1st_ed_dust_jacket%29.jpg/960px-Of_Mice_and_Men_%281937_1st_ed_dust_jacket%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-21 03:23:10"
+  },
+  {
     "Topic": "Economy",
-    "Title": "Real Madrid Tak Panik Jelang Deadline, Mourinho Sudah Anggap Bursa Transfer Berakhir",
-    "Link": "https://www.tribunnews.com/superskor/7870968/real-madrid-tak-panik-jelang-deadline-mourinho-sudah-anggap-bursa-transfer-berakhir",
-    "ImageUrl": "https://asset.tribunnews.com/nKQ3XfdN8U2nJjhQWBtoCQnUwZM=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Pelatih-anyar-Real-Madrid-Jose-Mourinho-dalam-pertandingan-uji-coba-pramusim.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:19:42"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Firefox is the browser to beat right now if you use AI - here's why",
-    "Link": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
-    "ImageUrl": "https://www.zdnet.com/a/img/resize/4a067be3bafa7abec4a28894e1714304c87a94e8/2026/08/18/02f870f8-fdcc-4563-8ab7-c2d59b31c044/smartwindowhero.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Pixel 11 XL Pro: Google's big flagship is more Pro than ever, but the camera is no big thing",
-    "Link": "https://www.zdnet.com/article/pixel-11-pro-xl-review/",
-    "ImageUrl": "https://www.zdnet.com/a/img/resize/5db7d4af49dbaa137023d4740d9fe1fa8604d87b/2026/08/18/1d811bea-3c50-4355-8bc9-13cbff81f2f6/img-7867.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:12"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Accelerating AI growth",
-    "Link": "https://www.aiacceleratorinstitute.com/accelerating-ai-growth/",
-    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/size/w1200/2026/08/Screenshot-2026-08-06-at-11.03.21---AM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:15"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Anaconda Buys Enkrypt AI as Zenity Raises $125 Million: AI Agent Security Becomes Enterprise Infrastructure",
-    "Link": "https://datafloq.com/anaconda-buys-enkrypt-ai-as-zenity-raises-125-million-ai-agent-security-becomes-enterprise-infrastructure/",
-    "ImageUrl": "https://img.liplyn.com/datafloq/wp-content/uploads/2026/08/ai-agent-security-enterprise-infrastructure-anaconda-zenity.jpg.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:18"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Trust: The next critical infrastructure layer for autonomous AI",
-    "Link": "https://www.aiacceleratorinstitute.com/trust-the-next-critical-infrastructure-layer-for-autonomous-ai/",
-    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/07/AIAI_Website_Article_Images_Author_Highlight--5--1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Veteran Cosmonauts Complete Spacewalk to Deploy and Retrieve Experiements on ISS",
-    "Link": "https://irishspaceblog.blogspot.com/2016/02/veteran-cosmonauts-complete-spacewalk.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiaSv25QtB4UWP0M-2Ism9Wyd20nU0rQJJKzKNFPdeDcZU4eV-RPYKvghM-diz1naqigQzMLyaqbmyiA3UqPSgU8lXOtA9MogOmewN59Die0dADLRqGr2XUfbZFtyO55cSc27FGzGPKG6s/w1200-h630-p-k-no-nu/24650164995_5d0a1a2962_o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "New Propulsion Systems for Deep Space Smallsats",
-    "Link": "https://www.centauri-dreams.org/2026/07/17/new-propulsion-systems-for-deep-space-smallsats/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/960px-Armadillo_Aerospace_Pixel_Hover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Wall Street Lunch: Walmart Tumbles As Weak U.S. Sales Spark Spending Concerns",
+    "Link": "https://seekingalpha.com/article/4938884-wall-street-lunch-walmart-tumbles-as-weak-us-sales-spark-consumer-spending-concerns?source=feed_all_articles",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wallstreetbmb.jpg/960px-Wallstreetbmb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-20 03:20:32"
+    "Date": "2026-08-21 03:23:19"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "SpaceX Dragon Launches from Apollo Pad to Resupply Space Station",
-    "Link": "https://irishspaceblog.blogspot.com/2017/02/spacex-dragon-launches-from-apollo-pad.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMl7gF0dH7BUlk8pZuS30ZPGhtnQXcKwjNjpbii1yxznz-wyRR6b2xE3hcZOx7xCG-Ta6_Scr8jB1DBkpUE3zgjOVM-cMPe7R-z_sAGtwDKpBj7enUiBFU7Ywy-HKTYhEbx6spIIz5fIiU/w1200-h630-p-k-no-nu/32863903762_13f8879589_k-1024x927.jpg",
+    "Topic": "Economy",
+    "Title": "Jiangsu Hengrui Pharmaceuticals Co.,Ltd 2026 Q2 - Results - Earnings Call Presentation",
+    "Link": "https://seekingalpha.com/article/4938909-jiangsu-hengrui-pharmaceuticals-co-ltd-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:34"
+    "Date": "2026-08-21 03:23:22"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Sputnik x Poké Ball: ESA and Pokémon team-up for World Space Week",
-    "Link": "https://www.collectspace.com/news/news-080426a-esa-pokemon-team-world-space-week.html",
-    "ImageUrl": "https://www.collectspace.com/images/news-080426a-fb.jpg",
+    "Topic": "Economy",
+    "Title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+    "Link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:37"
+    "Date": "2026-08-21 03:23:25"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "The Limits of Understanding Between Species, and the Issue for Interstellar Communication",
-    "Link": "https://www.centauri-dreams.org/2026/08/14/the-limits-of-understanding-between-species-and-the-issue-for-interstellar-communication/",
+    "Topic": "Economy",
+    "Title": "Hovnanian Enterprises, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "Link": "https://seekingalpha.com/article/4938899-hovnanian-enterprises-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:23:29"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+    "Link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108351054-1787071953626-gettyimages-2268085899-ldn-l-dodgers-uniqlo-0326-kb33.jpeg?v=1787072097&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:23:34"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+    "Link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:23:55"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "Link": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:23:57"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+    "Link": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:23:59"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "A Guide to Securing Business Funding Without Traditional Financials",
+    "Link": "https://www.tradersdna.com/a-guide-to-securing-business-funding-without-traditional-financials/",
+    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/08/A-Guide-to-Securing-Business-Funding-Without-Traditional-Financials.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:24:03"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "How Does Funding Pips Work? Accounts, Rules, Payouts and Risks",
+    "Link": "https://www.tradersdna.com/how-does-funding-pips-work-accounts-rules-payouts-and-risks/",
+    "ImageUrl": "https://www.tradersdna.com/wp-content/uploads/2026/08/How-Does-Funding-Pips-Work-Accounts-Rules-Payouts-and-Risks.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:24:07"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+    "Link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-20 03:20:40"
+    "Date": "2026-08-21 03:24:25"
   },
   {
     "Topic": "Technology",
-    "Title": "Hands-on: Google Pixel 11 series makes small but meaningful improvements",
-    "Link": "https://mashable.com/tech/google-pixel-11-series-hands-on-impressions",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/020pWBTUEKVZ2pkgyFYWnfk/hero-image.fill.size_1200x675.v1787150565.jpg",
+    "Title": "Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
+    "Link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2021/12/Tim-Ferriss-Illustration-scaled.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:46"
+    "Date": "2026-08-21 03:24:27"
   },
   {
     "Topic": "Technology",
-    "Title": "The Tim Ferriss Show Transcripts: How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
-    "Link": "https://tim.blog/2026/08/07/writing-inspiration-transcript/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-20 03:20:50"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google Pixel 11 review: A lot of phone for a little more money",
-    "Link": "https://www.engadget.com/2240042/google-pixel-11-review/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/google-pixel-11-review-a-lot-of-phone-for-a-little-more-money/l-intro-1787154501.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
-    "Link": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dorie_Clark_headshot.jpg/960px-Dorie_Clark_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Engineering more resilient crops for a warming climate",
+    "Link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Advanced_Research_and_Invention_Agency_logo.svg/960px-Advanced_Research_and_Invention_Agency_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-20 03:20:56"
+    "Date": "2026-08-21 03:24:31"
   },
   {
     "Topic": "Technology",
-    "Title": "What parents should know about ChatGPT for Teens",
-    "Link": "https://mashable.com/tech/chatgpt-for-teens-what-to-know",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02UYcmhqlegcuAXCOwljjXS/hero-image.fill.size_1200x675.v1787084522.jpg",
+    "Title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "Link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyword_metacard_d.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:20:59"
+    "Date": "2026-08-21 03:24:35"
   },
   {
-    "Topic": "General News",
-    "Title": "Vaccine breakthrough stops cancer returning in trial",
-    "Link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg",
+    "Topic": "Technology",
+    "Title": "How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
+    "Link": "https://tim.blog/2026/08/07/writing-inspiration/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2020/01/Tim-Ferriss-Writing-In-Journal.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:21:18"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Murder investigation after woman dies and nine injured in fire in west London",
-    "Link": "https://www.bbc.co.uk/news/articles/c5y4ne1zq0eo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d82/live/7d47bb80-9bf2-11f1-8470-d18257d2d589.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:21:20"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
-    "Link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:21:58"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Salmonella outbreak: What we know so far ",
-    "Link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Canada and US say they are finalising a trade deal, but details remain murky",
-    "Link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:03"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Important Statement regarding the Ether pre-sale",
-    "Link": "https://blog.ethereum.org/en/2014/02/13/important-statement-regarding-the-ether-pre-sale",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:12"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The $100M Good Job: Why ZachXBT Refuses to Save Harmony a Second Time",
-    "Link": "https://nulltx.com/the-100m-good-job-why-zachxbt-refuses-to-save-harmony-a-second-time",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1786530266013-cdwghvzc265.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:15"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "An Open Source Mining Pool Bounty and DEVgrant",
-    "Link": "https://blog.ethereum.org/en/2016/03/29/an-open-source-mining-pool-bounty",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:18"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Thinking About Smart Contract Security",
-    "Link": "https://blog.ethereum.org/en/2016/06/19/thinking-smart-contract-security",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "EF-Supported Teams: Research & Development Update",
-    "Link": "https://blog.ethereum.org/en/2020/12/09/ef-supported-teams-research-and-development-update-2020-pt-2",
-    "ImageUrl": "https://blog.ethereum.org/images/posts/devcon-lights-edit.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:23"
+    "Date": "2026-08-21 03:24:38"
   },
   {
     "Topic": "Movies",
-    "Title": "Yash’s ‘Toxic’ Unveils English-Language Trailer",
-    "Link": "https://variety.com/2026/film/news/yash-toxic-english-trailer-1236838385/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Toxic-trailer-still.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Title": "Snoop Dogg Movie Finds Its Dr. Dre Actor in Beloved Marvel Star",
+    "Link": "https://www.comingsoon.net/movies/news/2179714-snoop-dogg-movie-dr-dre-actor-marvel-star",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/snoop.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:40"
+    "Date": "2026-08-21 03:24:45"
   },
   {
     "Topic": "Movies",
-    "Title": "Hollywood‘s Push for Federal Film Tax Credit Could Help Boost Production in All States",
-    "Link": "https://variety.com/2026/film/focus/federal-film-tax-credit-production-1236837623/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/SCPT_S1_UT_241029_CHOCON_00020R_Crop_f_30001.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Title": "The Pitt Season 3: The Last of Us, Cliff Booth Stars & More Join Show in Huge Casting Update",
+    "Link": "https://www.comingsoon.net/tv/features/2179655-the-pitt-season-3-last-of-us-cliff-booth-stars-casting-update",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/07/The-Pitt.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:42"
+    "Date": "2026-08-21 03:24:47"
   },
   {
     "Topic": "Movies",
-    "Title": "Venice Chief Alberto Barbera Defends Selection of Russian Director Ilya Khrzhanovsky’s ‘DAU’ After Backlash: It’s ‘Not Pro-Putin Propaganda’",
-    "Link": "https://variety.com/2026/film/festivals/venice-chief-defends-dau-selection-ukraine-backlash-1236838254/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/dau.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Title": "2 Iconic Robin Williams Movies Finally Make Their 4K UHD Debut, Release Dates Set",
+    "Link": "https://www.comingsoon.net/movies/news/2179503-robin-williams-classics-4k-ultra-hd-debut",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Untitled-Design-2026-08-20T231141.812.png?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:46"
+    "Date": "2026-08-21 03:24:50"
   },
   {
     "Topic": "Movies",
-    "Title": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
-    "Link": "https://variety.com/2026/film/box-office/movie-theater-owners-summer-box-office-fall-films-1236836744/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP141.jpg?w=1000&#038;h=562&#038;crop=1",
+    "Title": "Lanterns: Aaron Pierre Would Be ‘At Peace’ If DCU Show Doesn’t Get Season 2",
+    "Link": "https://www.comingsoon.net/tv/news/2179763-lanterns-aaron-pierre-would-be-at-peace-if-dcu-show-doesnt-get-season-2",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Aaron-Pierre-as-John-Stewart-in-Lanterns-Season-1-Episode-1.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-08-20 03:22:48"
+    "Date": "2026-08-21 03:24:52"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Christopher Nolan's The Odyssey Stole A Major Box Office Record From Deadpool & Wolverine",
+    "Link": "https://www.slashfilm.com/2240750/christopher-nolan-the-odyssey-deadpool-and-wolverine-box-office-record/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/christopher-nolan-the-odyssey-deadpool-and-wolverine-box-office-record/l-intro-1787236401.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-21 03:24:55"
   }
 ]
