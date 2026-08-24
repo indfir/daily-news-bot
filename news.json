@@ -1,290 +1,234 @@
 [
   {
-    "Topic": "Science",
-    "Title": "Scientists cited by Heritage Foundation report on women’s sports say it misrepresented their research",
-    "Link": "https://www.scientificamerican.com/article/scientists-cited-by-heritage-foundation-report-title-ix-womens-sports-say-it-misrepresented-their-research/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/c7caad91-c43a-4051-8951-2d5c00686046/Female-athlete.jpg?m=1787001976.873&w=1200",
+    "Topic": "Data / AI",
+    "Title": "Optimization story: Bloom inference",
+    "Link": "https://huggingface.co/blog/bloom-inference-optimization",
+    "ImageUrl": "https://huggingface.co/blog/assets/bloom-inference-pytorch-scripts/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:05"
+    "Date": "2026-08-25 03:22:33"
   },
   {
-    "Topic": "Science",
-    "Title": "The brain doesn’t just experience reality. It edits it into a story",
-    "Link": "https://www.scientificamerican.com/article/the-brain-doesnt-just-experience-reality-it-edits-it-into-a-story/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/337597a2-3c9a-4cb5-9f6d-2bddf5204e32/saw0926Wick01.jpg?m=1786464660.367&w=1200",
+    "Topic": "Data / AI",
+    "Title": "Train your ControlNet with diffusers",
+    "Link": "https://huggingface.co/blog/train-your-controlnet",
+    "ImageUrl": "https://huggingface.co/blog/assets/136_train-your-controlnet/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:08"
+    "Date": "2026-08-25 03:22:36"
   },
   {
-    "Topic": "Science",
-    "Title": "Moderna and Merck announce ‘landmark’ trial showing mRNA therapy significantly cuts odds of recurrent skin cancer",
-    "Link": "https://www.scientificamerican.com/article/moderna-and-merck-announce-landmark-trial-showing-mrna-therapy-significantly-cuts-odds-of-recurrent-skin-cancer/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/ade930cc-0912-4689-a338-ad9462866fff/Melanoma.jpg?m=1787173410.251&w=1200",
+    "Topic": "Data / AI",
+    "Title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21003-featured-image.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:10"
+    "Date": "2026-08-25 03:22:38"
   },
   {
-    "Topic": "Science",
-    "Title": "Robotic rescue missions are sparking a spaceflight revolution",
-    "Link": "https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/a3553835-6122-4085-a2da-5497ee2d4695/rsgs-robotic-servicing-payload-1400.jpg?m=1786992190.16&w=1200",
+    "Topic": "Data / AI",
+    "Title": "Improving Hugging Face Model Access for Kaggle Users",
+    "Link": "https://huggingface.co/blog/kaggle-integration",
+    "ImageUrl": "https://huggingface.co/blog/assets/kaggle-integration/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:12"
+    "Date": "2026-08-25 03:22:40"
   },
   {
-    "Topic": "Science",
-    "Title": "September 2026: Science history from 50, 100 and 150 years ago",
-    "Link": "https://www.scientificamerican.com/article/september-2026-science-history-from-50-100-and-150-years-ago/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/df03ba61-eeb5-4400-945f-b679372722e4/saw0926Hist01.jpg?m=1786847104.416&w=1200",
+    "Topic": "Data / AI",
+    "Title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+    "Link": "https://huggingface.co/blog/jat",
+    "ImageUrl": "https://huggingface.co/blog/assets/jat/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:15"
+    "Date": "2026-08-25 03:22:43"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Motor City’ Comes to Digital, But Where Will Alan Ritchson’s ‘Motor City’ Movie Be Streaming for Free?",
+    "Link": "https://decider.com/2026/08/24/motor-city-streaming-release-date-amc-plus/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/08/motor-city-movie-streaming-release-date-amc-plus-alan-ritchson.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:22:50"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Official Trailer for 'Mighty Mary' Doc About All-Women Sailing Team",
+    "Link": "https://www.firstshowing.net/2026/official-trailer-for-mighty-mary-doc-about-all-women-sailing-team/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/mightymaryposterdocmainimgtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:22:53"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "10 Best Kung Fu Movies in Film History",
+    "Link": "https://collider.com/best-kung-fu-movies-in-film-history/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/drunken-master-ii-1994-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:22:56"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Jim Caviezel vs a Corporation in Action Thriller 'Ghost Soldier' Trailer",
+    "Link": "https://www.firstshowing.net/2026/jim-caviezel-vs-a-corporation-in-action-thriller-ghost-soldier-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/ghostsoldierfulltrailermainimgtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:22:59"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Doc Film 'Run Terry Run' Trailer - About Terry Fox's Marathon of Hope",
+    "Link": "https://www.firstshowing.net/2026/doc-film-run-terry-run-trailer-about-terry-foxs-marathon-of-hope/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/runterryrundocmainimgbigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:01"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden",
+    "Link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-08/iran-krieg-donald-trump-bessent-live-bild/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:20"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Interdiction du téléphone portable au lycée : la mesure « pourra être effective dès la rentrée », assure le gouvernement",
+    "Link": "https://www.lemonde.fr/societe/article/2026/08/24/interdiction-du-telephone-portable-au-lycee-la-mesure-pourra-etre-effective-des-la-rentree-assure-le-gouvernement_6755546_3224.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/FGR-17_VIPER.jpg/960px-FGR-17_VIPER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-25 03:23:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Saudi-Arabien: Saudi-Arabien will in Manga-Freizeitpark bei Paris investieren",
+    "Link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/saudi-arabien-frankreich-manga-freizeitpark-paris-mohammed-bin-salman",
+    "ImageUrl": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-08/saudi-arabien-frankreich-manga-freizeitpark-paris-mohammed-bin-salman-foto-1/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+    "Link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5eb/live/ef93f5d0-9fbe-11f1-8648-8d7b77845e6d.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
+    "Link": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chateaunuit.JPG/960px-Chateaunuit.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-25 03:23:31"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
-    "Link": "https://apod.nasa.gov/apod/ap260821.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-24 03:15:25"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-    "Link": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-    "ImageUrl": "https://compote.slate.com/images/6ee722e0-9927-467f-b919-0c0a9217bae5.jpeg?crop&#x3D;1560%2C1040%2Cx0%2Cy0&amp;width&#x3D;1560",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:32"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Unlocking hidden revenue streams with market models",
-    "Link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:34"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "We still don’t know how people are really using AI",
-    "Link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-    "Link": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-    "ImageUrl": "https://punyamishra.com/wp-content/uploads/2026/04/salkhant1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:40"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "What happens when a kid’s robot best friend dies?",
-    "Link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:42"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "XRP Price Prediction: Can Ripple Extend Its Biggest Rally Since 2020?",
-    "Link": "https://cryptonews.com/news/xrp-price-prediction-rally/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-24 03:15:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-    "Link": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "XRP Price Prediction: 22% Rally, But Ripple Still is Undervalued",
-    "Link": "https://cryptonews.com/news/xrp-price-prediction-rally-2025/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-24 03:15:54"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
-    "Link": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:15:57"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Google Gemini AI Predicts Ethereum Could Become the Trade Retail Misses in 2026",
-    "Link": "https://cryptonews.com/news/google-gemini-ai-says-ethereum-could-become-the-trade-retail-misses-in-2026/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-24 03:15:59"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Ransomware Gang Cl0p Claims Mass Data Theft From Shell, Philips, GE Aerospace and Fiserv",
-    "Link": "https://datafloq.com/ransomware-gang-cl0p-claims-mass-data-theft-from-shell-philips-ge-aerospace-and-fiserv/",
-    "ImageUrl": "https://img.liplyn.com/datafloq/wp-content/uploads/2026/08/clop-ransomware-philips-windchill-data-theft.jpg.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-    "Link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!EHqU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f97789d-b769-45fe-b884-ba0f7941da9e_1846x1230.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Rubbish in, rubbish out. Diamonds in, diamonds out.",
-    "Link": "https://datafloq.com/rubbish-in-rubbish-out-diamonds-in-diamonds-out/",
-    "ImageUrl": "https://img.liplyn.com/datafloq/wp-content/uploads/2026/08/diamonds-in-diamonds-out-data-infrastructure-ai.jpg.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:14"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-    "Link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!6wCM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b841d26-5b2d-4be9-9710-d89d4f023f0c_1600x900.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Predictive Human Preference: From Model Ranking to Model Routing",
-    "Link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
-    "ImageUrl": "https://huyenchip.com/assets/pics/predictive-preference/8-easy-hard-prompts.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:19"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Hanura Instruksikan Kadernya Terlibat Bantu Korban Gempa di NTT",
-    "Link": "https://www.tribunnews.com/nasional/7872589/hanura-instruksikan-kadernya-terlibat-bantu-korban-gempa-di-ntt",
-    "ImageUrl": "https://asset.tribunnews.com/mOMo3RCiTjd09daZBk_WNCWXJdc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/gempa-ntt-kaderrrr.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:29"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Kemenag Salurkan Ribuan Paket Perlengkapan Sekolah untuk Siswa Madrasah NTT",
-    "Link": "https://khazanah.republika.co.id/berita/tk83vm320/kemenag-salurkan-ribuan-paket-perlengkapan-sekolah-untuk-siswa-madrasah-ntt",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/gempa_260823195421-383.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:32"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Bupati Bogor Naikkan Insentif 8.400 Guru Ngaji Jadi Rp1,2 Juta, Ulama Apresiasi",
-    "Link": "https://news.republika.co.id/berita/tk8f8g9230000/bupati-bogor-naikkan-insentif-8400-guru-ngaji-jadi-rp12-juta-ulama-apresiasi",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/087808400-1787504416-1003362554jpg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:36"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Menanam Harapan di Yayasan Lentera, Membuka Ruang bagi Anak dengan HIV/AIDS untuk Tumbuh",
-    "Link": "https://www.tribunnews.com/regional/7872587/menanam-harapan-di-yayasan-lentera-membuka-ruang-bagi-anak-dengan-hivaids-untuk-tumbuh",
-    "ImageUrl": "https://asset.tribunnews.com/twS5oUfQlr40Y2JSVaqUfMIT5zI=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Anak-anak-Yayasan-Lentera-mengikuti-kegiatan-menanam.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:39"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Pemkab Bogor Rancang Enam Stasiun Baru di Jalur KA Parung Panjang-Jasinga",
-    "Link": "https://news.republika.co.id/berita/tk8hbl8930000/pemkab-bogor-rancang-enam-stasiun-baru-di-jalur-ka-parung-panjangjasinga",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/058249800-1787507121-1003362583jpg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
-    "Link": "https://variety.com/2026/film/global/venice-meteorite-sebastian-munera-morethan-films-1236840956/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Metiorite.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:48"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival",
-    "Link": "https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Nosso-Segredo.-Credit-Courtesy-of-Gramado-Fest.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Seduction,’ Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)",
-    "Link": "https://variety.com/2026/film/global/seduction-zelito-viana-marcos-palmeira-premiere-miami-h2o-1236840944/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Marcos-Palmeira-and-Dira-Paes-in-Seduction.-Credit-Reynaldo-Zangrandi.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:52"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Skintown’ Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
-    "Link": "https://variety.com/2026/film/reviews/skintown-review-1236839532/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/08/Skintown_7de410.jpeg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:55"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma’s Sequel Titled ‘Zombie Reddy Nxt Lvl’ (EXCLUSIVE)",
-    "Link": "https://variety.com/2026/film/news/upendra-teja-sajja-shanaya-kapoor-zombie-reddy-nxt-lvl-1236840852/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2027/08/Zombie-Reddy-2.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:16:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "KKI 2026 Angkat Potensi Wastra dan Kerajinan Daerah ke Pasar Global",
-    "Link": "https://www.jpnn.com/news/kki-2026-angkat-potensi-wastra-dan-kerajinan-daerah-ke-pasar-global",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/08/23/produk-wastra-dan-kerajinan-daerah-dipamerkan-di-kki-2026-un-skaj.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:17:13"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pemerintah Telah Siapkan Anggaran Pangan untuk Bencana, Sebegini Jumlahnya",
-    "Link": "https://www.jpnn.com/news/pemerintah-telah-siapkan-anggaran-pangan-untuk-bencana-sebegini-jumlahnya",
-    "ImageUrl": "https://cloud.jpnn.com/photo/galeri/watermark/2021/08/13/IMG_20210813_174602.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-24 03:17:16"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-    "Link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Stock_Market_April_5_2025_3_Months.png/960px-Stock_Market_April_5_2025_3_Months.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "The Helix Nebula is Hurling Clumps of Gas through Space",
+    "Link": "https://skyandtelescope.org/astronomy-news/the-helix-nebula-is-hurling-clumps-of-gas-through-space/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NGC7293_%282004%29.jpg/960px-NGC7293_%282004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-24 03:17:27"
+    "Date": "2026-08-25 03:23:43"
   },
   {
-    "Topic": "Economy",
-    "Title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-    "Link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/RIVA_TNT_GPU.jpg/960px-RIVA_TNT_GPU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-24 03:17:33"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Perjalanan Tiga Dekade Wanda Ponika Perkuat Eksistensi di Industri Perhiasan",
-    "Link": "https://www.jpnn.com/news/perjalanan-tiga-dekade-wanda-ponika-perkuat-eksistensi-di-industri-perhiasan",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/08/23/owner-wanda-house-of-jewels-wanda-ponika-foto-dok-pribadi-vy-hy2s.jpg",
+    "Topic": "Astronomy",
+    "Title": "Starwatch: Lunar eclipse to reward early risers in UK and Europe",
+    "Link": "https://www.theguardian.com/science/2026/aug/24/starwatch-lunar-eclipse-to-reward-early-risers-uk-europe",
+    "ImageUrl": "https://i.guim.co.uk/img/media/2615872ce22a8c05894e56f5904915cafc292340/3361_0_1115_892/master/1115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2d2afa8ec59d3817da7e6e8e95e3744",
     "ImageSource": "og:image",
-    "Date": "2026-08-24 03:17:37"
+    "Date": "2026-08-25 03:23:45"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "‘A magical eeriness’: Cornwall comes together for communal moment during solar eclipse",
+    "Link": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
+    "ImageUrl": "https://i.guim.co.uk/img/media/2228defa6a147d55e220e8eec2bfc6216c579ab9/1363_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31f32b00798e718f64dff769252ab64f",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:48"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "‘Colander sales jumped nearly 40%’: how Britons viewed the solar eclipse",
+    "Link": "https://www.theguardian.com/science/2026/aug/13/how-britons-viewed-the-solar-eclipse",
+    "ImageUrl": "https://i.guim.co.uk/img/media/362a1b85d495eec0daf20a845e712f73d7de00ec/538_0_5381_4305/master/5381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0f206bed9d58bb234c9a188c6814f62",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:23:51"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Next Up! A Deep Partial Lunar Eclipse on Aug. 27–28",
+    "Link": "https://skyandtelescope.org/astronomy-news/next-up-a-deep-partial-lunar-eclipse-on-aug-27-28/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Deep_Purple_%281971%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-25 03:23:54"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand Update: Major Highlights in Politics, Economy, Tourism, and Society",
+    "Link": "https://www.thailand-business-news.com/news/324452-thailand-update-major-highlights-in-politics-economy-tourism-and-society-4",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-25 03:24:08"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "TAT is taking a micro-regional approach to reach China’s high-value travel markets",
+    "Link": "https://www.thailand-business-news.com/china/323670-tat-is-taking-a-micro-regional-approach-to-reach-chinas-high-value-travel-markets",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-25 03:24:15"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand Ready to Host 2026 IMF World Bank Meetings",
+    "Link": "https://www.thailand-business-news.com/national/322607-thailand-ready-to-host-2026-imf-world-bank-meetings",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-25 03:24:20"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "When Business Expansion in Indonesia Triggers Additional Corporate Compliance Requirements",
+    "Link": "https://www.thailand-business-news.com/asean/316035-when-business-expansion-in-indonesia-triggers-additional-corporate-compliance-requirements",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-25 03:24:23"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "RWA deposits triple to $7.4B as DeFi activity falls",
+    "Link": "https://crypto.news/rwa-deposits-triple-to-7-4b-as-defi-activity-falls/",
+    "ImageUrl": "https://media.crypto.news/2024/12/crypto-news-Five-verification-needs-when-tokenizing-RWAs-option02.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:24:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "US stocks today: US stocks slip as Iran tensions test rally in a high-stakes week for markets",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133468732,width-1200,height-630,imgsize-128650,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:24:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Mark Zuckerberg Meta AI Predicts a Price for Solana By The End of 2026",
+    "Link": "https://cryptonews.com/news/mark-zuckerberg-meta-ai-predicts-a-price-for-solana-by-the-end-of-2026/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-25 03:24:37"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "WBT’s new all-time high comes as crypto infrastructure gets more institutional",
+    "Link": "https://crypto.news/wbts-new-all-time-high-comes-as-crypto-infrastructure-gets-more-institutional/",
+    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-The-next-standard-in-blockchain-is-code-neutrality-option02.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:24:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Lenskart Solutions among 4 stocks to hit 52-week highs &amp; surge up to 20% in a month",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-20-in-a-month/slideshow/133468092.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133468092,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-25 03:24:43"
   }
 ]
