@@ -1,234 +1,266 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Optimization story: Bloom inference",
-    "Link": "https://huggingface.co/blog/bloom-inference-optimization",
-    "ImageUrl": "https://huggingface.co/blog/assets/bloom-inference-pytorch-scripts/thumbnail.png",
+    "Topic": "Science",
+    "Title": "A hidden “on switch” in human DNA has finally been decoded",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:33"
+    "Date": "2026-08-26 03:21:10"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Train your ControlNet with diffusers",
-    "Link": "https://huggingface.co/blog/train-your-controlnet",
-    "ImageUrl": "https://huggingface.co/blog/assets/136_train-your-controlnet/thumbnail.png",
+    "Topic": "Science",
+    "Title": "Multilingual people may have brains up to 13 years younger",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-brain-model-surrounded-by-colorful-alphabet-letters-close.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:36"
+    "Date": "2026-08-26 03:21:12"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21003-featured-image.png",
+    "Topic": "Science",
+    "Title": "Volcanoes that made history",
+    "Link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:38"
+    "Date": "2026-08-26 03:21:15"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Improving Hugging Face Model Access for Kaggle Users",
-    "Link": "https://huggingface.co/blog/kaggle-integration",
-    "ImageUrl": "https://huggingface.co/blog/assets/kaggle-integration/thumbnail.png",
+    "Topic": "Science",
+    "Title": "Lab supply companies have been selling antibodies using manipulated images",
+    "Link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-2560x1440.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:40"
+    "Date": "2026-08-26 03:21:19"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
-    "Link": "https://huggingface.co/blog/jat",
-    "ImageUrl": "https://huggingface.co/blog/assets/jat/thumbnail.png",
+    "Topic": "Science",
+    "Title": "Gut bacteria may unlock a hidden benefit of vegetables",
+    "Link": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/intestinal-bacteria-gut-microbiome.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:43"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Motor City’ Comes to Digital, But Where Will Alan Ritchson’s ‘Motor City’ Movie Be Streaming for Free?",
-    "Link": "https://decider.com/2026/08/24/motor-city-streaming-release-date-amc-plus/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/08/motor-city-movie-streaming-release-date-amc-plus-alan-ritchson.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official Trailer for 'Mighty Mary' Doc About All-Women Sailing Team",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-mighty-mary-doc-about-all-women-sailing-team/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/mightymaryposterdocmainimgtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:53"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "10 Best Kung Fu Movies in Film History",
-    "Link": "https://collider.com/best-kung-fu-movies-in-film-history/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/drunken-master-ii-1994-2.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Jim Caviezel vs a Corporation in Action Thriller 'Ghost Soldier' Trailer",
-    "Link": "https://www.firstshowing.net/2026/jim-caviezel-vs-a-corporation-in-action-thriller-ghost-soldier-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/ghostsoldierfulltrailermainimgtw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:22:59"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Doc Film 'Run Terry Run' Trailer - About Terry Fox's Marathon of Hope",
-    "Link": "https://www.firstshowing.net/2026/doc-film-run-terry-run-trailer-about-terry-foxs-marathon-of-hope/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/runterryrundocmainimgbigtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden",
-    "Link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-08/iran-krieg-donald-trump-bessent-live-bild/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:20"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Interdiction du téléphone portable au lycée : la mesure « pourra être effective dès la rentrée », assure le gouvernement",
-    "Link": "https://www.lemonde.fr/societe/article/2026/08/24/interdiction-du-telephone-portable-au-lycee-la-mesure-pourra-etre-effective-des-la-rentree-assure-le-gouvernement_6755546_3224.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/FGR-17_VIPER.jpg/960px-FGR-17_VIPER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:23:23"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Saudi-Arabien: Saudi-Arabien will in Manga-Freizeitpark bei Paris investieren",
-    "Link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/saudi-arabien-frankreich-manga-freizeitpark-paris-mohammed-bin-salman",
-    "ImageUrl": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-08/saudi-arabien-frankreich-manga-freizeitpark-paris-mohammed-bin-salman-foto-1/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:26"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-    "Link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5eb/live/ef93f5d0-9fbe-11f1-8648-8d7b77845e6d.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:28"
-  },
-  {
-    "Topic": "General News",
-    "Title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
-    "Link": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chateaunuit.JPG/960px-Chateaunuit.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:23:31"
+    "Date": "2026-08-26 03:21:22"
   },
   {
     "Topic": "Astronomy",
-    "Title": "The Helix Nebula is Hurling Clumps of Gas through Space",
-    "Link": "https://skyandtelescope.org/astronomy-news/the-helix-nebula-is-hurling-clumps-of-gas-through-space/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NGC7293_%282004%29.jpg/960px-NGC7293_%282004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:23:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Starwatch: Lunar eclipse to reward early risers in UK and Europe",
-    "Link": "https://www.theguardian.com/science/2026/aug/24/starwatch-lunar-eclipse-to-reward-early-risers-uk-europe",
-    "ImageUrl": "https://i.guim.co.uk/img/media/2615872ce22a8c05894e56f5904915cafc292340/3361_0_1115_892/master/1115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2d2afa8ec59d3817da7e6e8e95e3744",
+    "Title": "Perseids Meteor Shower",
+    "Link": "https://www.nasa.gov/image-detail/perseidsorion-2/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:45"
+    "Date": "2026-08-26 03:21:30"
   },
   {
     "Topic": "Astronomy",
-    "Title": "‘A magical eeriness’: Cornwall comes together for communal moment during solar eclipse",
-    "Link": "https://www.theguardian.com/science/2026/aug/12/a-magical-eeriness-cornwall-comes-together-for-communal-moment-during-solar-eclipse",
-    "ImageUrl": "https://i.guim.co.uk/img/media/2228defa6a147d55e220e8eec2bfc6216c579ab9/1363_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31f32b00798e718f64dff769252ab64f",
+    "Title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+    "Link": "https://www.nasa.gov/image-detail/lighthouse-lg/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:48"
+    "Date": "2026-08-26 03:21:33"
   },
   {
     "Topic": "Astronomy",
-    "Title": "‘Colander sales jumped nearly 40%’: how Britons viewed the solar eclipse",
-    "Link": "https://www.theguardian.com/science/2026/aug/13/how-britons-viewed-the-solar-eclipse",
-    "ImageUrl": "https://i.guim.co.uk/img/media/362a1b85d495eec0daf20a845e712f73d7de00ec/538_0_5381_4305/master/5381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0f206bed9d58bb234c9a188c6814f62",
+    "Title": "NASA Astronaut Chris Williams Preps for Spacewalk",
+    "Link": "https://www.nasa.gov/image-detail/iss074e0760514/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0760514orig.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:23:51"
+    "Date": "2026-08-26 03:21:38"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Next Up! A Deep Partial Lunar Eclipse on Aug. 27–28",
-    "Link": "https://skyandtelescope.org/astronomy-news/next-up-a-deep-partial-lunar-eclipse-on-aug-27-28/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Deep_Purple_%281971%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:23:54"
+    "Title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+    "Link": "https://www.nasa.gov/image-detail/freedom-250-grand-prix/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:21:41"
   },
   {
-    "Topic": "Economy",
-    "Title": "Thailand Update: Major Highlights in Politics, Economy, Tourism, and Society",
-    "Link": "https://www.thailand-business-news.com/news/324452-thailand-update-major-highlights-in-politics-economy-tourism-and-society-4",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:24:08"
+    "Topic": "Astronomy",
+    "Title": "Millions of Stars in Cigar Galaxy",
+    "Link": "https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/55352876103-02b858152c-o.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:21:45"
   },
   {
-    "Topic": "Economy",
-    "Title": "TAT is taking a micro-regional approach to reach China’s high-value travel markets",
-    "Link": "https://www.thailand-business-news.com/china/323670-tat-is-taking-a-micro-regional-approach-to-reach-chinas-high-value-travel-markets",
+    "Topic": "Data / AI",
+    "Title": "Warren Buffett says this 1 skill will multiply your success. In the AI age, it’s more valuable than ever",
+    "Link": "https://www.fastcompany.com/91584812/warren-buffett-says-1-skill-will-multiply-your-success-ai-age-more-valuable-than-ever?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=7&partner=newsletter&campaign_date=08252026",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-26 03:21:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Trillions of dollars in AI spending not in the balance sheet yet",
+    "Link": "https://flowingdata.com/2026/08/19/trillions-of-dollars-in-ai-spending-not-in-the-balance-sheet-yet/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg/960px-Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-26 03:21:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI is taking over logistics’ endless calls and emails",
+    "Link": "https://www.fastcompany.com/91593679/ai-is-taking-over-logistics-endless-calls-and-emails?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=9&partner=newsletter&campaign_date=08252026",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-25 03:24:15"
+    "Date": "2026-08-26 03:21:57"
   },
   {
-    "Topic": "Economy",
-    "Title": "Thailand Ready to Host 2026 IMF World Bank Meetings",
-    "Link": "https://www.thailand-business-news.com/national/322607-thailand-ready-to-host-2026-imf-world-bank-meetings",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Data / AI",
+    "Title": "AI literacy is the buzzword this back-to-school season, as many teachers pivot to a balanced approach",
+    "Link": "https://www.fastcompany.com/91593587/ai-literacy-buzzword-back-school-season-teachers-aim-balanced-approach?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=13&partner=newsletter&campaign_date=08252026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-26 03:22:01"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Australia’s music industry bans AI-generated songs from official charts",
+    "Link": "https://www.fastcompany.com/91595664/australia-ai-generated-music-charts-ban-aria?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=2&partner=newsletter&campaign_date=08252026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-26 03:22:04"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "This 1930s Oscar-Nominated Comedy Has Probably Been Ripped Off More Than Any Other",
+    "Link": "https://www.slashfilm.com/2195559/lady-for-a-day-1930s-comedy-influential-rip-off/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/this-1930s-oscar-nominated-comedy-has-probably-been-ripped-off-more-than-any-other/l-intro-1781630565.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:22:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New York Film Festival Adds North American Premiere of ‘NAZA’ Documentary",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-naza-israel-gaza-documentary-1236680717/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/NAZA_The-Guardian.jpg?w=1440&#038;h=810&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:22:13"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Hamptons Film Fest Sets ‘I Play Rocky’ for Opening Night, Will Honor Phil Lord and Chris Miller (Exclusive)",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/2026-hamptons-film-fest-phil-lord-chris-miller-awards-1236680880/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/I-Play-Rocky-Phil-Lord-and-Chris-Miller-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:22:16"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Project Hail Mary Actor Ken Leung Appeared In A Beloved Tom Cruise Sci-Fi Movie",
+    "Link": "https://www.slashfilm.com/2243025/project-hail-mary-ken-leung-beloved-tom-cruise-sci-fi-movie-vanilla-sky/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/project-hail-mary-actor-ken-leung-appeared-in-a-beloved-tom-cruise-sci-fi-movie/l-intro-1787596785.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:22:18"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Backrooms’ Sets HBO Max Streaming Release Date",
+    "Link": "https://variety.com/2026/film/news/how-to-watch-backrooms-online-streaming-hbo-max-1236798818/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/05/MCDBACK_EC080.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:22:20"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+    "Link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Proud_Boys_laurel_logo.svg/960px-Proud_Boys_laurel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-25 03:24:20"
+    "Date": "2026-08-26 03:22:39"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+    "Link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-26 03:22:42"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+    "Link": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-26 03:22:45"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin extends 7-day advance to roughly 25% ",
+    "Link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/960px-Legal_status_of_bitcoin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-26 03:22:48"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+    "Link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-26 03:22:50"
   },
   {
     "Topic": "Economy",
-    "Title": "When Business Expansion in Indonesia Triggers Additional Corporate Compliance Requirements",
-    "Link": "https://www.thailand-business-news.com/asean/316035-when-business-expansion-in-indonesia-triggers-additional-corporate-compliance-requirements",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-25 03:24:23"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "RWA deposits triple to $7.4B as DeFi activity falls",
-    "Link": "https://crypto.news/rwa-deposits-triple-to-7-4b-as-defi-activity-falls/",
-    "ImageUrl": "https://media.crypto.news/2024/12/crypto-news-Five-verification-needs-when-tokenizing-RWAs-option02.webp",
+    "Title": "Bitcoin Naik 24,3% dalam Sepekan, Investor Cermati Regulasi Kripto AS",
+    "Link": "https://ekbis.sindonews.com/read/1742851/178/bitcoin-naik-243-dalam-sepekan-investor-cermati-regulasi-kripto-as-1787659703",
+    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/08/25/178/1742851/bitcoin-naik-243-dalam-sepekan-investor-cermati-regulasi-kripto-as-lsf.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:24:32"
+    "Date": "2026-08-26 03:23:09"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "US stocks today: US stocks slip as Iran tensions test rally in a high-stakes week for markets",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133468732,width-1200,height-630,imgsize-128650,overlay-etmarkets/articleshow.jpg",
+    "Topic": "Economy",
+    "Title": "Robert Urie: There Is No Bond Market Panic. Who Benefits from Claiming That There Is One?",
+    "Link": "https://www.nakedcapitalism.com/2026/08/robert-urie-there-is-no-bond-market-panic-who-benefits-from-claiming-that-there-is-one.html",
+    "ImageUrl": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-3.37.19 PM.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:24:35"
+    "Date": "2026-08-26 03:23:13"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Mark Zuckerberg Meta AI Predicts a Price for Solana By The End of 2026",
-    "Link": "https://cryptonews.com/news/mark-zuckerberg-meta-ai-predicts-a-price-for-solana-by-the-end-of-2026/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-25 03:24:37"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "WBT’s new all-time high comes as crypto infrastructure gets more institutional",
-    "Link": "https://crypto.news/wbts-new-all-time-high-comes-as-crypto-infrastructure-gets-more-institutional/",
-    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-The-next-standard-in-blockchain-is-code-neutrality-option02.webp",
+    "Topic": "Economy",
+    "Title": "Swasta Ogah Investasi, Danantara Siap Ambil Alih Proyek PLTS 100 GW",
+    "Link": "https://ekbis.sindonews.com/read/1742845/34/swasta-ogah-investasi-danantara-siap-ambil-alih-proyek-plts-100-gw-1787659690",
+    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/08/25/34/1742845/swasta-ogah-investasi-danantara-siap-ambil-alih-proyek-plts-100-gw-zfp.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:24:40"
+    "Date": "2026-08-26 03:23:18"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Lenskart Solutions among 4 stocks to hit 52-week highs &amp; surge up to 20% in a month",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-20-in-a-month/slideshow/133468092.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133468092,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "Topic": "Technology",
+    "Title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+    "Link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+    "ImageUrl": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-25 03:24:43"
+    "Date": "2026-08-26 03:23:27"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Claude Cowork finally remembers what you told the app in chat",
+    "Link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:23:30"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
+    "Link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
+    "ImageUrl": "https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/191:100/w_1280,c_limit/The-Best-Multiuse-Air-Purifiers.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:23:32"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
+    "Link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+    "ImageUrl": "https://media.wired.com/photos/6a8929628708f4555b819a56/191:100/w_1280,c_limit/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:23:35"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Transistors Changed Everything. Here’s How They Work",
+    "Link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+    "ImageUrl": "https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_limit/Science_Transistors%20Changed%20Everything.%20Here%E2%80%99s%20How%20They%20Work_v1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-26 03:23:37"
   }
 ]
