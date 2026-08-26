@@ -1,266 +1,282 @@
 [
   {
-    "Topic": "Science",
-    "Title": "A hidden “on switch” in human DNA has finally been decoded",
-    "Link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+    "Topic": "Data / AI",
+    "Title": "Power BI 101, What Should I Learn?",
+    "Link": "https://biinsight.com/power-bi-101-what-should-i-learn/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/11/Power-BI-101-What-Should-I-Learn.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:10"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Multilingual people may have brains up to 13 years younger",
-    "Link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-brain-model-surrounded-by-colorful-alphabet-letters-close.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:12"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Volcanoes that made history",
-    "Link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:15"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Lab supply companies have been selling antibodies using manipulated images",
-    "Link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-2560x1440.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:19"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Gut bacteria may unlock a hidden benefit of vegetables",
-    "Link": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/intestinal-bacteria-gut-microbiome.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:22"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Perseids Meteor Shower",
-    "Link": "https://www.nasa.gov/image-detail/perseidsorion-2/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:30"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-    "Link": "https://www.nasa.gov/image-detail/lighthouse-lg/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Astronaut Chris Williams Preps for Spacewalk",
-    "Link": "https://www.nasa.gov/image-detail/iss074e0760514/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0760514orig.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-    "Link": "https://www.nasa.gov/image-detail/freedom-250-grand-prix/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:41"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Millions of Stars in Cigar Galaxy",
-    "Link": "https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/55352876103-02b858152c-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:21:45"
+    "Date": "2026-08-27 05:39:12"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Warren Buffett says this 1 skill will multiply your success. In the AI age, it’s more valuable than ever",
-    "Link": "https://www.fastcompany.com/91584812/warren-buffett-says-1-skill-will-multiply-your-success-ai-age-more-valuable-than-ever?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=7&partner=newsletter&campaign_date=08252026",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "Title": "Quick Tips: How to Enable Dataflows In Power BI Service",
+    "Link": "https://biinsight.com/quick-tips-how-to-enable-dataflows-in-power-bi-service/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/11/Dataflows-in-Power-BI-Service.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:39:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Exporting Power BI Desktop Data Using Power BI Exporter",
+    "Link": "https://biinsight.com/exporting-power-bi-desktop-data-using-power-bi-exporter/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/04/Snag_446b893b.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:39:19"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Understanding the Impact of AI on Job Markets",
+    "Link": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-chugani-understanding-impact-ai-job-markets-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:39:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Datatype Conversion in Power Query Affects Data Modeling in Power BI",
+    "Link": "https://biinsight.com/datatype-conversion-in-power-query-affects-data-modeling-in-power-bi/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/01/image-10-1024x497.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:39:26"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Liquid gallium experiment confirms key flow regime inside rapidly rotating stars and planets",
+    "Link": "https://phys.org/news/2026-08-liquid-gallium-key-regime-rapidly.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-27 05:39:35"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Ocean antacid trials test plankton response in 8,000-liter seawater enclosures",
+    "Link": "https://phys.org/news/2026-08-ocean-antacid-trials-plankton-response.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ketamine2DCSD.svg/960px-Ketamine2DCSD.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-26 03:21:51"
+    "Date": "2026-08-27 05:39:38"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Trillions of dollars in AI spending not in the balance sheet yet",
-    "Link": "https://flowingdata.com/2026/08/19/trillions-of-dollars-in-ai-spending-not-in-the-balance-sheet-yet/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg/960px-Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Science",
+    "Title": "Dry seeds preserve fully formed mitochondria, unlocking rapid energy at germination",
+    "Link": "https://phys.org/news/2026-08-dry-seeds-fully-mitochondria-rapid.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg/960px-%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-26 03:21:54"
+    "Date": "2026-08-27 05:39:41"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI is taking over logistics’ endless calls and emails",
-    "Link": "https://www.fastcompany.com/91593679/ai-is-taking-over-logistics-endless-calls-and-emails?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=9&partner=newsletter&campaign_date=08252026",
+    "Topic": "Science",
+    "Title": "AI designs new antibodies that pass blinded laboratory tests",
+    "Link": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-26 03:21:57"
+    "Date": "2026-08-27 05:39:45"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI literacy is the buzzword this back-to-school season, as many teachers pivot to a balanced approach",
-    "Link": "https://www.fastcompany.com/91593587/ai-literacy-buzzword-back-school-season-teachers-aim-balanced-approach?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=13&partner=newsletter&campaign_date=08252026",
+    "Topic": "Science",
+    "Title": "Unexpected source of genetic diversity found in human sperm",
+    "Link": "https://phys.org/news/2026-08-unexpected-source-genetic-diversity-human.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-26 03:22:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Australia’s music industry bans AI-generated songs from official charts",
-    "Link": "https://www.fastcompany.com/91595664/australia-ai-generated-music-charts-ban-aria?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=2&partner=newsletter&campaign_date=08252026",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-26 03:22:04"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "This 1930s Oscar-Nominated Comedy Has Probably Been Ripped Off More Than Any Other",
-    "Link": "https://www.slashfilm.com/2195559/lady-for-a-day-1930s-comedy-influential-rip-off/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/this-1930s-oscar-nominated-comedy-has-probably-been-ripped-off-more-than-any-other/l-intro-1781630565.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:22:11"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "New York Film Festival Adds North American Premiere of ‘NAZA’ Documentary",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-naza-israel-gaza-documentary-1236680717/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/NAZA_The-Guardian.jpg?w=1440&#038;h=810&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:22:13"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Hamptons Film Fest Sets ‘I Play Rocky’ for Opening Night, Will Honor Phil Lord and Chris Miller (Exclusive)",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/2026-hamptons-film-fest-phil-lord-chris-miller-awards-1236680880/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/I-Play-Rocky-Phil-Lord-and-Chris-Miller-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:22:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Project Hail Mary Actor Ken Leung Appeared In A Beloved Tom Cruise Sci-Fi Movie",
-    "Link": "https://www.slashfilm.com/2243025/project-hail-mary-ken-leung-beloved-tom-cruise-sci-fi-movie-vanilla-sky/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/project-hail-mary-actor-ken-leung-appeared-in-a-beloved-tom-cruise-sci-fi-movie/l-intro-1787596785.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:22:18"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Backrooms’ Sets HBO Max Streaming Release Date",
-    "Link": "https://variety.com/2026/film/news/how-to-watch-backrooms-online-streaming-hbo-max-1236798818/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/05/MCDBACK_EC080.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-26 03:22:20"
+    "Date": "2026-08-27 05:39:48"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-    "Link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Proud_Boys_laurel_logo.svg/960px-Proud_Boys_laurel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-26 03:22:39"
+    "Title": "Introducing Price Predictor: 10 seconds a day, and a free shot at 1 Bitcoin (BTC)",
+    "Link": "https://blog.kraken.com/product/promotions/price-predictor",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/Blog_3070x1400-5-1024x467.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:00"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-    "Link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+    "Title": "TMX is available for trading!",
+    "Link": "https://blog.kraken.com/product/asset-listings/tmx-is-available-for-trading",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/f88ff9a2-39b9-4b03-ad63-5535df9c7ede.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:02"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Introducing AI side panel assistant: our new in-chart analyst on Kraken Pro",
+    "Link": "https://blog.kraken.com/product/pro/introducing-ai-side-panel-assistant",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/Blog_3070x1400-3-1024x467.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:05"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "USDSM is available for trading!",
+    "Link": "https://blog.kraken.com/product/asset-listings/usdsm-is-available-for-trading",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/00a960bc-c6aa-4114-902e-d5d823557b67.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:07"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "DGAI is available for trading!",
+    "Link": "https://blog.kraken.com/product/asset-listings/dgai-is-available-for-trading",
+    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/9ccc0f25-4f2c-460c-8ee9-a41c45767468.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+    "Link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330100858-20230330-rory-mcllroy-masters-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:40:19"
+  },
+  {
+    "Topic": "General News",
+    "Title": "What to know about the Trump indictment on the eve of his court appearance",
+    "Link": "https://www.cnn.com/collections/intl-trump-040223/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-26 03:22:42"
+    "Date": "2026-08-27 05:40:22"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-    "Link": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-26 03:22:45"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin extends 7-day advance to roughly 25% ",
-    "Link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/960px-Legal_status_of_bitcoin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-08-26 03:22:48"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-    "Link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-26 03:22:50"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Bitcoin Naik 24,3% dalam Sepekan, Investor Cermati Regulasi Kripto AS",
-    "Link": "https://ekbis.sindonews.com/read/1742851/178/bitcoin-naik-243-dalam-sepekan-investor-cermati-regulasi-kripto-as-1787659703",
-    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/08/25/178/1742851/bitcoin-naik-243-dalam-sepekan-investor-cermati-regulasi-kripto-as-lsf.jpeg",
+    "Topic": "General News",
+    "Title": "READ: Trump indictment related to hush money payment",
+    "Link": "https://cnn.it/411KYN7",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404161048-02-trump-indictment-unsealed.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:09"
+    "Date": "2026-08-27 05:40:26"
   },
   {
-    "Topic": "Economy",
-    "Title": "Robert Urie: There Is No Bond Market Panic. Who Benefits from Claiming That There Is One?",
-    "Link": "https://www.nakedcapitalism.com/2026/08/robert-urie-there-is-no-bond-market-panic-who-benefits-from-claiming-that-there-is-one.html",
-    "ImageUrl": "https://www.nakedcapitalism.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-3.37.19 PM.png",
+    "Topic": "General News",
+    "Title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+    "Link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230327100109-ptsd-soldier-ukraine.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:13"
+    "Date": "2026-08-27 05:40:30"
   },
   {
-    "Topic": "Economy",
-    "Title": "Swasta Ogah Investasi, Danantara Siap Ambil Alih Proyek PLTS 100 GW",
-    "Link": "https://ekbis.sindonews.com/read/1742845/34/swasta-ogah-investasi-danantara-siap-ambil-alih-proyek-plts-100-gw-1787659690",
-    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/08/25/34/1742845/swasta-ogah-investasi-danantara-siap-ambil-alih-proyek-plts-100-gw-zfp.jpeg",
+    "Topic": "General News",
+    "Title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+    "Link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403114022-micron-technology-building-file.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:18"
+    "Date": "2026-08-27 05:40:33"
   },
   {
     "Topic": "Technology",
-    "Title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-    "Link": "https://www.wired.com/story/best-pool-cleaning-robots/",
-    "ImageUrl": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
+    "Title": "Apple should make a Mac Neo to fill the void left by the more expensive Mac mini",
+    "Link": "https://www.engadget.com/2244605/apple-should-make-a-mac-neo/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/apple-should-make-a-mac-neo-to-fill-the-void-left-by-the-more-expensive-mac-mini/l-intro-1787756051.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:27"
+    "Date": "2026-08-27 05:40:40"
   },
   {
     "Topic": "Technology",
-    "Title": "Claude Cowork finally remembers what you told the app in chat",
-    "Link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+    "Title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
+    "Link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
+    "ImageUrl": "https://media.wired.com/photos/6a8e03bdbe28f254582eb85b/191:100/w_1280,c_limit/These-Early-Labor-Day-Kitchen-Deals-Are-Perfect-for-the-Fall-Reset.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:30"
+    "Date": "2026-08-27 05:40:43"
   },
   {
     "Topic": "Technology",
-    "Title": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
-    "Link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
-    "ImageUrl": "https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/191:100/w_1280,c_limit/The-Best-Multiuse-Air-Purifiers.jpg",
+    "Title": "Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale",
+    "Link": "https://www.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/en/headerimage/beyond-offset-lag-kafka-apache-hudi-header-1787577734265.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:32"
+    "Date": "2026-08-27 05:40:46"
   },
   {
     "Topic": "Technology",
-    "Title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
-    "Link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
-    "ImageUrl": "https://media.wired.com/photos/6a8929628708f4555b819a56/191:100/w_1280,c_limit/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg",
+    "Title": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities",
+    "Link": "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/08/duckdb-v2-distributed/en/card_header_image/generatedCard-1787634613455.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:35"
+    "Date": "2026-08-27 05:40:49"
   },
   {
     "Topic": "Technology",
-    "Title": "Transistors Changed Everything. Here’s How They Work",
-    "Link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-    "ImageUrl": "https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_limit/Science_Transistors%20Changed%20Everything.%20Here%E2%80%99s%20How%20They%20Work_v1.jpg",
+    "Title": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
+    "Link": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/meta-reportedly-abandoned-an-ai-focused-restructuring-plan-that-would-have-laid-off-thousands/l-intro-1787765724.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-26 03:23:37"
+    "Date": "2026-08-27 05:40:52"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A Solar System in the making? Two planets spotted forming in disc around young star",
+    "Link": "https://www.eso.org/public/news/eso2604/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2604a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:04"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronomers discover a new kind of cosmic object – a black hole ‘star’",
+    "Link": "https://www.theguardian.com/science/2026/aug/12/astronomy-discovery-new-cosmic-object-black-hole-star",
+    "ImageUrl": "https://i.guim.co.uk/img/media/bc265ad622221d0cdf45ab8753684801921632bc/0_699_2540_2030/master/2540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23cdee0cf95a0977eddff41548a87d69",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:07"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronomers detect fastest known star in Milky Way",
+    "Link": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
+    "ImageUrl": "https://i.guim.co.uk/img/media/b178f8f4542aa44e213da91e90deba77bee34c37/0_436_3912_3129/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3c6918928612a0117e267b70cab4c6e",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:10"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
+    "Link": "https://www.eso.org/public/news/eso2603/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2603a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "First light for PoET: shining (sun)light on exoplanet research",
+    "Link": "https://www.eso.org/public/news/eso2605/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2605a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:20"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "HACKED: A DOUBLE ENTENDRE OF RAGE-FUELED KARMA Tells the Story of a Filmmaker Scorn - But It's Funny",
+    "Link": "https://www.aintitcool.com/interview-shane-brady-christopher-dudley-mceric-83652/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/hacked_poster_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:29"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Sacha Baron Cohen Returns in 'Ali G: Who Iz I?' Sequel Official Trailer",
+    "Link": "https://www.firstshowing.net/2026/sacha-baron-cohen-returns-in-ali-g-who-iz-i-sequel-official-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/aligwhoizitrailer1mainbigposttw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Michael Jai White in Action Thriller Movie 'Drive Through Fire' Trailer",
+    "Link": "https://www.firstshowing.net/2026/michael-jai-white-in-action-thriller-movie-drive-through-fire-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/drivethroughfirepostermainbigtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:36"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Best TV Shows of 2026: New Series to Watch Now",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-new-tv-series-shows/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/lanterns-s1-600x314-1.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:38"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Best New Horror Movies of 2026",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-new-horror-movies-2026/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/BUDDY-thumb.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-27 05:41:41"
   }
 ]
