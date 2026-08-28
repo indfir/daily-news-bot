@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Power BI 101, What Should I Learn?",
-    "Link": "https://biinsight.com/power-bi-101-what-should-i-learn/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/11/Power-BI-101-What-Should-I-Learn.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:39:12"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Quick Tips: How to Enable Dataflows In Power BI Service",
-    "Link": "https://biinsight.com/quick-tips-how-to-enable-dataflows-in-power-bi-service/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/11/Dataflows-in-Power-BI-Service.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:39:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Exporting Power BI Desktop Data Using Power BI Exporter",
-    "Link": "https://biinsight.com/exporting-power-bi-desktop-data-using-power-bi-exporter/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/04/Snag_446b893b.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:39:19"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Understanding the Impact of AI on Job Markets",
-    "Link": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-chugani-understanding-impact-ai-job-markets-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:39:22"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Datatype Conversion in Power Query Affects Data Modeling in Power BI",
-    "Link": "https://biinsight.com/datatype-conversion-in-power-query-affects-data-modeling-in-power-bi/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/01/image-10-1024x497.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:39:26"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Liquid gallium experiment confirms key flow regime inside rapidly rotating stars and planets",
-    "Link": "https://phys.org/news/2026-08-liquid-gallium-key-regime-rapidly.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-27 05:39:35"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ocean antacid trials test plankton response in 8,000-liter seawater enclosures",
-    "Link": "https://phys.org/news/2026-08-ocean-antacid-trials-plankton-response.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ketamine2DCSD.svg/960px-Ketamine2DCSD.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "General News",
+    "Title": "La inversión inmobiliaria se encamina en 2026 a su récord histórico",
+    "Link": "https://cincodias.elpais.com/companias/2026-08-27/la-inversion-inmobiliaria-se-encamina-en-2026-a-su-record-historico.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hernando_de_Soto%2C_t%C3%ADtulo_de_propiedad.jpg/960px-Hernando_de_Soto%2C_t%C3%ADtulo_de_propiedad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-27 05:39:38"
+    "Date": "2026-08-28 10:58:33"
   },
   {
-    "Topic": "Science",
-    "Title": "Dry seeds preserve fully formed mitochondria, unlocking rapid energy at germination",
-    "Link": "https://phys.org/news/2026-08-dry-seeds-fully-mitochondria-rapid.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg/960px-%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "General News",
+    "Title": "Victoria Bodean, la madre con parálisis cerebral que muestra al mundo cómo se superan las barreras de una discapacidad",
+    "Link": "https://elpais.com/eps/2026-08-25/victoria-bodean-la-madre-con-paralisis-cerebral-que-muestra-al-mundo-como-se-superan-las-barreras-de-una-discapacidad.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/W2F3YF3BA5CIFLNBRFREXBBWLY.JPG?auth=51e1db03ca9d5e3fdcde8eddf76b0e5e0f81f7144ff3c07282e42c40a1949c0a&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:36"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Aimar Bretos se estrenará el lunes en ‘Hoy por hoy’ con una entrevista a Pedro Sánchez",
+    "Link": "https://elpais.com/television/radiotv/2026-08-27/aimar-bretos-se-estrenara-el-lunes-en-hoy-por-hoy-con-una-entrevista-a-pedro-sanchez.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/QVEF447Y3JDSBOTUBAECNGY3F4.jpg?auth=40a8509dc352a302d6f40e70f24c7d8cd0b2c32dffeee658d6285b155d107f35&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘¡Pa casa, Pinki!’ y los ‘influencers’ que son un sí",
+    "Link": "https://elpais.com/television/2026-08-27/pa-casa-pinki-y-los-influencers-que-son-un-si.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-28 10:58:42"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Mas humaniza a Pogacar en la Vuelta a España",
+    "Link": "https://elpais.com/deportes/ciclismo/2026-08-27/pogacar-se-impone-a-un-gran-enric-mas-en-castellon.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-28 10:58:45"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How much of a problem is AI’s water use?",
+    "Link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "AI models flub these intelligence tests. Can you fare any better?",
+    "Link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:54"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+    "Link": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/etowah_04_LRG-XL-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:56"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "Link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:58:59"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+    "Link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-1152x648-1754745307.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:01"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Mendag Ingin Harga Daging Ayam Stabil di Rp 40 Ribu per Kg Menteri Perdagangan (Mendag) Budi Santoso (Foto: Liputan6.com/Immanuel Christian)",
+    "Link": "https://www.liputan6.com/bisnis/read/8279290/mendag-ingin-harga-daging-ayam-stabil-di-rp-40-ribu-per-kg",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/cpnPZ1gsjr-mWLOuvSITDhsCSaI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9334127/original/030623300_1787821057-Menteri_Perdagangan_Budi_Santoso-27_Agustus_2026d.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:11"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Italia Kembali Perpanjang Potongan Pajak Solar, Ini Alasannya Perdana Menteri Italia Giorgia Meloni",
+    "Link": "https://www.liputan6.com/bisnis/read/8279030/italia-kembali-perpanjang-potongan-pajak-solar-ini-alasannya",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/K2P6lNBMQ9VwVJh8eEgzAfI9C6Y=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4319538/original/032745000_1675998797-melony-afp-1156144-1666525279.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:15"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Thailand’s Electronics Investment Surges past $30 Billion as It Powers into Next-Gen Chips and AI",
+    "Link": "https://www.thailand-business-news.com/investment/325108-thailands-electronics-investment-surges-past-30-billion-as-it-powers-into-next-gen-chips-and-ai",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bangkok_skyline_September_2022.jpg/960px-Bangkok_skyline_September_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-08-27 05:39:41"
+    "Date": "2026-08-28 10:59:18"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Gadai Makin Diminati, Aset Mewah Kini Jadi Agunan Emas Fisik Semakin Langka? Ini Solusi Investasi Emas Digital yang Praktis Lewat Tring! by Pegadaian",
+    "Link": "https://www.liputan6.com/bisnis/read/8278957/gadai-makin-diminati-aset-mewah-kini-jadi-agunan",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/ojjUcfLbi3CuXRxRsfBojPTRaH4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5469930/original/003679600_1768191721-Depositphotos_20063789_L.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:21"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Rahasia Bisnis Dolly Parton hingga Bangun Kekayaan Rp 7,98 Triliun Dolly Parton. (AP Photo/John Locher)",
+    "Link": "https://www.liputan6.com/bisnis/read/8278949/rahasia-bisnis-dolly-parton-hingga-bangun-kekayaan-rp-798-triliun",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/WJMhnniNliuymm62PoNMG2Z94Zc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3963433/original/076184300_1647339313-AP22067037742489.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:25"
   },
   {
     "Topic": "Science",
-    "Title": "AI designs new antibodies that pass blinded laboratory tests",
-    "Link": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-27 05:39:45"
+    "Title": "RFK Jr. is definitely coming for your vaccines (part 11): Eliminate the CDC vaccine schedule!",
+    "Link": "http://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-11/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-11",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2024/09/TrumpRFK.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:33"
   },
   {
     "Topic": "Science",
-    "Title": "Unexpected source of genetic diversity found in human sperm",
-    "Link": "https://phys.org/news/2026-08-unexpected-source-genetic-diversity-human.html",
+    "Title": "Thanks to Efforts of the “Biosafety Now” Bros, Richard Ebright and Bryce Nickels, We Are All More Vulnerable to Dangerous Viruses, Both Old & New, From Labs & From Nature, Exactly as I Predicted.",
+    "Link": "http://sciencebasedmedicine.org/ebrightnickels-hate-biosafety/?utm_source=rss&utm_medium=rss&utm_campaign=ebrightnickels-hate-biosafety",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/06/image-6.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:36"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Preserving glow-in-the-dark art and fashion for future generations",
+    "Link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:41"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Stephen Macedo And Frances Lee:  Defend Your Essay That Dr. Jay Bhattacharya Would Restore Trust in Public Health",
+    "Link": "http://sciencebasedmedicine.org/macedo-lee-maha-maga-fluffers/?utm_source=rss&utm_medium=rss&utm_campaign=macedo-lee-maha-maga-fluffers",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/image-23.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Negative Health Effects of Vaping",
+    "Link": "http://sciencebasedmedicine.org/negative-health-effects-of-vaping/?utm_source=rss&utm_medium=rss&utm_campaign=negative-health-effects-of-vaping",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/vaping-flavors.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:48"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronaut Alan Bean's moon artifacts-turned-artist's tools 'hammer' in $1M at auction",
+    "Link": "https://www.collectspace.com/news/news-072926a-alan-bean-moon-artifacts-paintings-tools-auction.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-072926a-fb.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 10:59:56"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Discovery reveals rapid pathways to complex aromatic molecules in space",
+    "Link": "https://phys.org/news/2026-08-discovery-reveals-rapid-pathways-complex.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glycolysis_metabolic_pathway_3.svg/960px-Glycolysis_metabolic_pathway_3.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-28 10:59:59"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "JWST reveals a race against time for forming planets",
+    "Link": "https://phys.org/news/2026-08-jwst-reveals-planets.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/960px-WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-28 11:00:02"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Naked photobombing comet found in public image",
+    "Link": "https://phys.org/news/2026-08-naked-photobombing-comet-image.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/6min-RGB-C2023_P1_%28Nishimura%29.png/960px-6min-RGB-C2023_P1_%28Nishimura%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-28 11:00:04"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Lunar soil reads as a cosmic time capsule for exploding stars",
+    "Link": "https://phys.org/news/2026-08-lunar-soil-cosmic-capsule-stars.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/960px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-28 11:00:07"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+    "Link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:14"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "Link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "Link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:19"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+    "Link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+    "Link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:24"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "US Banks Join Forces to Build a Blockchain of Their Own",
+    "Link": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-28 11:00:31"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Price Prediction: ETF Moves From Zero to Hero in 3 Months",
+    "Link": "https://cryptonews.com/news/xrp-price-prediction-etf-inflows-2/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-27 05:39:48"
+    "Date": "2026-08-28 11:00:33"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Introducing Price Predictor: 10 seconds a day, and a free shot at 1 Bitcoin (BTC)",
-    "Link": "https://blog.kraken.com/product/promotions/price-predictor",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/Blog_3070x1400-5-1024x467.png",
+    "Title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+    "Link": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/bank-of-england-decrypt-style-2-gID_7.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:00"
+    "Date": "2026-08-28 11:00:35"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "TMX is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/tmx-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/f88ff9a2-39b9-4b03-ad63-5535df9c7ede.png",
+    "Title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
+    "Link": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:02"
+    "Date": "2026-08-28 11:00:38"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Introducing AI side panel assistant: our new in-chart analyst on Kraken Pro",
-    "Link": "https://blog.kraken.com/product/pro/introducing-ai-side-panel-assistant",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/Blog_3070x1400-3-1024x467.png",
+    "Title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
+    "Link": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-whale-decrypt-style-01-gID_7.png",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:05"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "USDSM is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/usdsm-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/00a960bc-c6aa-4114-902e-d5d823557b67.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:07"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "DGAI is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/dgai-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/08/9ccc0f25-4f2c-460c-8ee9-a41c45767468.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:10"
-  },
-  {
-    "Topic": "General News",
-    "Title": "The haunting Masters meltdown that changed Rory McIlroy's career",
-    "Link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330100858-20230330-rory-mcllroy-masters-restricted.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:19"
-  },
-  {
-    "Topic": "General News",
-    "Title": "What to know about the Trump indictment on the eve of his court appearance",
-    "Link": "https://www.cnn.com/collections/intl-trump-040223/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-08-27 05:40:22"
-  },
-  {
-    "Topic": "General News",
-    "Title": "READ: Trump indictment related to hush money payment",
-    "Link": "https://cnn.it/411KYN7",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404161048-02-trump-indictment-unsealed.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:26"
-  },
-  {
-    "Topic": "General News",
-    "Title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
-    "Link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230327100109-ptsd-soldier-ukraine.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:30"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
-    "Link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403114022-micron-technology-building-file.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:33"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Apple should make a Mac Neo to fill the void left by the more expensive Mac mini",
-    "Link": "https://www.engadget.com/2244605/apple-should-make-a-mac-neo/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/apple-should-make-a-mac-neo-to-fill-the-void-left-by-the-more-expensive-mac-mini/l-intro-1787756051.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:40"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
-    "Link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
-    "ImageUrl": "https://media.wired.com/photos/6a8e03bdbe28f254582eb85b/191:100/w_1280,c_limit/These-Early-Labor-Day-Kitchen-Deals-Are-Perfect-for-the-Fall-Reset.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:43"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale",
-    "Link": "https://www.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/en/headerimage/beyond-offset-lag-kafka-apache-hudi-header-1787577734265.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:46"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities",
-    "Link": "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/news/2026/08/duckdb-v2-distributed/en/card_header_image/generatedCard-1787634613455.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:49"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
-    "Link": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/meta-reportedly-abandoned-an-ai-focused-restructuring-plan-that-would-have-laid-off-thousands/l-intro-1787765724.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:40:52"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A Solar System in the making? Two planets spotted forming in disc around young star",
-    "Link": "https://www.eso.org/public/news/eso2604/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2604a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:04"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronomers discover a new kind of cosmic object – a black hole ‘star’",
-    "Link": "https://www.theguardian.com/science/2026/aug/12/astronomy-discovery-new-cosmic-object-black-hole-star",
-    "ImageUrl": "https://i.guim.co.uk/img/media/bc265ad622221d0cdf45ab8753684801921632bc/0_699_2540_2030/master/2540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23cdee0cf95a0977eddff41548a87d69",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:07"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronomers detect fastest known star in Milky Way",
-    "Link": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
-    "ImageUrl": "https://i.guim.co.uk/img/media/b178f8f4542aa44e213da91e90deba77bee34c37/0_436_3912_3129/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3c6918928612a0117e267b70cab4c6e",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:10"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Largest image of its kind shows hidden chemistry at the heart of the Milky Way",
-    "Link": "https://www.eso.org/public/news/eso2603/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2603a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:14"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "First light for PoET: shining (sun)light on exoplanet research",
-    "Link": "https://www.eso.org/public/news/eso2605/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2605a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:20"
+    "Date": "2026-08-28 11:00:40"
   },
   {
     "Topic": "Movies",
-    "Title": "HACKED: A DOUBLE ENTENDRE OF RAGE-FUELED KARMA Tells the Story of a Filmmaker Scorn - But It's Funny",
-    "Link": "https://www.aintitcool.com/interview-shane-brady-christopher-dudley-mceric-83652/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/mceric/hacked_poster_huge.jpg",
+    "Title": "Check Out This Trailer for APPOFENIACS!!",
+    "Link": "https://www.aintitcool.com/appofeniacstrailer2026-83659/?utm_source=full-feed&utm_medium=feed&utm_term=coolnews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/appofeniacs10_huge.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:29"
+    "Date": "2026-08-28 11:00:57"
   },
   {
     "Topic": "Movies",
-    "Title": "Sacha Baron Cohen Returns in 'Ali G: Who Iz I?' Sequel Official Trailer",
-    "Link": "https://www.firstshowing.net/2026/sacha-baron-cohen-returns-in-ali-g-who-iz-i-sequel-official-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/aligwhoizitrailer1mainbigposttw.jpg",
+    "Title": "Netflix’s New ‘A Quiet Place’ Replacement Officially Scores 70 Million Views in 3 Weeks",
+    "Link": "https://collider.com/netflix-the-last-house-sci-fi-blockbuster-streaming-success-august-2026/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/greta-lee-the-last-house.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:33"
+    "Date": "2026-08-28 11:01:00"
   },
   {
     "Topic": "Movies",
-    "Title": "Michael Jai White in Action Thriller Movie 'Drive Through Fire' Trailer",
-    "Link": "https://www.firstshowing.net/2026/michael-jai-white-in-action-thriller-movie-drive-through-fire-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/drivethroughfirepostermainbigtw2.jpg",
+    "Title": "UNDERTONE: The “Scariest Film You’ll Ever Hear” Doesn’t Quite Hit the Right Note",
+    "Link": "https://www.aintitcool.com/undertonereview2026-83643/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/8864814b-f3a7-9672-d6fb-085ab3ad137a_huge.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:36"
+    "Date": "2026-08-28 11:01:02"
   },
   {
     "Topic": "Movies",
-    "Title": "Best TV Shows of 2026: New Series to Watch Now",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-new-tv-series-shows/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/lanterns-s1-600x314-1.jpg?w=600",
+    "Title": "Netflix’s Spiritual Successor to ‘Narcos’ Officially Becomes a Streaming Sensation",
+    "Link": "https://collider.com/netflix-facing-el-chapo-streaming-success-august-2026/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/facing-el-chapo-1.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:38"
+    "Date": "2026-08-28 11:01:05"
   },
   {
     "Topic": "Movies",
-    "Title": "Best New Horror Movies of 2026",
-    "Link": "https://editorial.rottentomatoes.com/guide/best-new-horror-movies-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/BUDDY-thumb.jpg?w=600",
+    "Title": "Netflix's 'The Whisper Man' Revives the '90s Serial Killer Film Formula | Review",
+    "Link": "https://collider.com/the-whisper-man-netflix-thriller-robert-de-niro-adam-scott-review/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-whisper-man-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-08-27 05:41:41"
+    "Date": "2026-08-28 11:01:08"
   }
 ]
