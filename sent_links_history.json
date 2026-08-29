@@ -1,145 +1,5 @@
 [
   {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/cevm09wkgz0o",
-    "SentDate": "2026-07-30 03:47:30"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/clyx85z1ld5o",
-    "SentDate": "2026-07-30 03:47:32"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/sport/cricket/articles/c5yvp474rpro",
-    "SentDate": "2026-07-30 03:47:34"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/clyx8j33k7zo",
-    "SentDate": "2026-07-30 03:47:37"
-  },
-  {
-    "CanonicalKey": "https://bbc.co.uk/news/articles/c1e1g5vjn4jo",
-    "SentDate": "2026-07-30 03:47:39"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/building-browser-using-ai-agents-in-python",
-    "SentDate": "2026-07-30 03:47:49"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty",
-    "SentDate": "2026-07-30 03:47:52"
-  },
-  {
-    "CanonicalKey": "https://pyimagesearch.com/2026/06/01/apache-airflow-document-ingestion-pipeline-for-rag-systems",
-    "SentDate": "2026-07-30 03:47:55"
-  },
-  {
-    "CanonicalKey": "https://pyimagesearch.com/2026/07/12/building-multimodal-ai-applications-with-gemma-4-and-transformers",
-    "SentDate": "2026-07-30 03:47:57"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation",
-    "SentDate": "2026-07-30 03:48:01"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-    "SentDate": "2026-07-30 03:48:08"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/06/236000-crypto-scam-sites-trace-back-to.html",
-    "SentDate": "2026-07-30 03:48:11"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/06/ethereums-most-notorious-front-running.html",
-    "SentDate": "2026-07-30 03:48:15"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
-    "SentDate": "2026-07-30 03:48:17"
-  },
-  {
-    "CanonicalKey": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-    "SentDate": "2026-07-30 03:48:20"
-  },
-  {
-    "CanonicalKey": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873",
-    "SentDate": "2026-07-30 03:48:32"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/tv/trailers/2169019-its-always-sunny-in-philadelphia-season-18-trailer",
-    "SentDate": "2026-07-30 03:48:34"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/games/news/2169137-terminator-call-of-duty-mobile-season-7-crossover",
-    "SentDate": "2026-07-30 03:48:37"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/tv/news/2169140-chad-powers-season-2-glen-powell-first-look",
-    "SentDate": "2026-07-30 03:48:40"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755",
-    "SentDate": "2026-07-30 03:48:42"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/crypto/articles/worlds-most-profitable-airline-now-181500999.html",
-    "SentDate": "2026-07-30 03:48:51"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/ranger-energy-services-inc-q2-123000454.html",
-    "SentDate": "2026-07-30 03:48:54"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/principal-financial-group-inc-q2-123000540.html",
-    "SentDate": "2026-07-30 03:48:57"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/nucor-corporation-q2-2026-earnings-123000833.html",
-    "SentDate": "2026-07-30 03:49:00"
-  },
-  {
-    "CanonicalKey": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-corporation-q2-2026-123000837.html",
-    "SentDate": "2026-07-30 03:49:03"
-  },
-  {
-    "CanonicalKey": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
-    "SentDate": "2026-07-30 03:49:11"
-  },
-  {
-    "CanonicalKey": "https://nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
-    "SentDate": "2026-07-30 03:49:13"
-  },
-  {
-    "CanonicalKey": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons",
-    "SentDate": "2026-07-30 03:49:15"
-  },
-  {
-    "CanonicalKey": "https://nasa.gov/blogs/spacestation/2026/07/26/expedition-74-trio-returning-to-earth-soon-in-soyuz-on-nasa",
-    "SentDate": "2026-07-30 03:49:17"
-  },
-  {
-    "CanonicalKey": "https://cbsnews.com/news/spacex-giant-super-heavy-starship-rocket-test-flight",
-    "SentDate": "2026-07-30 03:49:20"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them",
-    "SentDate": "2026-07-30 03:49:28"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth",
-    "SentDate": "2026-07-30 03:49:30"
-  },
-  {
-    "CanonicalKey": "https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o",
-    "SentDate": "2026-07-30 03:49:33"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play",
-    "SentDate": "2026-07-30 03:49:36"
-  },
-  {
-    "CanonicalKey": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case",
-    "SentDate": "2026-07-30 03:49:39"
-  },
-  {
     "CanonicalKey": "https://mashable.com/tech/martha-stewart-hint-ai-home-app",
     "SentDate": "2026-07-31 04:01:23"
   },
@@ -4490,5 +4350,161 @@
   {
     "CanonicalKey": "https://collider.com/the-whisper-man-netflix-thriller-robert-de-niro-adam-scott-review",
     "SentDate": "2026-08-28 11:01:08"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/major-casino-operator-discloses-substantial-doubt-over-future-debt-pressures-mount",
+    "SentDate": "2026-08-29 09:38:24"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/dicks-sporting-goods-stock-plunges-retailer-warns-athleticwear-demand-weakening",
+    "SentDate": "2026-08-29 09:38:28"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/news/4638021-gold-plunges-as-warshs-jackson-hole-inflation-concerns-spark-rate-hike-bets",
+    "SentDate": "2026-08-29 09:38:31"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/news/4638033-u-s-secures-65b-barrels-of-oil-reserves-from-venezuela-trump-announces",
+    "SentDate": "2026-08-29 09:38:38"
+  },
+  {
+    "CanonicalKey": "https://seekingalpha.com/news/4638032-oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels",
+    "SentDate": "2026-08-29 09:38:47"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
+    "SentDate": "2026-08-29 09:38:55"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
+    "SentDate": "2026-08-29 09:38:58"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260504023844.htm",
+    "SentDate": "2026-08-29 09:39:01"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/01/260105165815.htm",
+    "SentDate": "2026-08-29 09:39:04"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260406192904.htm",
+    "SentDate": "2026-08-29 09:39:06"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+    "SentDate": "2026-08-29 09:39:21"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+    "SentDate": "2026-08-29 09:39:24"
+  },
+  {
+    "CanonicalKey": "https://investinglive.com/technical-analysis/audusd-corrects-lower-but-keeps-bullish-bias-the-200-hour-ma-is-eyed-as-a-key-barometer-now",
+    "SentDate": "2026-08-29 09:39:28"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
+    "SentDate": "2026-08-29 09:39:33"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
+    "SentDate": "2026-08-29 09:39:36"
+  },
+  {
+    "CanonicalKey": "https://sciencenews.org/article/ai-task-completion-ability-space-scifi",
+    "SentDate": "2026-08-29 09:39:45"
+  },
+  {
+    "CanonicalKey": "https://astronomy.com/today-in-the-history-of-astronomy/aug-28-1993-an-asteroid-harbors-a-surprise",
+    "SentDate": "2026-08-29 09:39:48"
+  },
+  {
+    "CanonicalKey": "https://astronomy.com/space-exploration/cast-your-vote-to-name-virgin-galactics-next-spaceplane",
+    "SentDate": "2026-08-29 09:39:51"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans",
+    "SentDate": "2026-08-29 09:39:54"
+  },
+  {
+    "CanonicalKey": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
+    "SentDate": "2026-08-29 09:39:56"
+  },
+  {
+    "CanonicalKey": "https://hollywoodreporter.com/movies/movie-news/top-toronto-party-host-studio-bashes-1236684498",
+    "SentDate": "2026-08-29 09:40:06"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/official-trailer-for-jay-z-in-8-doc-series-in-convo-with-rick-rubin",
+    "SentDate": "2026-08-29 09:40:09"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/official-trailer-for-john-wilsons-the-history-of-concrete-nyc-doc",
+    "SentDate": "2026-08-29 09:40:13"
+  },
+  {
+    "CanonicalKey": "https://hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274",
+    "SentDate": "2026-08-29 09:40:16"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/full-trailer-for-sorkins-the-social-reckoning-starring-jeremy-strong",
+    "SentDate": "2026-08-29 09:40:19"
+  },
+  {
+    "CanonicalKey": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched",
+    "SentDate": "2026-08-29 09:40:28"
+  },
+  {
+    "CanonicalKey": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+    "SentDate": "2026-08-29 09:40:30"
+  },
+  {
+    "CanonicalKey": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems",
+    "SentDate": "2026-08-29 09:40:33"
+  },
+  {
+    "CanonicalKey": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
+    "SentDate": "2026-08-29 09:40:36"
+  },
+  {
+    "CanonicalKey": "https://stratechery.com/2026/internet-hype-and-real-world-change",
+    "SentDate": "2026-08-29 09:40:40"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time",
+    "SentDate": "2026-08-29 09:40:50"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone",
+    "SentDate": "2026-08-29 09:40:57"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole",
+    "SentDate": "2026-08-29 09:41:01"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway",
+    "SentDate": "2026-08-29 09:41:06"
+  },
+  {
+    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tki9pl416/bps-tegaskan-sensus-ekonomi-2026-tak-ada-urusan-dengan-pajak",
+    "SentDate": "2026-08-29 09:41:19"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/world/venezuela/us-entered-deal-venezuela-take-control-65-billion-barrels-oil-reserves-rcna594966",
+    "SentDate": "2026-08-29 09:41:22"
+  },
+  {
+    "CanonicalKey": "https://nbcnews.com/nightly-news/video/urgent-rescue-effort-after-deadly-flood-disaster-269036101747",
+    "SentDate": "2026-08-29 09:41:25"
+  },
+  {
+    "CanonicalKey": "https://news.republika.co.id/berita/tkif92484/kemenhan-jepang-kirim-tiga-helikopter-chinook-bantu-atasi-karhutla-di-kalimantan",
+    "SentDate": "2026-08-29 09:41:29"
+  },
+  {
+    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tkidwf484/mulai-15-september-2026-whoosh-jadi-tanggung-jawab-kemenkeu",
+    "SentDate": "2026-08-29 09:41:32"
   }
 ]
