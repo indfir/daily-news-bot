@@ -1,314 +1,274 @@
 [
   {
-    "Topic": "Economy",
-    "Title": "Major casino operator discloses ‘substantial doubt’ over future as debt pressures mount",
-    "Link": "https://www.foxbusiness.com/markets/major-casino-operator-discloses-substantial-doubt-over-future-debt-pressures-mount",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/ballys-casino-chicago-01.jpg?ve=1&amp;tl=1",
+    "Topic": "Data / AI",
+    "Title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "Link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:24"
+    "Date": "2026-08-30 05:11:20"
   },
   {
-    "Topic": "Economy",
-    "Title": "Dick's Sporting Goods stock plunges as retailer warns athleticwear demand is weakening",
-    "Link": "https://www.foxbusiness.com/markets/dicks-sporting-goods-stock-plunges-retailer-warns-athleticwear-demand-weakening",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Dicks-Sporting-Goods-store.jpg?ve=1&amp;tl=1",
+    "Topic": "Data / AI",
+    "Title": "Apple's new desktop computers are designed specifically for local AI development",
+    "Link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:28"
+    "Date": "2026-08-30 05:11:23"
   },
   {
-    "Topic": "Economy",
-    "Title": "Gold plunges as Warsh’s Jackson Hole inflation concerns spark rate hike bets",
-    "Link": "https://seekingalpha.com/news/4638021-gold-plunges-as-warshs-jackson-hole-inflation-concerns-spark-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1264928464/image_1264928464.jpg?io=getty-c-w630",
+    "Topic": "Data / AI",
+    "Title": "Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?",
+    "Link": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-ollama-lm-studio-llama-cpp-comparison-feature-scaled.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:31"
+    "Date": "2026-08-30 05:11:25"
   },
   {
-    "Topic": "Economy",
-    "Title": "U.S. secures 65B barrels of oil reserves in sweeping deal with Venezuela, Trump announces",
-    "Link": "https://seekingalpha.com/news/4638033-u-s-secures-65b-barrels-of-oil-reserves-from-venezuela-trump-announces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "Topic": "Data / AI",
+    "Title": "The Local AI Stack for Productive SLMs",
+    "Link": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-chugani-local-ai-stack-productive-slms-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:28"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "Link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:31"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A New Towards Data Science: A Faster Site and a Brand-New Contributor Portal",
+    "Link": "https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal/",
+    "ImageUrl": "https://assets.insightmediagroup.io/media/1787579168793_1wr6qr.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:39"
+  },
+  {
+    "Topic": "Science",
+    "Title": "4 Claude Skills Every Data Scientist Needs in 2026",
+    "Link": "https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/",
+    "ImageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/Screenshot-2026-08-22-at-8.21.59-PM.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "28 startups using AI to transform the energy sector",
+    "Link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+    "Link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars-1152x648.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:54"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "7 ways to kick-start back to school using Gemini in Workspace",
+    "Link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:57"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+    "Link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:11:59"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+    "Link": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-1440x810.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:02"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "On Long-Term Cryptocurrency Distribution Models",
+    "Link": "https://blog.ethereum.org/en/2014/05/24/on-long-term-cryptocurrency-distribution-models",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:09"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "EF-Supported Teams: Research & Development Update",
+    "Link": "https://blog.ethereum.org/en/2020/04/14/ef-supported-teams-research-and-development-update-2020-pt-1",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/upload_c91594eb79e6dca4c4b5faa979b31317.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:11"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum price forms ascending triangle below $2,533",
+    "Link": "https://crypto.news/ethereum-price-forms-ascending-triangle-below-2533/",
+    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-Ethereum-community-option01.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:13"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "‘Game On’ for Cardano (ADA) Once It Crosses This Key Level: Analyst",
+    "Link": "https://cryptopotato.com/game-on-for-cardano-ada-once-it-crosses-this-key-level-analyst/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/02/ADA_CB-5.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "From Jane Street's $40 Billion to the $193 Futures Evaluation: Prop Trading's Two Ends",
+    "Link": "https://www.financemagnates.com/forex/from-jane-streets-40-billion-to-the-193-futures-evaluation-prop-tradings-two-ends/",
+    "ImageUrl": "https://images.financemagnates.com/images/Jane%20Street%20website%20showing%20company%20values%20%28shutterstock%29_id_a03cbaf7-7cb8-4c04-9514-ce8945812433_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:19"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+    "Link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5028x2828+0+262/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2Fd4%2F4e291a16472995e0d9a2262fc621%2Fgettyimages-1353669539.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:35"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Alumni HMI MPO Bahas Kepemimpinan Prabowo dan Peran Masyarakat dalam Menjaga Kedaulatan",
+    "Link": "https://www.tribunnews.com/nasional/7875238/alumni-hmi-mpo-bahas-kepemimpinan-prabowo-dan-peran-masyarakat-dalam-menjaga-kedaulatan",
+    "ImageUrl": "https://asset.tribunnews.com/BPw4NdNkVHnQLw4ZvCb2WDProf4=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/Jaringan-Nasional-Alumni-HMI-MPO-menggelar-Seminar-Kebangsaan.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:12:51"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+    "Link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4854x2730+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F0a%2F08856ec44cb6b0439cd340b4ea99%2Fap26240757900206.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:05"
+  },
+  {
+    "Topic": "General News",
+    "Title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
+    "Link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F6b%2Fabc381304da49a831c1f29b0c298%2Fll-yll4134-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": " Nissan management shake-up plans reported as sharks circle   ",
+    "Link": "https://www.japantimes.co.jp/business/2025/02/27/companies/nissan-ceo-change/",
+    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/02/27/454474.jpg?v=3.1",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘MobLand’ Season 2 Release Date: When Does Tom Hardy’s Hit Series Return With New Episodes?",
+    "Link": "https://decider.com/2026/08/29/mobland-season-2-release-date-tom-hardy-mobland-new-episodes-return-date/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/08/MobLand-S2.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:19"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Halo, Warcraft, & More Xbox Video Games Could Soon Get New Movie & TV Show Adaptations",
+    "Link": "https://www.comingsoon.net/movies/news/2183576-halo-warcraft-more-xbox-video-games-could-soon-get-new-movie-tv-show-adaptations",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/07/halo-campaign-evolved-logo.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:21"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Indie Sci-Fi Survival Film 'After Impact' Trailer Starring Michiel Rensen",
+    "Link": "https://www.firstshowing.net/2026/indie-sci-fi-survival-film-after-impact-trailer-starring-michiel-rensen/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/afterimpactpostermainbigimgtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:24"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Paramount May Be Losing the Rights to Beavis and Butt-Head Next Year, Here’s Why",
+    "Link": "https://www.comingsoon.net/tv/news/2183555-paramount-may-be-losing-the-rights-to-beavis-and-butt-head-next-year-heres-why",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/beavis-and-butthead-still.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:26"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Funny Trailer for Youth Comedy 'Tiny Fugitives' with Johnny Knoxville",
+    "Link": "https://www.firstshowing.net/2026/funny-trailer-for-youth-comedy-tiny-fugitives-with-johnny-knoxville/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/tinyfugitivestrailer1mainimgtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:29"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The Moon Rush Is On.  Are We on Earth Ready For That?",
+    "Link": "https://manyworlds.space/2023/08/30/the-moon-rush-is-on-are-we-on-earth-ready-for-that/",
+    "ImageUrl": "https://manyworlds.space/wp-content/uploads/2023/10/e9da7-hny7jk8dafwhc4wxfsaqvu-1920-80.jpg.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:37"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Artemis II Astronauts Back in Houston, Reunite with Families ",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/04/11/artemis-ii-astronauts-back-in-houston-reunite-with-families/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/jsc2026e022315-3-e1775949071664.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:40"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Mobile Launcher Rolls Ahead of Artemis III Preparation",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/04/16/nasas-mobile-launcher-rolls-ahead-of-artemis-iii-preparation/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/image-6.png",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:42"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Joins Artemis III Orion Modules; Rocket Hardware Update",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-08-30 05:13:44"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Spying on a Split Comet",
+    "Link": "https://skyandtelescope.org/astronomy-news/spying-on-a-split-comet/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-08-29 09:38:38"
+    "Date": "2026-08-30 05:13:47"
   },
   {
     "Topic": "Economy",
-    "Title": "Oil futures fall as Persian Gulf exports may have recovered to two-thirds of pre-war levels",
-    "Link": "https://seekingalpha.com/news/4638032-oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w630",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:47"
+    "Title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "Link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4881999",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-08-30 05:13:56"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "I Tried Kimi Agent and Here’s What I Found",
-    "Link": "https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-I-Tried-Kimi-Agent-and-Heres-What-I-Found-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:55"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "How to Leverage Local Small Language Models for Your Projects",
-    "Link": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-chugani-leverage-local-small-language-models-projects-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:38:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI lets chemists design molecules by simply describing them",
-    "Link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/synthegy-development.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Scientists create robots smaller than a grain of salt that can think",
-    "Link": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/worlds-smallest-autonomous-robot.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "This new chip survives 1300°F (700°C) and could change AI forever",
-    "Link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/hot-lava-computer-memory-chip.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:06"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-    "Link": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:21"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-    "Link": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AUDUSD corrects lower but keeps bullish bias.  The 200 hour MA is eyed as a key barometer now ",
-    "Link": "https://investinglive.com/technical-analysis/audusd-corrects-lower-but-keeps-bullish-bias-the-200-hour-ma-is-eyed-as-a-key-barometer-now/",
-    "ImageUrl": "https://investinglive.com/cms/media/Processed/Categories/featured/AUDUSD%20moves%20lower%20but%20work%20to%20do-featured-1787944887.jpg?width=960&amp;format=webp",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-    "Link": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-    "Link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:36"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "AI is not ready to fly solo in space",
-    "Link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/0826_tech-fic.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:45"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Aug. 28, 1993: An asteroid harbors a surprise",
-    "Link": "https://www.astronomy.com/today-in-the-history-of-astronomy/aug-28-1993-an-asteroid-harbors-a-surprise/",
-    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2025/08/NASA-P40450_640.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:48"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Cast your vote to name Virgin Galactic’s next spaceplane",
-    "Link": "https://www.astronomy.com/space-exploration/cast-your-vote-to-name-virgin-galactics-next-spaceplane/",
-    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/08/TGP_VirginGalacticBrand_1402-v3__1_.webp?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:51"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-    "Link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
-    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/08/space-angel-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:54"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-    "Link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
-    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/latconnect60-logo.png?fit=388%2C388&ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:39:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Top Toronto Fest Party Host Expects More Studio Bashes, Tighter Budgets: “No One Is Throwing Money Around”",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/top-toronto-party-host-studio-bashes-1236684498/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/px_6E83E.jpg?crop=0px%2C178px%2C640px%2C358px&#038;resize=1440%2C810",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:06"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official Trailer for 'JAŸ-Z in 8' Doc Series - In Convo with Rick Rubin",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-jay-z-in-8-doc-series-in-convo-with-rick-rubin/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/jayzin8docpostermainimgbigtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:09"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Official Trailer for John Wilson's 'The History of Concrete' NYC Doc",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-john-wilsons-the-history-of-concrete-nyc-doc/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/historyofconcreteposterbigmtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:13"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Roger Waters, Guy Pearce, Annie Ernaux Urge Venice Fest to Take “Concrete Action” for Palestine in Open Letter",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Roger-Waters-Guy-Pearce-Annie-Ernaux-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Full Trailer for Sorkin's 'The Social Reckoning' Starring Jeremy Strong",
-    "Link": "https://www.firstshowing.net/2026/full-trailer-for-sorkins-the-social-reckoning-starring-jeremy-strong/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/thesocialrecktrailer2mainimgtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-    "Link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:28"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to bring your software delivery workflow into GitHub with agent apps",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-copilot-logo-github.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:30"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
-    "Link": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-    "ImageUrl": "https://stratechery.com/wp-content/uploads/2022/09/ai-11-1024x75.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:33"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "What 50 open source projects taught us about security in the AI era",
-    "Link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/02/header.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "2026.35: Internet Hype and Real World Change",
-    "Link": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
-    "ImageUrl": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/08/GettyImages-2277371187-scaled.jpg?fit=1200%2C801&#038;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:40"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Researchers get two genetic codes to work at the same time",
-    "Link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:50"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Putting mice into hibernation causes a major loss of synapses",
-    "Link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:40:57"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists find closest star to the Milky Way's central black hole",
-    "Link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-2-1152x559.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:01"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Trump tried to curb clean energy. It’s booming anyway.",
-    "Link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:06"
-  },
-  {
-    "Topic": "General News",
-    "Title": "BPS Tegaskan Sensus Ekonomi 2026 tak Ada Urusan dengan Pajak",
-    "Link": "https://ekonomi.republika.co.id/berita/tki9pl416/bps-tegaskan-sensus-ekonomi-2026-tak-ada-urusan-dengan-pajak",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/082260500-1781622627-830-556.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:19"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Trump says U.S. has struck deal with Venezuela to take control of 65 billion barrels of oil reserves",
-    "Link": "https://www.nbcnews.com/world/venezuela/us-entered-deal-venezuela-take-control-65-billion-barrels-oil-reserves-rcna594966",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260107-venezuela-oil-ch-1206-484cd8.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:22"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Urgent rescue effort after deadly flood disaster",
-    "Link": "https://www.nbcnews.com/nightly-news/video/urgent-rescue-effort-after-deadly-flood-disaster-269036101747",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_08/1787959527877_nn_jmf_NepalFloods_260828_S3_1920x1080-g38l4e.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:25"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Kemenhan Jepang Kirim Tiga Helikopter Chinook Bantu Atasi Karhutla di Kalimantan",
-    "Link": "https://news.republika.co.id/berita/tkif92484/kemenhan-jepang-kirim-tiga-helikopter-chinook-bantu-atasi-karhutla-di-kalimantan",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_260829093456-584.png",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:29"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Mulai 15 September 2026, Whoosh Jadi Tanggung Jawab Kemenkeu",
-    "Link": "https://ekonomi.republika.co.id/berita/tkidwf484/mulai-15-september-2026-whoosh-jadi-tanggung-jawab-kemenkeu",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/011496700-1780650814-830-556.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-08-29 09:41:32"
+    "Topic": "Economy",
+    "Title": "Turkey tightens hedge fund rules amid concerns over market manipulation",
+    "Link": "https://www.investing.com/news/stock-market-news/turkey-tightens-hedge-fund-rules-amid-concerns-over-market-manipulation-4881956",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg/960px-Lehman_Brothers_Times_Square_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-08-30 05:13:59"
   }
 ]

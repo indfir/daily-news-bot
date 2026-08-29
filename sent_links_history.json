@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://mashable.com/tech/martha-stewart-hint-ai-home-app",
-    "SentDate": "2026-07-31 04:01:23"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/july-30-best-dyson-vacuum-deals-this-week",
-    "SentDate": "2026-07-31 04:01:25"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/july-30-samsung-ssd-deal",
-    "SentDate": "2026-07-31 04:01:28"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/july-30-abok-ark-3600-power-station-deal",
-    "SentDate": "2026-07-31 04:01:31"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/july-29-hisense-tv-deal",
-    "SentDate": "2026-07-31 04:01:33"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4912/1",
-    "SentDate": "2026-07-31 04:01:43"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5265/1",
-    "SentDate": "2026-07-31 04:01:46"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5014/1",
-    "SentDate": "2026-07-31 04:01:50"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4619/1",
-    "SentDate": "2026-07-31 04:01:53"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4650/1",
-    "SentDate": "2026-07-31 04:01:56"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
-    "SentDate": "2026-07-31 04:02:08"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-    "SentDate": "2026-07-31 04:02:11"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
-    "SentDate": "2026-07-31 04:02:14"
-  },
-  {
-    "CanonicalKey": "https://coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-    "SentDate": "2026-07-31 04:02:17"
-  },
-  {
-    "CanonicalKey": "https://tradersdna.com/vehicle-equipment-finance-explained-options-for-growing-businesses",
-    "SentDate": "2026-07-31 04:02:20"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations",
-    "SentDate": "2026-07-31 04:02:29"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/07/28/snowflake-debuts-cortex-ai-gateway-govern-monitor-enterprise-ai-agents",
-    "SentDate": "2026-07-31 04:02:31"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/07/29/snaplogic-transforms-snapgpt-high-powered-agentic-assistant-entire-integration-lifecycle",
-    "SentDate": "2026-07-31 04:02:34"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/07/27/ilya-sutskevers-safe-superintelligence-gets-access-nvidias-vera-rubin-platform",
-    "SentDate": "2026-07-31 04:02:37"
-  },
-  {
-    "CanonicalKey": "https://fastcompany.com/91580979/ai-token-openai-anthropic-corporate",
-    "SentDate": "2026-07-31 04:02:39"
-  },
-  {
-    "CanonicalKey": "https://decider.com/2026/07/30/watch-sheep-in-the-box-movie-streaming-netflix-amazon-prime-video",
-    "SentDate": "2026-07-31 04:02:47"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2225167/best-star-wars-books-disney-adapt-movies-tv-shows",
-    "SentDate": "2026-07-31 04:02:50"
-  },
-  {
-    "CanonicalKey": "https://decider.com/2026/07/30/is-netflixs-the-bombing-of-pan-am-103-based-on-a-true-story",
-    "SentDate": "2026-07-31 04:02:53"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2225551/emmy-rossum-2026-crime-series-furious-streaming-hulu",
-    "SentDate": "2026-07-31 04:02:56"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2225739/exodus-x-men-97-marvel-comics-villain-explained",
-    "SentDate": "2026-07-31 04:02:58"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61",
-    "SentDate": "2026-07-31 04:03:14"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55",
-    "SentDate": "2026-07-31 04:03:20"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77",
-    "SentDate": "2026-07-31 04:03:41"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2",
-    "SentDate": "2026-07-31 04:03:44"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346",
-    "SentDate": "2026-07-31 04:03:48"
-  },
-  {
-    "CanonicalKey": "https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean",
-    "SentDate": "2026-07-31 04:03:57"
-  },
-  {
-    "CanonicalKey": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain",
-    "SentDate": "2026-07-31 04:04:01"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
-    "SentDate": "2026-07-31 04:04:04"
-  },
-  {
-    "CanonicalKey": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026",
-    "SentDate": "2026-07-31 04:04:08"
-  },
-  {
-    "CanonicalKey": "https://sciencenews.org/article/new-monkey-species-endangered",
-    "SentDate": "2026-07-31 04:04:12"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260729/opinion-french-politicians-are-failing-their-trial-by-wildfire",
-    "SentDate": "2026-07-31 04:04:23"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260728/german-government-promises-tougher-laws-after-attack-on-berlins-pride",
-    "SentDate": "2026-07-31 04:04:30"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260729/woman-and-child-still-missing-after-boat-accident-off-swedish-coast",
-    "SentDate": "2026-07-31 04:04:36"
-  },
-  {
-    "CanonicalKey": "https://thelocal.com/20260727/the-story-behind-the-viral-photo-of-french-wildfires",
-    "SentDate": "2026-07-31 04:04:40"
-  },
-  {
-    "CanonicalKey": "https://npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-    "SentDate": "2026-07-31 04:04:42"
-  },
-  {
     "CanonicalKey": "https://huggingface.co/blog/servicenow/pipelinerl",
     "SentDate": "2026-08-01 03:58:01"
   },
@@ -4506,5 +4346,141 @@
   {
     "CanonicalKey": "https://ekonomi.republika.co.id/berita/tkidwf484/mulai-15-september-2026-whoosh-jadi-tanggung-jawab-kemenkeu",
     "SentDate": "2026-08-29 09:41:32"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+    "SentDate": "2026-08-30 05:11:20"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
+    "SentDate": "2026-08-30 05:11:23"
+  },
+  {
+    "CanonicalKey": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026",
+    "SentDate": "2026-08-30 05:11:25"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/the-local-ai-stack-for-productive-slms",
+    "SentDate": "2026-08-30 05:11:28"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text",
+    "SentDate": "2026-08-30 05:11:31"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal",
+    "SentDate": "2026-08-30 05:11:39"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026",
+    "SentDate": "2026-08-30 05:11:44"
+  },
+  {
+    "CanonicalKey": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai",
+    "SentDate": "2026-08-30 05:11:52"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut",
+    "SentDate": "2026-08-30 05:11:54"
+  },
+  {
+    "CanonicalKey": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school",
+    "SentDate": "2026-08-30 05:11:57"
+  },
+  {
+    "CanonicalKey": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data",
+    "SentDate": "2026-08-30 05:11:59"
+  },
+  {
+    "CanonicalKey": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos",
+    "SentDate": "2026-08-30 05:12:02"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2014/05/24/on-long-term-cryptocurrency-distribution-models",
+    "SentDate": "2026-08-30 05:12:09"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2020/04/14/ef-supported-teams-research-and-development-update-2020-pt-1",
+    "SentDate": "2026-08-30 05:12:11"
+  },
+  {
+    "CanonicalKey": "https://crypto.news/ethereum-price-forms-ascending-triangle-below-2533",
+    "SentDate": "2026-08-30 05:12:13"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/game-on-for-cardano-ada-once-it-crosses-this-key-level-analyst",
+    "SentDate": "2026-08-30 05:12:16"
+  },
+  {
+    "CanonicalKey": "https://financemagnates.com/forex/from-jane-streets-40-billion-to-the-193-futures-evaluation-prop-tradings-two-ends",
+    "SentDate": "2026-08-30 05:12:19"
+  },
+  {
+    "CanonicalKey": "https://npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+    "SentDate": "2026-08-30 05:12:35"
+  },
+  {
+    "CanonicalKey": "https://tribunnews.com/nasional/7875238/alumni-hmi-mpo-bahas-kepemimpinan-prabowo-dan-peran-masyarakat-dalam-menjaga-kedaulatan",
+    "SentDate": "2026-08-30 05:12:51"
+  },
+  {
+    "CanonicalKey": "https://npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+    "SentDate": "2026-08-30 05:13:05"
+  },
+  {
+    "CanonicalKey": "https://npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+    "SentDate": "2026-08-30 05:13:08"
+  },
+  {
+    "CanonicalKey": "https://japantimes.co.jp/business/2025/02/27/companies/nissan-ceo-change",
+    "SentDate": "2026-08-30 05:13:11"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/08/29/mobland-season-2-release-date-tom-hardy-mobland-new-episodes-return-date",
+    "SentDate": "2026-08-30 05:13:19"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/movies/news/2183576-halo-warcraft-more-xbox-video-games-could-soon-get-new-movie-tv-show-adaptations",
+    "SentDate": "2026-08-30 05:13:21"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/indie-sci-fi-survival-film-after-impact-trailer-starring-michiel-rensen",
+    "SentDate": "2026-08-30 05:13:24"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/tv/news/2183555-paramount-may-be-losing-the-rights-to-beavis-and-butt-head-next-year-heres-why",
+    "SentDate": "2026-08-30 05:13:26"
+  },
+  {
+    "CanonicalKey": "https://firstshowing.net/2026/funny-trailer-for-youth-comedy-tiny-fugitives-with-johnny-knoxville",
+    "SentDate": "2026-08-30 05:13:29"
+  },
+  {
+    "CanonicalKey": "https://manyworlds.space/2023/08/30/the-moon-rush-is-on-are-we-on-earth-ready-for-that",
+    "SentDate": "2026-08-30 05:13:37"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/04/11/artemis-ii-astronauts-back-in-houston-reunite-with-families",
+    "SentDate": "2026-08-30 05:13:40"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/04/16/nasas-mobile-launcher-rolls-ahead-of-artemis-iii-preparation",
+    "SentDate": "2026-08-30 05:13:42"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update",
+    "SentDate": "2026-08-30 05:13:44"
+  },
+  {
+    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/spying-on-a-split-comet",
+    "SentDate": "2026-08-30 05:13:47"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4881999",
+    "SentDate": "2026-08-30 05:13:56"
+  },
+  {
+    "CanonicalKey": "https://investing.com/news/stock-market-news/turkey-tightens-hedge-fund-rules-amid-concerns-over-market-manipulation-4881956",
+    "SentDate": "2026-08-30 05:13:59"
   }
 ]
