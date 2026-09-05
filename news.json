@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "Mars's Interior is 400°C Hotter Under Southern Hemisphere",
-    "Link": "https://www.universetoday.com/articles/marss-interior-is-400c-hotter-under-southern-hemisphere",
-    "ImageUrl": "https://www.universetoday.com/article_images/image001_uZjYoHK.c1be2478.width-450_20260901_043011.png",
+    "Topic": "Science",
+    "Title": "New injectable treatment helps the brain rebuild after stroke",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-stroke-x-ray.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:18"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Penultimate Lunar Occultations Inbound for Jupiter, Venus and More in September",
-    "Link": "https://www.universetoday.com/articles/penultimate-lunar-occultations-inbound-for-jupiter-venus-and-more-in-september",
-    "ImageUrl": "https://www.universetoday.com/article_images/52904206092_60ee2f3cbd_c_20260903_145434.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "For nearly 50 years, Venus’s clouds have been understood as droplets of concentrated sulfuric acid—but a 2025 reinterpretation of data inadvertently collected by NASA’s Pioneer Venus Large Probe in 1978 suggests their aerosols may instead be about 60 per cent bound water by mass, locked largely inside hydrated iron and magnesium salts.",
-    "Link": "https://spacedaily.com/t-pioneer-venus-clouds-bound-water-hydrated-salts/",
-    "ImageUrl": "https://spacedaily.com/wp-content/uploads/2026/09/pioneer-venus-bound-water-clouds-pexels-20376411.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:23"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "New Research Shows How Mercury's Crust Formed by Extreme Volcanism",
-    "Link": "https://www.universetoday.com/articles/new-research-shows-how-mercurys-crust-formed-by-extreme-volcanism",
-    "ImageUrl": "https://www.universetoday.com/article_images/This-false-color-view-of-Mercury-was-produced-by-using-images-obtained-by-the-MESSENGER_20260902_152340.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
-    "Link": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
-    "ImageUrl": "https://www.universetoday.com/article_images/Runaway-black-hole-illustration-cropped-NASA_20260829_222940.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:27"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "I Found a Better Way to Build Websites with Claude AI",
-    "Link": "https://dev.to/_shakeworld/i-found-a-better-way-to-build-websites-with-claude-ai-4aen",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7nnzey3jpvm4ktn8yxct.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:34"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Sorting Out My Question Before I Ask AI (Bite-size Article)",
-    "Link": "https://dev.to/koshirok096/sorting-out-my-question-before-i-ask-ai-bite-size-article-3mki",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa6hcdejitq1jas7yb2ti.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Fire TV Stick 4K Select drops to $20 in Amazons Labor Day sale — act fast to save $30",
-    "Link": "https://mashable.com/tech/sept-3-fire-tv-stick-4k-select-labor-day-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02Ci40eBbVZB9SmGEA1areZ/hero-image.fill.size_1200x675.v1788432584.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Dyson introduces a new straightener and first-ever dedicated dryer brush",
-    "Link": "https://mashable.com/life/dyson-corrale-coolshine-airsmooth-dryer-releases",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04VVjeQ9yjA622IaoR29z3H/hero-image.fill.size_1200x675.v1788472564.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:40"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "By Any Means review: Mark Wahlberg takes the Johnny Depp path",
-    "Link": "https://mashable.com/entertainment/by-any-means-mark-wahlberg-review",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06c3embTH59B3pV33TaxOSa/hero-image.fill.size_1200x675.v1788451351.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Paramount Has Officially Found Its Critical Role Replacement Franchise",
-    "Link": "https://screenrant.com/golden-axe-paramount-critical-role-replacement/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/scanlan-shorthalt-in-the-legend-of-vox-machina.jpeg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:49"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Ryan Reynolds’ ‘Mayday’ Movie Roasts American Individualism With One Perfect Joke",
-    "Link": "https://decider.com/2026/09/04/ryan-reynolds-mayday-movie-roasts-american-individualism-russia-joke/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/09/mayday-ryan-reynolds-movie-american-individualism.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:51"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Prime Video's Sci-Fi Detective Series Is Officially Dead",
-    "Link": "https://collider.com/prime-video-spider-noir-season-2-cancelled/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/spider-noir-brendan-gleeson-silvermane-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:54"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Lost Meets Severance In The Original Mystery Box TV Series With 100% On Rotten Tomatoes",
-    "Link": "https://screenrant.com/the-prisoner-mystery-box-series-like-lost-severance/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/lost_f963c1.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "22 Years Later, These Are the 10 Best Movies of 2004",
-    "Link": "https://collider.com/best-movies-2004/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/03/shrek-2.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:01:58"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Storage leaders target AI’s unstructured data challenge",
-    "Link": "https://siliconangle.com/2026/09/02/unstructured-data-hammerspace-cloudian-seagate-supermicro-supermicroopenstoragesummit/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Sherry-Lin-Supermicro-Peter-Sjoberg-Cloudian-Mohamad-El-Batal-Seagate-Molly-Presley-Hammerspace-Supermicro-Open-Storage-Summit.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:07"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Resect launches with $25M to reduce hallucinations in AI models",
-    "Link": "https://siliconangle.com/2026/09/04/resect-launches-with-25m-to-reduce-hallucinations-in-ai-models/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/Designer-28.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "CEO George Kurtz says the AI control plane is CrowdStrike’s next security frontier",
-    "Link": "https://siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0319.JPG-e1788368395697.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:13"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Agentic AI is compressing attacker intrusion timelines to minutes",
-    "Link": "https://siliconangle.com/2026/09/03/agentic-adversaries-cut-attacker-intrusion-times-minutes-falcon/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0669.JPG.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:15"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
-    "Link": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/aiceosleapfrog-chatgpt-800x496.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:18"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "AI infrastructure investment projected to top $31T by 2050",
-    "Link": "https://www.foxbusiness.com/economy/ai-infrastructure-investment-projected-top-31t-2050",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/data-center-construction-workers-01.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:32"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "What Warsh's Jackson Hole speech signals about where interest rates are headed",
-    "Link": "https://www.foxbusiness.com/economy/what-warshs-jackson-hole-speech-signals-about-where-interest-rates-headed",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/fed-chair-kevin-warsh-jackson-hole-2026-003.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:37"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Treasury yields hover near multi-year highs as energy prices and government debt fuel bond sell-off",
-    "Link": "https://www.foxbusiness.com/economy/treasury-yields-hover-near-multi-year-highs-energy-prices-government-debt-fuel-bond-selloff",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/trading-floor.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:41"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Goldman Sachs exec touts Dallas' 'really bright future' as new campus takes shape",
-    "Link": "https://www.foxbusiness.com/economy/goldman-sachs-exec-touts-dallas-really-bright-future-new-campus-takes-shape",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/goldman-sachs-dallas-campus-rendering.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:44"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Lowe's launches major effort to help close America's skilled trades gap",
-    "Link": "https://www.foxbusiness.com/economy/lowes-launches-major-effort-help-close-americas-skilled-trades-gap",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/construction-worker-power-plant.jpg?ve=1&amp;tl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:48"
+    "Date": "2026-09-06 04:50:50"
   },
   {
     "Topic": "Science",
-    "Title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-    "Link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
+    "Title": "Scientists discover why snake embryos twist into spirals",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cape-house-snake-embryo.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:57"
+    "Date": "2026-09-06 04:50:52"
   },
   {
     "Topic": "Science",
-    "Title": "Dying radio galaxies fade faster than scientists expected",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/spacetime-warp-black-hole-astrophysics.webp",
+    "Title": "Deep beneath Mars, scientists find a vast hidden magma system",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/nasa-insight-lander-on-mars.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:02:59"
+    "Date": "2026-09-06 04:50:55"
   },
   {
     "Topic": "Science",
-    "Title": "Bats carry dangerous viruses without getting sick. This may be why",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/bat-mouth-open.webp",
+    "Title": "Life uses 4 DNA letters. Scientists just made 8 work",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:02"
+    "Date": "2026-09-06 04:50:57"
   },
   {
     "Topic": "Science",
-    "Title": "Your waist size may reveal health risks BMI misses",
-    "Link": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/female-obesity-doctor-measuring-waist-of-overweight-patient.webp",
+    "Title": "Harvard scientists turn knitting into shape-shifting smart fabric",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/reconfigurable-lamp-shade.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:05"
+    "Date": "2026-09-06 04:50:59"
   },
   {
-    "Topic": "Science",
-    "Title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp",
+    "Topic": "Astronomy",
+    "Title": "The Sky Today on Thursday, September 3: The Moon in Taurus",
+    "Link": "https://www.astronomy.com/observing/the-sky-today-thursday-september-3-2026/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/08/09032026.png?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:08"
+    "Date": "2026-09-06 04:51:07"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Hayden Adams Says AMMs Will Win The Biggest Markets. A Former XTX Trader Says They're Going To Zero",
-    "Link": "https://thedefiant.io/news/defi/hayden-adams-correlated-pairs-amms-market-makers",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Peace_symbol.svg/960px-Peace_symbol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Astronomy",
+    "Title": "The Sky This Week from September 4 to 11: The Moon joins Jupiter and Mars",
+    "Link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-september-4-to-11-2026/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/09/09062026_f8fb17.png?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The Sky Today on Saturday, September 5: Titan near Saturn",
+    "Link": "https://www.astronomy.com/observing/the-sky-today-saturday-september-5-2026/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/09/saturn-moons09052026.png?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:11"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The aftermath of a solar flare",
+    "Link": "https://www.astronomy.com/picture-of-the-day/photo/the-aftermath-of-a-solar-flare/",
+    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/09/Mark-Johnston-loop-arcade-time-lapse.gif?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:13"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Fermi Explorer: Building the First Mission to Another Star?",
+    "Link": "https://www.centauri-dreams.org/2026/09/02/fermi-explorer-building-the-first-mission-to-another-star/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/960px-Enrico_Fermi_1943-49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-05 05:03:16"
+    "Date": "2026-09-06 04:51:17"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Ontology Halts Mainnet Block Production Over Potential Security Concern",
-    "Link": "https://thedefiant.io/news/blockchains/ontology-halts-mainnet-block-production-over-potential-security-concern",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-05 05:03:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
-    "Link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Stripe_Headquarters.jpg/960px-Stripe_Headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Technology",
+    "Title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "Link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_AI_Arms_Race_Is_Changing_Everything.webp/960px-The_AI_Arms_Race_Is_Changing_Everything.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-05 05:03:22"
+    "Date": "2026-09-06 04:51:24"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Stellar RWA Assets Outgrow Its DeFi Markets",
-    "Link": "https://thedefiant.io/converge/defi/stellar-rwa-3-billion-defi-tvl-gap-redstone-report",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-05 05:03:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Schwab Crypto to Add SOL, AVAX and LINK to Bitcoin-and-Ether Lineup",
-    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-crypto-to-add-sol-avax-and-link-to-bitcoin-and-ether-lineup",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Power_of_Water.webm/960px--The_Power_of_Water.webm.jpg",
+    "Topic": "Technology",
+    "Title": "Teaching AI to see the world more like we do",
+    "Link": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg/960px-Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-05 05:03:27"
+    "Date": "2026-09-06 04:51:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "Link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:31"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+    "Link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+    "ImageUrl": "https://media.wired.com/photos/6a9883d13546f162bf781bd5/191:100/w_1280,c_limit/smart-toilets-poop-scan.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "Link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:36"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XAU/USD Analysis: Gold's Rally Meets Reality as Fed Hike Odds Surge",
+    "Link": "https://fxopen.com/blog/en/an-xau-usd-analysis-golds-rally-meets-reality-as-fed-hike-odds-surge/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/09/gold.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:43"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "“Stop Using Vaults\": A DeFi Founder's Blunt Take, On Term Finance Exploit",
+    "Link": "https://nulltx.com/stop-using-vaults-a-defi-founders-blunt-take-on-term-finance-exploit",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1787566033313-xm1jynk29ih.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:47"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Alphabet: Five Months of Consolidation Reach Their Breaking Point",
+    "Link": "https://fxopen.com/blog/en/an-alphabet-five-months-of-consolidation-reach-their-breaking-point/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/08/google.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:50"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Americans hit with record-high Labor Day Weekend gasoline prices",
+    "Link": "https://www.investing.com/news/commodities-news/americans-hit-with-recordhigh-labor-day-weekend-gasoline-prices-4890194",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Overnight_sensation_by_raspberries_Australian_single_side-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-06 04:51:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pons Just Hit a Fresh All-Time High, and the Chart Is the Least Interesting Part of the Story",
+    "Link": "https://nulltx.com/pons-just-hit-a-fresh-all-time-high-and-the-chart-is-the-least-interesting-part-of-the-story",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1788036858117-biecrdts80e.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:51:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "Link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:04"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "Link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:06"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+    "Link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:08"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "Link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1-1280x720.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:10"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "Link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:12"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Buddy Director Casper Kelly on Twisted Children's TV Mascot Horror",
+    "Link": "https://bleedingcool.com/movies/buddy-director-casper-kelly-on-twisted-childrens-tv-mascot-horror/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/BUDDY-Still-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:21"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Wrong Girls: Christensen on Villain Role in Ensemble Stoner Comedy",
+    "Link": "https://bleedingcool.com/movies/the-wrong-girls-christensen-on-villain-role-in-ensemble-stoner-comedy/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/The-Wrong-Girls-Thor-Knai-Thomas-La-Barbera-Christensen-and-Thomas-Nicholson-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:23"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "If I Tell You Dir. Tessa Blake on Family Drama, Grounded Storytelling",
+    "Link": "https://bleedingcool.com/movies/if-i-tell-you-dir-tessa-blake-on-family-drama-grounded-storytelling/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/If-I-Tell-You-Carol-Kane-and-Etienne-Kellici-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:25"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Star Trek 60: Cinemark to Screen TOS Episodes, First 4 Feature Films",
+    "Link": "https://bleedingcool.com/tv/star-trek-60-cinemark-to-screen-tos-episodes-first-4-feature-films/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/07/Star-Trek-IV-The-Voyage-Home-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:28"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "First Teaser for Sian Heder's 'Being Heumann' Film on Judy Heumann",
+    "Link": "https://www.firstshowing.net/2026/first-teaser-for-sian-heders-being-heumann-film-on-judy-heumann/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/beingheumannpostermainbigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:31"
   },
   {
     "Topic": "General News",
-    "Title": "Himalayan hydropower buildout: Expert says risk management is key",
-    "Link": "https://www.france24.com/en/tv-shows/access-asia/20260904-rebuilding-after-nepal-flash-floods-expert-says-risk-management-is-key-in-himalayas",
+    "Title": "Vermummte legen Hafen im südenglischen Dover lahm",
+    "Link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/aa0c4b7a-d490-4170-a106-53af88bf59d6/AAABoHG_Jgo/AAABnSSvrFg/16x9-big/sendungsbild-1791198.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:38"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘I wasn’t even listening,’ Farage says of donations scandal meeting",
+    "Link": "https://www.theguardian.com/politics/2026/sep/05/i-wasnt-even-listening-farage-says-of-donations-scandal-meeting",
+    "ImageUrl": "https://i.guim.co.uk/img/media/2d17ecf180ef9dc54e4768f20b35c925564d7bd1/1733_401_6091_4876/master/6091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4592fa6bf622ad3391a575ecb8005fc",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
+    "Link": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
+    "ImageUrl": "https://i.guim.co.uk/img/media/6b16d8832e49ea2ff32254b75ca95733db69b7ec/195_1641_2455_1964/master/2455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e91dd292685b438b13b266a1d3b79d5",
+    "ImageSource": "og:image",
+    "Date": "2026-09-06 04:52:43"
+  },
+  {
+    "Topic": "General News",
+    "Title": "« Mao, le dernier empereur », sur France.tv : endoctrinement chinois et paradoxe français",
+    "Link": "https://www.lemonde.fr/culture/article/2026/09/05/mao-le-dernier-empereur-sur-france-tv-endoctrinement-chinois-et-paradoxe-francais_6766358_3246.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-05 05:03:42"
+    "Date": "2026-09-06 04:52:46"
   },
   {
     "Topic": "General News",
-    "Title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
-    "Link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-05 05:03:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Germany urges EU to cut Russians’ holiday visas after sabotage attacks",
-    "Link": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
-    "ImageUrl": "https://i.guim.co.uk/img/media/5dcec3766f78f953eff08ea5c4283af209af87d6/231_0_1745_1396/master/1745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f59612071628fc4c1ca4cc1b8c6678f1",
+    "Title": "Wie mit \"Durchstechereien\" Politik gemacht wird",
+    "Link": "https://www.tagesschau.de/inland/innenpolitik/leaks-politik-bundesregierung-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/2bb8fa38-da3a-4097-84bf-00167b24f71a/AAABlUzclSs/AAABnSSvrFg/16x9-big/regierungsbank-bundestag-108.jpg?width=1280",
     "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:47"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-    "Link": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-    "ImageUrl": "https://i.guim.co.uk/img/media/b316fc3c3d56ea64a1517405e751efc3cad4180e/469_0_6831_5464/master/6831.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ba8e8caba3cccde68041e63447a50dc",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:49"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
-    "Link": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-    "ImageUrl": "https://i.guim.co.uk/img/media/f34ca5b0d803cd60ef04b64221e0009eb366619f/162_0_4265_3413/master/4265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7e067f0ce37f1cfbbfd4e118d9bf068",
-    "ImageSource": "og:image",
-    "Date": "2026-09-05 05:03:51"
+    "Date": "2026-09-06 04:52:49"
   }
 ]
