@@ -1,145 +1,5 @@
 [
   {
-    "CanonicalKey": "https://seekingalpha.com/article/4933776-nippon-shokubai-co-ltd-2027-q1-results-earnings-call-presentation",
-    "SentDate": "2026-08-09 03:21:44"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/article/4932319-scout24-se-sccty-q2-2026-earnings-call-transcript",
-    "SentDate": "2026-08-09 03:21:47"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/article/4933795-grindr-inc-grnd-q2-2026-earnings-call-transcript",
-    "SentDate": "2026-08-09 03:21:49"
-  },
-  {
-    "CanonicalKey": "https://seekingalpha.com/article/4933775-august-buys-4-ideal-sp500-safer-dividend-dogs",
-    "SentDate": "2026-08-09 03:21:52"
-  },
-  {
-    "CanonicalKey": "https://cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
-    "SentDate": "2026-08-09 03:21:55"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2229979/apple-watch-heart-rate-app-feature-didnt-realize-existed",
-    "SentDate": "2026-08-09 03:22:05"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips",
-    "SentDate": "2026-08-09 03:22:07"
-  },
-  {
-    "CanonicalKey": "https://engadget.com/2228889/why-phone-case-type-works-best-for-wireless-charging",
-    "SentDate": "2026-08-09 03:22:11"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
-    "SentDate": "2026-08-09 03:22:13"
-  },
-  {
-    "CanonicalKey": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "SentDate": "2026-08-09 03:22:17"
-  },
-  {
-    "CanonicalKey": "https://webscrypto.com/government-shutdown-ends-after-40-days-as-senate-passes-funding-bill-crypto-markets-eye-recovery",
-    "SentDate": "2026-08-09 03:22:29"
-  },
-  {
-    "CanonicalKey": "https://webscrypto.com/bitcoin-and-ethereum-etfs-rebound-with-376m-net-inflows",
-    "SentDate": "2026-08-09 03:22:34"
-  },
-  {
-    "CanonicalKey": "https://webscrypto.com/microstrategy-stumbles-as-diamond-hands-myth-cracks-company-signals-potential-bitcoin-sale-amid-liquidity-push",
-    "SentDate": "2026-08-09 03:22:39"
-  },
-  {
-    "CanonicalKey": "https://webscrypto.com/nvidia-hits-historic-5-trillion-market-cap-from-crypto-mining-boom-to-ai-dominance",
-    "SentDate": "2026-08-09 03:22:44"
-  },
-  {
-    "CanonicalKey": "https://webscrypto.com/bitcoin-sends-mixed-signals-as-two-ominous-warning-indicators-flash-red",
-    "SentDate": "2026-08-09 03:22:49"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-    "SentDate": "2026-08-09 03:22:58"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
-    "SentDate": "2026-08-09 03:23:01"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
-    "SentDate": "2026-08-09 03:23:13"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
-    "SentDate": "2026-08-09 03:23:17"
-  },
-  {
-    "CanonicalKey": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
-    "SentDate": "2026-08-09 03:23:20"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/one-night-only-is-bts-featurette-has-the-cast-describing-the-film",
-    "SentDate": "2026-08-09 03:23:28"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/tv/judge-sets-paramount-skydance-warner-bros-antitrust-trial-march-2027",
-    "SentDate": "2026-08-09 03:23:32"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/sounds-like-sonys-universe-of-marvel-characters-is-officially-no-more",
-    "SentDate": "2026-08-09 03:23:35"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/movies/your-mother-your-mother-your-mother-trailer-poster-and-images",
-    "SentDate": "2026-08-09 03:23:39"
-  },
-  {
-    "CanonicalKey": "https://bleedingcool.com/tv/paramount-skydance-reacts-to-march-2027-warner-bros-deal-trial-date",
-    "SentDate": "2026-08-09 03:23:43"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/07/launch-preview-072726",
-    "SentDate": "2026-08-09 03:23:54"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/08/launch-preview-080326",
-    "SentDate": "2026-08-09 03:23:57"
-  },
-  {
-    "CanonicalKey": "https://nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r",
-    "SentDate": "2026-08-09 03:24:00"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2608",
-    "SentDate": "2026-08-09 03:24:04"
-  },
-  {
-    "CanonicalKey": "https://eso.org/public/news/eso2607",
-    "SentDate": "2026-08-09 03:24:08"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
-    "SentDate": "2026-08-09 03:24:17"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/04/22/commvault-brings-full-suite-data-backup-resilience-capabilities-google-cloud",
-    "SentDate": "2026-08-09 03:24:20"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
-    "SentDate": "2026-08-09 03:24:23"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/07/09/market-data-platform-startup-databento-closes-97m-round-drawing-300m-investor-demand",
-    "SentDate": "2026-08-09 03:24:26"
-  },
-  {
-    "CanonicalKey": "https://siliconangle.com/2026/05/20/informatica-expands-agentic-ai-strategy-headless-data-services-unified-agent-governance",
-    "SentDate": "2026-08-09 03:24:29"
-  },
-  {
     "CanonicalKey": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-extends-crypto-credential-to-stablecoin-payments-in-borderless-pilot",
     "SentDate": "2026-08-10 03:25:04"
   },
@@ -4478,5 +4338,165 @@
   {
     "CanonicalKey": "https://siliconangle.com/2026/09/01/mongodb-delivers-stellar-earnings-and-revenue-beat-but-its-stock-tanks-anyway",
     "SentDate": "2026-09-07 04:56:30"
+  },
+  {
+    "CanonicalKey": "https://aiacceleratorinstitute.com/everyones-optimizing-content-for-ai-visibility-new-research-shows-the-cost",
+    "SentDate": "2026-09-08 05:26:52"
+  },
+  {
+    "CanonicalKey": "https://hpcwire.com/bigdatawire/2026/08/31/cost-per-token-vs-cost-per-task-what-really-determines-ai-roi",
+    "SentDate": "2026-09-08 05:26:55"
+  },
+  {
+    "CanonicalKey": "https://aiacceleratorinstitute.com/why-your-gpus-are-sitting-idle",
+    "SentDate": "2026-09-08 05:26:58"
+  },
+  {
+    "CanonicalKey": "https://aiacceleratorinstitute.com/your-company-runs-23-ai-tools-which-ones-work",
+    "SentDate": "2026-09-08 05:27:00"
+  },
+  {
+    "CanonicalKey": "https://aiacceleratorinstitute.com/how-to-build-ai-in-the-age-of-collaborative-coding",
+    "SentDate": "2026-09-08 05:27:03"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/movies/news/2187249-adria-arjona-onslaught-qa-wonder-woman-fans",
+    "SentDate": "2026-09-08 05:27:11"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/movies/news/2187238-marvel-super-team-mcu-writers-doomsday-secret-wars",
+    "SentDate": "2026-09-08 05:27:13"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/movies/news/2187251-death-stranding-movie-director-filming-update-locations",
+    "SentDate": "2026-09-08 05:27:15"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/interview-doug-jones-mikey-k-operation-taco-garys-83641",
+    "SentDate": "2026-09-08 05:27:18"
+  },
+  {
+    "CanonicalKey": "https://comingsoon.net/movies/news/2187308-selena-gomez-michael-fassbender-x-rated-movie-production",
+    "SentDate": "2026-09-08 05:27:21"
+  },
+  {
+    "CanonicalKey": "https://jpnn.com/news/penunggak-pajak-siap-siap-tahun-depan-bakal-kena-tagih-djp",
+    "SentDate": "2026-09-08 05:27:46"
+  },
+  {
+    "CanonicalKey": "https://jpnn.com/news/ada-isu-terkait-gaji-pns-dan-pppk-menkeu-kalau-pemdanya-yang-mengatur-ya-saya-enggak-tahu",
+    "SentDate": "2026-09-08 05:27:49"
+  },
+  {
+    "CanonicalKey": "https://jpnn.com/news/ditra-dorong-talenta-muda-daerah-mengenal-industri-kreatif-lewat-edukasi-advertising",
+    "SentDate": "2026-09-08 05:27:53"
+  },
+  {
+    "CanonicalKey": "https://jpnn.com/news/berkat-pemberdayaan-pnm-gula-aren-gasebu-kini-dilirik-eksportir",
+    "SentDate": "2026-09-08 05:27:58"
+  },
+  {
+    "CanonicalKey": "https://jatim.jpnn.com/politik/48342/survei-arci-ungkap-sarmuji-jadi-legislator-terpopuler-di-jatim-masuk-bursa-pilgub",
+    "SentDate": "2026-09-08 05:28:02"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/we-asked-ai-what-happens-to-bitcoins-price-if-the-fed-hikes-rates-in-11-days",
+    "SentDate": "2026-09-08 05:28:14"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/arbitrum-arb-rockets-by-42-daily-bitcoin-btc-fights-for-80k-weekend-watch",
+    "SentDate": "2026-09-08 05:28:16"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/bis-tests-xrp-ledger-to-anchor-official-statistics-on-chain-in-proof-of-concept-paper",
+    "SentDate": "2026-09-08 05:28:19"
+  },
+  {
+    "CanonicalKey": "https://cryptopotato.com/coldcard-exploiter-moves-45-of-wave-3-loot-as-stolen-bitcoin-enters-coinjoins",
+    "SentDate": "2026-09-08 05:28:22"
+  },
+  {
+    "CanonicalKey": "https://fintech.ca/2026/09/02/coinbase-opens-crypto-futures-to-canadian-traders",
+    "SentDate": "2026-09-08 05:28:25"
+  },
+  {
+    "CanonicalKey": "https://collectspace.com/news/news-082626a-nasa-t-38-astronaut-trainer-jet-artemis-livery.html",
+    "SentDate": "2026-09-08 05:28:33"
+  },
+  {
+    "CanonicalKey": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates",
+    "SentDate": "2026-09-08 05:28:35"
+  },
+  {
+    "CanonicalKey": "https://collectspace.com/news/news-090126a-toyohiro-akiyama-japanese-journalist-mir-obituary.html",
+    "SentDate": "2026-09-08 05:28:38"
+  },
+  {
+    "CanonicalKey": "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026",
+    "SentDate": "2026-09-08 05:28:40"
+  },
+  {
+    "CanonicalKey": "https://collectspace.com/news/news-083026a-nancy-grace-roman-space-telescope-launch.html",
+    "SentDate": "2026-09-08 05:28:43"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed",
+    "SentDate": "2026-09-08 05:28:51"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition",
+    "SentDate": "2026-09-08 05:28:54"
+  },
+  {
+    "CanonicalKey": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds",
+    "SentDate": "2026-09-08 05:28:57"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/why-music-is-a-powerful-tool-to-quiet-stress-in-the-brain",
+    "SentDate": "2026-09-08 05:29:01"
+  },
+  {
+    "CanonicalKey": "https://scientificamerican.com/article/newly-discovered-demon-cave-fish-hid-out-in-alabama-military-installation-for-40-years",
+    "SentDate": "2026-09-08 05:29:04"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/kalshi-urges-cftc-rules-curb-market-manipulation",
+    "SentDate": "2026-09-08 05:29:21"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/news/2026/09/apim-standard-v2-zone-redundancy",
+    "SentDate": "2026-09-08 05:29:25"
+  },
+  {
+    "CanonicalKey": "https://infoq.com/presentations/ai-agent-testing-evaluation",
+    "SentDate": "2026-09-08 05:29:28"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/legal-battles-george-santos-kalshi-prediction-market-news-live",
+    "SentDate": "2026-09-08 05:29:31"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/churchill-downs-urges-ftc-review-hisa-quiroz-marshall-gramm",
+    "SentDate": "2026-09-08 05:29:33"
+  },
+  {
+    "CanonicalKey": "https://elpais.com/gastronomia/el-comidista/2026-09-05/un-tomate-y-tres-rellenos-para-unirlos-a-todos-nuevas-recetas-para-un-clasico.html",
+    "SentDate": "2026-09-08 05:29:41"
+  },
+  {
+    "CanonicalKey": "https://elpais.com/argentina/2026-09-07/seis-de-cada-diez-argentinos-creen-que-el-giro-de-milei-en-malvinas-es-por-conveniencia-politica.html",
+    "SentDate": "2026-09-08 05:29:44"
+  },
+  {
+    "CanonicalKey": "https://cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+    "SentDate": "2026-09-08 05:29:46"
+  },
+  {
+    "CanonicalKey": "https://elpais.com/television/2026-09-07/tombola-era-mucho-peor.html",
+    "SentDate": "2026-09-08 05:29:49"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
+    "SentDate": "2026-09-08 05:29:52"
   }
 ]

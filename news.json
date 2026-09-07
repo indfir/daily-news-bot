@@ -1,282 +1,322 @@
 [
   {
-    "Topic": "Science",
-    "Title": "This lifestyle program improved cognition 55% more than basic health advice",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
+    "Topic": "Data / AI",
+    "Title": "Everyone's optimizing content for AI visibility.  New research shows the cost",
+    "Link": "https://www.aiacceleratorinstitute.com/everyones-optimizing-content-for-ai-visibility-new-research-shows-the-cost/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/09/AIAI_Website_Article_Images_Doodles--3--1.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:02"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A longer exhale may push your brain toward bolder decisions",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/african-american-man-breathing-deeply-in-summer-sun.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:05"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Optimal Traffic Allocation Under Heterogeneous Variant Cost",
-    "Link": "https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/",
-    "ImageUrl": "https://assets.insightmediagroup.io/media/1788286151360_jjyt80.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:08"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Stanford scientists discover a seafood that can reverse signs of aging",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:10"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Quantum oscillations defy expectations in this exotic material",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The Sky Today on Sunday, September 6: The Moon and Mars in Gemini",
-    "Link": "https://www.astronomy.com/observing/the-sky-today-sunday-september-6-2026/",
-    "ImageUrl": "https://www.astronomy.com/wp-content/uploads/2026/09/09062026_f8fb17.png?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:22"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Reader's Top 5 Space Events of 2015",
-    "Link": "https://irishspaceblog.blogspot.com/2015/12/readers-top-5-space-events-of-2015.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkF8F02QnfOpOlIM64Yst1opPfu6BmwfCBhQ3abaV3rk0TewkVcF8a6r42AWsP0AaJJkOauComZ8w558bVNh3UrMT_nfT-hkEvrlo6oSeFTjVPWCmlDgHQPM9N17pyjMmjzmlx8ReqP3T/w1200-h630-p-k-no-nu/lunareclipse.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "How to See the Transit of Mercury on May 9",
-    "Link": "https://irishspaceblog.blogspot.com/2016/05/how-to-see-transit-of-mercury-on-may-9.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOb0DY9shcw4MGj0KxaeznRz4I6aoz3XLnnweg5o7TC1e1UvnBUUtiC2XKdBHFFTH00CZhoNdFIYdpjM7FQVcHMmALks5s7FxFWtYf4ztMmEQTUwhJ-ztQ_CuaTTYdX1XzSQatg8mqMB6/w1200-h630-p-k-no-nu/Mercury-transit-disk-plot-3.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:29"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "\"Houston, Please Be Informed There Is A Santa Claus\" - Celebrating Christmas in Space",
-    "Link": "https://irishspaceblog.blogspot.com/2019/12/houston-please-be-informed-there-is.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmWIuZpnOu-8IxzuaAhNZZtnhH-c3v3WSRBUmFiVLitivAJAErQZiUOuBraOmo5mjl8BaZp5nEdUA6evTv9Wf6zY1csxYV4nCY419DS4YgiBR1kyRZOb9tUg3G1sOpn69juyE85LP-9yz/w1200-h630-p-k-no-nu/Expedition34xmas.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:32"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Strange winds reveal strongest hints yet of magnetic activity in exoplanets",
-    "Link": "https://www.eso.org/public/news/eso2606/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2606a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:54:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Drops Below $78,000 After Warsh Speech",
-    "Link": "https://thedefiant.io/news/markets/bitcoin-drops-below-usd78-000-after-warsh-speech",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-07 04:54:48"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AMC's CEO Told Robinhood To Halt Its Stock Token. Robinhood Told Him To Send Lawyers",
-    "Link": "https://thedefiant.io/news/tradfi-and-fintech/amc-s-ceo-told-robinhood-to-halt-its-stock-token-robinhood-told-him-to-send-lawyers",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-07 04:54:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Strategy Restarts Bitcoin Buying With $370 Million Purchase",
-    "Link": "https://thedefiant.io/news/cefi/strategy-restarts-bitcoin-buying-with-370-million-purchase",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/960px-Tesla_Motors.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-07 04:54:53"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Coinbase Files SEC Notices in Bid to Bring Single-Stock Perpetuals to US",
-    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-07 04:54:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "How Maple Finance Became the #2 Crypto Lender Behind Tether — Sid Powell Explains",
-    "Link": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-07 04:54:59"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "Link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:06"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "Link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:09"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-    "Link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:12"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Tim Ferriss Show Transcripts: Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
-    "Link": "https://tim.blog/2026/09/04/failure-into-success-transcript/",
-    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/09/Failure-into-Success.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-    "Link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_07_21_2026_0057.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:17"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "10 Essential Ridley Scott Movies Everyone Should See",
-    "Link": "https://editorial.rottentomatoes.com/article/essential-ridley-scott-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Ridley_Scott_Movies-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "The 5 Most Anticipated Movies of September",
-    "Link": "https://editorial.rottentomatoes.com/article/most-anticipated-movies-of-september-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Most_Anticipated_Movies_Sept_2026_Resident_Evil-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:37"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Check Out This Trailer for THE DEPUTY!!",
-    "Link": "https://www.aintitcool.com/thedeputytrailer2026-83663/?utm_source=full-feed&utm_medium=feed&utm_term=coolnews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/mail-2_huge.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:40"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Weekend Box Office: Spider-Man: Brand New Day Reaches New Heights",
-    "Link": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-5/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO5.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Jason Biggs Directorial Debut UNTITLED HOME INVASION ROMANCE Now Available!",
-    "Link": "https://www.aintitcool.com/jason-biggs-meaghan-rath-interview-uhir-83636/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/uhir_poster_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:55:46"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Finance stocks' biggest August movers: Robinhood rallies 36% as Aon, PayPal sink",
-    "Link": "https://seekingalpha.com/news/4639499-finance-stocks-biggest-august-movers-robinhood-rallies-36-as-aon-paypal-sink?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-07 04:55:54"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Trump administration focuses on boosting oil output, Wright says",
-    "Link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/960px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-07 04:55:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Revolut Fast-Tracks to Wall Street With Conditional US Charter",
-    "Link": "https://gfmag.com/banking/revolut-fast-tracks-wall-street-conditional-us-charter/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FIA_F1_Austria_2026_Nr._12_Antonelli_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._12_Antonelli_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-07 04:56:00"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "OPEC+ pauses oil output policy steady for October",
-    "Link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/960px-Flag_of_Russia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-07 04:56:03"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Israel cuts fuel tax as gasoline prices hit record high",
-    "Link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-07 04:56:06"
+    "Date": "2026-09-08 05:26:52"
   },
   {
     "Topic": "Data / AI",
-    "Title": "MongoDB posts stellar earnings and revenue beat as software rebound accelerates",
-    "Link": "https://siliconangle.com/2026/05/28/mongodb-posts-stellar-earnings-revenue-beat-software-rebound-accelerates/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/05/CJ-Desai-MongoDB.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-07 04:56:16"
+    "Title": "Cost per Token vs. Cost per Task: What Really Determines AI ROI",
+    "Link": "https://www.hpcwire.com/bigdatawire/2026/08/31/cost-per-token-vs-cost-per-task-what-really-determines-ai-roi/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:26:55"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Introducing user-aware calculated columns in Power BI",
-    "Link": "https://www.sqlbi.com/articles/introducing-user-aware-calculated-columns-in-power-bi/",
-    "ImageUrl": "https://cdn.sqlbi.com/wp-content/uploads/image1-132.png",
+    "Title": "AI Inference Is memory-bound: How to overcome the Memory Wall",
+    "Link": "https://www.aiacceleratorinstitute.com/why-your-gpus-are-sitting-idle/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/07/WB161-Big-Panda-Live-session---Meta--6--3.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-07 04:56:21"
+    "Date": "2026-09-08 05:26:58"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Facilitating AI integration with simplicity at scale",
-    "Link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-SAP-Jabil-podcast-social-card-V2.png?resize=1200,600",
+    "Title": "Your company runs 23 AI tools.  Which ones work?",
+    "Link": "https://www.aiacceleratorinstitute.com/your-company-runs-23-ai-tools-which-ones-work/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/09/AIAI_Website_Article_Images_Doodles--3-.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-07 04:56:24"
+    "Date": "2026-09-08 05:27:00"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Supabase raises $500M as AI coding tools drive ‘phenomenal’ growth",
-    "Link": "https://siliconangle.com/2026/06/04/supabase-raises-500m-ai-coding-tools-drive-phenomenal-growth/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-05-08-25-37.png",
+    "Title": "How to build AI in the age of collaborative coding",
+    "Link": "https://www.aiacceleratorinstitute.com/how-to-build-ai-in-the-age-of-collaborative-coding/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/08/AIAI_Website_Article_Images_Author_Highlight--5--1.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-07 04:56:27"
+    "Date": "2026-09-08 05:27:03"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "MongoDB delivers stellar earnings and revenue beat, but its stock tanks anyway",
-    "Link": "https://siliconangle.com/2026/09/01/mongodb-delivers-stellar-earnings-and-revenue-beat-but-its-stock-tanks-anyway/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-02-08-36-53.png",
+    "Topic": "Movies",
+    "Title": "Adria Arjona’s Response to Wonder Woman Question Sparks DCU Fan Theories",
+    "Link": "https://www.comingsoon.net/movies/news/2187249-adria-arjona-onslaught-qa-wonder-woman-fans",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/arjona.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-09-07 04:56:30"
+    "Date": "2026-09-08 05:27:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Marvel Quietly Assembled a Super-Team of MCU Writers for Doomsday & Secret Wars",
+    "Link": "https://www.comingsoon.net/movies/news/2187238-marvel-super-team-mcu-writers-doomsday-secret-wars",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/avengers.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:13"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Death Stranding Movie Is One Step Closer to Filming With Major Update",
+    "Link": "https://www.comingsoon.net/movies/news/2187251-death-stranding-movie-director-filming-update-locations",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Death-Stranding-Movie-Is-One-Step-Closer-to-Filming-With-Major-Update.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:15"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "We Interviewed Doug Jones, Dustin Milligan, and Writer/Director Mikey K for OPERATION TACO GARY'S",
+    "Link": "https://www.aintitcool.com/interview-doug-jones-mikey-k-operation-taco-garys-83641/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/article_images_2022/mceric/operation_taco_garys_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:18"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Selena Gomez & Michael Fassbender’s ‘X-Rated’ Movie Makes a Major Move",
+    "Link": "https://www.comingsoon.net/movies/news/2187308-selena-gomez-michael-fassbender-x-rated-movie-production",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Untitled-Design-2026-09-08T030847.295.png?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:21"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Penunggak Pajak Siap-Siap, Tahun Depan Bakal Kena Tagih DJP",
+    "Link": "https://www.jpnn.com/news/penunggak-pajak-siap-siap-tahun-depan-bakal-kena-tagih-djp",
+    "ImageUrl": "https://cloud.jpnn.com/photo/ilustrasi/normal/2021/10/17/gedung-dirjen-pajak-foto-ricardojpnncom-7jneq-rndp.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Ada Isu terkait Gaji PNS dan PPPK, Menkeu: Kalau Pemdanya yang Mengatur ya Saya Enggak Tahu",
+    "Link": "https://www.jpnn.com/news/ada-isu-terkait-gaji-pns-dan-pppk-menkeu-kalau-pemdanya-yang-mengatur-ya-saya-enggak-tahu",
+    "ImageUrl": "https://cloud.jpnn.com/photo/galeri/watermark/2026/05/11/menteri-keuangan-purbaya-yudhi-sadewa-menyampaikan-keteranga-24bc.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:49"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Ditra Dorong Talenta Muda Daerah Mengenal Industri Kreatif Lewat Edukasi Advertising",
+    "Link": "https://www.jpnn.com/news/ditra-dorong-talenta-muda-daerah-mengenal-industri-kreatif-lewat-edukasi-advertising",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/09/07/ditra-dorong-para-talenta-muda-daerah-mengenal-industri-krea-3ddf.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:53"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Berkat Pemberdayaan PNM, Gula Aren Gasebu Kini Dilirik Eksportir",
+    "Link": "https://www.jpnn.com/news/berkat-pemberdayaan-pnm-gula-aren-gasebu-kini-dilirik-eksportir",
+    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/09/07/berkat-pemberdayaan-pnm-gula-aren-gasebu-semakin-berkembang-wfdm.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:27:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Survei ARCI Ungkap Sarmuji Jadi Legislator Terpopuler di Jatim, Masuk Bursa Pilgub",
+    "Link": "https://jatim.jpnn.com/politik/48342/survei-arci-ungkap-sarmuji-jadi-legislator-terpopuler-di-jatim-masuk-bursa-pilgub",
+    "ImageUrl": "https://cloud.jpnn.com/photo/jatim/news/normal/2026/09/07/survei-arci-menempatkan-muhammad-sarmuji-sebagai-legislator-vi9s.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:02"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "We Asked AI: What Happens to Bitcoin’s Price if the Fed Hikes Rates in 11 Days?",
+    "Link": "https://cryptopotato.com/we-asked-ai-what-happens-to-bitcoins-price-if-the-fed-hikes-rates-in-11-days/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/06/BTC_CB-22.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:14"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Arbitrum (ARB) Rockets by 42% Daily, Bitcoin (BTC) Fights for $80K: Weekend Watch",
+    "Link": "https://cryptopotato.com/arbitrum-arb-rockets-by-42-daily-bitcoin-btc-fights-for-80k-weekend-watch/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/06/btc_arb_mw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "BIS Tests XRP Ledger to Anchor Official Statistics On-Chain in Proof-of-Concept Paper",
+    "Link": "https://cryptopotato.com/bis-tests-xrp-ledger-to-anchor-official-statistics-on-chain-in-proof-of-concept-paper/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/10/XRP_Ledger.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Coldcard Exploiter Moves 45% of Wave 3 Loot as Stolen Bitcoin Enters CoinJoins",
+    "Link": "https://cryptopotato.com/coldcard-exploiter-moves-45-of-wave-3-loot-as-stolen-bitcoin-enters-coinjoins/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/08/Coldcard-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Coinbase Opens Crypto Futures to Canadian Traders",
+    "Link": "https://www.fintech.ca/2026/09/02/coinbase-opens-crypto-futures-to-canadian-traders/",
+    "ImageUrl": "https://www.fintech.ca/wp-content/uploads/2026/09/coinbase_DERIVATIVES.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:25"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Lunar livery: NASA T-38 astronaut training jet gets new Artemis look",
+    "Link": "https://www.collectspace.com/news/news-082626a-nasa-t-38-astronaut-trainer-jet-artemis-livery.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-082626a-fb.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:33"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Sun news: Sun-stuff bursts could trigger strong auroras",
+    "Link": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+    "ImageUrl": "https://earthsky.org/upl/2026/09/ENLIL-cut-sept-6-7-2026-noaa.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:35"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+    "Link": "https://www.collectspace.com/news/news-090126a-toyohiro-akiyama-japanese-journalist-mir-obituary.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-090126a-lg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:38"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Small asteroid impact today over the ocean near Australia",
+    "Link": "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026/",
+    "ImageUrl": "https://earthsky.org/upl/2026/06/batman111-asteroid-Pixabay-e1782220671167.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:40"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA launches Roman Space Telescope to provide wide view of cosmos",
+    "Link": "https://www.collectspace.com/news/news-083026a-nancy-grace-roman-space-telescope-launch.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-083026a-fb.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Research roundup: 7 cool science stories we almost missed",
+    "Link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:51"
+  },
+  {
+    "Topic": "Science",
+    "Title": "New brain scan tool could help treat Huntington’s disease, a devastating genetic condition",
+    "Link": "https://www.scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/a66c293a-5154-4a23-bbac-67c9c4d8d542/GettyImages-2240002315-brain-dementia.jpeg?m=1788529260.168&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:54"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+    "Link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1856868830-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:28:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Why music is a powerful tool to quiet stress in the brain",
+    "Link": "https://www.scientificamerican.com/article/why-music-is-a-powerful-tool-to-quiet-stress-in-the-brain/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/6b6e67f5-54e4-4996-8b8d-bf4d8e015bfe/Brain-energy.jpg?m=1781620006.462&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:29:01"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Newly discovered ‘demon cave fish’ hid out in Alabama military installation for 40 years",
+    "Link": "https://www.scientificamerican.com/article/newly-discovered-demon-cave-fish-hid-out-in-alabama-military-installation-for-40-years/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/1323dfd6-bf8a-43fc-950b-4e2aaa5aa2b2/saw1026Adva08.jpg?m=1788360280.418&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:29:04"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Kalshi urges targeted CFTC rules to curb prediction market manipulation risks",
+    "Link": "https://readwrite.com/kalshi-urges-cftc-rules-curb-market-manipulation/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Ritchie_Torres_117th_U.S_Congress.jpg/960px-Ritchie_Torres_117th_U.S_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-08 05:29:21"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Zone Redundancy Comes to API Management Standard v2",
+    "Link": "https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/en/card_header_image/generatedCard-1788278789629.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:29:25"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation",
+    "Link": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/presentations/ai-agent-testing-evaluation/en/card_header_image/zhou-yu-twitter-card-1787813732119.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:29:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "States cite Ninth Circuit rulings, George Santos banned from Kalshi: today in prediction market news LIVE",
+    "Link": "https://readwrite.com/legal-battles-george-santos-kalshi-prediction-market-news-live/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:31"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Churchill Downs urges FTC review of HISA as regulator suspends trainer over alleged Albuterol violations",
+    "Link": "https://readwrite.com/churchill-downs-urges-ftc-review-hisa-quiroz-marshall-gramm/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:33"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Un tomate y tres rellenos para unirlos a todos: nuevas recetas para un clásico",
+    "Link": "https://elpais.com/gastronomia/el-comidista/2026-09-05/un-tomate-y-tres-rellenos-para-unirlos-a-todos-nuevas-recetas-para-un-clasico.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Seis de cada diez argentinos consideran que el giro de Milei en Malvinas es “por conveniencia política”",
+    "Link": "https://elpais.com/argentina/2026-09-07/seis-de-cada-diez-argentinos-creen-que-el-giro-de-milei-en-malvinas-es-por-conveniencia-politica.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Man rides out tornado inside van. See the footage",
+    "Link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402065239-man-inside-van-tornado-little-rock-arkansas.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-09-08 05:29:46"
+  },
+  {
+    "Topic": "General News",
+    "Title": "‘Tómbola’ era mucho peor",
+    "Link": "https://elpais.com/television/2026-09-07/tombola-era-mucho-peor.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:49"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Egyptian influencer's death penalty over drug charges",
+    "Link": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-08 05:29:52"
   }
 ]
