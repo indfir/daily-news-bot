@@ -1,274 +1,322 @@
 [
   {
     "Topic": "Data / AI",
-    "Title": "When seconds count: Extending EDR to ADCs to erase the AI exploit window",
-    "Link": "https://siliconangle.com/2026/09/03/virtual-patching-f5-crowdstrike-falcon/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0566-2.jpg",
+    "Title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "Link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:32"
+    "Date": "2026-09-10 05:09:51"
   },
   {
     "Topic": "Data / AI",
-    "Title": "The latest AI news we announced in August 2026",
-    "Link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.width-1300.png",
+    "Title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+    "Link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-1024x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:34"
+    "Date": "2026-09-10 05:09:55"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Training with PyTorch Lightning: Structured MLOps Development",
-    "Link": "https://pyimagesearch.com/2026/08/03/training-with-pytorch-lightning-structured-mlops-development/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/08/training-w-pytorch-lightning-structured-mlops-development-featured.png",
+    "Title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "Link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:37"
+    "Date": "2026-09-10 05:09:57"
   },
   {
     "Topic": "Data / AI",
-    "Title": "CrowdStrike builds an identity provider for AI agents, not humans",
-    "Link": "https://siliconangle.com/2026/09/03/agentic-identity-provider-crowdstrike-falcon/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0452.jpg",
+    "Title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+    "Link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:40"
+    "Date": "2026-09-10 05:10:01"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-    "Link": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-04-08-34-37.png",
+    "Title": "Your predictive AI foundation is the fastest path to agentic AI value",
+    "Link": "https://www.datarobot.com/blog/your-predictive-ai-foundation-is-the-fastest-path-to-agentic-ai-value/",
+    "ImageUrl": "https://www.datarobot.com/wp-content/uploads/2026/08/Energy-gif-long.gif",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:43"
+    "Date": "2026-09-10 05:10:03"
   },
   {
-    "Topic": "Economy",
-    "Title": "UOB issues first Euro dual-tranche Asia covered bond",
-    "Link": "https://www.financeasia.com/article/uob-issues-first-euro-dual-tranche-asia-covered-bond/508289",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2429141993.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=036719af12&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:17:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Apac markets on edge amid bond market turmoil",
-    "Link": "https://www.financeasia.com/article/apac-markets-on-edge-amid-bond-market-turmoil/508292",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fMarket+volatility+3.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=036719af12&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:18:09"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Navigating the Future of International Trade",
-    "Link": "https://gfmag.com/transaction-banking/navigating-the-future-of-international-trade/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/LEAP_2025_-_Global_tech_event_in_Riyadh.jpg/960px-LEAP_2025_-_Global_tech_event_in_Riyadh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-09 05:18:14"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "SoftBank prices retail bond",
-    "Link": "https://www.financeasia.com/article/softbank-prices-retail-bond/508309",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2249855073.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=036719af12&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:18:20"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Jobs Rebound While Finance-Sector Continues to Suffer",
-    "Link": "https://gfmag.com/banking/jobs-rebound-finance-sector-suffers/",
-    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/09/shutterstock_2416186613-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:18:23"
-  },
-  {
-    "Topic": "General News",
-    "Title": "L’avocat François Zimeray réaffirme l’importance des droits de l’homme, érodés par « le souffle inquiétant de l’air du temps »",
-    "Link": "https://www.lemonde.fr/idees/article/2026/09/08/l-avocat-francois-zimeray-reaffirme-l-importance-des-droits-de-l-homme-erodes-par-le-souffle-inquietant-de-l-air-du-temps_6768435_3232.html",
+    "Topic": "Trading & Crypto",
+    "Title": "Tether pushes into private credit with $400 million fund with Fasanara",
+    "Link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-09 05:18:41"
+    "Date": "2026-09-10 05:10:12"
   },
   {
-    "Topic": "General News",
-    "Title": " British PM Rishi Sunak avoids wipeout in key local elections ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/politics/uk-sunak-avoids-wipeout-local-elections/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240844.JPG?v=3.1",
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Is Testing $80,000 for the Second Time This Week: Here Is What Is Different Now",
+    "Link": "https://dailycoinpost.com/bitcoin-testing-80000-second-time-clarity-act-fomc-september-15/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/08/btc-retest.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:18:45"
+    "Date": "2026-09-10 05:10:15"
   },
   {
-    "Topic": "General News",
-    "Title": "La France, le Canada et le Royaume-Uni annoncent vouloir mettre fin au commerce avec les colonies israéliennes en Cisjordanie",
-    "Link": "https://www.lemonde.fr/international/article/2026/09/08/la-france-le-canada-et-le-royaume-uni-vont-mettre-fin-au-commerce-avec-les-colonies-israeliennes-en-cisjordanie_6768387_3210.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Royal_flag_of_France.svg/960px-Royal_flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Trading & Crypto",
+    "Title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
+    "Link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-09 05:18:48"
+    "Date": "2026-09-10 05:10:18"
   },
   {
-    "Topic": "General News",
-    "Title": "PISA 2025 : le récit du « déclinisme français » de retour dans la présidentielle",
-    "Link": "https://www.lemonde.fr/politique/article/2026/09/08/pisa-2025-le-recit-du-declinisme-francais-de-retour-dans-la-presidentielle_6768438_823448.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/960px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-09 05:18:50"
+    "Topic": "Trading & Crypto",
+    "Title": "Lightning Security Alert: Alby Reveals Critical Hub Vulnerability",
+    "Link": "https://news.bitcoin.com/security/lightning-security-alert-alby-reveals-critical-hub-vulnerability/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/lightning-security-alert-alby-reveals-critical-hub-vulnerability.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:10:21"
   },
   {
-    "Topic": "General News",
-    "Title": "« Je voulais que ma douleur soit connue » : en Afrique du Sud, les victimes des crimes de l’apartheid se battent pour rouvrir les dossiers",
-    "Link": "https://www.lemonde.fr/international/article/2026/09/08/je-voulais-que-ma-douleur-soit-connue-en-afrique-du-sud-les-victimes-des-crimes-de-l-apartheid-se-battent-pour-rouvrir-les-dossiers_6768440_3210.html",
+    "Topic": "Trading & Crypto",
+    "Title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+    "Link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-09 05:18:53"
+    "Date": "2026-09-10 05:10:24"
   },
   {
     "Topic": "Science",
-    "Title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-    "Link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg",
+    "Title": "Stephen Macedo And Frances Lee:  Defend Your Essay That Dr. Jay Bhattacharya Would Restore Trust in Public Health",
+    "Link": "https://sciencebasedmedicine.org/macedo-lee-maha-maga-fluffers/?utm_source=rss&utm_medium=rss&utm_campaign=macedo-lee-maha-maga-fluffers",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/image-23.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:03"
+    "Date": "2026-09-10 05:10:33"
   },
   {
     "Topic": "Science",
-    "Title": "Second complete map of a fruit fly brain completed",
-    "Link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x648.jpeg",
+    "Title": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-organ-models-heart-and-kidneys.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:06"
+    "Date": "2026-09-10 05:10:36"
   },
   {
     "Topic": "Science",
-    "Title": "Just like a fruit fly, a new algorithm never forgets old scents",
-    "Link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg",
+    "Title": "Too much coffee may weaken bones, study finds",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-hip-bone-strength.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:09"
+    "Date": "2026-09-10 05:10:39"
   },
   {
     "Topic": "Science",
-    "Title": "NIH to use part of its budget to pay for Department of Defense research",
-    "Link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg",
+    "Title": "Scientists find a weak spot in one of the deadliest brain cancers",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-brain-cancer-tumor.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:12"
+    "Date": "2026-09-10 05:10:42"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists find breast cancer cells hiding behind protective “shields”",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:10:45"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Hollywood Puts Four Tech Moguls on Trial in October Movie Pileup",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/musk-artificial-social-reckoning-holmes-documentary-1236693959/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Tech-Mogul-Movies.png?crop=0px%2C10px%2C1661px%2C929px&#038;resize=1440%2C810",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:10:53"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "One Of Eddie Murphy's Biggest Box Office Hits Became A Historic Flop 30 Years Later",
+    "Link": "https://www.slashfilm.com/2253050/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/l-intro-1788964205.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:10:56"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Venice 2026: Sabu's 'Arrested Memory' is Clever Action Comedy Fun",
+    "Link": "https://www.firstshowing.net/2026/venice-2026-sabus-arrested-memory-is-clever-action-comedy-fun/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/arrestedmemoryreviewmainimgtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:10:59"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘A Good Little Soldier’ Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/1bda798be120698304d25f38ab263226-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:02"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Teaser for Nathan Fielder's Doc 'You Can See Everything' on Holmes",
+    "Link": "https://www.firstshowing.net/2026/teaser-for-nathan-fielders-doc-you-can-see-everything-on-holmes/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/youcanseeeverythingdocbigptw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:05"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-4-surge-38-in-one-week-whats-polishing-the-stocks-shine/articleshow/133955478.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133955747,width-1200,height-630,imgsize-2294603,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:15"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Rupee plunges 34 paise to 95.08 against dollar as crude prices surpass USD 100 mark",
+    "Link": "https://economictimes.indiatimes.com/markets/forex/rupee-plunges-34-paise-to-95-08-against-dollar-as-crude-prices-surpass-usd-100-mark/articleshow/133966394.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133966423,width-1200,height-630,imgsize-34722,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:18"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global Market: European markets fall as Middle East tensions push oil prices higher",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-fall-as-middle-east-tensions-push-oil-prices-higher/articleshow/133962759.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133962802,width-1200,height-630,imgsize-211756,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:21"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Global Market: Amazon diversifies debt funding with first Sterling bond offering",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-amazon-diversifies-debt-funding-with-first-sterling-bond-offering/articleshow/133963512.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133963772,width-1200,height-630,imgsize-206154,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:27"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "ET Alpha Wealth Summit:  Decoding the next market cycle and where  opportunities lie",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-decoding-the-next-market-cycle-and-where-opportunities-lie/articleshow/133964867.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-133964929,width-1200,height-630,imgsize-223798,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:31"
+  },
+  {
+    "Topic": "General News",
+    "Title": "US Destroys 5 Iranian Oil Tankers as War Escalates Once Again",
+    "Link": "https://www.today.com/video/new-strikes-on-iran-trigger-another-spike-in-oil-and-gas-prices-269529157838",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_09/1788952319625_tdy_news_7a_gutierrez_iran_strikes_260909_S3_1920x1080-ytl532.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Apple announces long-awaited foldable phone, iPhone Duo",
+    "Link": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-apple-duo-ew-254p-6d2176.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "'An injustice' or 'righting a wrong': British Jews debate sanctions move",
+    "Link": "https://www.bbc.co.uk/news/articles/c9dw048lp9zo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf8/live/bc7e8220-ac73-11f1-80f0-9795d1a5edbc.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:46"
+  },
+  {
+    "Topic": "General News",
+    "Title": "How to treat and prevent ingrown hair without popping, picking or plucking",
+    "Link": "https://www.nbcnews.com/select/shopping/best-ingrown-hair-treatments-prevention-rcna101598",
+    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230818-ingrown-hair-aw-social-1cb5e7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:50"
+  },
+  {
+    "Topic": "General News",
+    "Title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
+    "Link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f615/live/68145f40-ac76-11f1-b1d1-571ed4d7ff2c.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:11:52"
   },
   {
     "Topic": "Technology",
-    "Title": "The complex corporate web behind a $3.2 billion AI data center",
-    "Link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
+    "Title": "Introducing Gemma 3n: The developer guide",
+    "Link": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemma-3n-meta.2e16d0ba.fill-1200x600.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:31"
+    "Date": "2026-09-10 05:12:02"
   },
   {
     "Topic": "Technology",
-    "Title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
-    "Link": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:34"
+    "Title": "Mapping, modeling, and understanding nature with AI",
+    "Link": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Electricity_Concept_Map.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-10 05:12:06"
   },
   {
     "Topic": "Technology",
-    "Title": "Update to Google’s AI weather model improves forecast accuracy",
-    "Link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
-    "Link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ur-quan-1152x623.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:39"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-    "Link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-2560x1440.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:41"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-    "Link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:49"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Webb Telescope Finds No Signs of a Thick Atmosphere Around a Second TRAPPIST-1 Planet",
-    "Link": "https://manyworlds.space/2023/06/26/webb-telescope-finds-no-signs-of-a-thick-atmosphere-on-a-second-trappist-1-planet/",
-    "ImageUrl": "https://manyworlds.space/wp-content/uploads/2023/10/70e4d-ssc2018-04d.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:53"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "After Seven Years Away Exploring an Asteroid, OSIRIS-REx is Landing Soon with Precious Samples",
-    "Link": "https://manyworlds.space/2023/09/11/after-seven-years-away-exploring-an-asteroid-osiris-rex-is-landing-soon-with-precious-samples/",
-    "ImageUrl": "https://manyworlds.space/wp-content/uploads/2023/10/297b6-53153681225_173dc2e28d_k.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:19:56"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "What the Comments Taught Me: A Reply on Self-Replicating Probes",
-    "Link": "https://www.centauri-dreams.org/2026/07/13/what-the-comments-taught-me-a-reply-on-self-replicating-probes/",
+    "Title": "D4RT: Teaching AI to see the world in four dimensions",
+    "Link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-09 05:20:00"
+    "Date": "2026-09-10 05:12:09"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Accelerating discovery in India through AI-powered science and education",
+    "Link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cyclotron_with_glowing_beam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-10 05:12:13"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Protecting people from harmful manipulation",
+    "Link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-10 05:12:17"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Moon or Planet? The Awkward Case of CD-35 2722B",
-    "Link": "https://www.centauri-dreams.org/2026/07/23/moon-or-planet-the-awkward-case-of-cd-35-2722b/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dscovrepicmoontransitfull.gif/960px-Dscovrepicmoontransitfull.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-09 05:20:04"
+    "Title": "Some Black Holes Grow Much Faster Than Their Galaxies",
+    "Link": "https://www.universetoday.com/articles/some-black-holes-grow-much-faster-than-their-galaxies",
+    "ImageUrl": "https://www.universetoday.com/article_images/eso1644b_20260908_151202.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-10 05:12:25"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Another Ethereum ÐΞV Update",
-    "Link": "https://blog.ethereum.org/en/2015/06/15/another-ethereum-dev-update",
-    "ImageUrl": "https://blog.ethereum.org/images/posts/youth.jpg",
+    "Topic": "Astronomy",
+    "Title": "A STEP Grant update: Growing our understanding of deep-space agriculture",
+    "Link": "https://www.planetary.org/articles/a-step-grant-update-growing-our-understanding-of-deep-space-agriculture",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/palmer-with-plants.jpeg?mtime=1780503399",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:20:11"
+    "Date": "2026-09-10 05:12:28"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "eth2 quick update no. 12",
-    "Link": "https://blog.ethereum.org/en/2020/06/23/eth2-quick-update-no-12",
-    "ImageUrl": "https://blog.ethereum.org/images/posts/kumiko-background.jpg",
+    "Topic": "Astronomy",
+    "Title": "“Shortchanging NASA is simply not smart.”",
+    "Link": "https://www.planetary.org/the-downlink/shortchanging-nasa-is-simply-not-smart",
+    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/io-from-juno-dec2024.jpg?mtime=1777495972",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:20:13"
+    "Date": "2026-09-10 05:12:30"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Robinhood AMC tokens expose limits of short squeezes",
-    "Link": "https://crypto.news/robinhood-amc-tokens-expose-limits-of-short-squeezes/",
-    "ImageUrl": "https://media.crypto.news/2024/07/crypto-news-Robinhood-Agrees-to-9-Million-Settlement-Over-Unsolicited-Text-Messages-option02.webp",
+    "Topic": "Astronomy",
+    "Title": "Astronomers find 2 gigantic planets lighter than cotton candy",
+    "Link": "https://www.cbsnews.com/news/super-puff-planets-lighter-than-cotton-candy-found/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/25/b9622f84-f061-4ce9-ba16-e14d4ee86604/thumbnail/1200x630/71ef12a80ce4bf17044b82db2aeb09fb/ap26175637322496.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:20:15"
+    "Date": "2026-09-10 05:12:33"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Security Alert - DoS Vulnerability in the Soft Fork",
-    "Link": "https://blog.ethereum.org/en/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "Topic": "Astronomy",
+    "Title": "Snapping the Sun's Grand Magnetic Border at 0.3 AU",
+    "Link": "https://www.universetoday.com/articles/snapping-the-suns-grand-magnetic-border-at-03-au",
+    "ImageUrl": "https://www.universetoday.com/article_images/heliospheric-current-sheet-diagram_20260906_132640.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-09 05:20:18"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Secured no. 1",
-    "Link": "https://blog.ethereum.org/en/2021/09/09/secured-no-1",
-    "ImageUrl": "https://blog.ethereum.org/images/posts/upload_630d77544672a1e0df792c0d71489bd6.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-09 05:20:20"
+    "Date": "2026-09-10 05:12:35"
   }
 ]
