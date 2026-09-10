@@ -1,322 +1,290 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-    "Link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+    "Topic": "Technology",
+    "Title": "Is It Even Possible to Understand Quantum Mechanics?",
+    "Link": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+    "ImageUrl": "https://media.wired.com/photos/6a9600c80fdf8d2aaa7d4ea9/191:100/w_1280,c_limit/Possible-to-Understand-Quantum-Mechanics-Science-2216028052.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:09:51"
+    "Date": "2026-09-11 05:11:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+    "Link": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:11:36"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "Link": "https://tim.blog/2026/08/19/relationship-tools/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/08/Relationship-Compilation-1024x1024.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:11:39"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+    "Link": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:11:42"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Nintendo's latest sale is 'made possible' by the tariff refunds it's hoarding",
+    "Link": "https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/l-intro-1789052374.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:11:44"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Summer H. Howell is Carrie White in 'Carrie' Horror Series Full Trailer",
+    "Link": "https://www.firstshowing.net/2026/summer-howell-is-carrie-white-in-new-carrie-horror-series-full-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/carriepostermainseriesbigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:02"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘The Perfect Lie’ On Netflix, A Thriller Where A Mysterious Death Dredges Up Secrets Among A Group Of Rich Friends",
+    "Link": "https://decider.com/2026/09/10/the-perfect-lie-netflix-review/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/09/the-perfect-lie-1.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:04"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Josh Hartnett & Mackenzie Davis in Iceberg Mystery 'Below' Full Trailer",
+    "Link": "https://www.firstshowing.net/2026/josh-hartnett-mackenzie-davis-in-iceberg-mystery-below-full-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/belowhartnettnetflixmainimgtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New Trailer for 'Donnie Darko' 25th Anniversary Re-Release This Fall",
+    "Link": "https://www.firstshowing.net/2026/new-trailer-for-donnie-darko-25th-anniversary-re-release-this-fall/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/donniedarkopostermainimgtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:10"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘Crew Girl’ on Netflix, A YA Sports Romance Finally Not About Hockey",
+    "Link": "https://decider.com/2026/09/10/crew-girl-on-netflix-review-stream-it-or-skip-it/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/09/MM-CG-pic.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:12"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Medical Intuitives: More Integrative Medicine Pseudoscience",
+    "Link": "http://sciencebasedmedicine.org/medical-intuitives-more-integrative-medicine-pseudoscience/?utm_source=rss&utm_medium=rss&utm_campaign=medical-intuitives-more-integrative-medicine-pseudoscience",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/image-19.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:21"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The NFL and Brain Injury",
+    "Link": "http://sciencebasedmedicine.org/the-nfl-and-brain-injury/?utm_source=rss&utm_medium=rss&utm_campaign=the-nfl-and-brain-injury",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/NFL-CTE.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:25"
+  },
+  {
+    "Topic": "Science",
+    "Title": "AI And Pseudoscience",
+    "Link": "http://sciencebasedmedicine.org/ai-and-pseudoscience/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-pseudoscience",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2019/07/homeopathylabel.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:28"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The Pro-Virus Misinformation of Matt Ridley and the Toxic Apathy of Dr. Alina Chan",
+    "Link": "http://sciencebasedmedicine.org/toxicapathy/?utm_source=rss&utm_medium=rss&utm_campaign=toxicapathy",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/image-5.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:32"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Dr. Vinay Prasad’s Latest Evidence the COVID Vaccine Killed Kids:  “Trust Me, Bro.”",
+    "Link": "http://sciencebasedmedicine.org/dr-vinay-prasads-new-standard-of-evidence-trust-me-bro/?utm_source=rss&utm_medium=rss&utm_campaign=dr-vinay-prasads-new-standard-of-evidence-trust-me-bro",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/image-12.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:35"
   },
   {
     "Topic": "Data / AI",
-    "Title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-    "Link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-1024x648.jpg",
+    "Title": "Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason",
+    "Link": "https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/channel-5.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:09:55"
+    "Date": "2026-09-11 05:12:43"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-    "Link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
+    "Title": "6 reasons AI engineers can  make the jump to robotics right now",
+    "Link": "https://www.aiacceleratorinstitute.com/6-reasons-ai-engineers-can-make-the-jump-to-robotics-right-now/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/09/AIAI_Website_Article_Images_Doodles--3--2.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:09:57"
+    "Date": "2026-09-11 05:12:46"
   },
   {
     "Topic": "Data / AI",
-    "Title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-    "Link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+    "Title": "Bridging the gap from supercomputing to AI factories",
+    "Link": "https://www.aiacceleratorinstitute.com/bridging-the-gap-from-supercomputing-to-ai-factories/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/size/w1200/2026/08/AIAI_Supercomputing-to-AI-factories_Supporting-Assets_Meta.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:01"
+    "Date": "2026-09-11 05:12:48"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Your predictive AI foundation is the fastest path to agentic AI value",
-    "Link": "https://www.datarobot.com/blog/your-predictive-ai-foundation-is-the-fastest-path-to-agentic-ai-value/",
-    "ImageUrl": "https://www.datarobot.com/wp-content/uploads/2026/08/Energy-gif-long.gif",
+    "Title": "Enterprise AI SRE: Scaling automation and operational resilience",
+    "Link": "https://www.aiacceleratorinstitute.com/scaling-automation-and-operational-resilience/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/07/WB161-Big-Panda-Live-session---Meta--6--3.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:03"
+    "Date": "2026-09-11 05:12:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Running AI in Production: Reliable AI Workflows, Governed Access, at Scale",
+    "Link": "https://www.aiacceleratorinstitute.com/running-ai-in-production-reliable-ai-workflows/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/09/WB197-Ghost.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:12:53"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Treasury to buy back up to $6B in longer-term debt as bond yields hit highest level since 2023",
+    "Link": "https://www.foxbusiness.com/economy/treasury-buy-back-up-6b-longer-term-debt-bond-yields-hit-highest-level-since-2023",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-economic-statecraft-01.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:13:13"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Tether pushes into private credit with $400 million fund with Fasanara",
-    "Link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+    "Title": "Fifth-Largest US Bank Tests Cross-Border Payment with Own Stablecoin",
+    "Link": "https://www.financemagnates.com/institutional-forex/fifth-largest-us-bank-tests-cross-border-payment-with-own-stablecoin/",
+    "ImageUrl": "https://images.financemagnates.com/images/US%20banks_id_496af869-72f5-4b77-b702-a283256fba7c_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:13:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Important Ripple News and XRP Price Update: September 10",
+    "Link": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-september-10/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/03/Ripple_News.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-11 05:13:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Wasabi Wallet developer bars U.S. users amidst regulatory concerns",
+    "Link": "https://bitcoinwarrior.net/2024/04/wasabi-wallet-developer-bars-u-s-users-amidst-regulatory-concerns/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-10 05:10:12"
+    "Date": "2026-09-11 05:13:36"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Is Testing $80,000 for the Second Time This Week: Here Is What Is Different Now",
-    "Link": "https://dailycoinpost.com/bitcoin-testing-80000-second-time-clarity-act-fomc-september-15/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/08/btc-retest.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:15"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
-    "Link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-10 05:10:18"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Lightning Security Alert: Alby Reveals Critical Hub Vulnerability",
-    "Link": "https://news.bitcoin.com/security/lightning-security-alert-alby-reveals-critical-hub-vulnerability/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/lightning-security-alert-alby-reveals-critical-hub-vulnerability.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:21"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-    "Link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
+    "Title": "Spot Bitcoin ETFs See Third Straight Week Of Outflows, Australia Considers Approval",
+    "Link": "https://bitcoinwarrior.net/2024/04/spot-bitcoin-etfs-see-third-straight-week-of-outflows-australia-considers-approval/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-10 05:10:24"
+    "Date": "2026-09-11 05:13:42"
   },
   {
-    "Topic": "Science",
-    "Title": "Stephen Macedo And Frances Lee:  Defend Your Essay That Dr. Jay Bhattacharya Would Restore Trust in Public Health",
-    "Link": "https://sciencebasedmedicine.org/macedo-lee-maha-maga-fluffers/?utm_source=rss&utm_medium=rss&utm_campaign=macedo-lee-maha-maga-fluffers",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/image-23.png",
+    "Topic": "Trading & Crypto",
+    "Title": "Nasdaq Ventures to Invest $100M in Kraken Parent Payward at $21B Valuation",
+    "Link": "https://cryptopotato.com/nasdaq-ventures-to-invest-100m-in-kraken-parent-payward-at-21b-valuation/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/03/kraken_nasdaq_cover.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:33"
+    "Date": "2026-09-11 05:13:44"
   },
   {
-    "Topic": "Science",
-    "Title": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-organ-models-heart-and-kidneys.webp",
+    "Topic": "Astronomy",
+    "Title": "What kinds of black holes exist — and how are they different?",
+    "Link": "https://www.sciencenews.org/article/video-black-hole-types",
+    "ImageUrl": "https://www.sciencenews.org/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=3174442&type=play&hash=69a5573ca4aa38f15d69c7ff168ab677",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:36"
+    "Date": "2026-09-11 05:13:52"
   },
   {
-    "Topic": "Science",
-    "Title": "Too much coffee may weaken bones, study finds",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-hip-bone-strength.webp",
+    "Topic": "Astronomy",
+    "Title": "Is Commerce The Solution To All Space Things?",
+    "Link": "https://nasawatch.com/2026/09/03/is-commerce-the-solution-to-all-space-things/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/09/NASA-Is-About.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:39"
+    "Date": "2026-09-11 05:13:55"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists find a weak spot in one of the deadliest brain cancers",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/human-brain-cancer-tumor.webp",
+    "Topic": "Astronomy",
+    "Title": "Outer Space Fashion: SciFi vs Reality",
+    "Link": "https://nasawatch.com/2026/09/07/outer-space-fashion-scifi-vs-reality/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/09/Space-Fashion.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:42"
+    "Date": "2026-09-11 05:13:57"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists find breast cancer cells hiding behind protective “shields”",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+    "Topic": "Astronomy",
+    "Title": "A record-breaking star could reveal how the Milky Way’s giant black hole spins",
+    "Link": "https://www.sciencenews.org/article/record-breaking-star-black-hole-spin",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081826_MJG_blackhole_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:45"
+    "Date": "2026-09-11 05:14:00"
   },
   {
-    "Topic": "Movies",
-    "Title": "Hollywood Puts Four Tech Moguls on Trial in October Movie Pileup",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/musk-artificial-social-reckoning-holmes-documentary-1236693959/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Tech-Mogul-Movies.png?crop=0px%2C10px%2C1661px%2C929px&#038;resize=1440%2C810",
+    "Topic": "Astronomy",
+    "Title": "Microbes might get freeze-dried on the moon’s south pole",
+    "Link": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082426_LR_microbes_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:53"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "One Of Eddie Murphy's Biggest Box Office Hits Became A Historic Flop 30 Years Later",
-    "Link": "https://www.slashfilm.com/2253050/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/l-intro-1788964205.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Venice 2026: Sabu's 'Arrested Memory' is Clever Action Comedy Fun",
-    "Link": "https://www.firstshowing.net/2026/venice-2026-sabus-arrested-memory-is-clever-action-comedy-fun/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/arrestedmemoryreviewmainimgtw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:10:59"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘A Good Little Soldier’ Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/1bda798be120698304d25f38ab263226-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:02"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Teaser for Nathan Fielder's Doc 'You Can See Everything' on Holmes",
-    "Link": "https://www.firstshowing.net/2026/teaser-for-nathan-fielders-doc-you-can-see-everything-on-holmes/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/youcanseeeverythingdocbigptw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:05"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-4-surge-38-in-one-week-whats-polishing-the-stocks-shine/articleshow/133955478.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133955747,width-1200,height-630,imgsize-2294603,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:15"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Rupee plunges 34 paise to 95.08 against dollar as crude prices surpass USD 100 mark",
-    "Link": "https://economictimes.indiatimes.com/markets/forex/rupee-plunges-34-paise-to-95-08-against-dollar-as-crude-prices-surpass-usd-100-mark/articleshow/133966394.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133966423,width-1200,height-630,imgsize-34722,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:18"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Global Market: European markets fall as Middle East tensions push oil prices higher",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-fall-as-middle-east-tensions-push-oil-prices-higher/articleshow/133962759.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133962802,width-1200,height-630,imgsize-211756,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:21"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Global Market: Amazon diversifies debt funding with first Sterling bond offering",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-amazon-diversifies-debt-funding-with-first-sterling-bond-offering/articleshow/133963512.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133963772,width-1200,height-630,imgsize-206154,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:27"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "ET Alpha Wealth Summit:  Decoding the next market cycle and where  opportunities lie",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-decoding-the-next-market-cycle-and-where-opportunities-lie/articleshow/133964867.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-133964929,width-1200,height-630,imgsize-223798,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:31"
+    "Date": "2026-09-11 05:14:03"
   },
   {
     "Topic": "General News",
-    "Title": "US Destroys 5 Iranian Oil Tankers as War Escalates Once Again",
-    "Link": "https://www.today.com/video/new-strikes-on-iran-trigger-another-spike-in-oil-and-gas-prices-269529157838",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_09/1788952319625_tdy_news_7a_gutierrez_iran_strikes_260909_S3_1920x1080-ytl532.jpg",
+    "Title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+    "Link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/649x365+1+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Fd4%2Faf610c95412dbaf0440277327fab%2Fbarbara-keating.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:41"
+    "Date": "2026-09-11 05:14:11"
   },
   {
     "Topic": "General News",
-    "Title": "Apple announces long-awaited foldable phone, iPhone Duo",
-    "Link": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-apple-duo-ew-254p-6d2176.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:44"
-  },
-  {
-    "Topic": "General News",
-    "Title": "'An injustice' or 'righting a wrong': British Jews debate sanctions move",
-    "Link": "https://www.bbc.co.uk/news/articles/c9dw048lp9zo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf8/live/bc7e8220-ac73-11f1-80f0-9795d1a5edbc.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:46"
-  },
-  {
-    "Topic": "General News",
-    "Title": "How to treat and prevent ingrown hair without popping, picking or plucking",
-    "Link": "https://www.nbcnews.com/select/shopping/best-ingrown-hair-treatments-prevention-rcna101598",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230818-ingrown-hair-aw-social-1cb5e7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:50"
-  },
-  {
-    "Topic": "General News",
-    "Title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-    "Link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f615/live/68145f40-ac76-11f1-b1d1-571ed4d7ff2c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:11:52"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Introducing Gemma 3n: The developer guide",
-    "Link": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemma-3n-meta.2e16d0ba.fill-1200x600.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:02"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Mapping, modeling, and understanding nature with AI",
-    "Link": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Electricity_Concept_Map.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-10 05:12:06"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "D4RT: Teaching AI to see the world in four dimensions",
-    "Link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "Title": "Enseignante menacée de mort en Haute-Garonne : un parent d’élève condamné à six mois de prison ferme",
+    "Link": "https://www.lemonde.fr/societe/article/2026/09/10/enseignante-menacee-de-mort-en-haute-garonne-un-parent-d-eleve-condamne-a-six-mois-de-prison-ferme_6769833_3225.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-10 05:12:09"
+    "Date": "2026-09-11 05:14:14"
   },
   {
-    "Topic": "Technology",
-    "Title": "Accelerating discovery in India through AI-powered science and education",
-    "Link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cyclotron_with_glowing_beam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-10 05:12:13"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Protecting people from harmful manipulation",
-    "Link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-10 05:12:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Some Black Holes Grow Much Faster Than Their Galaxies",
-    "Link": "https://www.universetoday.com/articles/some-black-holes-grow-much-faster-than-their-galaxies",
-    "ImageUrl": "https://www.universetoday.com/article_images/eso1644b_20260908_151202.jpg",
+    "Topic": "General News",
+    "Title": "AfD und Friedrich Merz: AfD will Merz wegen »verleumderischer Beledigung« anzeigen",
+    "Link": "https://www.zeit.de/politik/deutschland/2026-09/afd-fraktion-strafanzeige-friedrich-merz-remigration-bundestag",
+    "ImageUrl": "https://img.zeit.de/politik/deutschland/2026-09/afd-fraktion-strafanzeige-friedrich-merz-remigration-bundestag-foto-1/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:25"
+    "Date": "2026-09-11 05:14:17"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "A STEP Grant update: Growing our understanding of deep-space agriculture",
-    "Link": "https://www.planetary.org/articles/a-step-grant-update-growing-our-understanding-of-deep-space-agriculture",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/palmer-with-plants.jpeg?mtime=1780503399",
+    "Topic": "General News",
+    "Title": "Vor Berlin-Wahl: Berliner SPD-Kandidat Krach weist Vorwürfe erneut zurück",
+    "Link": "https://www.zeit.de/news/2026-09/10/berliner-spd-kandidat-krach-weist-vorwuerfe-erneut-zurueck",
+    "ImageUrl": "https://img.zeit.de/news/2026-09/10/berliner-spd-kandidat-krach-weist-vorwuerfe-erneut-zurueck-image-group/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:28"
+    "Date": "2026-09-11 05:14:20"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "“Shortchanging NASA is simply not smart.”",
-    "Link": "https://www.planetary.org/the-downlink/shortchanging-nasa-is-simply-not-smart",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/io-from-juno-dec2024.jpg?mtime=1777495972",
+    "Topic": "General News",
+    "Title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+    "Link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8301x4669+0+432/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F46%2F69fa2f634ae3b20e52c893f34715%2Fgettyimages-2294430769.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:30"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronomers find 2 gigantic planets lighter than cotton candy",
-    "Link": "https://www.cbsnews.com/news/super-puff-planets-lighter-than-cotton-candy-found/",
-    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/25/b9622f84-f061-4ce9-ba16-e14d4ee86604/thumbnail/1200x630/71ef12a80ce4bf17044b82db2aeb09fb/ap26175637322496.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Snapping the Sun's Grand Magnetic Border at 0.3 AU",
-    "Link": "https://www.universetoday.com/articles/snapping-the-suns-grand-magnetic-border-at-03-au",
-    "ImageUrl": "https://www.universetoday.com/article_images/heliospheric-current-sheet-diagram_20260906_132640.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-10 05:12:35"
+    "Date": "2026-09-11 05:14:22"
   }
 ]
