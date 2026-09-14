@@ -1,322 +1,322 @@
 [
   {
-    "Topic": "General News",
-    "Title": "\n            The new 'tipping culture' that is sparking fury in France\n        ",
-    "Link": "\n            https://www.thelocal.com/20260910/the-new-tipping-culture-that-is-sparking-fury-in-france\n        ",
-    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20250530__48PC4GM__v1__MidRes__FranceFoodLifestyle.jpg@webp",
+    "Topic": "Data / AI",
+    "Title": "The latest AI news we announced in July 2026",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:00:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Anthropic whistleblower says Congress should let AI companies police themselves until a regulatory body is established",
-    "Link": "https://www.nbcnews.com/tech/security/anthropic-whistleblower-congress-ai-companies-regulation-rcna597465",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260913-jacob-coxon-vl-1002a-70c604.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:00:56"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Two researchers who left Anthropic and Google warn AI could become ‘uncontrollable’",
-    "Link": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-anthropic-ch-1433-ff98e1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:00:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Pennsylvania woman dies from measles complications, state’s third death this year",
-    "Link": "https://www.nbcnews.com/health/health-news/pennsylvania-woman-dies-measles-rcna597490",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250417-measles-vaccine-vl-451p-b34c54.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:02"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Speaker Johnson: ‘I certainly pray’ Trump’s prediction on Iran war ending after midterms is ‘right’",
-    "Link": "https://www.nbcnews.com/meet-the-press/video/speaker-johnson-i-certainly-pray-trump-s-prediction-on-iran-war-ending-after-midterms-is-right-269787717779",
-    "ImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789305337808_mtp_clip_johnsoniran_260913_S3_1920x1080-lkwiuk.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:04"
+    "Date": "2026-09-15 05:54:07"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Multimodality and Large Multimodal Models (LMMs)",
-    "Link": "https://huyenchip.com//2023/10/10/multimodal.html",
-    "ImageUrl": "https://huyenchip.com/assets/pics/multimodal/4-CLIP-architecture.png",
+    "Title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "Link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:13"
+    "Date": "2026-09-15 05:54:09"
   },
   {
     "Topic": "Data / AI",
-    "Title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-    "Link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/d2f0165/2147483647/strip/true/crop/1947x1022+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fec%2Fd2%2F7abb6a1e4fe29c9cb3c14f33098f%2Fcollaborative-workflow-16x9.png",
+    "Title": "Evolve your marketing with new AI tools",
+    "Link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.width-1300.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:15"
+    "Date": "2026-09-15 05:54:12"
   },
   {
     "Topic": "Data / AI",
-    "Title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-    "Link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
+    "Title": "3 ways to prep for your next big race with Search",
+    "Link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.width-1300.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:18"
+    "Date": "2026-09-15 05:54:15"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How Claude Watermarks AI-Generated Text",
-    "Link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!2E7U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb73bfb5-0291-4e5e-b425-6c3be054276e_1914x1076.png",
+    "Title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "Link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-1440x810.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:20"
+    "Date": "2026-09-15 05:54:17"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Components of A Coding Agent",
-    "Link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
+    "Topic": "General News",
+    "Title": "Scientists film deepest ever fish on seabed off Japan ",
+    "Link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403124356-01-snailfish.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:23"
+    "Date": "2026-09-15 05:54:44"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists unlock new clues to what Denisovans, a mysterious ancient human ancestor, looked like",
-    "Link": "https://www.scientificamerican.com/article/scientists-unlock-new-clues-to-what-denisovans-a-mysterious-ancient-human-ancestor-looked-like/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/4d30c0e0-814d-449e-b8af-fa835be98cfe/denisovan-teeth.jpg?m=1788984203.403&w=1200",
+    "Topic": "General News",
+    "Title": "Glückliches Ende: Verletzter Motorradfahrer liegt 19 Stunden im Straßengraben",
+    "Link": "https://www.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben",
+    "ImageUrl": "https://img.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben-image-group/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:31"
+    "Date": "2026-09-15 05:54:46"
   },
   {
-    "Topic": "Science",
-    "Title": "This cosmic particle was never meant to reach Earth. Now scientists think they finally know why it did",
-    "Link": "https://www.scientificamerican.com/article/this-cosmic-particle-was-never-meant-to-reach-earth-now-scientists-think-they-finally-know-why-it-did/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/d260b53c-00ec-4d90-afb2-daae13bb42f5/Gamma-Ray-burst.jpg?m=1788892044.768&w=1200",
+    "Topic": "General News",
+    "Title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+    "Link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403194210-01-us-china-taiwan-tension.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:34"
+    "Date": "2026-09-15 05:55:01"
   },
   {
-    "Topic": "Science",
-    "Title": "Something unique seems to be happening to the brain in menopause",
-    "Link": "https://www.scientificamerican.com/article/something-unique-seems-to-be-happening-to-the-brain-in-menopause/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/m/3c83784da5d885a8/original/Alzheimer_memory_loss.jpg?m=1788882151.812&w=1200",
+    "Topic": "General News",
+    "Title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+    "Link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230331114845-taxi-driver.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:36"
+    "Date": "2026-09-15 05:55:03"
   },
   {
-    "Topic": "Science",
-    "Title": "Giant armored crustaceans survive thanks to a gene stolen from bacteria",
-    "Link": "https://www.scientificamerican.com/article/giant-armored-crustaceans-survive-thanks-to-a-gene-stolen-from-bacteria/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/59c70beb-99be-4233-b616-47c4e20a7b2e/saw1026Adva11.jpg?m=1788362834.566&w=1200",
+    "Topic": "General News",
+    "Title": "Teenage swimmer breaks two world records in four days",
+    "Link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403120902-summer-mcintosh-file-120222.jpg?c=16x9&q=w_800,c_fill",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:39"
-  },
-  {
-    "Topic": "Science",
-    "Title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/tailed-stag-beetle.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:41"
+    "Date": "2026-09-15 05:55:05"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Phobos and Deimos, the moons of Mars",
-    "Link": "https://www.planetary.org/worlds/phobos-and-deimos",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/hope-deimos-over-mars.jpg?mtime=1753480628",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:54"
+    "Title": "NASA’s Chandra Found 84 Mysterious Objects Hiding in Other Galaxies, Scientists Have Never Seen Anything Like Them",
+    "Link": "https://dailygalaxy.com/2026/09/nasas-chandra-found-84-mysterious-objects-hiding-in-other-galaxies-scientists-have-never-seen-anything-like-them/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:55:13"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Little moons, megarocket, tiny CubeSat",
-    "Link": "https://www.planetary.org/the-downlink/little-moons-megarocket-tiny-cubesat",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/phobos-over-mars.jpg?mtime=1785357849",
+    "Title": "How Big Can The Universe's First Starbursts Get?",
+    "Link": "https://www.universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
+    "ImageUrl": "https://www.universetoday.com/article_images/Massive_Population_III_Star_in_the_Early_Universe_1_20260911_141558.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:56"
+    "Date": "2026-09-15 05:55:15"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Hayabusa2’s flyby of asteroid Torifune",
-    "Link": "https://www.planetary.org/articles/hayabusa2s-flyby-of-asteroid-torifune",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/torifune-from-hayabusa2.jpeg?mtime=1783445396",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:01:59"
+    "Title": "A Tiny Flash Inside a Massive Detector Has Scientists Wondering If They Finally Found Dark Matter",
+    "Link": "https://dailygalaxy.com/2026/09/tiny-flash-detector-dark-matter-signal/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Frozen_Leaf_%286886708197%29.jpg/960px-Frozen_Leaf_%286886708197%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-15 05:55:18"
   },
   {
     "Topic": "Astronomy",
-    "Title": "An insider's look at the Nancy Grace Roman Space Telescope",
-    "Link": "https://www.planetary.org/articles/meet-the-nancy-grace-roman-space-telescope",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/nancy-grace-roman-space-telescope.jpg?mtime=1758027361",
+    "Title": "A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy",
+    "Link": "https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy",
+    "ImageUrl": "https://www.universetoday.com/article_images/eso2520a_20251117_200632_20260913_015217.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:02"
+    "Date": "2026-09-15 05:55:20"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Cosmic neighborhood watch",
-    "Link": "https://www.planetary.org/the-downlink/cosmic-neighborhood-watch",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/mccarthy-artemis2-moon-closeup.jpg?mtime=1787171887",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:04"
+    "Title": "Scientists Create A Living Material That Could 3D Print The First Homes On Mars",
+    "Link": "https://dailygalaxy.com/2026/09/living-material-3d-print-first-homes-mars/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:55:23"
   },
   {
     "Topic": "Movies",
-    "Title": "‘Your Mother Your Mother Your Mother’ Review: Mahershala Ali Is a Marvel in a Gripping Crime Film With a Big, Aching Heart",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/your-mother-your-mother-your-mother-review-mahershala-ali-1236699560/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Your-Mother-Your-Mother-Your-Mother_Still_HERO-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:13"
+    "Title": "Percy Jackson & the Olympians Star Teases Big Change From the Books in Disney+’s Season 3",
+    "Link": "https://www.comingsoon.net/tv/news/2190922-percy-jackson-season-3-percy-nico-change-walker-scobell",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:55:40"
   },
   {
     "Topic": "Movies",
-    "Title": "David Corenswet is John Tuggle in 'Mr Irrelevant' Football Movie Trailer",
-    "Link": "https://www.firstshowing.net/2026/david-corenswet-is-john-tuggle-in-mr-irrelevant-football-movie-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/mrirrelevantpostermainbigimgtw1.jpg",
+    "Title": "Resident Evil Just Gave Terminator 2 & Aliens Fans Big Reason to Be Excited for Video Game Movie",
+    "Link": "https://www.comingsoon.net/movies/news/2190988-resident-evil-terminator-2-aliens-fans-video-game-movie",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/14_683085.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:15"
+    "Date": "2026-09-15 05:55:42"
   },
   {
     "Topic": "Movies",
-    "Title": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: “I Want to Find the Steeper Hill to Go Down”",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/kaelen-ohm-talks-bringing-inner-extreme-skier-to-film-roles-1236689571/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Kaelen-Ohm-Getty-Images-H-2026.jpg?w=1440&#038;h=810&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:18"
+    "Title": "2026 Primetime Emmy Awards Winners & Nominees | Full Live Results",
+    "Link": "https://www.comingsoon.net/tv/features/2190875-2026-primetime-emmy-awards-winners-nominees-full-live-results",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:55:44"
   },
   {
     "Topic": "Movies",
-    "Title": "Superb US Trailer for Hamaguchi's 'All of a Sudden' 2026 Masterpiece",
-    "Link": "https://www.firstshowing.net/2026/superb-us-trailer-for-hamaguchis-all-of-a-sudden-2026-masterpiece/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/hamaguchiallofsuddenmainimgtw.jpg",
+    "Title": "Tyler Perry Makes Surprising Career Decision Amid New Movie & Sexual Misconduct Lawsuit",
+    "Link": "https://www.comingsoon.net/movies/news/2190892-tyler-perry-pulling-back-hollywood-whats-next",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/tyler.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:21"
+    "Date": "2026-09-15 05:55:47"
   },
   {
     "Topic": "Movies",
-    "Title": "Fascinating Mountain Climbing Doc 'The Last First: Winter K2' Trailer",
-    "Link": "https://www.firstshowing.net/2026/fascinating-mountain-climbing-doc-the-last-first-winter-k2-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/lastfirstwinterk2docmainimgtw1.jpg",
+    "Title": "Google’s Sean Downey on the YouTube TIFF Takeover, Oscars Ad Integration and Creators vs. Influencers",
+    "Link": "https://variety.com/2026/film/news/youtube-tiff-obsession-oscars-sean-downey-1236861238/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/KF3_0338-2.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-    "Link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-    "Link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:36"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
-    "Link": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
-    "Link": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AUD/NZD: Fresh Hikes on Both Sides, One Chart Still Undecided",
-    "Link": "https://fxopen.com/blog/en/an-aud-nzd-fresh-hikes-on-both-sides-one-chart-still-undecided/",
-    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/09/Australian-dollar-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Bose QuietComfort Ultra earbuds are $50 off at Amazon for a short time",
-    "Link": "https://mashable.com/tech/sept-11-bose-quietcomfort-ultra-earbuds-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05wAz4E4rZaRPF8JuK00sfK/hero-image.fill.size_1200x675.v1789112689.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Our favorite budget air purifier just hit a limited-time deal on Amazon — grab the Levoit air purifier for 15% off",
-    "Link": "https://mashable.com/life/sept-10-levoit-air-purifier-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07Fe6lhWGm96iuCLcffvgas/hero-image.fill.size_1200x675.v1789050711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:55"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "LG officially denies reports that its smart TVs are secretly recording users",
-    "Link": "https://mashable.com/tech/lg-officially-denies-reports-that-its-smart-tvs-are-secretly-recording",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02Jhh6AQmCz4HuniqFXBIoV/hero-image.fill.size_1200x675.v1789317233.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:02:58"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Your Mother Your Mother Your Mother review: Mahershala Ali flashes his blade in epic thriller",
-    "Link": "https://mashable.com/entertainment/your-mother-your-mother-your-mother-review",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07CZDzBh1srXZK1eVRYIx78/hero-image.fill.size_1200x675.v1786051404.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:00"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Apple iPhone Duo vs. iPhone 18 Pro Max: How to decide between them",
-    "Link": "https://mashable.com/tech/iphone-duo-vs-iphone-18-pro-max",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/00g2LaxzUmemieFGr4KOsXH/hero-image.fill.size_1200x675.v1789080020.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:02"
+    "Date": "2026-09-15 05:55:50"
   },
   {
     "Topic": "Economy",
-    "Title": "Biweekly Investment Insights: When hawks fly, stay grounded in the fundamentals",
-    "Link": "https://www.nasdaq.com/articles/global-indexes/biweekly-investment-insights/when-hawks-fly-stay-grounded-in-the-fundamentals",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?364271894",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:17"
+    "Title": "Sustainable Bond Demand Faces Regional Turbulence",
+    "Link": "https://gfmag.com/sustainable-finance/sustainable-bond-demand-faces-regional-turbulence/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:55:58"
   },
   {
     "Topic": "Economy",
-    "Title": "Unlocking Financial Markets: Understanding The Role of Data in a Digital Economy",
-    "Link": "https://www.nasdaq.com/articles/data/value-of-data",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?675187079",
-    "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:27"
+    "Title": "Europe’s Long-Bond Market Faces €1.6T Dutch Pension Shock",
+    "Link": "https://gfmag.com/economics-policy-regulation/europe-long-bond-market-faces-dutch-pension-shock/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:56:01"
   },
   {
     "Topic": "Economy",
-    "Title": "The Value of Data Becomes Even More Important in an AI-Powered Financial System",
-    "Link": "https://www.nasdaq.com/newsroom/value-of-data-becomes-more-important-in-ai-powered-financial-system",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?1692928398",
+    "Title": "High-Yield Reality: CFOs Rethink Corporate Debt Strategies",
+    "Link": "https://gfmag.com/capital-raising-corporate-finance/high-yield-cfos-corporate-debt-strategies/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/09/CFO-High-Rate-Cost-of-Capital-1.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:36"
+    "Date": "2026-09-15 05:56:03"
   },
   {
     "Topic": "Economy",
-    "Title": "OJK Minta Bank Digital Berinovasi Nyata, Bukan Cuma Gimik Digitalisasi",
-    "Link": "https://ekbis.sindonews.com/read/1749459/178/ojk-minta-bank-digital-berinovasi-nyata-bukan-cuma-gimik-digitalisasi-1789304965",
-    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/09/13/178/1749459/ojk-minta-bank-digital-berinovasi-nyata-bukan-cuma-gimik-digitalisasi-jkm.jpg",
+    "Title": "Active Wealth Management in a Changing Global Economy",
+    "Link": "https://gfmag.com/banking/active-wealth-management-in-a-changing-global-economy/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/09/Abdulla-Hashim-A-M-Al-Sada-QNB-scaled.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:40"
+    "Date": "2026-09-15 05:56:05"
   },
   {
     "Topic": "Economy",
-    "Title": "How the Nasdaq Foundation is Supporting Rural Founders to Build with AI",
-    "Link": "https://www.nasdaq.com/newsroom/how-nasdaq-foundation-supporting-rural-founders-build-with-ai",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?462512071",
+    "Title": "Asia-Pacific Powers Global Trade Boom",
+    "Link": "https://gfmag.com/economics-policy-regulation/asia-pacific-powers-global-trade-boom/",
+    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/07/shutterstock_503119612-scaled.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-14 05:03:58"
+    "Date": "2026-09-15 05:56:07"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists are building a microscope powered by a quantum computer",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/artistic-visualization-of-quantum-electron-microscope.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:15"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:18"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists find a way to break pancreatic cancer’s protective shield",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:20"
+  },
+  {
+    "Topic": "Science",
+    "Title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/engineered-t-cells-designed-to-attack-tumor-cells.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:23"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The secret to longer life may be hidden in bat DNA",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/greater-bamboo-bat-tylonycteris-robustula.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "MARSCOIN Just Landed a Binance Spot Listing, and the Chart Is Already Reacting With Over 280% Increase",
+    "Link": "https://nulltx.com/marscoin-just-landed-a-binance-spot-listing-and-the-chart-is-already-reacting-with-over-280-increase",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1788529104587-m4ennvpfsv.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:33"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-15 05:56:36"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Blockchain for Digital Nations: Building the Infrastructure of a Borderless Future",
+    "Link": "https://smartliquidity.info/2026/08/07/blockchain-for-digital-nations-building-the-infrastructure-of-a-borderless-future/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/08/bd21f941-4079-48e2-a560-e714ee60d442-900x495.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:39"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin’s next adoption wave could come from retirement accounts",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-15 05:56:41"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Why Crypto Needs Better Developer Infrastructure",
+    "Link": "https://smartliquidity.info/2026/08/18/why-crypto-needs-better-developer-infrastructure/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/08/SMARTCRYTONEWS-50.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
+    "Link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
+    "ImageUrl": "https://media.wired.com/photos/6a970a6fa68d74f184f30efc/191:100/w_1280,c_limit/mmx.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:51"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
+    "Link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
+    "ImageUrl": "https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:53"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
+    "Link": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
+    "ImageUrl": "https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:55"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "AI Agents Are Thirsty for Power",
+    "Link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "ImageUrl": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:56:57"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It",
+    "Link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+    "ImageUrl": "https://media.wired.com/photos/6a98bd433546f162bf782073/191:100/w_1280,c_limit/noirlab2620a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-15 05:57:00"
   }
 ]
