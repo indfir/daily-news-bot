@@ -1,322 +1,314 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "The latest AI news we announced in July 2026",
-    "Link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:07"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "Link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:09"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Evolve your marketing with new AI tools",
-    "Link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.width-1300.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:12"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "3 ways to prep for your next big race with Search",
-    "Link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.width-1300.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:15"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "Link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-1440x810.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:17"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Scientists film deepest ever fish on seabed off Japan ",
-    "Link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403124356-01-snailfish.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:44"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Glückliches Ende: Verletzter Motorradfahrer liegt 19 Stunden im Straßengraben",
-    "Link": "https://www.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben",
-    "ImageUrl": "https://img.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben-image-group/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:54:46"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
-    "Link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403194210-01-us-china-taiwan-tension.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
-    "Link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230331114845-taxi-driver.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Teenage swimmer breaks two world records in four days",
-    "Link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403120902-summer-mcintosh-file-120222.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:05"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Chandra Found 84 Mysterious Objects Hiding in Other Galaxies, Scientists Have Never Seen Anything Like Them",
-    "Link": "https://dailygalaxy.com/2026/09/nasas-chandra-found-84-mysterious-objects-hiding-in-other-galaxies-scientists-have-never-seen-anything-like-them/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:55:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "How Big Can The Universe's First Starbursts Get?",
-    "Link": "https://www.universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
-    "ImageUrl": "https://www.universetoday.com/article_images/Massive_Population_III_Star_in_the_Early_Universe_1_20260911_141558.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:15"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A Tiny Flash Inside a Massive Detector Has Scientists Wondering If They Finally Found Dark Matter",
-    "Link": "https://dailygalaxy.com/2026/09/tiny-flash-detector-dark-matter-signal/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Frozen_Leaf_%286886708197%29.jpg/960px-Frozen_Leaf_%286886708197%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Trading & Crypto",
+    "Title": "CoinCorner Vault Brings Insured Bitcoin Custody to Retail Users",
+    "Link": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-custody-coincorner-vault/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Joplin%2C_Missouri_tornado_of_2011.jpg/960px-Joplin%2C_Missouri_tornado_of_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-15 05:55:18"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy",
-    "Link": "https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy",
-    "ImageUrl": "https://www.universetoday.com/article_images/eso2520a_20251117_200632_20260913_015217.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Scientists Create A Living Material That Could 3D Print The First Homes On Mars",
-    "Link": "https://dailygalaxy.com/2026/09/living-material-3d-print-first-homes-mars/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:55:23"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Percy Jackson & the Olympians Star Teases Big Change From the Books in Disney+’s Season 3",
-    "Link": "https://www.comingsoon.net/tv/news/2190922-percy-jackson-season-3-percy-nico-change-walker-scobell",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:55:40"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Resident Evil Just Gave Terminator 2 & Aliens Fans Big Reason to Be Excited for Video Game Movie",
-    "Link": "https://www.comingsoon.net/movies/news/2190988-resident-evil-terminator-2-aliens-fans-video-game-movie",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/14_683085.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "2026 Primetime Emmy Awards Winners & Nominees | Full Live Results",
-    "Link": "https://www.comingsoon.net/tv/features/2190875-2026-primetime-emmy-awards-winners-nominees-full-live-results",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:55:44"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Tyler Perry Makes Surprising Career Decision Amid New Movie & Sexual Misconduct Lawsuit",
-    "Link": "https://www.comingsoon.net/movies/news/2190892-tyler-perry-pulling-back-hollywood-whats-next",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/tyler.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:47"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Google’s Sean Downey on the YouTube TIFF Takeover, Oscars Ad Integration and Creators vs. Influencers",
-    "Link": "https://variety.com/2026/film/news/youtube-tiff-obsession-oscars-sean-downey-1236861238/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/KF3_0338-2.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:55:50"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Sustainable Bond Demand Faces Regional Turbulence",
-    "Link": "https://gfmag.com/sustainable-finance/sustainable-bond-demand-faces-regional-turbulence/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:55:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Europe’s Long-Bond Market Faces €1.6T Dutch Pension Shock",
-    "Link": "https://gfmag.com/economics-policy-regulation/europe-long-bond-market-faces-dutch-pension-shock/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-15 05:56:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "High-Yield Reality: CFOs Rethink Corporate Debt Strategies",
-    "Link": "https://gfmag.com/capital-raising-corporate-finance/high-yield-cfos-corporate-debt-strategies/",
-    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/09/CFO-High-Rate-Cost-of-Capital-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:03"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Active Wealth Management in a Changing Global Economy",
-    "Link": "https://gfmag.com/banking/active-wealth-management-in-a-changing-global-economy/",
-    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/09/Abdulla-Hashim-A-M-Al-Sada-QNB-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:05"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Asia-Pacific Powers Global Trade Boom",
-    "Link": "https://gfmag.com/economics-policy-regulation/asia-pacific-powers-global-trade-boom/",
-    "ImageUrl": "https://s44650.pcdn.co/wp-content/uploads/2026/07/shutterstock_503119612-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:07"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists are building a microscope powered by a quantum computer",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/artistic-visualization-of-quantum-electron-microscope.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:15"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:18"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists find a way to break pancreatic cancer’s protective shield",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:20"
-  },
-  {
-    "Topic": "Science",
-    "Title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/engineered-t-cells-designed-to-attack-tumor-cells.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:23"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The secret to longer life may be hidden in bat DNA",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/greater-bamboo-bat-tylonycteris-robustula.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:25"
+    "Date": "2026-09-16 05:38:12"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "MARSCOIN Just Landed a Binance Spot Listing, and the Chart Is Already Reacting With Over 280% Increase",
-    "Link": "https://nulltx.com/marscoin-just-landed-a-binance-spot-listing-and-the-chart-is-already-reacting-with-over-280-increase",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1788529104587-m4ennvpfsv.jpg",
+    "Title": "Trading Education:  Crude oil futures have a bullish bias. What would change that bias?",
+    "Link": "https://investinglive.com/education/trading-education-crude-oil-futures-have-a-bullish-bias-what-would-change-that-bias/",
+    "ImageUrl": "https://investinglive.com/cms/media/2026-09-15_06-54-27.png?width=960&amp;format=webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:33"
+    "Date": "2026-09-16 05:38:15"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "USDCAD tests a key resistance cluster and found sellers Can buyers push through?",
+    "Link": "https://investinglive.com/technical-analysis/usdcad-tests-a-key-resistance-cluster-and-found-sellers-can-buyers-push-through/",
+    "ImageUrl": "https://investinglive.com/cms/media/2026-09-15_12-18-32.jpg?width=960&amp;format=webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The broader S&P and NASDAQ indices are trading lower and testing some key support targets. What next?",
+    "Link": "https://investinglive.com/stock-market-update/the-broader-s-p-and-nasdaq-indices-are-trading-lower-and-testing-some-key-support-targets-what-next/",
+    "ImageUrl": "https://investinglive.com/cms/media/2026-09-15_08-30-19.jpg?width=960&amp;format=webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Who is Malone Lam? Singaporean Fraudster Pleads Guilty to $245M Bitcoin Theft",
+    "Link": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-theft-malone-lam/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Malone_Lam_mugshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-15 05:56:36"
+    "Date": "2026-09-16 05:38:25"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Blockchain for Digital Nations: Building the Infrastructure of a Borderless Future",
-    "Link": "https://smartliquidity.info/2026/08/07/blockchain-for-digital-nations-building-the-infrastructure-of-a-borderless-future/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/08/bd21f941-4079-48e2-a560-e714ee60d442-900x495.jpg",
+    "Topic": "General News",
+    "Title": "\n            Italy and Spain extend tit-for-tat border checks in wake of migrant rush\n        ",
+    "Link": "\n            https://www.thelocal.com/20260915/italy-and-spain-extend-tit-for-tat-border-checks-in-wake-of-migrant-rush\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260407__A6YY9T3__v2__HighRes__ItalyTransportFuelCrisisWarIranUsIsrael.jpg@webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:39"
+    "Date": "2026-09-16 05:38:36"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin’s next adoption wave could come from retirement accounts",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
+    "Topic": "General News",
+    "Title": "Brandenburg: Weiterer BSW-Abgeordneter verlässt Partei und Fraktion ",
+    "Link": "https://www.tagesschau.de/inland/regional/brandenburg/weiterer-austritt-bsw-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/b139ad97-0b20-46fe-8438-ac7e4ed39898/AAABoKVcDyQ/AAABnSSvrFg/16x9-big/landtag-brandenburg-120.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            British rockers Oasis announce tour dates in Paris, Munich, Barcelona and Rome\n        ",
+    "Link": "\n            https://www.thelocal.com/20260914/british-rockers-oasis-announce-tour-dates-in-paris-munich-barcelona-and-rome\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260905__C7FR7F2__v1__MidRes__776551525.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:43"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Saint Pierre et Miquelon: Why does France have two islands off the Canadian coast?\n        ",
+    "Link": "\n            https://www.thelocal.com/20250403/saint-pierre-et-miquelon-why-does-france-have-two-islands-off-the-canadian-coast\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/04/watermarks-logo-AFP__20220110__9VV7YP__v3__Preview__FranceOverseasHealthVirusDemo-1.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:47"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Russischer Oligarch hat Hochzeit von Trump Jr. mitfinanziert",
+    "Link": "https://www.tagesschau.de/ausland/amerika/usa-oligarch-trump-jr-hochzeitsfeier-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/7507e67d-ef89-410f-a537-b3ba2e4431f8/AAABoKOh_SU/AAABnSSvrFg/16x9-big/trump-jr-bettina-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes",
+    "Link": "https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/09/turnstile-system-design/en/card_header_image/generatedCard-1789396860350.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:38:59"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The DJI Mini 3 is $104 off at Amazon right now",
+    "Link": "https://mashable.com/tech/sept-14-dji-mini-3-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03SQiPIUTQcMrxJP8fFoxvp/hero-image.fill.size_1200x675.v1789398872.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:02"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The best laptops of 2026: Out of the 90+ models weve tried, these are our 8 favorites",
+    "Link": "https://mashable.com/roundup/best-laptops-2026-expert-tested",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/roundups/07B25zibpGnHbWHFwBfeK1n/hero-image.fill.size_1200x675.v1781725756.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:04"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The 10 best wireless earbuds weve ever tested",
+    "Link": "https://mashable.com/roundup/best-wireless-earbuds-expert-tested-2026",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/roundups/06IWFHfJ7yAAffPn0vTjQpE/hero-image.fill.size_1200x675.v1771448652.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:06"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Preorder the Pokémon TCG 30th Celebration ETB for under market price on Amazon — save over $5 (if you get an invite)",
+    "Link": "https://mashable.com/life/sept-15-pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/01xnDZU2HeTPMWrw9z7rI8O/hero-image.fill.size_1200x675.v1789463882.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:08"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Series of reactions reveals how complex carbon chemistry can begin in frigid space",
+    "Link": "https://phys.org/news/2026-09-series-reactions-reveals-complex-carbon.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-15 05:56:41"
+    "Date": "2026-09-16 05:39:20"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Why Crypto Needs Better Developer Infrastructure",
-    "Link": "https://smartliquidity.info/2026/08/18/why-crypto-needs-better-developer-infrastructure/",
-    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/08/SMARTCRYTONEWS-50.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:44"
+    "Topic": "Astronomy",
+    "Title": "No cities on the moon—there isn't enough water, scientists say",
+    "Link": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-16 05:39:23"
   },
   {
-    "Topic": "Technology",
-    "Title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
-    "Link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
-    "ImageUrl": "https://media.wired.com/photos/6a970a6fa68d74f184f30efc/191:100/w_1280,c_limit/mmx.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:51"
+    "Topic": "Astronomy",
+    "Title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+    "Link": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Earthset_%28art002e009288%29.jpg/960px-Earthset_%28art002e009288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-16 05:39:26"
   },
   {
-    "Topic": "Technology",
-    "Title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-    "Link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-    "ImageUrl": "https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg",
+    "Topic": "Astronomy",
+    "Title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+    "Link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
+    "ImageUrl": "https://i.guim.co.uk/img/media/019f4167d3d66d36a454b92c2a3b2d4d40c64dc7/1_1_6879_5503/master/6879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b36a3861f6161991f538f251bdd96a9",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:53"
+    "Date": "2026-09-16 05:39:28"
   },
   {
-    "Topic": "Technology",
-    "Title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
-    "Link": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
-    "ImageUrl": "https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg",
+    "Topic": "Astronomy",
+    "Title": "Artemis II iPhone Ad Omits NASA. Huh?",
+    "Link": "https://nasawatch.com/2026/09/10/artemis-ii-iphone-add-omits-nasa-huh/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/09/AppleMoon1.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:55"
+    "Date": "2026-09-16 05:39:31"
   },
   {
-    "Topic": "Technology",
-    "Title": "AI Agents Are Thirsty for Power",
-    "Link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "ImageUrl": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+    "Topic": "Movies",
+    "Title": "DOJ Takes Paramount’s Side Against States in Fight Over $1.9 Billion Bond",
+    "Link": "https://variety.com/2026/film/news/doj-paramount-warner-bros-bond-1236863479/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/David-Ellison-Donald-Trump.jpg?crop=17px%2C19px%2C2124px%2C1194px&#038;resize=1000%2C563",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:56:57"
+    "Date": "2026-09-16 05:39:38"
   },
   {
-    "Topic": "Technology",
-    "Title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It",
-    "Link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-    "ImageUrl": "https://media.wired.com/photos/6a98bd433546f162bf782073/191:100/w_1280,c_limit/noirlab2620a.jpg",
+    "Topic": "Movies",
+    "Title": "‘Salvation’ Review: A Pin-Sharp Portrait of an Aspiring Life Coach in Personal Freefall",
+    "Link": "https://variety.com/2026/film/news/salvation-review-2-1236863013/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/salvation1.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-09-15 05:57:00"
+    "Date": "2026-09-16 05:39:40"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Quentin Tarantino to Publish ‘Cliff Booth’ Novel Before Brad Pitt and David Fincher’s Movie Streams on Netflix",
+    "Link": "https://variety.com/2026/film/news/quentin-tarantino-cliff-booth-novel-brad-pitt-david-fincher-movie-1236863181/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/MCDONUP_CO004.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:42"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Israel’s Oscar Entry ‘Tell Me Everything’ Finds International Distribution as Paradise City Sales Unveils Trailer (EXCLUSIVE)",
+    "Link": "https://variety.com/2026/film/global/israel-oscar-entry-tell-me-everything-trailer-sales-1236863172/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/1-Main-still-c-Ziv-Berkovich.png?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:44"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "What Time Is ‘DWTS’ On Tonight? ‘Dancing with the Stars’ ABC, Disney+, and Hulu Release Dates and Times",
+    "Link": "https://decider.com/2026/09/15/dancing-with-the-stars-start-time-where-watch-dwts-premiere-episode-disney-hulu/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/09/Maura-and-Mark.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:47"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Merasa Bokek Padahal Keuangan Baik-baik Aja, Ini 11 Alasan Gen Z Sering Cemas soal Uang",
+    "Link": "https://www.viva.co.id/gaya-hidup/1928837-merasa-bokek-padahal-keuangan-baik-baik-aja-ini-11-alasan-gen-z-sering-cemas-soal-uang",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/09/07/631875472ddbe-ilustrasi-dompet-kering_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:39:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+    "Link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108361349-1789061236185-gettyimages-2221337331-kokovlis-notitle250625_npN2j.jpeg?v=1789061264&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:00"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Jangan Panik Saat HP Android Kemasukan Air, Lakukan Langkah Ini Sebelum Mencoba Menyalakannya",
+    "Link": "https://www.viva.co.id/gaya-hidup/digilife/1928780-jangan-panik-saat-hp-android-kemasukan-air-lakukan-langkah-ini-sebelum-mencoba-menyalakannya",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/05/6a4a449129866-ilustrasi-hp-murah-tahan-air_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:06"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "From &quot;Export&quot; to &quot;Overseas Revenue&quot;: A Share Evidence of China’s Global Expansion",
+    "Link": "https://www.nasdaq.com/articles/global-indexes/overseas-revenue-china-global-expansion",
+    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?529742317",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:13"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bea Cukai Gagalkan Penyelundupan 330 Kg Emas hingga September 2026, Ada Berbagai Jenis Modus",
+    "Link": "https://www.viva.co.id/bisnis/1928860-bea-cukai-gagalkan-penyelundupan-330-kg-emas-hingga-september-2026-ada-berbagai-jenis-modus",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa958426ccec-direktur-jenderal-bea-dan-cukai-djaka-budhi-utama-tengah_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "Link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:24"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "College Students Using AI to Cheat Are Going to Absurd Lengths to Avoid Detection",
+    "Link": "https://futurism.com/future-society/ai-cheating-students-absurd-lengths-avoid-detection",
+    "ImageUrl": "https://futurism.com/wp-content/uploads/2026/09/ai-cheating-students-absurd-lengths-avoid-detection.jpg?quality=85&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:26"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+    "Link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "Link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:35"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Mother Horrified When Meta’s AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters",
+    "Link": "https://futurism.com/artificial-intelligence/mother-horrified-meta-ai-family",
+    "ImageUrl": "https://futurism.com/wp-content/uploads/2026/09/mother-horrified-meta-ai-family_1f3953.jpg?w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+    "Link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:47"
+  },
+  {
+    "Topic": "Science",
+    "Title": "A new solar cell could generate electricity underwater",
+    "Link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225167357-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:50"
+  },
+  {
+    "Topic": "Science",
+    "Title": "What happens when quantum mechanics and relativity meet?",
+    "Link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:53"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Google's AI genome system evaluates every possible one-base change",
+    "Link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-16 05:40:56"
   }
 ]
