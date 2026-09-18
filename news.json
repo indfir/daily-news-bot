@@ -1,306 +1,282 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "Fan Bingbing, Pedro Pascal, John Malkovich, Javier Bardem Films Lead Tokyo Festival’s Gala Selection",
-    "Link": "https://variety.com/2026/film/festivals/fan-bingbing-pedro-pascal-tokyo-film-festival-galas-1236865197/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/Diary-of-a-Mad-Old-Man.jpg?w=1000&#038;h=563&#038;crop=1",
+    "Topic": "Science",
+    "Title": "Human brain organoid transplants mesh with mouse brains, forming active neural circuits",
+    "Link": "https://www.scientificamerican.com/article/human-brain-organoid-transplants-mesh-with-mouse-brains-forming-active-neural-circuits/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/ab6a2155-9340-460f-9ab3-284896dfebab/lab-mini-brain.jpg?m=1789585541.389&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-18 05:35:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Marvel Is Resurrecting A Forgotten Alan Moore Antihero For The Avengers' Next Massive Reboot",
-    "Link": "https://screenrant.com/miracleman-joins-avengers-alan-moore/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/the-avengers-and-the-x-men-pose-together-for-a-celebration-image.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:35:45"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Resident Evil’s Rotten Tomatoes Score Reveals How it Compares to Fan-Favorite Milla Jovovich Movies",
-    "Link": "https://www.comingsoon.net/movies/news/2192292-resident-evil-rt-score-towers-over-previous-live-action-movies",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Resident-Evil.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:35:47"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Shrek Fans Get a Whole New Way to Experience Beloved DreamWorks Movie Ahead of Sequel",
-    "Link": "https://www.comingsoon.net/movies/news/2193191-shrek-fans-new-way-experience-dreamworks-movie",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/15_4447f6.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:35:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Russell Crowe & Ethan Hawke’s New Movie Out This Week Gets 93% RT Score",
-    "Link": "https://www.comingsoon.net/movies/news/2193212-the-weight-rotten-tomatoes-score-russell-crowe-ethan-hawke",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/16_efafa0.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:35:52"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-    "Link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/MicronSanJose.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-18 05:36:02"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-    "Link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Best_Buy_logo_2018.svg/960px-Best_Buy_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-18 05:36:05"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-    "Link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364135-1789598183848-gettyimages-2295653697-0d6a0686_we9kh27t.jpeg?v=1789598217&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:08"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-    "Link": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364635-1789677070399-gettyimages-2222880844-TRUMP_TAX_BILL.jpeg?v=1789677107&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:11"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-    "Link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-18 05:36:14"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Small AI models let drones autonomously identify and attack battlefield targets",
-    "Link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:23"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-    "Link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-2560x1440.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:27"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI leaders want to hit the brakes after years of reckless speed",
-    "Link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:30"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-    "Link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:33"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-    "Link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:36"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Mendag Pastikan Produk Impor Tetap Masuk Jelang Wajib Halal Oktober",
-    "Link": "https://news.republika.co.id/berita/tlj4hg6230000/mendag-pastikan-produk-impor-tetap-masuk-jelang-wajib-halal-oktober",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/059769100-1789683316-1000194777jpg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
-    "Link": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
-    "ImageUrl": "https://i.guim.co.uk/img/media/2fbd472d3604a22f2de69ca6c211cf23694f4847/378_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5f0979df61d6d3d436d134c18facd1d",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:56"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-    "Link": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-    "ImageUrl": "https://i.guim.co.uk/img/media/38e258c3407870ebaabb9ea23a7e206a4990bb75/672_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f9eea28d5b2008e2e880e8c0dbe8289",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:36:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
-    "Link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
-    "ImageUrl": "https://i.guim.co.uk/img/media/ae8ef3ee8ee497c75c7228a57a2992c7f5140ec8/187_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2afb34a06ccc8e849323fd08774332de",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:01"
-  },
-  {
-    "Topic": "General News",
-    "Title": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak",
-    "Link": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
-    "ImageUrl": "https://i.guim.co.uk/img/media/fa84483c3a1db400a8d6294df25cc82112475156/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153abf6e460223ad88889888a9b2fa84",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:04"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-    "Link": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:13"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-    "Link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
-    "Link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3117cf3dd45002820f985ed15736a3333261d9c0-1508x842.png?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-    "Link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8124d5817232e2a5c9bb3d2dd20a5d30b0f10d51-1264x711.jpg?auto=format&amp;q=75",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:22"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "Link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:37:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The space station reckoning, or, one day in the life of the ISS crew",
-    "Link": "https://www.thespacereview.com/article/4897/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-18 05:37:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The opportunities and challenges for science at NASA and ESA",
-    "Link": "https://www.thespacereview.com/article/4644/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-18 05:37:42"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "How to land a space gig",
-    "Link": "https://www.thespacereview.com/article/4652/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_%D0%9B%D0%B5%D0%B2._%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B8_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D1%83_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%3F_%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%281914%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-18 05:37:46"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The new era of heavy launch ",
-    "Link": "https://www.thespacereview.com/article/4626/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg/960px-Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-18 05:37:50"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Review: The Music of Space",
-    "Link": "https://www.thespacereview.com/article/4770/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-18 05:37:53"
+    "Date": "2026-09-19 05:10:26"
   },
   {
     "Topic": "Science",
-    "Title": "Researchers swap in human brain cells for a mouse's cortex",
-    "Link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.jpeg",
+    "Title": "See the first new species of cat discovered in more than a century—it’s adorable",
+    "Link": "https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/14eda6c0-48c9-4394-b011-c64f2e7105ac/wild-cat.jpg?m=1789672237.002&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:02"
+    "Date": "2026-09-19 05:10:28"
   },
   {
     "Topic": "Science",
-    "Title": "Versioning and Tracking Scikit-LLM Experiments",
-    "Link": "https://machinelearningmastery.com/versioning-and-tracking-scikit-llm-experiments/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-in-progress-versioning-and-tracking-scikit-llm-experiments-feature.png",
+    "Title": "Starting a Career in Data Science in the Age of AI",
+    "Link": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
+    "ImageUrl": "https://assets.insightmediagroup.io/media/1789483180988_pmmj7o.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:05"
+    "Date": "2026-09-19 05:10:30"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists develop new method for deciphering ancient scrolls",
-    "Link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
+    "Title": "Vox’s Unexplainable explores Scientific American’s biggest unanswered science questions",
+    "Link": "https://www.scientificamerican.com/podcast/episode/voxs-unexplainable-explores-scientific-americans-biggest-unanswered-science-questions/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/c450a913-aaba-4de7-a849-a2da24064dd8/2609_SQ_FRI_UNEXPLAINABLE.png?m=1789485830.235&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:13"
+    "Date": "2026-09-19 05:10:33"
+  },
+  {
+    "Topic": "Science",
+    "Title": "During menopause, brain changes surprisingly take a break",
+    "Link": "https://www.sciencenews.org/article/menopause-brain-changes-surprise",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_BB_menopausebrain_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Just Broke $80,000 and the Two Reasons Have Nothing to Do With Each Other",
+    "Link": "https://dailycoinpost.com/bitcoin-just-broke-80000-and-the-two-reasons-have-nothing-to-do-with-each-other/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/08/bitcoin-80k.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:44"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Jutta’s update on bug bounty program and security audit",
+    "Link": "https://blog.ethereum.org/en/2015/03/20/juttas-update-bug-bounty-program-security-audit",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:47"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Gav’s ÐΞV Update I: Where Ethereum’s at",
+    "Link": "https://blog.ethereum.org/en/2014/10/17/gavs-dev-update-ethereums",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:49"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "eth2 quick update no. 2",
+    "Link": "https://blog.ethereum.org/en/2019/10/31/eth2-quick-update-no-2",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/kumiko-background.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:51"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum and Oracles",
+    "Link": "https://blog.ethereum.org/en/2014/07/22/ethereum-and-oracles",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:10:54"
   },
   {
     "Topic": "Technology",
-    "Title": "Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
-    "Link": "https://tim.blog/2026/09/04/failure-into-success/",
-    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/09/Failure-into-Success.png",
+    "Title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
+    "Link": "https://tim.blog/2026/08/14/how-to-reinvent-yourself-transcript/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/08/reinvent.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:21"
+    "Date": "2026-09-19 05:11:01"
   },
   {
     "Topic": "Technology",
-    "Title": "Everybody's Lost Their Minds",
-    "Link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-    "ImageUrl": "https://www.netmeister.org/blog/images/tired.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:25"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google Search Console’s June 2026 Indexing Data Gap: What Website Owners Should Do",
-    "Link": "https://dev.to/alifar/google-search-consoles-june-2026-indexing-data-gap-what-website-owners-should-do-2nmp",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fscalevise.com%2Fresources%2Fcontent%2Fimages%2F2026%2F09%2Fgoogle-search-console-june-2026-indexing-data-gap.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:28"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Top LLM Routing Tools in 2026: Architectures, Benchmarks, and Production Trade-Offs",
-    "Link": "https://dev.to/artem42/top-llm-routing-tools-in-2026-architectures-benchmarks-and-production-trade-offs-ife",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.ibb.co%2FqYXYwZKd%2Fd36cc26bc545.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-18 05:38:30"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "Link": "https://bend-lang.com/",
+    "Title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "Link": "https://tim.blog/2026/08/20/relationship-tools-transcript/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-18 05:38:33"
+    "Date": "2026-09-19 05:11:04"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Cloudflare Quick Tunnels",
+    "Link": "https://try.cloudflare.com/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:07"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Tim Ferriss Show Transcripts: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
+    "Link": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/09/Niels-Hoven-Illustration-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:11:09"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "Link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "ImageUrl": "https://archive.org/services/img/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:11:13"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Hasta el final del día",
+    "Link": "https://elpais.com/opinion/2026-09-18/hasta-el-final-del-dia.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yuri_herrera.jpg/960px-Yuri_herrera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-19 05:11:20"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Un nuevo Real Madrid y el mismo gran Tavares, a la final de la Supercopa de la Euroliga ",
+    "Link": "https://elpais.com/deportes/baloncesto/2026-09-18/un-nuevo-real-madrid-y-el-mismo-gran-tavares-a-la-final-de-la-supercopa-de-la-euroliga.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:23"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Las cartas de una familia que cuentan la Guerra Civil desde ambos lados: “Que Dios nos ayude”",
+    "Link": "https://elpais.com/eps/2026-09-17/las-cartas-de-una-familia-que-cuentan-la-guerra-civil-desde-ambos-lados-que-dios-nos-ayude.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:27"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Más de 1.000 agresiones sexuales durante la invasión rusa de Ucrania: violaciones, golpes y descargas en los genitales y desnudez forzada ",
+    "Link": "https://elpais.com/internacional/2026-09-18/mas-de-1000-agresiones-sexuales-durante-la-invasion-rusa-de-ucrania-violaciones-golpes-y-descargas-en-los-genitales-y-desnudez-forzada.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:29"
+  },
+  {
+    "Topic": "General News",
+    "Title": "El irrepetible estilo de Shakira en 20 fotos:  tops rasgados, cinturones de cíngara, cuero y pies descalzos",
+    "Link": "https://elpais.com/smoda/famosos/2024-10-16/el-irrepetible-estilo-de-shakira-en-20-fotos-tops-rasgados-cinturones-de-cingara-cuero-y-pies-descalzos.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:32"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "This AI toothbrush wants to find trouble before your dentist does",
+    "Link": "https://www.fastcompany.com/91609156/this-ai-toothbrush-wants-to-find-trouble-before-your-dentist-does?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=2&partner=newsletter&campaign_date=09182026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why every AI launch now makes the backlash worse",
+    "Link": "https://www.fastcompany.com/91606908/why-every-ai-launch-now-makes-backlash-worse?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=3&partner=newsletter&campaign_date=09182026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:44"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "King Charles III meets with tech leaders in Scotland as safety concerns swirl over AI",
+    "Link": "https://www.fastcompany.com/91608906/king-charles-iii-meets-tech-leaders-scotland-safety-concerns-swirl-over-ai?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=9&partner=newsletter&campaign_date=09182026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:46"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Global AI safety is hinging on U.S.-China cooperation, but they see each other as the problem",
+    "Link": "https://www.fastcompany.com/91609547/global-ai-safety-hinging-u-s-china-cooperation-except-they-see-each-other-problem?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=1&partner=newsletter&campaign_date=09182026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:49"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Beacon is betting AI can reinvent Main Street software",
+    "Link": "https://www.fastcompany.com/91608425/beacon-is-betting-ai-can-reinvent-main-street-software?utm_source=postup&utm_medium=email&utm_campaign=artificial-intelligence&position=12&partner=newsletter&campaign_date=09182026",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-19 05:11:51"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Harry Potter TV Show Unveils First Detailed Look at Harry, Hermione & More Characters’ Wands",
+    "Link": "https://www.comingsoon.net/tv/news/2193937-harry-potter-tv-show-first-look-harry-hermione-ron-draco-wands",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Untitled-Design-2026-09-19T021030.367.png?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:08"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Rules These Horror Power Producers Swear by",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-features/the-rules-spooky-pictures-swear-by-1236705326/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Steven-Roy-Ben-3-e1789765761806.jpg?w=1440&#038;h=810&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:10"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘The Face of Horror’ Review: Kristine Froseth Sparkles, but Anna Biller’s Medieval Tale Can’t Stop Getting in Its Own Way",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-face-of-horror-review-anna-biller-1236705322/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/The_Face_of_Horror_Still_01-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:13"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Marvel’s Punisher Gets a Radically Different White Costume for His Next Mission",
+    "Link": "https://www.comingsoon.net/comics/news/2193975-marvel-punisher-different-white-costume-mission",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/The-Punisher.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:15"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Obsession Director Reveals the Lesson Resident Evil’s Zach Cregger Taught Him for Next Movie",
+    "Link": "https://www.comingsoon.net/movies/news/2193935-curry-barker-zach-cregger-filmmaking-lesson-anything-but-ghosts",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Obsession-Director-Reveals-the-Lesson-Resident-Evils-Zach-Cregger-Taught-Him-for-Next-Movie-1.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:17"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "New telescope will help scientists study a mysterious force called 'dark energy'",
+    "Link": "https://www.npr.org/2026/08/30/nx-s1-5936437/new-telescope-will-help-scientists-study-a-mysterious-force-called-dark-energy",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:25"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Cargo Mission and Crew-13 Updates; Station Research, Maintenance Continue",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/09/16/cargo-mission-and-crew-13-updates-station-research-maintenance-continue/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/blog-crew12-newsconf-091626e.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:28"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA relocations could hinder agency's ability to build spacecraft",
+    "Link": "https://www.npr.org/2026/09/14/nx-s1-5940817/nasa-relocations-could-hinder-agencys-ability-to-build-spacecraft",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:31"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Bioprinting, Space Manufacturing Top Research Schedule Aboard Station",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/09/15/bioprinting-space-manufacturing-top-research-schedule-aboard-station/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/iss075e0103086/iss075e0103086~large.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "A NASA telescope is slowly plummeting to earth and there's no way to save it",
+    "Link": "https://www.npr.org/2026/08/23/nx-s1-5939831/a-nasa-telescope-is-slowly-plummeting-to-earth-and-theres-no-way-to-save-it",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-19 05:12:37"
   }
 ]
