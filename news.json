@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "Lanterns S01E06 DCU Notes: Guy Gardner/Gotham, Sinestro MIA &#038; More",
-    "Link": "https://bleedingcool.com/tv/lanterns-s01e06-dcu-notes-guy-gardner-gotham-sinestro-mia-more/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/09/MixCollage-20-Sep-2026-10-34-PM-4660-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:57:55"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Spider-Man: Brand New Day Now All Time Domestic Champ At Box Office",
-    "Link": "https://bleedingcool.com/movies/spider-man-brand-new-day-now-all-time-domestic-champ-at-box-office/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/V1-0001_bnd_itlrA_t_4k_rec709_full_2000x838_thumbnail-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:57:58"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Sense and Sensibility’ Review: Daisy Edgar-Jones and George MacKay Are Standouts in a Jane Austen Redo That’s Fine if Not Strictly Necessary",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/sense-and-sensibility-review-daisy-edgar-jones-jane-austen-1236706666/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/S-S_FP_00124_R_rgb-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:00"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Resident Evil Wins Top Spot At The Box Office With Record Opening",
-    "Link": "https://bleedingcool.com/movies/resident-evil-takes-over-top-spot-at-the-box-office-with-record-opening/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/DF-03433-r-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:03"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Anjanette Comer, Actress in ‘The Loved One’ and ‘The Appaloosa,’ Dies at 86",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/anjanette-Comer.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:06"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-3.23.34-PM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How the iPhone Duo's software is different from a standard iPhone",
-    "Link": "https://www.engadget.com/2261250/iphone-duo-vs-standard-software-differences/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/how-the-iphone-duos-software-is-different-from-a-standard-iphone/l-intro-1789657577.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Petivity's new smart feeder asks the question 'what if Flock, but for cats?'",
-    "Link": "https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/petivitys-new-smart-feeder-asks-the-question-what-if-flock-but-for-cats/l-intro-1789747055.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-    "Link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/08/OpenClaw-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:22"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google Vs Samsung: What features set their digital wallets apart?",
-    "Link": "https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/google-vs-samsung-what-features-set-their-digital-wallets-apart/l-intro-1789650004.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:24"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Quick Tips: Enabling Modern Visual Styles on Old Reports in Power BI Desktop",
-    "Link": "https://biinsight.com/quick-tips-enabling-modern-visual-styles-on-old-reports-in-power-bi-desktop/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2021/08/Snag_19b96a07.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:35"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "For AI agents, it’s the best of times, it’s the worst of times",
-    "Link": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/aiagentsbestandworst-scaled.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Using Unicode Characters in Power BI",
-    "Link": "https://biinsight.com/using-unicode-characters-in-power-bi/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/09/PBIDesktop_2018-09-25_08-29-23.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:42"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Managing Small Context Windows in Language Models",
-    "Link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-managing-small-context-windows-in-language-models-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:44"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Noetive launches with $41M to bring self-improving AI to factories and logistics",
-    "Link": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Noetive-800x533.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:48"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Generic GLP-1s are here (for some)",
-    "Link": "http://sciencebasedmedicine.org/generic-glp-1s-are-here-for-some/?utm_source=rss&utm_medium=rss&utm_campaign=generic-glp-1s-are-here-for-some",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/qimono-syringe-1884758_1280.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:58:58"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Trump’s Frontal Assault on Vaccines",
-    "Link": "http://sciencebasedmedicine.org/trumps-frontal-assault-on-vaccines/?utm_source=rss&utm_medium=rss&utm_campaign=trumps-frontal-assault-on-vaccines",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/trump-vaccines.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:59:02"
-  },
-  {
-    "Topic": "Science",
-    "Title": "“Autism biomed” is now in charge of the Eunice Kennedy Shriver National Institute of Child Health and Human Development",
-    "Link": "http://sciencebasedmedicine.org/autism-biomed-is-now-in-charge-of-the-eunice-kennedy-shriver-national-institute-of-child-health-and-human-development/?utm_source=rss&utm_medium=rss&utm_campaign=autism-biomed-is-now-in-charge-of-the-eunice-kennedy-shriver-national-institute-of-child-health-and-human-development",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/MAPSBoard.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:59:09"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Preventing Traumatic Brain Injury",
-    "Link": "http://sciencebasedmedicine.org/preventing-traumatic-brain-injury/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-traumatic-brain-injury",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/08/TBI.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:59:13"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Dr. Sherri Tenpenny Predicted That COVID Vaccines Would Kill Over 50 Million Americans.  What Happened Next?",
-    "Link": "http://sciencebasedmedicine.org/dr-sherri-tenpenny-50million/?utm_source=rss&utm_medium=rss&utm_campaign=dr-sherri-tenpenny-50million",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2029/01/image-2.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:59:17"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Australia news live: PM and world leaders urge human control over AI; Chalmers says ‘monetised misogyny’ online fuelling DV",
-    "Link": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
-    "ImageUrl": "https://i.guim.co.uk/img/media/9de936a8879674c44378070a2e2af03a15c74c72/889_541_5332_4265/master/5332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6f10885469f475bb14c0e1bb560f0a5d",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 05:59:26"
-  },
-  {
-    "Topic": "General News",
-    "Title": "La jornada de 35 horas avanza en la administración autonómica y local y anticipa conflictos donde aún no se ha implantado",
-    "Link": "https://elpais.com/economia/2026-09-21/la-jornada-de-35-horas-avanza-en-la-administracion-autonomica-y-local-y-anticipa-conflictos-donde-aun-no-se-ha-implantado.html",
+    "Topic": "Astronomy",
+    "Title": "Scientists Say the First Sign of Alien Life Might Be Sitting in a Handful of Moon Dust",
+    "Link": "https://dailygalaxy.com/2026/09/first-alien-life-sign-moon-dust/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-22 05:59:29"
+    "Date": "2026-09-23 05:38:11"
   },
   {
-    "Topic": "General News",
-    "Title": "Suspenden temporalmente los vuelos en aeropuertos clave de la costa este de Estados Unidos por fallas técnicas",
-    "Link": "https://elpais.com/us/2026-09-21/suspenden-temporalmente-los-vuelos-en-aeropuertos-clave-de-la-costa-este-de-estados-unidos-por-fallas-tecnicas.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nicol%C3%A1s_Maduro_2023_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "Topic": "Astronomy",
+    "Title": "Astronomers Find A Strange Virgo Galaxy Rotating In A Way That Defies Expectations",
+    "Link": "https://dailygalaxy.com/2026/09/galaxy-rotating-way-defies-expectations/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-23 05:38:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA kicks off 'NFL Inspiration Tour' with first astronaut jets flyover",
+    "Link": "https://www.collectspace.com/news/news-091326a-nasa-nfl-innovation-tour-flyover.html",
+    "ImageUrl": "https://www.collectspace.com/images/news-091326a-fb.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:16"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "China’s Jupiter Mission Gets A Boost From A Navigation Concept Once Explored By NASA",
+    "Link": "https://dailygalaxy.com/2026/09/chinas-jupiter-mission-gets-a-boost/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Voyager_probes_with_the_outer_worlds.jpg/960px-Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-22 05:59:32"
+    "Date": "2026-09-23 05:38:19"
   },
   {
-    "Topic": "General News",
-    "Title": "La justicia suspende el macroconcurso de viajes del Estado, dotado con 605 millones de euros",
-    "Link": "https://cincodias.elpais.com/companias/2026-09-21/la-justicia-suspende-el-macroconcurso-de-viajes-del-estado-dotado-con-605-millones-de-euros.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/960px-Flag_of_El_Salvador.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Astronomy",
+    "Title": "Astronauts Begin New Space Station Experiments That Could Shape Future Moon And Mars Missions",
+    "Link": "https://dailygalaxy.com/2026/09/space-station-experiments-moon-mars/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-23 05:38:22"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How AI tools can redefine universal design to increase accessibility",
+    "Link": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+    "Link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:33"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Export Power BI Service Data to SQL Server",
+    "Link": "https://biinsight.com/export-power-bi-service-data-to-sql-server/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/03/image_thumb-17.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:37"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing Power BI Governance and Adoption Good Practices Series",
+    "Link": "https://biinsight.com/introducing-power-bi-governance-and-adoption-good-practices-series/",
+    "ImageUrl": "https://biinsight.com/wp-content/uploads/2020/05/Introducing-Power-BI-Governance-Series.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Mapping global methane emissions from space with deep learning",
+    "Link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+    "Link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+    "Link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "Link": "https://foxscript.org/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/960px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-22 05:59:36"
+    "Date": "2026-09-23 05:38:56"
   },
   {
-    "Topic": "General News",
-    "Title": "Apuesta por la innovación, en hilo directo con las empresas ",
-    "Link": "https://elpais.com/sociedad/2026-09-13/apuesta-por-la-innovacion-en-hilo-directo-con-las-empresas.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Cubadebate_Logo.jpg/960px-Cubadebate_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Technology",
+    "Title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "Link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:38:58"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
+    "Link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
+    "ImageUrl": "https://media.wired.com/photos/6aa98fe35f699411f4e1b613/191:100/w_1280,c_limit/celulacancer.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:00"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "A Harry Potter Star's Short-Lived Fantasy Series Is A Must-Watch Gem On Prime Video",
+    "Link": "https://www.slashfilm.com/2260128/harry-potter-jason-isaacs-awake-fantasy-series-prime-video/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/a-harry-potter-stars-short-lived-fantasy-series-is-a-must-watch-gem-on-prime-video/l-intro-1789568719.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Further Mis-Adventures of Cliff Booth: Official Trailer Released",
+    "Link": "https://bleedingcool.com/movies/the-further-mis-adventures-of-cliff-booth-official-trailer-released/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/09/UFP25-R02-104y-v04-189840-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:09"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Adam Driver & Miles Teller Are Brothers in 'Paper Tiger' Official Trailer",
+    "Link": "https://www.firstshowing.net/2026/adam-driver-miles-teller-are-brothers-in-paper-tiger-official-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/papertigerposterneonbigmaintw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "A Behind-the-Scenes Look at 'Hook' - Trailer for New Making Of Doc",
+    "Link": "https://www.firstshowing.net/2026/a-behind-the-scenes-look-at-hook-trailer-for-new-making-of-doc/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/hookbehindthescenesvidmaintw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "'As Far Back As I Can Remember... The Story of Goodfellas' Doc Trailer",
+    "Link": "https://www.firstshowing.net/2026/as-far-back-as-i-can-remember-the-story-of-goodfellas-doc-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/goodfellaspostermainimgbigtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Best Cryptocurrency Press Release Sites for 2026",
+    "Link": "https://dailycoinpost.com/best-cryptocurrency-press-release-sites-for-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/Crypto-press-release.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:29"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "ECB plans to buy tokenized bonds with its own funds",
+    "Link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4712c2b2e981ca52999da3036ae398362c6b1700-5472x3648.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:33"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+    "Link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/18b8027bca92c296bd2b336e8381bbcab4d923e3-2981x1677.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:36"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "X Forced Every US Creator Into X Money on Sept 2, and Within 12 Days a Memecoin Hit $36 Million by Routing Fees Through It",
+    "Link": "https://dailycoinpost.com/x-money-creator-fees-paid-memecoin-36-million-september-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/paid.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+    "Link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7c7479f93348940c1e771095a453239b6b0e99ae-4898x3265.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:39:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "X-ray method predicts anion behavior, opening path to longer-lasting batteries and AI-assisted chemistry",
+    "Link": "https://phys.org/news/2026-09-ray-method-anion-behavior-path.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/XBio_illustration_%E2%80%93_X-ray_Crystallography.png/960px-XBio_illustration_%E2%80%93_X-ray_Crystallography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-22 05:59:39"
+    "Date": "2026-09-23 05:39:50"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Review: Waiting for Spaceships",
-    "Link": "https://www.thespacereview.com/article/4896/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/EVE_online_logo.svg/960px-EVE_online_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Science",
+    "Title": "Is a nearby advanced alien civilization out there waiting to pounce on Earth? Unlikely, says new study",
+    "Link": "https://phys.org/news/2026-09-nearby-advanced-alien-civilization-pounce.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-23 05:39:53"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Corals show 'vaccine-like' responses after pathogen exposure",
+    "Link": "https://phys.org/news/2026-09-corals-vaccine-responses-pathogen-exposure.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/VHS.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-22 05:59:47"
+    "Date": "2026-09-23 05:39:57"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Review: Webb's Cosmos",
-    "Link": "https://www.thespacereview.com/article/5157/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-22 05:59:51"
+    "Topic": "Science",
+    "Title": "7 Open-Source Alternatives to ChatGPT You Can Run Locally",
+    "Link": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/awan_7_opensource_alternatives_chatgpt_run_locally_2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-23 05:40:04"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Shaking up the commercial space station industry",
-    "Link": "https://www.thespacereview.com/article/4681/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-22 05:59:54"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Artemis and the blue micromoon",
-    "Link": "https://www.thespacereview.com/article/5236/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-22 05:59:57"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The satellite eavesdropping stations of Russia's intelligence services (part 2)",
-    "Link": "https://www.thespacereview.com/article/4926/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-22 06:00:00"
+    "Topic": "Science",
+    "Title": "Light beam 'swims' upstream through a quantum fluid by violating Newton's third law",
+    "Link": "https://phys.org/news/2026-09-upstream-quantum-fluid-violating-newton.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michelson_morley_experiment_1887.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-23 05:40:07"
   },
   {
     "Topic": "Economy",
-    "Title": "RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy now?",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-selloff-wipes-off-rs-4-lakh-crore-from-market-value-as-shares-drop-21-in-2026-so-far-should-you-buy-now/articleshow/134380690.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134380754,width-1200,height-630,imgsize-2407024,overlay-etmarkets/articleshow.jpg",
+    "Title": "Pengangguran Terbuka Usia Muda Capai 17,37 Persen, Akses Kerja dan Pendidikan Jadi Tantangan",
+    "Link": "https://www.viva.co.id/berita/nasional/1930453-pengangguran-terbuka-usia-muda-capai-1737-persen-akses-kerja-dan-pendidikan-jadi-tantangan",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/03/14/67d400a8308a5-ilustrasi-pengangguran_1265_711.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:10"
+    "Date": "2026-09-23 05:40:14"
   },
   {
     "Topic": "Economy",
-    "Title": "Quote of the day by Fred Schwed Jr: \"The principle of “managed” investment trusts is absolutely sound, granted only one premise. The premise is that there are somewhere people of such experience and insight that they can predict with some sort of accuracy the future behavior of securities\"",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-fred-schwed-jr-the-principle-of-managed-investment-trusts-is-absolutely-sound-granted-only-one-premise-the-premise-is-that-there-are-somewhere-people-of-such-experience-and-insight-that-they-can-predict-with-some-sort-of-accuracy-the-future-behavior-of-securities/articleshow/134387670.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134387700,width-1200,height-630,imgsize-24118,overlay-etmarkets/articleshow.jpg",
+    "Title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+    "Link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108365805-1790015831463-gettyimages-2294838569-mq2_9537_wghmsdas.jpeg?v=1790015864&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:13"
+    "Date": "2026-09-23 05:40:16"
   },
   {
     "Topic": "Economy",
-    "Title": "Rupee ends marginally higher in subdued trade, forward premiums ease",
-    "Link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-marginally-higher-in-subdued-trade-forward-premiums-ease/articleshow/134387037.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134387086,width-1200,height-630,imgsize-35212,overlay-etmarkets/articleshow.jpg",
+    "Title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+    "Link": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108291985-1776277173996-gettyimages-2270936890-AFP_A7XF2FB.jpeg?v=1776277198&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:16"
+    "Date": "2026-09-23 05:40:18"
   },
   {
     "Topic": "Economy",
-    "Title": "Global Market: China tightens scrutiny of humanoid robot IPOs amid valuation concerns",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-tightens-scrutiny-of-humanoid-robot-ipos-amid-valuation-concerns/articleshow/134382656.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134382712,width-1200,height-630,imgsize-2195671,overlay-etmarkets/articleshow.jpg",
+    "Title": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
+    "Link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:18"
+    "Date": "2026-09-23 05:40:21"
   },
   {
     "Topic": "Economy",
-    "Title": "Global Market: Micron earnings test looms as AI memory demand stays strong",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-micron-earnings-test-looms-as-ai-memory-demand-stays-strong/slideshow/134382491.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134382491,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "Title": "No new stock highs, no problem: Options traders bet they're coming in these names",
+    "Link": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364035-17895893572026-09-16t200807z_380921315_rc2iknajbmh5_rtrmadp_0_usa-fed-stocks.jpeg?v=1790099157&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:21"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto outlook: Why RWA utilization may matter more than issuance, Binance Research explains",
-    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-outlook-why-rwa-utilization-may-matter-more-than-issuance-binance-research-explains/articleshow/134389892.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134389942,width-1200,height-630,imgsize-57864,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:31"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Gold prices fall Rs 1,331/10 gram, silver dips Rs 1,600/kg as Mideast tensions outweigh oil fall: Key levels to track",
-    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1331/10-gram-silver-dips-rs-1600/kg-as-mideast-tensions-outweigh-oil-fall-key-levels-to-track/articleshow/134379699.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134379785,width-1200,height-630,imgsize-2443225,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "HEG shares rally 5% after receiving Rs 217.56 crore order from Indus Towers for lithium-ion battery banks",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-rally-5-after-receiving-rs-217-56-crore-order-from-indus-towers-for-lithium-ion-battery-banks/articleshow/134380584.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134380763,width-1200,height-630,imgsize-2085433,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:36"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Global Market: Euro area bond yields fall as oil prices ease",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-area-bond-yields-fall-as-oil-prices-ease/articleshow/134386398.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134386419,width-1200,height-630,imgsize-174210,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "AMD briefly tops $1 trillion market cap as AI push fuels record rally, shares up 9%",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-briefly-tops-1-trillion-market-cap-as-ai-push-fuels-record-rally-shares-up-9/articleshow/134393413.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134393565,width-1200,height-630,imgsize-39764,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-22 06:00:42"
+    "Date": "2026-09-23 05:40:23"
   }
 ]
