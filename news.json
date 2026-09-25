@@ -1,290 +1,314 @@
 [
   {
+    "Topic": "Data / AI",
+    "Title": "Agents",
+    "Link": "https://huyenchip.com//2025/01/07/agents.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/agents/2-agent-pattern.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:37"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Common pitfalls when building generative AI applications",
+    "Link": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/aie-pitfalls/aie-pitfalls.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:39"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Predictive Human Preference: From Model Ranking to Model Routing",
+    "Link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/predictive-preference/8-easy-hard-prompts.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "What I learned from looking at 900 most popular open source AI tools",
+    "Link": "https://huyenchip.com//2024/03/14/ai-oss.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/ai-oss/2-ai-timeline.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:43"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Ray Gunn: Official Trailer, Poster, Images For Brad Bird's New Film",
+    "Link": "https://bleedingcool.com/movies/ray-gunn-official-trailer-poster-images-for-brad-birds-new-film/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/04/ray-gunn-feature-image-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:50"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Alexander Ludwig on ‘Unabomber’ Movie, His ‘Hunger Games’ Death Scene and ‘White Lotus’ Season 4: ‘It’s F—ing Wild’",
+    "Link": "https://variety.com/2026/film/columns/alexander-ludwig-on-unabomber-hunger-games-white-lotus-season-4-wild-1236875192/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/Alexander-Ludwig-Credit-Julian-Ungano-1000-1.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:52"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Bryce Dallas Howard on the Declining Statistics for Female Directors in Hollywood: ‘Whatever Is Currently Being Done is Not Enough’",
+    "Link": "https://variety.com/2026/film/news/bryce-dallas-howard-female-directors-statistics-1236874653/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/09/bryce.jpg?w=1000&#038;h=563&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:55"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Hollywood Stuntman James Lew's Will Divides Wealth Among Family, Friends & Stunt Community",
+    "Link": "https://www.tmz.com/2026/09/25/stuntman-james-lew-will-divides-his-assets/",
+    "ImageUrl": "https://imagez.tmz.com/image/26/16by9/2026/09/25/263d3804ec08432f967dfb0ec0401b9d_xl.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:57"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Adult Film Star Christian Styles 911 Caller Performs CPR, Begs For Paramedics To Arrive",
+    "Link": "https://www.tmz.com/2026/09/25/christian-styles-911-audio/",
+    "ImageUrl": "https://imagez.tmz.com/image/05/16by9/2026/09/25/05a8f4500c744aa49fa6d96331c72bbe_xl.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:00:59"
+  },
+  {
     "Topic": "General News",
-    "Title": "Israeli PM Netanyahu calls Gaza genocide allegations ‘biggest lie of the century’",
-    "Link": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/960px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
+    "Link": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/960px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:56:20"
+    "Date": "2026-09-26 06:01:07"
   },
   {
     "Topic": "General News",
-    "Title": "The French Senate: Old, expensive and out of touch or necessary safeguard to democracy?",
-    "Link": "https://www.france24.com/en/tv-shows/french-connections/20260924-the-french-senate-old-expensive-and-out-of-touch-or-necessary-safeguard-to-democracy",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/French_Senate_Logo.svg/960px-French_Senate_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "EU vows to pursue €120 million fine on X after US backs Musk's court challenge",
+    "Link": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/European_Union_Canada_Locator.svg/960px-European_Union_Canada_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:56:23"
+    "Date": "2026-09-26 06:01:09"
   },
   {
     "Topic": "General News",
-    "Title": "Threat to 'life and existence': Major takeaways from Palestinian president's UN speech",
-    "Link": "https://www.france24.com/en/video/20260924-threat-to-life-and-existence-major-takeaways-from-palestinian-president-s-un-speech",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Police_Dispatch_Room_Netherlands.jpg/960px-Police_Dispatch_Room_Netherlands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Pope Leo XIV leads Vespers at Notre-Dame Cathedral in Paris",
+    "Link": "https://www.france24.com/en/pope-leo-xiv-leads-vespers-at-notre-dame-cathedral-in-paris",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/960px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:56:27"
+    "Date": "2026-09-26 06:01:12"
   },
   {
     "Topic": "General News",
-    "Title": " Japanese sake brewery to make foray into Indian market ",
-    "Link": "https://www.japantimes.co.jp/business/2024/12/17/companies/sake-brewery-india/",
-    "ImageUrl": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:56:30"
+    "Title": "🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis",
+    "Link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/%D8%A2%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%B1_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%BA%D8%B2%D8%A9_%D8%AF%D8%A7%D8%AE%D9%84_%D9%82%D8%B7%D8%A7%D8%B9_%D8%BA%D8%B2%D8%A9_%D8%AE%D9%84%D8%A7%D9%84_%D8%AD%D8%B1%D8%A8_%D8%BA%D8%B2%D8%A9_2023-2025_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-09-26 06:01:14"
   },
   {
     "Topic": "General News",
-    "Title": " Extreme heat and weather conditions attributed to stagnant jet stream ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/science-health-world/extreme-weather-stagnant-jet-stream/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240798.jpg?v=3.1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:56:58"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "New images reveal Betelgeuse’s buddy star",
-    "Link": "https://www.sciencenews.org/article/new-images-betelgeuse-star",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072726_LG_Betelgeusebuddy_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:08"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "COSI Telescope Comes Together",
-    "Link": "https://www.nasa.gov/image-detail/cosi-2026july-01/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:10"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Stars’ plasma spurts may be blocked by magnetic fields",
-    "Link": "https://www.sciencenews.org/article/stars-eruptions-plasma-magnetic-fields",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081026_EC_stellareruptions_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "New Hubble images reveal a bizarre decagon over Saturn’s south pole",
-    "Link": "https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090126_MB_saturn_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-    "Link": "https://www.nasa.gov/image-detail/freedom-250-grand-prix/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Unlocking UK house-building with AI-accelerated planning",
-    "Link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "Title": "Affaire Thélyson Orélien : « Si les IA écrivent de plus en plus comme des humains, les humains écrivent-ils de plus en plus comme des IA ? »",
+    "Link": "https://www.lemonde.fr/idees/article/2026/09/25/affaire-thelyson-orelien-si-les-ia-ecrivent-de-plus-en-plus-comme-des-humains-les-humains-ecrivent-ils-de-plus-en-plus-comme-des-ia_6782630_3232.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-25 05:57:27"
+    "Date": "2026-09-26 06:01:17"
   },
   {
-    "Topic": "Technology",
-    "Title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "Link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Zach-Yadegari_1-Speaker-16x9-Dark.png?resize=1200,675",
+    "Topic": "Economy",
+    "Title": "Canadian business leader warns trade uncertainty risks 'capital chill' as USMCA talks drag on",
+    "Link": "https://www.foxbusiness.com/economy/usmca-trade-uncertainty-canada-capital-chill",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/canada-goldy-hyder.jpg?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:30"
+    "Date": "2026-09-26 06:01:26"
   },
   {
-    "Topic": "Technology",
-    "Title": "Everything new coming to Meta’s AI agent Muse",
-    "Link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+    "Topic": "Economy",
+    "Title": "Volkswagen recalls 208,000 SUVs over bolts that could cause steering loss",
+    "Link": "https://www.foxbusiness.com/economy/volkswagen-recalls-208000-suvs-over-bolts-could-cause-steering-loss",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/audi-q3-recall-defect-crash-risk.png?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:33"
+    "Date": "2026-09-26 06:01:28"
   },
   {
-    "Topic": "Technology",
-    "Title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "Link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594",
+    "Topic": "Economy",
+    "Title": "Google partners with veterans groups to help 25,000 enter skilled trades careers amid worker shortage",
+    "Link": "https://www.foxbusiness.com/economy/google-partners-veterans-groups-help-25000-enter-skilled-trades-careers-amid-worker-shortage",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/data-center-workers.png?ve=1&amp;tl=1",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:36"
+    "Date": "2026-09-26 06:01:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Oil in US Strategic Petroleum Reserve falls to lowest level since 1983",
+    "Link": "https://www.foxbusiness.com/markets/oil-us-strategic-petroleum-reserve-falls-lowest-level-since-1983",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/strategic-petroleum-reserve-texas-2022.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:35"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Why the Fed isn't ready to declare victory on inflation",
+    "Link": "https://www.foxbusiness.com/economy/why-fed-isnt-ready-declare-victory-inflation",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Federal-Reserve-Thomas-Barkin.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:40"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
+    "Link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5198x2924+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2Fac%2F2bac2c914ab5a228bb6f3dde320d%2Fnhq20260830-admin-0002-orig.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:47"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA's latest telescope will explore dark energy and other cosmic mysteries",
+    "Link": "https://www.npr.org/2026/08/28/nx-s1-5936432/nasas-latest-telescope-will-explore-areas-of-dark-energy",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:50"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA is about to launch a space telescope that could change how we see the universe",
+    "Link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+80/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Fb8%2Fee547c464a7589d76ce4a933f883%2Froman-element-assembly-wheel-1536x1024.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:53"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "U.S. military reveals it has deployed weapons in space",
+    "Link": "https://www.npr.org/2026/09/16/nx-s1-5970379/u-s-military-reveals-it-has-deployed-weapons-in-space",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:55"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+    "Link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5945x3344+0+309/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F5f%2Fab7eaca44aef9c6b936c0beb059a%2Fap26240461968113.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:01:58"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+    "Link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b18259d0df35543019d1ba0311d7775aec49d301-6000x4000.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:02:07"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Amazon secures $8 bn in term loan to safeguard against economic headwinds",
+    "Link": "https://www.business-standard.com/article/beyond-business/amazon-secures-8-bn-in-term-loan-to-safeguard-against-economic-headwinds-123010400503_1.html",
+    "ImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/20/full/1660985948-1234.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:02:09"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+    "Link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ba9db405b43bd2a5dd16da9cb4754a0bd05b3057-5184x3456.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:02:12"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "Link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:02:15"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Tokenization is moving faster than Washington",
+    "Link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "ImageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/795133dffb990742b929b07d85a82856f0623e6f-7000x4000.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
+    "ImageSource": "og:image",
+    "Date": "2026-09-26 06:02:18"
   },
   {
     "Topic": "Technology",
-    "Title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
-    "Link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sima_asse_sb_2425.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "Title": "Advancing Private AI Compute with secure, server-side memory",
+    "Link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/RTX5060TI_8G%E2%A7%B816G%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%EF%BC%9A%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87_%28wJeKvOgd4sk%29-00.02.50.637.png/960px-RTX5060TI_8G%E2%A7%B816G%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%EF%BC%9A%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87_%28wJeKvOgd4sk%29-00.02.50.637.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:57:39"
+    "Date": "2026-09-26 06:02:35"
   },
   {
-    "Topic": "Movies",
-    "Title": "Mister Miracle: Nathan Fillion Has Wrapped Recording Animated Series",
-    "Link": "https://bleedingcool.com/tv/mister-miracle-nathan-fillion-has-wrapped-recording-animated-series/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/MixCollage-12-Aug-2026-02-14-PM-2181-2000x1125.jpg",
+    "Topic": "Technology",
+    "Title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+    "Link": "https://www.wired.com/story/tesla-semi/",
+    "ImageUrl": "https://media.wired.com/photos/6ab63fba15ca4b3475f8233a/191:100/w_1280,c_limit/GettyImages-2294893161.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:48"
+    "Date": "2026-09-26 06:02:38"
   },
   {
-    "Topic": "Movies",
-    "Title": "Forget Project Hail Mary, Brad Pitt’s 124-Minute Sci-Fi Epic Is Coming To Netflix Next Week",
-    "Link": "https://screenrant.com/brad-pitt-ad-astra-project-hail-mary-replacement-netflix-streaming-release-date-october-2026/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/untitled-24.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Topic": "Technology",
+    "Title": "Gemini 3.5: frontier intelligence with action",
+    "Link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:51"
+    "Date": "2026-09-26 06:02:40"
   },
   {
-    "Topic": "Movies",
-    "Title": "'Goon' Director and Jay Baruchel Officially Reunite for a Wild True Story",
-    "Link": "https://collider.com/the-stunt-driver-jay-baruchel-director-michael-dowse-ken-carter/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/the-stunt-driver-q-a.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:55"
+    "Topic": "Technology",
+    "Title": "Enabling a new model for healthcare with AI co-clinician",
+    "Link": "https://deepmind.google/blog/ai-co-clinician/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-09-26 06:02:43"
   },
   {
-    "Topic": "Movies",
-    "Title": "Paramount, States/WGA Reach Settlement on Warner Bros Lawsuit: Report",
-    "Link": "https://bleedingcool.com/tv/paramount-states-wga-reach-settlement-on-warner-bros-lawsuit-report/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-12-Jun-2026-05-46-PM-2057-2000x1125.jpg",
+    "Topic": "Technology",
+    "Title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "Link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:57:58"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Heart of the Beast Review: Elevates Itself to Pretty Damn Good",
-    "Link": "https://bleedingcool.com/movies/heart-of-the-beast-review-elevates-itself-to-pretty-damn-good/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/06/heart-of-the-beast-feature-image-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Open-source LLMs as LangChain Agents",
-    "Link": "https://huggingface.co/blog/open-source-llms-as-agents",
-    "ImageUrl": "https://huggingface.co/blog/assets/open-source-llms-as-agents/thumbnail_open_source_agents.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Pre-Train BERT with Hugging Face Transformers and Habana Gaudi",
-    "Link": "https://huggingface.co/blog/pretraining-bert",
-    "ImageUrl": "https://huggingface.co/blog/assets/99_pretraining_bert/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:13"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
-    "Link": "https://huggingface.co/blog/sagemaker-huggingface-llm",
-    "ImageUrl": "https://huggingface.co/blog/assets/145_sagemaker-huggingface-llm/thumbnail.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "Link": "https://huggingface.co/blog/rteb",
-    "ImageUrl": "https://huggingface.co/blog/assets/rteb/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:19"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Pollen-Vision: Unified interface for Zero-Shot vision models in robotics",
-    "Link": "https://huggingface.co/blog/pollen-vision",
-    "ImageUrl": "https://huggingface.co/blog/assets/pollen-vision/thumbnail.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:21"
+    "Date": "2026-09-26 06:02:46"
   },
   {
     "Topic": "Science",
-    "Title": "Music generated through live freeway traffic feed",
-    "Link": "https://flowingdata.com/2026/09/22/music-generated-through-live-freeway-traffic-feed/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-25 05:58:29"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "Link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108059642-1730990273654-gettyimages-2182576921-2024_ELECTIONS_NYSE.jpeg?v=1732558889&amp;w=1920&amp;h=1080",
+    "Title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/astrophysics-black-hole-rotating-light-gravity.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:40"
+    "Date": "2026-09-26 06:02:53"
   },
   {
-    "Topic": "Economy",
-    "Title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-    "Link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364335-1789647767748-US_Federal_Reserve_Chair_Kevin_Warsh_Holds_Press_C-2295666677-Getty.jpg?v=1789755672&amp;w=1920&amp;h=1080",
+    "Topic": "Science",
+    "Title": "When what you see doesn’t make sense, your brain does something remarkable",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/visual-sensory-data.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:46"
+    "Date": "2026-09-26 06:02:55"
   },
   {
-    "Topic": "Economy",
-    "Title": "Prediction market traders think gas prices will hit new highs for the year",
-    "Link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108361510-1789075857121-gettyimages-2294034697-US_GAS.jpeg?v=1789400826&amp;w=1920&amp;h=1080",
+    "Topic": "Science",
+    "Title": "Quantum computing’s “dark horse” just proved it can go universal",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:50"
+    "Date": "2026-09-26 06:02:57"
   },
   {
-    "Topic": "Economy",
-    "Title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-    "Link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&amp;w=1920&amp;h=1080",
+    "Topic": "Science",
+    "Title": "Aging muscles may be losing strength for a reason scientists missed",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:54"
+    "Date": "2026-09-26 06:03:00"
   },
   {
-    "Topic": "Economy",
-    "Title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "Link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108361576-1789092834048-aether_openai_astra_Screenshot_2026-09-11_101318.jpg?v=1789097527&amp;w=1920&amp;h=1080",
+    "Topic": "Science",
+    "Title": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260920222356.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/aerial-view-of-amazon-rainforest-in-peru.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-25 05:58:58"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "OpenAI ChatGPT AI Predicts XRP to Hit $8 by 2027, in the Right Conditions",
-    "Link": "https://cryptonews.com/news/openai-chatgpt-ai-predicts-xrp-to-8/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/960px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:59:08"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "A Pause, Not a Reversal, for Crypto",
-    "Link": "https://www.actionforex.com/contributors/fundamental-analysis/655264-a-pause-not-a-reversal-for-crypto/",
-    "ImageUrl": "https://www.actionforex.com/wp-content/uploads/2024/03/f-bitcoin56.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:59:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Fed Rate Cut Delayed as Strong Jobs Data Tests Bitcoin",
-    "Link": "https://cryptonews.com/news/bitcoin-citi-fed-rate-cut/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Official_portrait_of_Kevin_M._Warsh_%28cropped%292.jpg/960px-Official_portrait_of_Kevin_M._Warsh_%28cropped%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:59:18"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "EURUSD – Bears Hold Grip and Likely to Resume After a Brief Pause",
-    "Link": "https://www.actionforex.com/contributors/technical-analysis/655281-eurusd-bears-hold-grip-and-likely-to-resume-after-a-brief-pause/",
-    "ImageUrl": "https://www.actionforex.com/wp-content/uploads/2019/03/f-eur112.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-25 05:59:24"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Price Prediction: StarkWare Discounts Quantum-Safe Solution by 79%",
-    "Link": "https://cryptonews.com/news/bitcoin-price-prediction-quantum-safe-2/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Donald_Trump_%2854362428793%29.jpg/960px-Donald_Trump_%2854362428793%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-25 05:59:28"
+    "Date": "2026-09-26 06:03:03"
   }
 ]
