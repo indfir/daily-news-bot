@@ -1,322 +1,314 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-    "Link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!c7Za!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1748fa24-e946-47fb-bf1b-e488d08547fd_1764x1244.png",
+    "Topic": "Science",
+    "Title": "Growing AI energy demands, the search for subatomic particles and the hottest amoeba ",
+    "Link": "https://www.scientificamerican.com/podcast/episode/growing-ai-energy-demands-the-search-for-subatomic-particles-and-the-hottest-amoeba/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/52f503f7-7298-46a7-80ed-496662de6b12/2609_SQ_MON_SEPT_28.png?m=1790370215.297&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:44:57"
+    "Date": "2026-09-29 07:07:12"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-    "Link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday-Sept_24.jpg",
+    "Topic": "Science",
+    "Title": "Vox’s Unexplainable and Scientific American explore the mystery of dark matter and the limits of science",
+    "Link": "https://www.scientificamerican.com/podcast/episode/voxs-unexplainable-and-scientific-american-explore-the-mystery-of-dark-matter-and-the-limits-of-science/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/986c1305-beb1-4e08-bada-bcb9cde13aa9/2609_SQ_FRI_UNEXPLAINABLE_2.png?m=1790273802.943&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:44:59"
+    "Date": "2026-09-29 07:07:16"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "5 Companies Using NVIDIA AI for Clean Energy",
-    "Link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/clean-energy-key-visual-1920x1080-1.jpg",
+    "Topic": "Science",
+    "Title": "Why Most Data Science Notebooks Die After Day One: How to Build Ones That Survive",
+    "Link": "https://www.kdnuggets.com/why-most-data-science-notebooks-die-after-day-one-how-to-build-ones-that-survive",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/Rosidi-Notebooks-That-Survive-1.png",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:02"
+    "Date": "2026-09-29 07:07:19"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-    "Link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+    "Topic": "Science",
+    "Title": "Surprising result seen in primordial matter inside atom smasher",
+    "Link": "https://www.scientificamerican.com/article/surprising-result-seen-in-primordial-matter-inside-atom-smasher/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/7b664664-2986-439b-abfc-218c2e69e809/STAR-Detector-at-RHIC.jpeg?m=1790605072.137&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-    "Link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/security-thought-leadership-1920x1080-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Space Station Trio Return to Earth",
-    "Link": "https://irishspaceblog.blogspot.com/2016/06/space-station-trio-return-to-earth.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwjovlkZFhE6WAYcizFgr5EjbSi2Bg8kLh5iAqGkCG4i_yjxigCBr9EKzwZB-PwC8-ikWChF0cYd-BB2mEq-IUAg834hHwTD50tZvRSGRStp3FRYMqmX_0joTx9BDdLucajQfDelt3hxVv/w1200-h630-p-k-no-nu/soyuztma19m.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:14"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "In Conversation with Astronaut Paolo Nespoli",
-    "Link": "https://irishspaceblog.blogspot.com/2017/07/in-conversation-with-astronaut-paolo.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCskG07THJdbgutX7YC5RKiN-KnLJCRZmLvLgot4qIjPPTmHjheIM93D3C8raMbgtinyULhbaVkw8pJ3ZlSg_FKbt6RN2w67TobbhNpnu7oHVE8yyiE0iL8n_3i1kmbYflI6Zku70R_nMe/w1200-h630-p-k-no-nu/Paolo+Nespoli+and+Cian+1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronauts Complete Shortened Spacewalk to Replace Faulty Power Unit",
-    "Link": "https://irishspaceblog.blogspot.com/2016/01/astronauts-complete-spacewalk-to.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr2wBlJ3V56If_P8UXOpsgKtsKQXem13xICXsofJQAu-4F3fgdQgXPKwUPo7Rr1cL8hYxXKVOihJBUaiuhjDbbjnR-Ha6fjJPGICXlXR-tejv3P0EWR75L3p-xtySAd5J7uosG2BfvHnST/w1200-h630-p-k-no-nu/23775631743_1a2c30542e_o.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Dream Big - Space, Limerick and Two Men's Quests to Reach for the Stars",
-    "Link": "https://irishspaceblog.blogspot.com/2016/10/dream-big-space-limerick-and-two-mens.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2yWFui_S21WbyT0wgGTSIRZT0rf0xG2ccs2MelbjrbyRpZm07HEw6hUIF5JopdQXSV3PF9RlJhBRQnJFOLjDOroSs5LNPQsZ15IM21Zb-2Yv-kAf1Zj9USTJQz0ejutEXtNDGxaXklAIz/w1200-h630-p-k-no-nu/DSC_0053.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "See the Space Station over the UK and Ireland in December",
-    "Link": "https://irishspaceblog.blogspot.com/2015/12/see-space-station-over-uk-and-ireland.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjunJ1T1HyNI7LGdKknMY8wJbEyISwWOEtiHbnVoluiUaZcANksrCPnqME5xyuujbIZ0qqzpdxag1NV4NCn1ncBHOYG96WCuE5bEHI3vSONdAlZvi9WQ2J0yz-4MrLVgH_QasQ8UGCT7vsb/w1200-h630-p-k-no-nu/iss.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:23"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The best early October Prime Day gaming deals: I found PS5, Nintendo Switch, and Xbox deals worth grabbing now",
-    "Link": "https://mashable.com/tech/best-early-amazon-october-prime-day-gaming-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/005uDDnhUuGGHqcLUNb2Kj5/hero-image.fill.size_1200x675.v1790336582.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:31"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-    "Link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-    "ImageUrl": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/191:100/w_1280,c_limit/IMG_2220.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:33"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Pokémon 30th anniversary: 11 of the weirdest little freaks in Pokémon history",
-    "Link": "https://mashable.com/entertainment/pokemon-characters-weirdest-little-freaks-series-history",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05tSw7nWbEaJuHTSssEaHgN/hero-image.fill.size_1200x675.v1790340057.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:35"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "20+ of the best early Prime Day deals on trading cards: Pokémon TCG, Magic: The Gathering, One Piece, and more",
-    "Link": "https://mashable.com/life/best-early-amazon-october-prime-day-trading-card-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05qICjYn5NNlLzTOJH5a9Rc/hero-image.fill.size_1200x675.v1790151384.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Who is Taylor Swifts Pink Clouding about? Swifties have theories.",
-    "Link": "https://mashable.com/life/taylor-swift-pink-clouding-lyrics-meaning-theories",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04k5SGVtBkSoUVKQVQJj7MV/hero-image.fill.size_1200x675.v1790359125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:40"
+    "Date": "2026-09-29 07:07:26"
   },
   {
     "Topic": "General News",
-    "Title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
-    "Link": "https://www.theguardian.com/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani",
-    "ImageUrl": "https://i.guim.co.uk/img/media/0526a3df6627d56653fc028803c5e2f4f27571e9/120_0_2166_1733/master/2166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26674129bcff857433c3fc8d93aec4fa",
+    "Title": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht",
+    "Link": "https://www.zeit.de/news/2026-09/29/sanktionserleichterungen-fuer-iran-trump-dementiert-bericht",
+    "ImageUrl": "https://img.zeit.de/news/2026-09/29/sanktionserleichterungen-fuer-iran-trump-dementiert-bericht-image-group/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:47"
+    "Date": "2026-09-29 07:07:40"
   },
   {
     "Topic": "General News",
-    "Title": "Parlamentswahl in Serbien: Serbiens Präsident Aleksandar Vučić tritt zurück",
-    "Link": "https://www.zeit.de/politik/ausland/2026-09/aleksandar-vucic-ruecktritt-serbien-praesident-parlamentswahl",
-    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-09/aleksandar-vucic-ruecktritt-serbien-praesident-parlamentswahl-foto-1/wide__1300x731",
+    "Title": "Ernährungsratschläge: Bundestagspräsidentin skeptisch bei alkoholfreiem Wein",
+    "Link": "https://www.zeit.de/news/2026-09/29/bundestagspraesidentin-skeptisch-bei-alkoholfreiem-wein",
+    "ImageUrl": "https://img.zeit.de/news/2026-09/29/bundestagspraesidentin-skeptisch-bei-alkoholfreiem-wein-image-group/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:49"
+    "Date": "2026-09-29 07:07:44"
   },
   {
     "Topic": "General News",
-    "Title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
-    "Link": "https://www.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu",
-    "ImageUrl": "https://img.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu-image-group/wide__1300x731",
+    "Title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
+    "Link": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
+    "ImageUrl": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan-bild-2/wide__1300x731",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:45:51"
+    "Date": "2026-09-29 07:07:47"
   },
   {
     "Topic": "General News",
-    "Title": "🔴 Serbian President Aleksandar Vucic resigns, expected to run for prime minister",
-    "Link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
+    "Title": "Durban-Prozess der Vereinten Nationen: Deutschland bleibt umstrittenem UN-Treffen zu Rassismus fern",
+    "Link": "https://www.zeit.de/politik/ausland/2026-09/durban-prozess-uno-rassismus-antisemitismus-new-york",
+    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-09/durban-prozess-uno-rassismus-antisemitismus-new-york-foto-1/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:07:50"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Diplomatie: US-Waffenverkauf an China? Trump dementiert Angebot an Xi",
+    "Link": "https://www.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi",
+    "ImageUrl": "https://img.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi-image-group/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:07:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AMD Pervasive AI Developer Contest!",
+    "Link": "https://huggingface.co/blog/amd_pervasive_developer_ai_contest",
+    "ImageUrl": "https://huggingface.co/blog/assets/amd_pervasive_developer_ai_contest/amd_developer_general_abstract.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Welcome Falcon Mamba: The first strong attention-free 7B model",
+    "Link": "https://huggingface.co/blog/falconmamba",
+    "ImageUrl": "https://huggingface.co/blog/assets/falconmamba/thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:05"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Build awesome datasets for video generation",
+    "Link": "https://huggingface.co/blog/vid_ds_scripts",
+    "ImageUrl": "https://huggingface.co/blog/assets/vid_ds_scripts/thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:08"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
+    "Link": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
+    "ImageUrl": "https://huggingface.co/blog/assets/Lora-for-sequence-classification-with-Roberta-Llama-Mistral/Thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:11"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "Link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "ImageUrl": "https://huggingface.co/blog/assets/cerebras-gemma4-voice-ai/thumbnail.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories ",
+    "Link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:22"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "October’s Night Sky Notes: Spooky Stargazing",
+    "Link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
+    "ImageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/nightsky/articles/2026-10_Perseus%20Constellation%20Art.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:25"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+    "Link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:28"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Is solar's growth finally slowing in the US?",
+    "Link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1486053188-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:31"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Scientists solve 1840s space weather mystery",
+    "Link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:34"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
+    "Link": "https://tim.blog/2026/09/25/kevin-ryan-transcript/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/09/Kevin-Ryan-Illustration-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:41"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Meta is starting an enterprise business to justify its massive AI spending",
+    "Link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/l-intro-1790620496.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Sony is skipping CES in 2027 as it focuses more on entertainment",
+    "Link": "https://www.engadget.com/2270734/sony-is-skipping-ces-in-2027-as-it-focuses-more-on-entertainment/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/sony-is-skipping-ces-in-2027-as-it-focuses-more-on-entertainment/l-intro-1790609131.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "SpaceX's latest Starship mission reached low-Earth orbit",
+    "Link": "https://www.engadget.com/2270992/spacexs-latest-starship-mission-reached-low-earth-orbit/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/spacexs-latest-starship-mission-reached-low-earth-orbit/l-intro-1790615598.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:08:49"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
+    "Link": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-28 05:45:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Poland fears Ukraine war could spill over",
-    "Link": "https://www.france24.com/en/poland-fears-ukraine-war-could-spill-over",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/960px-2022_Russian_invasion_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-09-28 05:45:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "MoonPay to Acquire North Capital, Adding SEC-Licensed Broker-Dealer and ATS to Tokenisation Push",
-    "Link": "https://www.leaprate.com/cryptocurrency/moonpay-to-acquire-north-capital-adding-sec-licensed-broker-dealer-and-ats-to-tokenisation-push/",
-    "ImageUrl": "https://www.leaprate.com/wp-content/uploads/2026/09/STORY-5025-a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:12"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Wall Street Keeps Buying Bitcoin...",
-    "Link": "https://www.globalcryptopress.com/2026/09/wall-street-keeps-buying-bitcoin-even.html",
-    "ImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiU9qyYYS981emwnEw0WbaitjHCFhVWjFcr-_lM6gSSH2snTWQYYt9ftSFNIFRZA0kRVPVADR769IC4mcz4CFXbEoR-U8OfwRE7lRYJpCu9tPh7plT6Xn7MaqQRec-W8JsU9YeAEHu41Y5E4V6MnlMjLu9ruyfPo85BerDMlt2Ty-fzzU1mEkmKWXiUaWwC=w1200-h630-p-k-no-nu",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:14"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin hashrate falls to 3-week low as miners cut BTC",
-    "Link": "https://crypto.news/bitcoin-hashrate-falls-to-3-week-low-as-miners-cut-btc/",
-    "ImageUrl": "https://media.crypto.news/2026/07/Bitcoin1.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "South Korea weighs liquidity rules for won stablecoins",
-    "Link": "https://crypto.news/south-korea-weighs-liquidity-rules-for-won-stablecoins/",
-    "ImageUrl": "https://media.crypto.news/2025/08/crypto-news-South-Korea-option06.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "NYSE Signs Preliminary MOU With Blockchain.com to Distribute Tokenised US Stocks",
-    "Link": "https://www.leaprate.com/financial-services/exchanges/nyse-signs-preliminary-mou-with-blockchain-com-to-distribute-tokenised-us-stocks/",
-    "ImageUrl": "https://www.leaprate.com/wp-content/uploads/2017/09/nyse.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:24"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why mathematicians are hiding research results in zero-knowledge proofs",
-    "Link": "https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/8874d750-a912-474b-bf8f-4ec181a6170e/hidden-object-PP.jpg?m=1789145644.813&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:32"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why AI is speeding up scientific research but not lab experiments",
-    "Link": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789758133.289&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:34"
-  },
-  {
-    "Topic": "Science",
-    "Title": "2026 could be the turning point on climate action, Al Gore says",
-    "Link": "https://www.scientificamerican.com/article/2026-could-be-the-turning-point-on-climate-action-al-gore-says/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/c73bfe67-894c-401e-be28-3f491b3e5363/GettyImages-2155342365_web.jpeg?m=1790347627.434&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:37"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists just found a bizarre cosmic object ‘hiding in plain sight’",
-    "Link": "https://www.scientificamerican.com/article/scientists-just-found-a-bizarre-cosmic-object-hiding-in-plain-sight/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/ed8447b7-7acd-41e0-971d-673866269784/microblazar.png?m=1790360483.611&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:39"
-  },
-  {
-    "Topic": "Science",
-    "Title": "What a Trump order to put political appointees in charge of NIH funding would mean for science",
-    "Link": "https://www.scientificamerican.com/article/what-a-trump-order-to-put-political-appointees-in-charge-of-nih-funding-would-mean-for-science/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/d89b45a8-0507-430a-98bc-20daef484ddc/Trump-NIH.jpg?m=1790021827.584&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Werwulf: Robert Eggers Horror Movie Scores Surprising Alternate Reality Game Spin-off",
-    "Link": "https://www.comingsoon.net/movies/news/2197631-werwulf-robert-eggers-horror-movie-alternate-reality-game-spin-off",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/ww_712acf.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:46:59"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Cameron Diaz & Kate Winslet’s Fan-Favorite Rom-Com Finds New Streaming Home",
-    "Link": "https://www.comingsoon.net/movies/news/2197315-cameron-diaz-kate-winslet-jude-law-the-holiday-coming-hulu",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Cameron-Diaz.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:01"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Jalen Brunson & Colin Jost’s Highly Anticipated TV Show Premieres on Peacock Today",
-    "Link": "https://www.comingsoon.net/tv/news/2197861-saturday-night-live-season-52-new-cast-peacock-premiere",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Jalen-Brunson.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:04"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Matt Damon’s Spy Movies, NCIS Seasons & More Netflix Releases This Week",
-    "Link": "https://www.comingsoon.net/movies/news/2196455-new-netflix-releases-this-week-september-28-october-4",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Untitled-design-2026-09-24T122930.476.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:06"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Sam Claflin & William Hope’s Supernatural Horror Movie Arrives on Peacock Today",
-    "Link": "https://www.comingsoon.net/movies/news/2197442-sam-claflin-william-hope-supernatural-horror-movie-peacock",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Deepesh-personal-1200-675-2.png?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:08"
+    "Date": "2026-09-29 07:08:53"
   },
   {
     "Topic": "Economy",
-    "Title": "Bobby Nasution Ajak IKM Sumut Perkuat Ekonomi Keumatan dan Industri Halal",
-    "Link": "https://www.viva.co.id/bisnis/1931435-bobby-nasution-ajak-ikm-sumut-perkuat-ekonomi-keumatan-dan-industri-halal",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/27/6ab8c278710da-gubernur-sumatera-utara-bobby-nasution_gemini_1265_711.jpg",
+    "Title": "Walkot Perintahkan ASN Bekasi Belanja di Pasar Tradisional",
+    "Link": "https://www.viva.co.id/berita/metro/1931678-walkot-perintahkan-asn-bekasi-belanja-di-pasar-tradisional",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/31/6a6cb8c656c9e-wali-kota-bekasi-tri-adhianto_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:16"
+    "Date": "2026-09-29 07:09:03"
   },
   {
     "Topic": "Economy",
-    "Title": "Kembangkan Ekonomi Lokal, Warga Kawasan Transmigrasi Papua Barat Dilatih Olah Biji Pala Jadi Hand Sanitizer",
-    "Link": "https://www.viva.co.id/bisnis/1931425-kembangkan-ekonomi-lokal-warga-kawasan-transmigrasi-papua-barat-dilatih-olah-biji-pala-jadi-hand-sanitizer",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab7f3a80854a-tim-ekspedisi-patriot-tep-ui-melatih-warga-kawasan-transmigrasi-di-papua-barat-mengubah-biji-pala-jadi-hand-sanitizer_gemini_1265_711.jpg",
+    "Title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "Link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364242-1789632281214-gettyimages-2286500505-CHINA_KIMI.jpeg?v=1789632321&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:21"
+    "Date": "2026-09-29 07:09:07"
   },
   {
     "Topic": "Economy",
-    "Title": "Sindikat Penyelundupan BBM Subsidi Solar Dibongkar, Modusnya Borong Beli di SPBU Lalu Jual Harga Industri",
-    "Link": "https://www.viva.co.id/berita/nasional/1931456-sindikat-penyelundupan-bbm-subsidi-solar-dibongkar-modusnya-borong-beli-di-spbu-lalu-jual-harga-industri",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/27/6ab8eae8d384b-polda-banten-membongkar-sindikat-penyalahgunaan-bbm-bersubsidi-jenis-solar_gemini_1265_711.jpg",
+    "Title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+    "Link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108364844-1789731895573-img_1793.jpg?v=1789768722&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:25"
+    "Date": "2026-09-29 07:09:10"
   },
   {
     "Topic": "Economy",
-    "Title": "Suku Cadang Buatan Indonesia Mulai Dibidik Pasar Global, Ini Negara Tujuannya",
-    "Link": "https://www.viva.co.id/otomotif/1931466-suku-cadang-buatan-indonesia-mulai-dibidik-pasar-global-ini-negara-tujuannya",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/27/6ab8fbd3f317b-suku-cadang-buatan-indonesia-di-pameran-automechanika-jakarta-2026_gemini_1265_711.jpg",
+    "Title": "Hadir di FEKDI 2026, GoPay Dorong Inovasi dan Talenta Masa Depan Keuangan Digital Indonesia",
+    "Link": "https://www.viva.co.id/bisnis/1931695-hadir-di-fekdi-2026-gopay-dorong-inovasi-dan-talenta-masa-depan-keuangan-digital-indonesia",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/28/6aba6d43c90f6-fekdi-2026-gopay_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:30"
+    "Date": "2026-09-29 07:09:12"
   },
   {
     "Topic": "Economy",
-    "Title": "Continental Resources strikes Venezuela oil development deal",
-    "Link": "https://www.foxbusiness.com/markets/continental-resources-strikes-venezuela-oil-development-deal",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/oil-pumping-venezuela.png?ve=1&amp;tl=1",
+    "Title": "Perbaiki Tata Kelola, Prabowo Instruksikan Audit Keuangan dan Berantas Praktik Kecurangan Haji",
+    "Link": "https://www.viva.co.id/berita/nasional/1931691-perbaiki-tata-kelola-prabowo-instruksikan-audit-keuangan-dan-berantas-praktik-kecurangan-haji",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aad43e07ced0-presiden-prabowo-subianto-hadiri-hut-pan-ke-28_gemini_1265_711.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-28 05:47:34"
+    "Date": "2026-09-29 07:09:15"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The US Struck Iran and Bitcoin Did Not Move – That Sentence Should Not Be Possible",
+    "Link": "https://dailycoinpost.com/bitcoin-iran-strikes-resilience-geopolitical-risk-september-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/us-iran-war.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:25"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "Link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+    "Link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+    "Link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:33"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto PR Agency vs Self-Publishing: What Actually Works in 2026",
+    "Link": "https://dailycoinpost.com/crypto-pr-agency-vs-self-publishing-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/publish.png",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:35"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New Trailer for Classic 1956 Sci-Fi 'Forbidden Planet' 4K Limited BR",
+    "Link": "https://www.firstshowing.net/2026/new-trailer-for-classic-1956-sci-fi-forbidden-planet-4k-re-release/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/forbiddenplanet4kmaincoverbigtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:53"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Comedian Doc 'Paralyzed by Hope: The Maria Bamford Story' Trailer",
+    "Link": "https://www.firstshowing.net/2026/comedian-doc-paralyzed-by-hope-the-maria-bamford-story-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/hopemarbamforddocmaintw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:56"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Official Trailer for Horror Film 'The Living Tree' - AI Treehouse Thriller",
+    "Link": "https://www.firstshowing.net/2026/official-trailer-for-horror-film-the-living-tree-ai-treehouse-thriller/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/thelivingtreepostermainimgbigtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:09:59"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Second Full Moon Trailer for Robert Eggers' 'Werwulf' Gnarly Horror",
+    "Link": "https://www.firstshowing.net/2026/second-full-moon-trailer-for-robert-eggers-werwulf-gnarly-horror/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/werwulfpostermainimgbigsvtw4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:10:02"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New US Trailer for Chicken Movie 'Hen' Following a Bird on the Run",
+    "Link": "https://www.firstshowing.net/2026/new-us-trailer-for-chicken-movie-hen-following-a-bird-on-the-run/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/henmovieustrailermainimgtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-09-29 07:10:05"
   }
 ]
