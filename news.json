@@ -1,314 +1,282 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "‘Game of Thrones’ Finally Hitting Big Screen in 2029 With Warner Bros.’ ‘Aegon’s Conquest’",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/game-of-thrones-movie-aegons-conquest-warner-bros-release-1236714525/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2019/04/dragon-1_copy.jpg?w=1296&#038;h=730&#038;crop=1",
+    "Topic": "Astronomy",
+    "Title": "NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/orion-earth-image.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:33"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Forgotten Island 2 Gets Strong Tease Despite Movie’s Weak Box Office Showing",
-    "Link": "https://www.comingsoon.net/movies/news/2199409-forgotten-island-2-strong-tease-movie-box-office",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/forgotten-island.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:35"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "How Alex Schulman Convinced His “Public Enemy” Gustaf Skarsgård to Board Sweden’s Oscar Pick",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-features/alex-schulman-adult-supervision-film-gustaf-skarsgard-1236713485/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FotoJet-2026-09-29T095042.925.jpg?w=1440&#038;h=810&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:38"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Wonder Man: \"Scrubs\" Star Zach Braff Was On Season 2's Directors List",
-    "Link": "https://bleedingcool.com/tv/wonder-man-scrubs-star-zach-braff-was-on-season-2s-directors-list/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/09/MixCollage-26-Sep-2026-05-30-PM-7120-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:40"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Lanterns Season 1 Finale Trailer Teases Some Big Reveals On The Way",
-    "Link": "https://bleedingcool.com/tv/lanterns-season-1-finale-trailer-teases-some-big-reveals-on-the-way/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/09/MixCollage-28-Sep-2026-10-40-AM-2587-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:43"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Rep. James Comer expands House investigation into prediction market insider trading",
-    "Link": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108196296-1757439710208-gettyimages-2234508405-imgl4800_cmzsu61b.jpeg?v=1757439756&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:54"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Education Department extends deadline for student loan interest rate discount ",
-    "Link": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108229368-17636639332025-11-20t183738z_1880116201_rc260iauffe0_rtrmadp_0_usa-trump.jpeg?v=1763663949&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:21:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "Link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108359272-1788560460669-gettyimages-2293025044-AFP_C7EF26C.jpeg?v=1790619762&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:00"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-    "Link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:03"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "These private and public colleges have the best return on investment, according to The Princeton Review",
-    "Link": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/104598653-GettyImages-94605936.jpg?v=1755808581&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:06"
+    "Date": "2026-10-01 06:23:05"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Detection of a Habitable Zone Planet with an Atmosphere",
-    "Link": "https://www.centauri-dreams.org/2026/07/29/detection-of-a-habitable-zone-planet-with-an-atmosphere/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MarsCuriosityRover-Drilling-Sol170%2B%2B-2.jpg/960px-MarsCuriosityRover-Drilling-Sol170%2B%2B-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek",
+    "Link": "https://www.eso.org/public/news/eso2609/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2609a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:09"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Adds New Science Investigations for Moon Base",
+    "Link": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:11"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Joins Artemis III Orion Modules; Rocket Hardware Update",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:13"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building ",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260417-ph-kls01-0006-e1776440848856.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "If Bitcoin Breaks Above $73K, This Is The Price Target: 10x Research",
+    "Link": "https://bitcoinwarrior.net/2024/04/if-bitcoin-breaks-above-73k-this-is-the-price-target-10x-research/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-30 06:22:20"
+    "Date": "2026-10-01 06:23:26"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Pandora: Tuning Up our Data on Exoplanet Atmospheres",
-    "Link": "https://www.centauri-dreams.org/2026/09/09/pandora-tuning-up-our-data-on-exoplanet-atmospheres/",
+    "Topic": "Trading & Crypto",
+    "Title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+    "Link": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:29"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+    "Link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/ChatGPT-Image-Sep-30-2026-02_31_20-PM-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:31"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+    "Link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "‘Fake News’: El Salvador Denies Stablecoin Pivot as Bitcoin Treasury Grows",
+    "Link": "https://news.bitcoin.com/featured/fake-news-el-salvador-denies-stablecoin-pivot-bitcoin-treasury-grows/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/el-salvador-denies-fake-news-as-bitcoin-treasury-hits-7790.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:23:38"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.38%",
+    "Link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-138-4925972",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-30 06:22:23"
+    "Date": "2026-10-01 06:23:45"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "The Limits of Understanding Between Species, and the Issue for Interstellar Communication",
-    "Link": "https://www.centauri-dreams.org/2026/08/14/the-limits-of-understanding-between-species-and-the-issue-for-interstellar-communication/",
+    "Topic": "Economy",
+    "Title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.22%",
+    "Link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-022-4925965",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-30 06:22:26"
+    "Date": "2026-10-01 06:23:48"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Roman Space Telescope Launches Tomorrow",
-    "Link": "https://www.centauri-dreams.org/2026/08/29/roman-space-telescope-launches-tomorrow/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/960px-ROMANNewModelV8RomanStill00049.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Economy",
+    "Title": "Moody’s downgrades Skillsoft to Caa2 on high debt load, stabilizes outlook",
+    "Link": "https://www.investing.com/news/stock-market-news/moodys-downgrades-skillsoft-to-caa2-on-high-debt-load-stabilizes-outlook-4925971",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-01 06:23:51"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Colombia stocks lower at close of trade; COLCAP down 0.38%",
+    "Link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4925970",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Stocks_%28PSF%29.png/960px-Stocks_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-30 06:22:30"
+    "Date": "2026-10-01 06:23:54"
   },
   {
-    "Topic": "Science",
-    "Title": "Effort begins to fill the void left by terminated US climate report",
-    "Link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-154344707-1024x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:39"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Contrary to some reports, you don't have two brains",
-    "Link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2230128500-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:43"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Finding the cells that put our brain to sleep",
-    "Link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:46"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Small undersea volcanoes may unleash outsized tsunamis",
-    "Link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1248375228-1024x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:49"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Learning another language may be one of the best ways to keep your brain healthy",
-    "Link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:22:53"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Protests against OpenAI get increasingly creative",
-    "Link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:01"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-    "Link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "Link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:06"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "Link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/090626-CengizYar-MITTechReview-20_0b38bc.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:09"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "Link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sleepyrobot-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:12"
-  },
-  {
-    "Topic": "General News",
-    "Title": "France intends to borrow record €340 billion as Covid-era debt comes due",
-    "Link": "https://www.france24.com/en/business/20260929-france-intends-to-borrow-record-340-billion-euros-covid-era-debt-comes-due",
+    "Topic": "Economy",
+    "Title": "Here are the major earnings before the open Thursday",
+    "Link": "https://seekingalpha.com/news/4648617-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-30 06:23:21"
+    "Date": "2026-10-01 06:23:57"
   },
   {
     "Topic": "General News",
-    "Title": "Muhammadiyah Desak Rokok dan Vape Diberi Label Non Halal, Ini Tanggapan MUI",
-    "Link": "https://khazanah.republika.co.id/berita/tm5dxy430/muhammadiyah-desak-rokok-dan-vape-diberi-label-non-halal-ini-tanggapan-mui",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/ilustrasi_250531180220-332.jpg",
+    "Title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+    "Link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:24"
+    "Date": "2026-10-01 06:24:14"
   },
   {
     "Topic": "General News",
-    "Title": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
-    "Link": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/10c9bfce-ba0b-4b57-932c-59c78b593359/AAABoO0-VxY/AAABnSSvrFg/16x9-big/ki-rechenzentrum-102.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:23:27"
+    "Title": "UK-France 'one in, one out' migrant exchange deal is scrapped",
+    "Link": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-01 06:24:17"
   },
   {
     "Topic": "General News",
-    "Title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
-    "Link": "https://www.france24.com/en/safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-30 06:23:30"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Trump says doesn't want to work with China on AI safety",
-    "Link": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-30 06:23:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "MoonPay Agrees to Buy North Capital, Adding Securities Infrastructure",
-    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-30 06:23:51"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
-    "Link": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_Federal_Reserve_System.svg/960px-Seal_of_the_United_States_Federal_Reserve_System.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
+    "Link": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Death_row_inmates_who_have_exhausted_their_appeals_by_county.svg/960px-Death_row_inmates_who_have_exhausted_their_appeals_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-09-30 06:23:55"
+    "Date": "2026-10-01 06:24:20"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?",
-    "Link": "https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption",
+    "Topic": "General News",
+    "Title": "Hidden habits that make your social anxiety worse and how to break them",
+    "Link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:22"
+  },
+  {
+    "Topic": "General News",
+    "Title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+    "Link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b05/live/3a04d9b0-bccd-11f1-9f83-d9975ff80416.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:36"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Losses, Warnings and a DraftKings VIP Invitation",
+    "Link": "https://readwrite.com/draftkings-vip-program/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/losses-warnings-draftkings-vip-invitation.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Stock Bets Put Prediction Markets Under Fresh Regulatory Scrutiny",
+    "Link": "https://readwrite.com/stock-contracts-prediction-markets/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/stock-bets-prediction-markets-regulatory-scrutiny.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:48"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "A New Safety Push Puts Prediction Markets Under Scrutiny",
+    "Link": "https://readwrite.com/prediction-markets-safety-push/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/a-new-safety-push-prediction-markets-scrutiny.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Kalshi’s Second Appellate Loss Deepens Prediction Market Split",
+    "Link": "https://readwrite.com/kalshi-prediction-markets-court-split/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/kalshis-second-appellate-loss-prediction-market-split.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:53"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Robinhood’s Event Contracts Reach $156 Million as Sports Face Scrutiny",
+    "Link": "https://readwrite.com/prediction-markets-robinhood-revenue/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/robinhood-event-contracts-reach-156-million.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:24:56"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Final Trailer for Georgia Oakley's Delightful 'Sense & Sensibility' Movie",
+    "Link": "https://www.firstshowing.net/2026/final-trailer-for-georgia-oakleys-delightful-sense-sensibility-movie/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/senseandsensibilityfinalbigtw5.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:05"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Magical Spirits Series 'Small Prophets' Trailer Starring Pearce Quigley",
+    "Link": "https://www.firstshowing.net/2026/magical-spirits-series-small-prophets-trailer-starring-pearce-quigley/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/smallprophetstrailer1mainimgtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:08"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Liev Schreiber & Zazie Beetz in 'Nocturne' Dark Thriller Series Trailer",
+    "Link": "https://www.firstshowing.net/2026/liev-schreiber-zazie-beetz-in-nocturne-dark-thriller-series-trailer/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/nocturneseriespostermainbtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Interview: 'Bucking Fastard' Director Werner Herzog on Storytelling",
+    "Link": "https://www.firstshowing.net/2026/interview-bucking-fastard-director-werner-herzog-on-storytelling/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/wernerherzogint26mainimgtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Review: Serville Poblete's 'Sunburn' is a Toronto Summer Sensation",
+    "Link": "https://www.firstshowing.net/2026/review-serville-pobletes-sunburn-is-a-toronto-summer-sensation/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/sunburnreviewmainimgbigtw01.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:17"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Mulberry may reshape gut bacteria and influence metabolism",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/fresh-mulberry-fruit.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:24"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Ocean predator chemical cues could provide early warnings for toxic algal blooms",
+    "Link": "https://phys.org/news/2026-09-ocean-predator-chemical-cues-early.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-30 06:23:59"
+    "Date": "2026-10-01 06:25:28"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Kalshi Denies Faking Its Crypto Volume",
-    "Link": "https://thedefiant.io/news/cefi/kalshi-denies-faking-its-crypto-volume",
+    "Topic": "Science",
+    "Title": "Scientists were wrong about this strange mammal for nearly 40 years",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/tamirkhan-balcarceli-skull.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-01 06:25:31"
+  },
+  {
+    "Topic": "Science",
+    "Title": "GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs",
+    "Link": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-09-30 06:24:02"
+    "Date": "2026-10-01 06:25:33"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Blockchain.com and NYSE Explore 24/7 Tokenized Stock Trading",
-    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/blockchain-com-and-nyse-explore-24-7-tokenized-stock-trading",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-09-30 06:24:05"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to watch Spain vs. Croatia online for free",
-    "Link": "https://mashable.com/entertainment/spain-croatia-nations-league-2026-live-stream-for-free",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02wr8AhkGtElk6YXoLkfnrN/hero-image.fill.size_1200x675.v1790610225.jpg",
+    "Topic": "Science",
+    "Title": "Scientists find new virus behind mysterious tick illness",
+    "Link": "https://www.sciencedaily.com/releases/2026/09/260927225027.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/infected-female-deer-tick-human-skin.webp",
     "ImageSource": "og:image",
-    "Date": "2026-09-30 06:24:12"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The best early October Prime Day TV deals: Ive spotted at least a dozen TVs under $500",
-    "Link": "https://mashable.com/tech/best-early-october-prime-day-tv-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04GWJvnNjZ5sW4FnkOynupe/hero-image.fill.size_1200x675.v1790600459.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:24:14"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "TikTok screentime to cash programs: What they really are, what you should know",
-    "Link": "https://mashable.com/tech/tiktok-screentime-to-cash-program-get-paid-to-apps-explainer",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02cU0aZO3W9GtzMTP12g9zj/hero-image.fill.size_1200x675.v1790357779.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:24:17"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "First discount: The new Bose QuietComfort 2nd Gen headphones are marked down by $40",
-    "Link": "https://mashable.com/tech/sept-29-bose-quietcomfort-2nd-gen-headphones-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06THlYCdnk5N3XwLiusKBa1/hero-image.fill.size_1200x675.v1790685352.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:24:19"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "October Prime Day Apple deals guide: Buy now or wait?",
-    "Link": "https://mashable.com/tech/best-early-october-prime-day-apple-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02H6vDQhtNFTFqhAakxACsR/hero-image.fill.size_1200x675.v1790600386.png",
-    "ImageSource": "og:image",
-    "Date": "2026-09-30 06:24:22"
+    "Date": "2026-10-01 06:25:36"
   }
 ]
