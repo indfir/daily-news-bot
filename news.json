@@ -1,282 +1,306 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/orion-earth-image.jpg",
+    "Topic": "Technology",
+    "Title": "Who’s liable when AI agents go rogue?",
+    "Link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
     "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:05"
+    "Date": "2026-10-02 06:37:43"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Sportsbooks Retain Four-Fifths of Projected NFL Betting",
+    "Link": "https://readwrite.com/prediction-markets-nfl-betting/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/sportsbooks-retain-four-fifths-nfl-betting.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:37:46"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Polymarket’s Federal Challenge Puts New York Gambling Law to Test",
+    "Link": "https://readwrite.com/polymarket-lawsuit-new-york-gambling/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/polymarkets-federal-challenge-new-york-gambling-law-test.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:37:49"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "DKeX Trails Rivals as DraftKings Plans More Prediction-Market Investment",
+    "Link": "https://readwrite.com/dkex-prediction-market-challenge/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/dkex-trails-rivals-draftkings-prediction-market.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:37:51"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Making AI an asset, not an expense",
+    "Link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:37:53"
+  },
+  {
+    "Topic": "General News",
+    "Title": "La agencia de protección al consumidor de EE UU investiga a OpenAI, Anthropic y otros gigantes de la IA",
+    "Link": "https://elpais.com/us/2026-09-30/la-agencia-de-proteccion-al-consumidor-de-ee-uu-investiga-a-openai-anthropic-y-otros-gigantes-de-la-ia.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/3DBUH62BINIEPCEYI43JBQXBCY.jpg?auth=d95778e8907562ba6f36b518fbddc970ec4c21d04b79e4ae3bff7753eb0545ac&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:00"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Las nuevas imágenes de Google Maps muestran una Gaza en ruinas: los mapas antes y después",
+    "Link": "https://elpais.com/internacional/2026-09-29/google-maps-ya-muestra-la-destruccion-mas-reciente-de-gaza-los-mapas-del-antes-y-el-despues.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/QHOPIHLOQ5E6BJP2XN53HFLSKM.jpg?auth=92fc383706abccdf47f5281a8c338389a85634993b43706086de18c466025f0e&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:03"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Las rutas migratorias de la contaminación: así se saltan las fronteras el ozono, el polvo sahariano y el humo de los incendios",
+    "Link": "https://elpais.com/clima-y-medio-ambiente/2026-09-30/las-rutas-migratorias-de-la-contaminacion-asi-se-saltan-las-fronteras-el-ozono-el-polvo-sahariano-y-el-humo-de-los-incendios.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/R72NL7QG6ZAFLCTHNJU5AEEC24.png?auth=5bb55a20ab43a5520b64ccb5b0b3c151ef6618144ff8d2ce576297057d405789&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:07"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Nik Storonsky, el visionario que vino de Rusia para revolucionar la industria financiera con Revolut: “En los bancos tradicionales es prácticamente imposible hacer algo nuevo”",
+    "Link": "https://elpais.com/economia/negocios/2026-09-26/nik-storonsky-el-visionario-que-vino-de-rusia-para-revolucionar-la-industria-financiera-con-revolut-en-los-bancos-tradicionales-es-practicamente-imposible-hacer-algo-nuevo.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/YF27MVEXTJFKFBACGYD3GH2NAU.JPG?auth=9e1bb1623d6f821da0c4ee779f858d92d19b500ae0aab18a7010ea73a57cd7e6&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Los Mossos vieron “nerviosa y obstaculizadora” a la pareja de Josep Juanpere tras la muerte del arquitecto",
+    "Link": "https://elpais.com/espana/catalunya/2026-10-01/los-mossos-describen-como-nerviosa-y-obstaculizadora-a-la-pareja-de-juanpere-el-dia-de-su-muerte.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/DENGAPJYMBMXVGXNXX55Y2Q3TI.jpg?auth=0e7a229e9d7fc8c3139c2295f267a115ffa799decf50cc6f233ed72138edf30b&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:13"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The Brain is a Composite Organ",
+    "Link": "http://sciencebasedmedicine.org/the-brain-is-a-composite-organ/?utm_source=rss&utm_medium=rss&utm_campaign=the-brain-is-a-composite-organ",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/thebrain.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:23"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Vaccine Advocates Didn’t Advocate for Moderna’s Failed CMV Vaccine. What Does That Reveal About the Vaccines We Do Advocate For?",
+    "Link": "http://sciencebasedmedicine.org/vaccineadvocatescult/?utm_source=rss&utm_medium=rss&utm_campaign=vaccineadvocatescult",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-14.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:27"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Jay Bhattacharya, October 2020: “Let People Face the Risk of the Disease.”",
+    "Link": "http://sciencebasedmedicine.org/jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease/?utm_source=rss&utm_medium=rss&utm_campaign=jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-16.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:32"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+    "Link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:41"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "Link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/aema-main-feature-1280x720.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "AI for everyone in every language",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:46"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Building AI to accelerate science and improve lives",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "New experts join Google’s AI & Economy team",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:38:50"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek",
-    "Link": "https://www.eso.org/public/news/eso2609/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2609a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:09"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Adds New Science Investigations for Moon Base",
-    "Link": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:11"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Joins Artemis III Orion Modules; Rocket Hardware Update",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building ",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260417-ph-kls01-0006-e1776440848856.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "If Bitcoin Breaks Above $73K, This Is The Price Target: 10x Research",
-    "Link": "https://bitcoinwarrior.net/2024/04/if-bitcoin-breaks-above-73k-this-is-the-price-target-10x-research/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "NASA Goddard and the dawn of international cooperation in space",
+    "Link": "https://www.thespacereview.com/article/5118/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/NASA_Goddard_Space_Flight_Center_Aerial_view_2010_facing_south.jpg/960px-NASA_Goddard_Space_Flight_Center_Aerial_view_2010_facing_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-01 06:23:26"
+    "Date": "2026-10-02 06:38:58"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-    "Link": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:29"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-    "Link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/ChatGPT-Image-Sep-30-2026-02_31_20-PM-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:31"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-    "Link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:35"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "‘Fake News’: El Salvador Denies Stablecoin Pivot as Bitcoin Treasury Grows",
-    "Link": "https://news.bitcoin.com/featured/fake-news-el-salvador-denies-stablecoin-pivot-bitcoin-treasury-grows/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/el-salvador-denies-fake-news-as-bitcoin-treasury-hits-7790.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:23:38"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.38%",
-    "Link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-138-4925972",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:23:45"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.22%",
-    "Link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-022-4925965",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:23:48"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Moody’s downgrades Skillsoft to Caa2 on high debt load, stabilizes outlook",
-    "Link": "https://www.investing.com/news/stock-market-news/moodys-downgrades-skillsoft-to-caa2-on-high-debt-load-stabilizes-outlook-4925971",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:23:51"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Colombia stocks lower at close of trade; COLCAP down 0.38%",
-    "Link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4925970",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Stocks_%28PSF%29.png/960px-Stocks_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Astronomy",
+    "Title": "What makes a lunar landing mission \"successful\"?",
+    "Link": "https://www.thespacereview.com/article/4933/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg/960px-Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-01 06:23:54"
+    "Date": "2026-10-02 06:39:01"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "For too long, colonial language has dominated space exploration. There is a better way.",
+    "Link": "https://www.thespacereview.com/article/5062/1",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-02 06:39:03"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Opportunities for New Zealand as geopolitics reshapes the space economy",
+    "Link": "https://www.thespacereview.com/article/4988/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Opportunity_Party_logo_2025.svg/960px-The_Opportunity_Party_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-02 06:39:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Who will believe the space logs in 2040? Space governance and the quantum audit problem",
+    "Link": "https://www.thespacereview.com/article/5283/1",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-02 06:39:09"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trading Technologies Buys TRAFiX to Fill Equities Gap in Multi-Asset Platform",
+    "Link": "https://www.financemagnates.com/institutional-forex/trading-technologies-buys-trafix-to-fill-equities-gap-in-multi-asset-platform/",
+    "ImageUrl": "https://images.financemagnates.com/images/Trading%20Technologies_id_d07f35ea-1b40-4195-8150-372a28ac6120_size900.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USDnotesNew.png/960px-USDnotesNew.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-02 06:39:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "MEGA FUSION to Showcase Solutions at iFX EXPO Asia 2026",
+    "Link": "https://www.financemagnates.com/thought-leadership/mega-fusion-to-showcase-solutions-at-ifx-expo-asia-2026/",
+    "ImageUrl": "https://images.financemagnates.com/images/Deepening%20Its%20Asian%20Footprint%20with%20Trading%20Technology%2C%20Global%20Compliance%2C%20and%20Diversified%20Services_id_ed211bcb-69ca-4907-927d-97856f2ca3aa_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:24"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "OKX and BitGo expand off-exchange settlement to global institutions",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-02 06:39:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Broke $86,000 and the Leverage That Carried It There Is Now the Risk",
+    "Link": "https://dailycoinpost.com/bitcoin-86000-leverage-perpetual-futures-risk-september-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/btc-leverage.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:31"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "100 Best Zombie Movies Ranked",
+    "Link": "https://editorial.rottentomatoes.com/guide/essential-zombie-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/07/MCDDAOF_DB003.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:37"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Fast & Furious Franchise Expands With New TV Series",
+    "Link": "https://screenrant.com/fast-and-furious-new-tv-series-peacock/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/fast-furious_afe20408.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:40"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "100 Essential Columbia Pictures Films",
+    "Link": "https://editorial.rottentomatoes.com/guide/100-essential-columbia-pictures-films/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2024/01/2IVgaZVk2jBC_nqMtZuRu4HADGRaLTiyeFBJinZ__cc.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:42"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "10 Essential Argentine Films That Are Worth Watching",
+    "Link": "https://editorial.rottentomatoes.com/article/essential-argentine-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/RT_HHM_Representative_600x314.png?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:45"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "All Resident Evil Movies Ranked",
+    "Link": "https://editorial.rottentomatoes.com/guide/resident-evil-movies-ranked-by-tomatometer/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Resident_Evil_Movies_Ranked-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:39:47"
   },
   {
     "Topic": "Economy",
-    "Title": "Here are the major earnings before the open Thursday",
-    "Link": "https://seekingalpha.com/news/4648617-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:23:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-    "Link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg",
+    "Title": "Bursa Malaysia Investor Awards (IR) Awards 2026: Winners and highlights",
+    "Link": "https://www.financeasia.com/article/bursa-malaysia-investor-awards-ir-awards-2026-winners-and-highlights/508434",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fBursa+IR+Awards+2026+.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:14"
+    "Date": "2026-10-02 06:39:57"
   },
   {
-    "Topic": "General News",
-    "Title": "UK-France 'one in, one out' migrant exchange deal is scrapped",
-    "Link": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:24:17"
+    "Topic": "Economy",
+    "Title": "NSE&#39;s IPO launches at $46.9bn valuation",
+    "Link": "https://www.financeasia.com/article/nses-ipo-launches-at-46-9bn-valuation/508436",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2f20260925020333_NSE.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:40:01"
   },
   {
-    "Topic": "General News",
-    "Title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
-    "Link": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Death_row_inmates_who_have_exhausted_their_appeals_by_county.svg/960px-Death_row_inmates_who_have_exhausted_their_appeals_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Economy",
+    "Title": "Industri Perdagangan Berjangka Didorong Perkuat Literasi Masyarakat",
+    "Link": "https://ekonomi.republika.co.id/berita/tm82ld522/industri-perdagangan-berjangka-didorong-perkuat-literasi-masyarakat",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/pt-didimax-pialang_261001163410-507.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-02 06:40:05"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
+    "Link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Sunset_Limited_Derailment.jpg/960px-Sunset_Limited_Derailment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-01 06:24:20"
+    "Date": "2026-10-02 06:40:08"
   },
   {
-    "Topic": "General News",
-    "Title": "Hidden habits that make your social anxiety worse and how to break them",
-    "Link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
+    "Topic": "Economy",
+    "Title": "Hong Kong issues record digital green bond",
+    "Link": "https://www.financeasia.com/article/hong-kong-issues-record-digital-green-bond/508456",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_213163879+(1).jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:22"
-  },
-  {
-    "Topic": "General News",
-    "Title": "We fear for our lives after being told our abusive exes will be freed from jail early",
-    "Link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b05/live/3a04d9b0-bccd-11f1-9f83-d9975ff80416.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:36"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Losses, Warnings and a DraftKings VIP Invitation",
-    "Link": "https://readwrite.com/draftkings-vip-program/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/losses-warnings-draftkings-vip-invitation.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:46"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Stock Bets Put Prediction Markets Under Fresh Regulatory Scrutiny",
-    "Link": "https://readwrite.com/stock-contracts-prediction-markets/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/stock-bets-prediction-markets-regulatory-scrutiny.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:48"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "A New Safety Push Puts Prediction Markets Under Scrutiny",
-    "Link": "https://readwrite.com/prediction-markets-safety-push/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/a-new-safety-push-prediction-markets-scrutiny.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:50"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Kalshi’s Second Appellate Loss Deepens Prediction Market Split",
-    "Link": "https://readwrite.com/kalshi-prediction-markets-court-split/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/kalshis-second-appellate-loss-prediction-market-split.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Robinhood’s Event Contracts Reach $156 Million as Sports Face Scrutiny",
-    "Link": "https://readwrite.com/prediction-markets-robinhood-revenue/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/robinhood-event-contracts-reach-156-million.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:24:56"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Final Trailer for Georgia Oakley's Delightful 'Sense & Sensibility' Movie",
-    "Link": "https://www.firstshowing.net/2026/final-trailer-for-georgia-oakleys-delightful-sense-sensibility-movie/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/senseandsensibilityfinalbigtw5.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:05"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Magical Spirits Series 'Small Prophets' Trailer Starring Pearce Quigley",
-    "Link": "https://www.firstshowing.net/2026/magical-spirits-series-small-prophets-trailer-starring-pearce-quigley/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/smallprophetstrailer1mainimgtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:08"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Liev Schreiber & Zazie Beetz in 'Nocturne' Dark Thriller Series Trailer",
-    "Link": "https://www.firstshowing.net/2026/liev-schreiber-zazie-beetz-in-nocturne-dark-thriller-series-trailer/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/nocturneseriespostermainbtw2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:11"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Interview: 'Bucking Fastard' Director Werner Herzog on Storytelling",
-    "Link": "https://www.firstshowing.net/2026/interview-bucking-fastard-director-werner-herzog-on-storytelling/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/wernerherzogint26mainimgtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:14"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Review: Serville Poblete's 'Sunburn' is a Toronto Summer Sensation",
-    "Link": "https://www.firstshowing.net/2026/review-serville-pobletes-sunburn-is-a-toronto-summer-sensation/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/sunburnreviewmainimgbigtw01.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:17"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Mulberry may reshape gut bacteria and influence metabolism",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/fresh-mulberry-fruit.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:24"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Ocean predator chemical cues could provide early warnings for toxic algal blooms",
-    "Link": "https://phys.org/news/2026-09-ocean-predator-chemical-cues-early.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:25:28"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists were wrong about this strange mammal for nearly 40 years",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/tamirkhan-balcarceli-skull.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:31"
-  },
-  {
-    "Topic": "Science",
-    "Title": "GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs",
-    "Link": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-01 06:25:33"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists find new virus behind mysterious tick illness",
-    "Link": "https://www.sciencedaily.com/releases/2026/09/260927225027.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/infected-female-deer-tick-human-skin.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-01 06:25:36"
+    "Date": "2026-10-02 06:40:12"
   }
 ]
