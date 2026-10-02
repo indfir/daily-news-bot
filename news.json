@@ -1,306 +1,242 @@
 [
   {
     "Topic": "Technology",
-    "Title": "Who’s liable when AI agents go rogue?",
-    "Link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
+    "Title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "Link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "ImageUrl": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:37:43"
+    "Date": "2026-10-03 06:30:01"
   },
   {
     "Topic": "Technology",
-    "Title": "Sportsbooks Retain Four-Fifths of Projected NFL Betting",
-    "Link": "https://readwrite.com/prediction-markets-nfl-betting/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/sportsbooks-retain-four-fifths-nfl-betting.webp",
+    "Title": "With most information hidden, the game Stratego had stumped AI until now",
+    "Link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:37:46"
+    "Date": "2026-10-03 06:30:05"
   },
   {
     "Topic": "Technology",
-    "Title": "Polymarket’s Federal Challenge Puts New York Gambling Law to Test",
-    "Link": "https://readwrite.com/polymarket-lawsuit-new-york-gambling/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/polymarkets-federal-challenge-new-york-gambling-law-test.webp",
+    "Title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "Link": "https://stillwet.art/",
+    "ImageUrl": "https://stillwet.art/img/og-card.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:37:49"
+    "Date": "2026-10-03 06:30:08"
   },
   {
     "Topic": "Technology",
-    "Title": "DKeX Trails Rivals as DraftKings Plans More Prediction-Market Investment",
-    "Link": "https://readwrite.com/dkex-prediction-market-challenge/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/dkex-trails-rivals-draftkings-prediction-market.webp",
+    "Title": "Muse Gadgets",
+    "Link": "https://gadgets.muse.ai",
+    "ImageUrl": "https://gadgets.muse.ai/gadgets/og/social.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:37:51"
+    "Date": "2026-10-03 06:30:11"
   },
   {
     "Topic": "Technology",
-    "Title": "Making AI an asset, not an expense",
-    "Link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600",
+    "Title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+    "Link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+    "ImageUrl": "https://media.wired.com/photos/6aba3a3341517308a638304d/191:100/w_1280,c_limit/Space%20Lazer.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:37:53"
+    "Date": "2026-10-03 06:30:14"
   },
   {
-    "Topic": "General News",
-    "Title": "La agencia de protección al consumidor de EE UU investiga a OpenAI, Anthropic y otros gigantes de la IA",
-    "Link": "https://elpais.com/us/2026-09-30/la-agencia-de-proteccion-al-consumidor-de-ee-uu-investiga-a-openai-anthropic-y-otros-gigantes-de-la-ia.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/3DBUH62BINIEPCEYI43JBQXBCY.jpg?auth=d95778e8907562ba6f36b518fbddc970ec4c21d04b79e4ae3bff7753eb0545ac&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Las nuevas imágenes de Google Maps muestran una Gaza en ruinas: los mapas antes y después",
-    "Link": "https://elpais.com/internacional/2026-09-29/google-maps-ya-muestra-la-destruccion-mas-reciente-de-gaza-los-mapas-del-antes-y-el-despues.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/QHOPIHLOQ5E6BJP2XN53HFLSKM.jpg?auth=92fc383706abccdf47f5281a8c338389a85634993b43706086de18c466025f0e&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Las rutas migratorias de la contaminación: así se saltan las fronteras el ozono, el polvo sahariano y el humo de los incendios",
-    "Link": "https://elpais.com/clima-y-medio-ambiente/2026-09-30/las-rutas-migratorias-de-la-contaminacion-asi-se-saltan-las-fronteras-el-ozono-el-polvo-sahariano-y-el-humo-de-los-incendios.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/R72NL7QG6ZAFLCTHNJU5AEEC24.png?auth=5bb55a20ab43a5520b64ccb5b0b3c151ef6618144ff8d2ce576297057d405789&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:07"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Nik Storonsky, el visionario que vino de Rusia para revolucionar la industria financiera con Revolut: “En los bancos tradicionales es prácticamente imposible hacer algo nuevo”",
-    "Link": "https://elpais.com/economia/negocios/2026-09-26/nik-storonsky-el-visionario-que-vino-de-rusia-para-revolucionar-la-industria-financiera-con-revolut-en-los-bancos-tradicionales-es-practicamente-imposible-hacer-algo-nuevo.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/YF27MVEXTJFKFBACGYD3GH2NAU.JPG?auth=9e1bb1623d6f821da0c4ee779f858d92d19b500ae0aab18a7010ea73a57cd7e6&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:10"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Los Mossos vieron “nerviosa y obstaculizadora” a la pareja de Josep Juanpere tras la muerte del arquitecto",
-    "Link": "https://elpais.com/espana/catalunya/2026-10-01/los-mossos-describen-como-nerviosa-y-obstaculizadora-a-la-pareja-de-juanpere-el-dia-de-su-muerte.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/DENGAPJYMBMXVGXNXX55Y2Q3TI.jpg?auth=0e7a229e9d7fc8c3139c2295f267a115ffa799decf50cc6f233ed72138edf30b&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:13"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The Brain is a Composite Organ",
-    "Link": "http://sciencebasedmedicine.org/the-brain-is-a-composite-organ/?utm_source=rss&utm_medium=rss&utm_campaign=the-brain-is-a-composite-organ",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/thebrain.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:23"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Vaccine Advocates Didn’t Advocate for Moderna’s Failed CMV Vaccine. What Does That Reveal About the Vaccines We Do Advocate For?",
-    "Link": "http://sciencebasedmedicine.org/vaccineadvocatescult/?utm_source=rss&utm_medium=rss&utm_campaign=vaccineadvocatescult",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-14.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:27"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Jay Bhattacharya, October 2020: “Let People Face the Risk of the Disease.”",
-    "Link": "http://sciencebasedmedicine.org/jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease/?utm_source=rss&utm_medium=rss&utm_campaign=jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-16.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:32"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-    "Link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:41"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "Link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/09/aema-main-feature-1280x720.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:43"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "AI for everyone in every language",
-    "Link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:46"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Building AI to accelerate science and improve lives",
-    "Link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:48"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "New experts join Google’s AI & Economy team",
-    "Link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:38:50"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Goddard and the dawn of international cooperation in space",
-    "Link": "https://www.thespacereview.com/article/5118/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/NASA_Goddard_Space_Flight_Center_Aerial_view_2010_facing_south.jpg/960px-NASA_Goddard_Space_Flight_Center_Aerial_view_2010_facing_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-02 06:38:58"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "What makes a lunar landing mission \"successful\"?",
-    "Link": "https://www.thespacereview.com/article/4933/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg/960px-Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-02 06:39:01"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "For too long, colonial language has dominated space exploration. There is a better way.",
-    "Link": "https://www.thespacereview.com/article/5062/1",
+    "Topic": "Economy",
+    "Title": "Why mixing politics with your stock portfolio might be costing you money",
+    "Link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-02 06:39:03"
+    "Date": "2026-10-03 06:30:22"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+    "Link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tesla_Cybercab_on_Interstate_280_near_Palo_Alto_dllu.jpg/960px-Tesla_Cybercab_on_Interstate_280_near_Palo_Alto_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-03 06:30:25"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+    "Link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-03 06:30:28"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Why Western Digital and Seagate are seeing big stock drops today",
+    "Link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-03 06:30:31"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+    "Link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Panoramic_view%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2-3.jpg/960px-Panoramic_view%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-03 06:30:34"
+  },
+  {
+    "Topic": "General News",
+    "Title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+    "Link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230310124013-20230310-shortcomings-sustainable-beauty-plastics-retail-climate.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:30:42"
+  },
+  {
+    "Topic": "General News",
+    "Title": "What pet cemeteries reveal about being human",
+    "Link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403122306-01-pet-cemeteries.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:30:45"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cómo construir un mercado de alquiler asequible",
+    "Link": "https://elpais.com/opinion/2026-10-02/como-construir-un-mercado-de-alquiler-asequible.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-03 06:30:47"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Tom Cruise contra el mundo: las burlas por su edad, su carrera hacia el Oscar y su regreso a los medios",
+    "Link": "https://elpais.com/icon/2026-10-02/tom-cruise-contra-el-mundo-las-burlas-por-su-edad-su-carrera-hacia-el-oscar-y-su-regreso-a-los-medios.html",
+    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/HY6OTLLSAZCW3IRL3UFSPOOHN4.jpg?auth=bb058b3f62b1bca81e5fff992a0df787f8ab639839c32488e18b203c9937ce28&amp;width=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:30:51"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+    "Link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404141742-04b-kwame-brathwaite-obituary-orange-crop.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:30:54"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "First Trailer for 'Sister Brother Manhole Cover' Macedonian Comedy",
+    "Link": "https://www.firstshowing.net/2026/first-trailer-for-sister-brother-manhole-cover-macedonian-comedy/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/sisterbrothermanholemainimgtw.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:07"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Motherhood Comedy 'Let's Have Kids' Trailer - Karen Gillan & Zoë Chao",
+    "Link": "https://www.firstshowing.net/2026/motherhood-comedy-lets-have-kids-trailer-karen-gillan-zoe-chao/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/letshavekidspostermainbigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:10"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘Teenage Sex and Death at Camp Miasma’ on Mubi, Jane Schoenbrun’s Surreally Tactile, Yet Ethereal Horror-Comedy",
+    "Link": "https://decider.com/2026/10/02/teenage-sex-and-death-at-camp-miasma-mubi-review-stream-it-or-skip-it/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/05/TEENAGE-SEX-AND-DEATH-AT-CAMP-MIASMA-HANNAH-EINBINDER.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:13"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘Evil Dead Burn’ on HBO Max, a Fresh Bloody Display of Necronomicononsense in an Undead Franchise",
+    "Link": "https://decider.com/2026/10/02/evil-dead-burn-hbo-max-review-stream-it-or-skip-it/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/where-to-watch-evil-dead-burn.jpg?quality=75&#038;strip=all&#038;w=1156",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:16"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Full Trailer for 'Gentle Monster' Weird Thriller Starring Léa Seydoux",
+    "Link": "https://www.firstshowing.net/2026/full-trailer-for-gentle-monster-weird-thriller-starring-lea-seydoux/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/gentlemonstermainimagebigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:19"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "$70 Million in Bitcoin Vanished From Coldcard Wallets - Make Sure YOUR Crypto is Safe...",
+    "Link": "https://www.globalcryptopress.com/2026/08/70-million-in-bitcoin-vanished-from.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-03 06:31:33"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Wall Street Returns to Crypto: Bitcoin and Ethereum ETFs See a $3 Billion Weekly Swing",
+    "Link": "https://www.globalcryptopress.com/2026/08/wall-street-returns-to-crypto-bitcoin.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-03 06:31:38"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Your Old Email Password Could Unlock Your Crypto Account, Police Warn",
+    "Link": "https://www.globalcryptopress.com/2026/09/your-old-email-password-could-unlock.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mozilla_Thunderbird_GNOME.png/960px-Mozilla_Thunderbird_GNOME.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-03 06:31:42"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The Hack They Called \"Structurally Impossible\" in 2023 Just Cost Them $1.65...",
+    "Link": "https://www.globalcryptopress.com/2026/07/the-hack-they-called-structurally.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-03 06:31:46"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Strategy Makes $334 Million in New Investments... None of it Bitcoin.",
+    "Link": "https://www.globalcryptopress.com/2026/08/strategy-makes-334-million-in-new.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Map_of_USA_South.svg/960px-Map_of_USA_South.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-03 06:31:51"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Opportunities for New Zealand as geopolitics reshapes the space economy",
-    "Link": "https://www.thespacereview.com/article/4988/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Opportunity_Party_logo_2025.svg/960px-The_Opportunity_Party_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-02 06:39:06"
+    "Title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+    "Link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1187%2C1024&ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-10-03 06:31:59"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Who will believe the space logs in 2040? Space governance and the quantum audit problem",
-    "Link": "https://www.thespacereview.com/article/5283/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-02 06:39:09"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Trading Technologies Buys TRAFiX to Fill Equities Gap in Multi-Asset Platform",
-    "Link": "https://www.financemagnates.com/institutional-forex/trading-technologies-buys-trafix-to-fill-equities-gap-in-multi-asset-platform/",
-    "ImageUrl": "https://images.financemagnates.com/images/Trading%20Technologies_id_d07f35ea-1b40-4195-8150-372a28ac6120_size900.jpeg",
+    "Title": "NASA’s Artemis III Flight Hardware Stacks Up at Kennedy",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/07/13/nasas-artemis-iii-flight-hardware-stacks-up-at-kennedy/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260713-PH-FMX01_0013/KSC-20260713-PH-FMX01_0013~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:16"
+    "Date": "2026-10-03 06:32:02"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USDnotesNew.png/960px-USDnotesNew.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-02 06:39:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "MEGA FUSION to Showcase Solutions at iFX EXPO Asia 2026",
-    "Link": "https://www.financemagnates.com/thought-leadership/mega-fusion-to-showcase-solutions-at-ifx-expo-asia-2026/",
-    "ImageUrl": "https://images.financemagnates.com/images/Deepening%20Its%20Asian%20Footprint%20with%20Trading%20Technology%2C%20Global%20Compliance%2C%20and%20Diversified%20Services_id_ed211bcb-69ca-4907-927d-97856f2ca3aa_size900.jpg",
+    "Topic": "Astronomy",
+    "Title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+    "Link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
+    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/09/economist-enterprise.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:24"
+    "Date": "2026-10-03 06:32:04"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "OKX and BitGo expand off-exchange settlement to global institutions",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-02 06:39:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Broke $86,000 and the Leverage That Carried It There Is Now the Risk",
-    "Link": "https://dailycoinpost.com/bitcoin-86000-leverage-perpetual-futures-risk-september-2026/",
-    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/btc-leverage.png",
+    "Topic": "Astronomy",
+    "Title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+    "Link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=2558%2C2560&ssl=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:31"
+    "Date": "2026-10-03 06:32:07"
   },
   {
-    "Topic": "Movies",
-    "Title": "100 Best Zombie Movies Ranked",
-    "Link": "https://editorial.rottentomatoes.com/guide/essential-zombie-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2025/07/MCDDAOF_DB003.jpg?w=600",
+    "Topic": "Astronomy",
+    "Title": "Final Artemis III SLS Booster Segments En Route to NASA Kennedy",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/06/04/final-artemis-iii-sls-booster-segments-en-route-to-nasa-kennedy/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/NG_06022026_Artemis%20III%20Booster%20Segment%20Shipment%20to%20KSC-1-31/NG_06022026_Artemis%20III%20Booster%20Segment%20Shipment%20to%20KSC-1-31~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:37"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Fast & Furious Franchise Expands With New TV Series",
-    "Link": "https://screenrant.com/fast-and-furious-new-tv-series-peacock/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/fast-furious_afe20408.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:40"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "100 Essential Columbia Pictures Films",
-    "Link": "https://editorial.rottentomatoes.com/guide/100-essential-columbia-pictures-films/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2024/01/2IVgaZVk2jBC_nqMtZuRu4HADGRaLTiyeFBJinZ__cc.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "10 Essential Argentine Films That Are Worth Watching",
-    "Link": "https://editorial.rottentomatoes.com/article/essential-argentine-movies/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/RT_HHM_Representative_600x314.png?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:45"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "All Resident Evil Movies Ranked",
-    "Link": "https://editorial.rottentomatoes.com/guide/resident-evil-movies-ranked-by-tomatometer/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Resident_Evil_Movies_Ranked-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:47"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Bursa Malaysia Investor Awards (IR) Awards 2026: Winners and highlights",
-    "Link": "https://www.financeasia.com/article/bursa-malaysia-investor-awards-ir-awards-2026-winners-and-highlights/508434",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fBursa+IR+Awards+2026+.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:39:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "NSE&#39;s IPO launches at $46.9bn valuation",
-    "Link": "https://www.financeasia.com/article/nses-ipo-launches-at-46-9bn-valuation/508436",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2f20260925020333_NSE.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:40:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Industri Perdagangan Berjangka Didorong Perkuat Literasi Masyarakat",
-    "Link": "https://ekonomi.republika.co.id/berita/tm82ld522/industri-perdagangan-berjangka-didorong-perkuat-literasi-masyarakat",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/pt-didimax-pialang_261001163410-507.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:40:05"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
-    "Link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Sunset_Limited_Derailment.jpg/960px-Sunset_Limited_Derailment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-02 06:40:08"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Hong Kong issues record digital green bond",
-    "Link": "https://www.financeasia.com/article/hong-kong-issues-record-digital-green-bond/508456",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_213163879+(1).jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-02 06:40:12"
+    "Date": "2026-10-03 06:32:10"
   }
 ]
