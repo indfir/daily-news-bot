@@ -1,242 +1,306 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "Link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "ImageUrl": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg",
+    "Topic": "Science",
+    "Title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+    "Link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:01"
+    "Date": "2026-10-04 05:38:47"
   },
   {
-    "Topic": "Technology",
-    "Title": "With most information hidden, the game Stratego had stumped AI until now",
-    "Link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+    "Topic": "Science",
+    "Title": "The 2008 economic crisis changed the US's relationship with energy",
+    "Link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:05"
+    "Date": "2026-10-04 05:38:50"
   },
   {
-    "Topic": "Technology",
-    "Title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "Link": "https://stillwet.art/",
-    "ImageUrl": "https://stillwet.art/img/og-card.jpg",
+    "Topic": "Science",
+    "Title": "Research roundup: 6 cool science stories we almost missed",
+    "Link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:08"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Muse Gadgets",
-    "Link": "https://gadgets.muse.ai",
-    "ImageUrl": "https://gadgets.muse.ai/gadgets/og/social.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:11"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-    "Link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
-    "ImageUrl": "https://media.wired.com/photos/6aba3a3341517308a638304d/191:100/w_1280,c_limit/Space%20Lazer.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:14"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Why mixing politics with your stock portfolio might be costing you money",
-    "Link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:30:22"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-    "Link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tesla_Cybercab_on_Interstate_280_near_Palo_Alto_dllu.jpg/960px-Tesla_Cybercab_on_Interstate_280_near_Palo_Alto_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-03 06:30:25"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-    "Link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:30:28"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Why Western Digital and Seagate are seeing big stock drops today",
-    "Link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:30:31"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-    "Link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Panoramic_view%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2-3.jpg/960px-Panoramic_view%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-03 06:30:34"
-  },
-  {
-    "Topic": "General News",
-    "Title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
-    "Link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230310124013-20230310-shortcomings-sustainable-beauty-plastics-retail-climate.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:42"
-  },
-  {
-    "Topic": "General News",
-    "Title": "What pet cemeteries reveal about being human",
-    "Link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403122306-01-pet-cemeteries.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Cómo construir un mercado de alquiler asequible",
-    "Link": "https://elpais.com/opinion/2026-10-02/como-construir-un-mercado-de-alquiler-asequible.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:30:47"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Tom Cruise contra el mundo: las burlas por su edad, su carrera hacia el Oscar y su regreso a los medios",
-    "Link": "https://elpais.com/icon/2026-10-02/tom-cruise-contra-el-mundo-las-burlas-por-su-edad-su-carrera-hacia-el-oscar-y-su-regreso-a-los-medios.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/HY6OTLLSAZCW3IRL3UFSPOOHN4.jpg?auth=bb058b3f62b1bca81e5fff992a0df787f8ab639839c32488e18b203c9937ce28&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:51"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-    "Link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230404141742-04b-kwame-brathwaite-obituary-orange-crop.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:30:54"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "First Trailer for 'Sister Brother Manhole Cover' Macedonian Comedy",
-    "Link": "https://www.firstshowing.net/2026/first-trailer-for-sister-brother-manhole-cover-macedonian-comedy/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/sisterbrothermanholemainimgtw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:07"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Motherhood Comedy 'Let's Have Kids' Trailer - Karen Gillan & Zoë Chao",
-    "Link": "https://www.firstshowing.net/2026/motherhood-comedy-lets-have-kids-trailer-karen-gillan-zoe-chao/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/letshavekidspostermainbigtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:10"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘Teenage Sex and Death at Camp Miasma’ on Mubi, Jane Schoenbrun’s Surreally Tactile, Yet Ethereal Horror-Comedy",
-    "Link": "https://decider.com/2026/10/02/teenage-sex-and-death-at-camp-miasma-mubi-review-stream-it-or-skip-it/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/05/TEENAGE-SEX-AND-DEATH-AT-CAMP-MIASMA-HANNAH-EINBINDER.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:13"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘Evil Dead Burn’ on HBO Max, a Fresh Bloody Display of Necronomicononsense in an Undead Franchise",
-    "Link": "https://decider.com/2026/10/02/evil-dead-burn-hbo-max-review-stream-it-or-skip-it/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/where-to-watch-evil-dead-burn.jpg?quality=75&#038;strip=all&#038;w=1156",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Full Trailer for 'Gentle Monster' Weird Thriller Starring Léa Seydoux",
-    "Link": "https://www.firstshowing.net/2026/full-trailer-for-gentle-monster-weird-thriller-starring-lea-seydoux/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/gentlemonstermainimagebigtw1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:19"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "$70 Million in Bitcoin Vanished From Coldcard Wallets - Make Sure YOUR Crypto is Safe...",
-    "Link": "https://www.globalcryptopress.com/2026/08/70-million-in-bitcoin-vanished-from.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-03 06:31:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Wall Street Returns to Crypto: Bitcoin and Ethereum ETFs See a $3 Billion Weekly Swing",
-    "Link": "https://www.globalcryptopress.com/2026/08/wall-street-returns-to-crypto-bitcoin.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:31:38"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Your Old Email Password Could Unlock Your Crypto Account, Police Warn",
-    "Link": "https://www.globalcryptopress.com/2026/09/your-old-email-password-could-unlock.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mozilla_Thunderbird_GNOME.png/960px-Mozilla_Thunderbird_GNOME.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-03 06:31:42"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Hack They Called \"Structurally Impossible\" in 2023 Just Cost Them $1.65...",
-    "Link": "https://www.globalcryptopress.com/2026/07/the-hack-they-called-structurally.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-03 06:31:46"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Strategy Makes $334 Million in New Investments... None of it Bitcoin.",
-    "Link": "https://www.globalcryptopress.com/2026/08/strategy-makes-334-million-in-new.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Map_of_USA_South.svg/960px-Map_of_USA_South.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-03 06:31:51"
+    "Date": "2026-10-04 05:38:53"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-    "Link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
-    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1187%2C1024&ssl=1",
+    "Title": "SpaceX's Starship launches on first orbital mission from Texas",
+    "Link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6443x3624+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F37%2Fa95c81e94e00952738c545369ab5%2Fgettyimages-2297023111.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:31:59"
+    "Date": "2026-10-04 05:39:02"
   },
   {
     "Topic": "Astronomy",
-    "Title": "NASA’s Artemis III Flight Hardware Stacks Up at Kennedy",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/07/13/nasas-artemis-iii-flight-hardware-stacks-up-at-kennedy/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260713-PH-FMX01_0013/KSC-20260713-PH-FMX01_0013~large.jpg",
+    "Title": "SpaceX describes surgical intervention before launch of latest crew mission",
+    "Link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:32:02"
+    "Date": "2026-10-04 05:39:06"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
-    "Link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
-    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/09/economist-enterprise.png",
+    "Title": "SpaceX's Starship reaches orbit for the first time",
+    "Link": "https://www.npr.org/2026/09/29/nx-s1-5983804/spacexs-starship-reaches-orbit-for-the-first-time",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:32:04"
+    "Date": "2026-10-04 05:39:10"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-    "Link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
-    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=2558%2C2560&ssl=1",
+    "Title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+    "Link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:32:07"
+    "Date": "2026-10-04 05:39:13"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Final Artemis III SLS Booster Segments En Route to NASA Kennedy",
-    "Link": "https://www.nasa.gov/blogs/missions/2026/06/04/final-artemis-iii-sls-booster-segments-en-route-to-nasa-kennedy/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/NG_06022026_Artemis%20III%20Booster%20Segment%20Shipment%20to%20KSC-1-31/NG_06022026_Artemis%20III%20Booster%20Segment%20Shipment%20to%20KSC-1-31~large.jpg",
+    "Title": "U.S. acknowledges for the first time that it has deployed weapons in space",
+    "Link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2626x1477+0+137/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F56%2F2d7a560e4e9cb8a88918cc2e9aa2%2Fap26258433199406.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-03 06:32:10"
+    "Date": "2026-10-04 05:39:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134651472,width-1200,height-900,imgsize-56836,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:28"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Hyperliquid (HYPE) targets $115 as tokenized asset trading gains momentum",
+    "Link": "https://coinjournal.net/news/hyperliquid-hype-targets-115-as-tokenized-asset-trading-gains-momentum/",
+    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-04_43_57-AM.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:31"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Robinhood stock tokens turbocharge a new era of meme trading",
+    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/robinhood-stock-tokens-turbocharge-a-new-era-of-meme-trading/articleshow/134652233.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134652304,width-1200,height-900,imgsize-2685832,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:39"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134652347,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:43"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
+    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134654967,width-1200,height-900,imgsize-90984,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Hasil Final Sepakbola Asian Games 2026: Korea Selatan Tumbangkan Jepang dan Raih Medali Emas",
+    "Link": "https://www.viva.co.id/bola/1932977-hasil-final-sepakbola-asian-games-2026-korea-selatan-tumbangkan-jepang-dan-raih-medali-emas",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac1367ac413e-korea-selatan-raih-emas-asian-games-2026_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:53"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    "Link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/106621131-15949940512020-07-16t171324z_1245378320_rc2huh9ed5wu_rtrmadp_0_usa-china-travel.jpeg?v=1733818580&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:39:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+    "Link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108363996-1789586466150-gettyimages-2295046810-WARSH_FOMC_NYSE.jpeg?v=1789586570&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:00"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+    "Link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108368227-1790357107027-gettyimages-2297111152-jr_18705_hfko6fmx.jpeg?v=1790357497&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:02"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "3 Sosok Pengusaha di Jajaran Wantimpres Prabowo, Hartanya Capai Triliunan Rupiah",
+    "Link": "https://www.viva.co.id/bisnis/1932961-3-sosok-pengusaha-di-jajaran-wantimpres-prabowo-hartanya-capai-triliunan-rupiah",
+    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/02/6abfa272de663-pengusaha-nasional-dato-sri-tahir-dilantik-jadi-wantimpres_gemini_1265_711.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:05"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "Link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "ImageUrl": "https://www.phoronix.net/image.php?id=2026&image=timur",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:14"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "New York City should carefully measure a new tree",
+    "Link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+    "ImageUrl": "/static/og-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:17"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "RetailReady (YC W24) Is Hiring",
+    "Link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "ImageUrl": "https://bookface-images.s3.amazonaws.com/logos/6f80b4a48465bc260e00f9331c1aa38175ffced5.png?1704487189",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Gboard Conveyor Belt Version",
+    "Link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+    "ImageUrl": "https://opengraph.githubassets.com/d2e740034184bd9f51bdac5ab63dcdf9ae45aa4940b096d02c28a5cfca748ba9/google/mozc-devices",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:24"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Kinematics Lab Part II: You Don't Need Another...",
+    "Link": "https://dev.to/robinwinters/kinematics-lab-part-ii-you-dont-need-another-o9e",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6rggo5yj6nrvqzyukz0l.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Wahlen in Brasilien: Lula und Bolsonaro liegen in Umfragen kurz vor Wahl beinahe gleichauf",
+    "Link": "https://www.zeit.de/politik/ausland/2026-10/wahl-brasilien-2026-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-10/wahl-brasilien-2026-luiz-inacio-lula-da-silva-flavio-bolsonaro-foto-1/wide__1300x731",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:35"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
+    "Link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-04 05:40:38"
+  },
+  {
+    "Topic": "General News",
+    "Title": "« Les victimes ne veulent plus mourir en silence » : des malades du cancer et des agriculteurs tentent de mobiliser l’opinion pour la sortie des pesticides",
+    "Link": "https://www.lemonde.fr/planete/article/2026/10/03/les-victimes-ne-veulent-plus-mourir-en-silence-des-malades-du-cancer-et-des-agriculteurs-mobilisent-l-opinion-pour-la-sortie-des-pesticides_6787824_3244.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-04 05:40:42"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+    "Link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4080x2295+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F63%2Fd4ea684b40f88cfb28c1fe8b05f7%2Fstaff-talking-dino-in-back.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+    "Link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:47"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Generative AI guidelines at SQLBI (2026 update)",
+    "Link": "https://www.sqlbi.com/blog/marco/2026/07/08/generative-ai-guidelines-at-sqlbi-2026-update/",
+    "ImageUrl": "https://www.sqlbi.com/wp-content/uploads/sqlbi-logo-video.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:40:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Database Migration Was Cloud’s Last Manual Bottleneck. AI Just Made It a Battleground",
+    "Link": "https://datafloq.com/database-migration-was-clouds-last-manual-bottleneck-ai-just-made-it-a-battleground/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/09/oracle-to-postgresql-ai-database-migration-gemini.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:00"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Start using DAX with AI",
+    "Link": "https://www.sqlbi.com/tv/start-using-dax-with-ai/",
+    "ImageUrl": "https://i3.ytimg.com/vi/KtO0BRKHBv4/maxresdefault.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:04"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Testing DAX measures by using AI",
+    "Link": "https://www.sqlbi.com/tv/testing-dax-measures-by-using-ai/",
+    "ImageUrl": "https://i.ytimg.com/vi/qYQpl5Hjdk0/maxresdefault.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:07"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Accenture and Google Cloud Form Gemini Enterprise Business Group: 1,000 Engineers and a Market Share Problem",
+    "Link": "https://datafloq.com/accenture-and-google-cloud-form-gemini-enterprise-business-group-1000-engineers-and-a-market-share-problem/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/09/accenture-julie-sweet-google-cloud-thomas-kurian-gemini-enterprise.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:11"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "New Trailer for French Animated Film 'Muyi' About a Girl and a Mask",
+    "Link": "https://www.firstshowing.net/2026/new-trailer-for-french-animated-film-muyi-about-a-girl-and-a-mask/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/muyianimationmainimgbigtrltw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:19"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Official Trailer for 'The Holiday Hitman' Comedy Starring Nick Sagar",
+    "Link": "https://www.firstshowing.net/2026/official-trailer-for-the-holiday-hitman-comedy-starring-nick-sagar/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/holidayhitmanpostermainbigtw2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:22"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Trailer #2 for Marvel's 'VisionQuest' Sci-Fi Series with Paul Bettany",
+    "Link": "https://www.firstshowing.net/2026/trailer-2-for-marvels-visionquest-sci-fi-series-with-paul-bettany/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/visionquestpostermainimgbigtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:25"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "47 Years Later, Alan Moore's First Superhero Is Still His Most Twisted Creation",
+    "Link": "https://screenrant.com/alan-moore-first-superhero-axel-pressbutton/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/close-up-photo-of-alan-moore-staring-deadpan-into-the-camera.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:27"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Old Age Marriage Drama 'Love, After All' Trailer with Dagmar Manzel",
+    "Link": "https://www.firstshowing.net/2026/old-age-marriage-drama-love-after-all-trailer-with-dagmar-manzel/",
+    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/alteliebepostermainimgbigsvtw1.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-04 05:41:30"
   }
 ]
