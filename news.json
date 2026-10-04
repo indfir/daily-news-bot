@@ -1,306 +1,282 @@
 [
   {
-    "Topic": "Science",
-    "Title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-    "Link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
+    "Topic": "Technology",
+    "Title": "New York’s Polymarket Fight Tests Sports Betting Taxes",
+    "Link": "https://readwrite.com/prediction-markets-new-york-taxes/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/new-york-polymarket-fight-sports-betting-taxes.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:38:47"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The 2008 economic crisis changed the US's relationship with energy",
-    "Link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:38:50"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Research roundup: 6 cool science stories we almost missed",
-    "Link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:38:53"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX's Starship launches on first orbital mission from Texas",
-    "Link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6443x3624+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F37%2Fa95c81e94e00952738c545369ab5%2Fgettyimages-2297023111.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:02"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX describes surgical intervention before launch of latest crew mission",
-    "Link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX's Starship reaches orbit for the first time",
-    "Link": "https://www.npr.org/2026/09/29/nx-s1-5983804/spacexs-starship-reaches-orbit-for-the-first-time",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:10"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-    "Link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:13"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "U.S. acknowledges for the first time that it has deployed weapons in space",
-    "Link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2626x1477+0+137/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F56%2F2d7a560e4e9cb8a88918cc2e9aa2%2Fap26258433199406.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:18"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
-    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134651472,width-1200,height-900,imgsize-56836,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Hyperliquid (HYPE) targets $115 as tokenized asset trading gains momentum",
-    "Link": "https://coinjournal.net/news/hyperliquid-hype-targets-115-as-tokenized-asset-trading-gains-momentum/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-04_43_57-AM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:31"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Robinhood stock tokens turbocharge a new era of meme trading",
-    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/robinhood-stock-tokens-turbocharge-a-new-era-of-meme-trading/articleshow/134652233.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134652304,width-1200,height-900,imgsize-2685832,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134652347,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:43"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
-    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-134654967,width-1200,height-900,imgsize-90984,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:46"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Hasil Final Sepakbola Asian Games 2026: Korea Selatan Tumbangkan Jepang dan Raih Medali Emas",
-    "Link": "https://www.viva.co.id/bola/1932977-hasil-final-sepakbola-asian-games-2026-korea-selatan-tumbangkan-jepang-dan-raih-medali-emas",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac1367ac413e-korea-selatan-raih-emas-asian-games-2026_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:53"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-    "Link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/106621131-15949940512020-07-16t171324z_1245378320_rc2huh9ed5wu_rtrmadp_0_usa-china-travel.jpeg?v=1733818580&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:39:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-    "Link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108363996-1789586466150-gettyimages-2295046810-WARSH_FOMC_NYSE.jpeg?v=1789586570&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:00"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
-    "Link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108368227-1790357107027-gettyimages-2297111152-jr_18705_hfko6fmx.jpeg?v=1790357497&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:02"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "3 Sosok Pengusaha di Jajaran Wantimpres Prabowo, Hartanya Capai Triliunan Rupiah",
-    "Link": "https://www.viva.co.id/bisnis/1932961-3-sosok-pengusaha-di-jajaran-wantimpres-prabowo-hartanya-capai-triliunan-rupiah",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/02/6abfa272de663-pengusaha-nasional-dato-sri-tahir-dilantik-jadi-wantimpres_gemini_1265_711.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:05"
+    "Date": "2026-10-05 05:39:55"
   },
   {
     "Topic": "Technology",
-    "Title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-    "Link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-    "ImageUrl": "https://www.phoronix.net/image.php?id=2026&image=timur",
+    "Title": "Trading Volume Rose Nearly 94% Around Novig’s Sweeney Campaign",
+    "Link": "https://readwrite.com/novig-growth-trading-volume/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/trading-volume-rose-nearly-94-percent-novig-campaign.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:14"
+    "Date": "2026-10-05 05:39:58"
   },
   {
     "Topic": "Technology",
-    "Title": "New York City should carefully measure a new tree",
-    "Link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-    "ImageUrl": "/static/og-image.png",
+    "Title": "Boston lawsuit challenges DraftKings AI gambling promotions",
+    "Link": "https://readwrite.com/draftkings-ai-gambling-lawsuit/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/boston-lawsuit-draftkings-ai-gambling-promotions.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:17"
+    "Date": "2026-10-05 05:40:01"
   },
   {
     "Topic": "Technology",
-    "Title": "RetailReady (YC W24) Is Hiring",
-    "Link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-    "ImageUrl": "https://bookface-images.s3.amazonaws.com/logos/6f80b4a48465bc260e00f9331c1aa38175ffced5.png?1704487189",
+    "Title": "MGM Declines Prediction Markets as Casino Chiefs Flag License Risks",
+    "Link": "https://readwrite.com/prediction-markets-mgm-license-risks/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/09/mgm-declines-prediction-markets-license-risks.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:20"
+    "Date": "2026-10-05 05:40:04"
   },
   {
     "Topic": "Technology",
-    "Title": "Gboard Conveyor Belt Version",
-    "Link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-    "ImageUrl": "https://opengraph.githubassets.com/d2e740034184bd9f51bdac5ab63dcdf9ae45aa4940b096d02c28a5cfca748ba9/google/mozc-devices",
+    "Title": "Betting Growth Puts North Carolina Addiction Support Under Strain",
+    "Link": "https://readwrite.com/north-carolina-sports-betting/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/betting-growth-nc-addiction-support-strain.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:24"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Kinematics Lab Part II: You Don't Need Another...",
-    "Link": "https://dev.to/robinwinters/kinematics-lab-part-ii-you-dont-need-another-o9e",
-    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6rggo5yj6nrvqzyukz0l.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:26"
+    "Date": "2026-10-05 05:40:11"
   },
   {
     "Topic": "General News",
-    "Title": "Wahlen in Brasilien: Lula und Bolsonaro liegen in Umfragen kurz vor Wahl beinahe gleichauf",
-    "Link": "https://www.zeit.de/politik/ausland/2026-10/wahl-brasilien-2026-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-    "ImageUrl": "https://img.zeit.de/politik/ausland/2026-10/wahl-brasilien-2026-luiz-inacio-lula-da-silva-flavio-bolsonaro-foto-1/wide__1300x731",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:35"
+    "Title": "La malédiction des voitures électriques éphémères en Chine",
+    "Link": "https://www.lemonde.fr/economie/article/2026/10/04/voitures-electriques-en-chine-la-malediction-des-modeles-ephemeres_6788272_3234.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/BASHUNG_Alain-24x30-2007b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-05 05:40:24"
   },
   {
     "Topic": "General News",
-    "Title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
-    "Link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html",
+    "Title": "Ce qu’il faut retenir de l’actualité du week-end des 3 et 4 octobre",
+    "Link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-3-et-4-octobre_6788324_4355770.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped%29.jpg/960px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-05 05:40:27"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
+    "Link": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Journ%C3%A9e_de_mobilisation_des_lyc%C3%A9ens_%C3%A0_Perpignan_03.jpg/960px-Journ%C3%A9e_de_mobilisation_des_lyc%C3%A9ens_%C3%A0_Perpignan_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-05 05:40:30"
+  },
+  {
+    "Topic": "General News",
+    "Title": "L’absence de ventes du fabricant ASML en Europe, symbole du manque d’investissements dans les puces électroniques",
+    "Link": "https://www.lemonde.fr/economie/article/2026/10/04/l-absence-de-ventes-du-fabricant-asml-en-europe-symbole-du-manque-d-investissements-dans-les-puces-electroniques_6788218_3234.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-05 05:40:34"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Primaire à gauche : revivez le dernier débat entre Olivier Faure, Raphaël Glucksmann, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel",
+    "Link": "https://www.lemonde.fr/politique/live/2026/10/04/en-direct-debat-de-la-primaire-a-gauche-suivez-la-derniere-confrontation-entre-olivier-faure-raphael-glucksmann-segolene-royal-jerome-guedj-et-emmanuel-maurel-avant-le-premier-tour_6788319_823448.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-04 05:40:38"
+    "Date": "2026-10-05 05:40:37"
   },
   {
-    "Topic": "General News",
-    "Title": "« Les victimes ne veulent plus mourir en silence » : des malades du cancer et des agriculteurs tentent de mobiliser l’opinion pour la sortie des pesticides",
-    "Link": "https://www.lemonde.fr/planete/article/2026/10/03/les-victimes-ne-veulent-plus-mourir-en-silence-des-malades-du-cancer-et-des-agriculteurs-mobilisent-l-opinion-pour-la-sortie-des-pesticides_6787824_3244.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-04 05:40:42"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-    "Link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-    "ImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4080x2295+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F63%2Fd4ea684b40f88cfb28c1fe8b05f7%2Fstaff-talking-dino-in-back.jpg",
+    "Topic": "Astronomy",
+    "Title": "SpaceX Crew-13 Approaching Station Aboard Dragon",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/01/spacex-crew-13-approaching-station-aboard-dragon/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/iss073e0505071/iss073e0505071~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:44"
+    "Date": "2026-10-05 05:40:46"
   },
   {
-    "Topic": "General News",
-    "Title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-    "Link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "Topic": "Astronomy",
+    "Title": "Station Crew Expands as NASA’s SpaceX Crew-12 Prepares to Depart",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/02/station-crew-expands-as-nasas-spacex-crew-12-prepares-to-depart/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/iss075e0144512/iss075e0144512~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:47"
+    "Date": "2026-10-05 05:40:48"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Generative AI guidelines at SQLBI (2026 update)",
-    "Link": "https://www.sqlbi.com/blog/marco/2026/07/08/generative-ai-guidelines-at-sqlbi-2026-update/",
-    "ImageUrl": "https://www.sqlbi.com/wp-content/uploads/sqlbi-logo-video.png",
+    "Topic": "Astronomy",
+    "Title": "\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky",
+    "Link": "https://www.eso.org/public/news/eso2607/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2607a.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:40:57"
+    "Date": "2026-10-05 05:40:53"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Database Migration Was Cloud’s Last Manual Bottleneck. AI Just Made It a Battleground",
-    "Link": "https://datafloq.com/database-migration-was-clouds-last-manual-bottleneck-ai-just-made-it-a-battleground/",
-    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/09/oracle-to-postgresql-ai-database-migration-gemini.jpg",
+    "Topic": "Astronomy",
+    "Title": "New ‘exomoon’ detection challenges cosmic labels",
+    "Link": "https://www.eso.org/public/news/eso2610/",
+    "ImageUrl": "https://cdn.eso.org/images/screen/eso2610a.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:00"
+    "Date": "2026-10-05 05:40:57"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Start using DAX with AI",
-    "Link": "https://www.sqlbi.com/tv/start-using-dax-with-ai/",
-    "ImageUrl": "https://i3.ytimg.com/vi/KtO0BRKHBv4/maxresdefault.jpg",
+    "Topic": "Astronomy",
+    "Title": "NASA, SpaceX Set No Earlier Than Oct. 7 for Crew-12 Departure ",
+    "Link": "https://www.nasa.gov/blogs/commercialcrew/2026/10/03/nasa-spacex-set-no-earlier-than-oct-7-for-crew-12-departure/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/jsc2026e004045/jsc2026e004045~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:04"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Testing DAX measures by using AI",
-    "Link": "https://www.sqlbi.com/tv/testing-dax-measures-by-using-ai/",
-    "ImageUrl": "https://i.ytimg.com/vi/qYQpl5Hjdk0/maxresdefault.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:07"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Accenture and Google Cloud Form Gemini Enterprise Business Group: 1,000 Engineers and a Market Share Problem",
-    "Link": "https://datafloq.com/accenture-and-google-cloud-form-gemini-enterprise-business-group-1000-engineers-and-a-market-share-problem/",
-    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/09/accenture-julie-sweet-google-cloud-thomas-kurian-gemini-enterprise.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:11"
+    "Date": "2026-10-05 05:40:59"
   },
   {
     "Topic": "Movies",
-    "Title": "New Trailer for French Animated Film 'Muyi' About a Girl and a Mask",
-    "Link": "https://www.firstshowing.net/2026/new-trailer-for-french-animated-film-muyi-about-a-girl-and-a-mask/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/muyianimationmainimgbigtrltw1.jpg",
+    "Title": "David Carradine's Short-Lived '60s Western Series Is Worth Revisiting Decades Later",
+    "Link": "https://www.slashfilm.com/2273025/david-carradine-short-lived-60s-western-series-shane/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/david-carradines-short-lived-60s-western-series-is-worth-revisiting-decades-later/l-intro-1790768940.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:19"
+    "Date": "2026-10-05 05:41:08"
   },
   {
     "Topic": "Movies",
-    "Title": "Official Trailer for 'The Holiday Hitman' Comedy Starring Nick Sagar",
-    "Link": "https://www.firstshowing.net/2026/official-trailer-for-the-holiday-hitman-comedy-starring-nick-sagar/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/holidayhitmanpostermainbigtw2.jpg",
+    "Title": "Chris Hemsworth Teamed Up With A Game Of Thrones Star For This Little-Seen Crime Thriller",
+    "Link": "https://www.slashfilm.com/2274067/chris-hemsworth-game-of-thrones-star-sean-bean-little-seen-crime-movie-cash/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/chris-hemsworth-teamed-up-with-a-game-of-thrones-star-for-this-little-seen-crime-thriller/l-intro-1790804690.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:22"
+    "Date": "2026-10-05 05:41:11"
   },
   {
     "Topic": "Movies",
-    "Title": "Trailer #2 for Marvel's 'VisionQuest' Sci-Fi Series with Paul Bettany",
-    "Link": "https://www.firstshowing.net/2026/trailer-2-for-marvels-visionquest-sci-fi-series-with-paul-bettany/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/visionquestpostermainimgbigtw1.jpg",
+    "Title": "Behemoth! Review: Pedro Pascal Finally Finds His Perfect Movie Star Role In Tony Gilroy's Virtuoso Drama [NYFF]",
+    "Link": "https://www.slashfilm.com/2276428/behemoth-review-pedro-pascal-tony-gilroy-movie/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/behemoth-review-pedro-pascal-finally-finds-his-perfect-movie-star-role-in-tony-gilroys-virtuoso-drama-nyff/l-intro-1790979181.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:25"
+    "Date": "2026-10-05 05:41:14"
   },
   {
     "Topic": "Movies",
-    "Title": "47 Years Later, Alan Moore's First Superhero Is Still His Most Twisted Creation",
-    "Link": "https://screenrant.com/alan-moore-first-superhero-axel-pressbutton/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/close-up-photo-of-alan-moore-staring-deadpan-into-the-camera.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "5 Best New Movies And Shows To Stream This Weekend On Netflix, HBO Max, Prime Video, And More (Oct. 2-4)",
+    "Link": "https://www.slashfilm.com/2275533/best-movies-tv-shows-streaming-netflix-hbo-max-prime-video-october-2-4-weekend/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/5-best-new-movies-and-shows-to-stream-this-weekend-on-netflix-hbo-max-prime-video-and-more-oct-2-4/l-intro-1790944376.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:27"
+    "Date": "2026-10-05 05:41:16"
   },
   {
     "Topic": "Movies",
-    "Title": "Old Age Marriage Drama 'Love, After All' Trailer with Dagmar Manzel",
-    "Link": "https://www.firstshowing.net/2026/old-age-marriage-drama-love-after-all-trailer-with-dagmar-manzel/",
-    "ImageUrl": "https://media2.firstshowing.net/firstshowing/img18/alteliebepostermainimgbigsvtw1.jpg",
+    "Title": "‘Avengers: Endgame’ Overtakes ‘Avatar’ as Highest-Grossing Movie in History With $2.925 Billion After ‘Encore’ Re-Release",
+    "Link": "https://variety.com/2026/film/box-office/avengers-endgame-highest-grossing-movie-ever-avatar-1236894787/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2023/10/MCDAVEN_EC257-e1753973990864.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-04 05:41:30"
+    "Date": "2026-10-05 05:41:19"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/14/ML-21411-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:26"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21981-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:29"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/30/ML-21694-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:31"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:34"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-21889-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:36"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum price prediction: Can ETH reach $3,000 in October?",
+    "Link": "https://crypto.news/can-ethereum-price-reach-3000-in-october/",
+    "ImageUrl": "https://media.crypto.news/2025/06/crypto-news-Alt-ZK-solutions-Ethereum-option03.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:45"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "SMBC Nikko plans Japan DeFi gateway with Uniswap",
+    "Link": "https://crypto.news/smbc-nikko-plans-japan-defi-gateway-with-uniswap/",
+    "ImageUrl": "https://media.crypto.news/2024/04/crypto-news-Uniswap-option03.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:49"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Sproutly: Where Blockchain Meets Verified Reforestation and Real-World Impact",
+    "Link": "https://smartliquidity.info/2026/09/22/sproutly-where-blockchain-meets-verified-reforestation-and-real-world-impact/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/09/Sproutly-883x497.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:51"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Anchorage Digital reportedly cuts 17% of staff amid crypto downturn",
+    "Link": "https://crypto.news/anchorage-digital-cuts-staff-amid-crypto-downturn/",
+    "ImageUrl": "https://media.crypto.news/2024/03/crypto-news-Layoffs-option02.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Why AI Agents Need Stablecoins",
+    "Link": "https://smartliquidity.info/2026/08/12/why-ai-agents-need-stablecoins/",
+    "ImageUrl": "https://smartliquidity.info/wp-content/uploads/2026/08/655e12b5-5311-4f3b-a6e8-419c49f2a554-883x497.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:41:56"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Korsel Investasi Rp 3.571 Triliun di AS, Trump Pamer Proyek Energi Raksasa Donal Trump",
+    "Link": "https://www.liputan6.com/bisnis/read/8305317/korsel-investasi-rp-3571-triliun-di-as-trump-pamer-proyek-energi-raksasa",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/ZK1qCw70kU8EqVvnE6a_oA5Dwf4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1266609/original/013254600_1466127229-donald-trump.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:42:05"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Mitsubishi expands investment in Ayala",
+    "Link": "https://www.financeasia.com/article/mitsubishi-expands-investment-in-ayala/508441",
+    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2385324207.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1a56ad72fe&amp;c=1",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:42:10"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "H&R Block: A Boring Business With An Interesting Return",
+    "Link": "https://seekingalpha.com/article/4951850-h-and-r-block-a-boring-business-with-an-interesting-return?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188909415/image_2188909415.jpg?io=getty-c-w1536",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:42:14"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Ekonomi Indonesia Menguat, Inflasi Terkendali hingga Manufaktur Ekspansif Bank Indonesia Revisi Proyeksi Pertumbuhan Ekonomi RI 2025",
+    "Link": "https://www.liputan6.com/bisnis/read/8305765/ekonomi-indonesia-menguat-inflasi-terkendali-hingga-manufaktur-ekspansif",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/IilEqaiAx5_YLTMoyoxwTt1U-RQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5196560/original/068216900_1745413932-20250423-Perkotaan-ANG_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:42:17"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "OPEC+ Tahan Target Produksi, Harga Minyak Dunia Bertahan di Atas US$ 100 Organization of Petroleum Exporting Countries (OPEC)",
+    "Link": "https://www.liputan6.com/bisnis/read/8305813/opec-tahan-target-produksi-harga-minyak-dunia-bertahan-di-atas-us-100",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/cDPS8XxXbsiwlEOwy6drHWcew9w=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/876774/original/009328100_1431659143-OPEC_2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-05 05:42:20"
   }
 ]
