@@ -1,282 +1,242 @@
 [
   {
-    "Topic": "Movies",
-    "Title": "Blumhouse Atomic Monster Inks Short Film Development Deal with Horror Creator Heidi Wong",
-    "Link": "https://variety.com/2026/film/news/heidi-wong-blumhouse-horror-short-film-deal-1236907140/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/MixCollage-09-Oct-2026-02-49-PM-4646.jpg?crop=0px%2C1px%2C1200px%2C675px&#038;resize=1000%2C563",
+    "Topic": "Data / AI",
+    "Title": "MCP for Research: How to Connect AI to Research Tools",
+    "Link": "https://huggingface.co/blog/mcp-for-research",
+    "ImageUrl": "https://huggingface.co/blog/assets/mcp-for-research/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:13"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘The Exorcist: Martyrs’ Trailer Unveiled at NYCC: Scarlett Johansson Stars in Horror Sequel From Mike Flanagan",
-    "Link": "https://variety.com/2026/film/news/the-exorcist-martyrs-trailer-1236872771/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-6.40.52-PM.png?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:15"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "LaKeith Stanfield Previews ‘Molepeople’ Movie From Paramount Primal, Blumhouse Atomic Monster at New York Comic-Con",
-    "Link": "https://variety.com/2026/film/news/lakeith-stanfield-ben-mendelsohn-molepeople-movie-release-date-nycc-1236907130/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/P106GMC9.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:18"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Triangle of Sadness’ Producer Backs Park Syeyoung’s Memory-Bending Love Motel Drama ‘Satellite of Love’ at Busan Asian Project Market",
-    "Link": "https://variety.com/2026/film/markets-festivals/triangle-of-sadness-producer-korean-busan-asian-project-market-drama-1236907236/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/Satellite-of-Love-concept-art.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:22"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Amanda the Adventurer’ Video Game Movie Adaptation in the Works From Blumhouse, MatPat and Epic Pictures",
-    "Link": "https://variety.com/2026/film/news/amanda-the-adventurer-video-game-movie-blumhouse-1236907135/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/Amanda-the-Adventurer.jpg?w=1000&#038;h=563&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:24"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Israel promotes film that mimics NAZA documentary",
-    "Link": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-    "ImageUrl": "https://i.guim.co.uk/img/media/5519c42fcfcafef0bd7a396e4811d9a41a682beb/1_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bee845007898c4e1adb987907726025",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:32"
-  },
-  {
-    "Topic": "General News",
-    "Title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-    "Link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403155645-nasal-vaccine-file-121622.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:35"
-  },
-  {
-    "Topic": "General News",
-    "Title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
-    "Link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-    "ImageUrl": "https://i.guim.co.uk/img/media/3728dab16d759cb376140a395e0257fb0e16bc05/596_0_4387_3508/master/4387.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7b53a65e5bede24689864ff0e1f2bde9",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:37"
-  },
-  {
-    "Topic": "General News",
-    "Title": "CEOs are tired of being held responsible for gun regulation",
-    "Link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230330103817-01-nashville-school-shooting-weapons.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:40"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Labour hails byelection win as return of leftwing voters after Starmer era",
-    "Link": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
-    "ImageUrl": "https://i.guim.co.uk/img/media/0f915728502fbf213d1b28e291589d53f416fd35/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=247a49c3571eb5db22f284b5946117e2",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:42"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-    "Link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:51"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-    "Link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
-    "Link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/ledger-nano-decrypt-style-01-gID_7.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:46:58"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-    "Link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:01"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SIDBI to partner with AMFI to support Bengal's women entrepreneurs",
-    "Link": "https://www.business-standard.com/article/beyond-business/sidbi-to-partner-with-amfi-to-support-bengal-s-women-entrepreneurs-123011300874_1.html",
-    "ImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/25/full/1606298327-6701.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:05"
+    "Date": "2026-10-11 06:08:02"
   },
   {
     "Topic": "Data / AI",
-    "Title": "AI-generated synthetic neurons speed up brain mapping",
-    "Link": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
+    "Link": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
+    "ImageUrl": "https://huggingface.co/blog/assets/inference-providers/second-batch-thumbnail.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:14"
+    "Date": "2026-10-11 06:08:05"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Slowly Changing Dimension (SCD) in Power BI, Part 1, Introduction to SCD",
-    "Link": "https://biinsight.com/slowly-changing-dimension-scd-in-power-bi-part-1-introduction-to-scd/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2022/07/image-1.png",
+    "Title": "Holo4: powering generalist computer-use agents",
+    "Link": "https://huggingface.co/blog/Hcompany/holo4",
+    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:18"
+    "Date": "2026-10-11 06:08:07"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Datatype Conversion in Power Query Affects Data Modeling in Power BI",
-    "Link": "https://biinsight.com/datatype-conversion-in-power-query-affects-data-modeling-in-power-bi/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2023/01/image-10.png",
+    "Title": "How to train a new language model from scratch using Transformers and Tokenizers",
+    "Link": "https://huggingface.co/blog/how-to-train",
+    "ImageUrl": "https://huggingface.co/blog/assets/01_how-to-train/how-to-train_blogpost.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:21"
+    "Date": "2026-10-11 06:08:10"
   },
   {
     "Topic": "Data / AI",
-    "Title": "What is Power BI Documenter",
-    "Link": "https://biinsight.com/what-is-power-bi-documenter/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2018/06/Power-BI-Documenter-Logo-Small.png",
+    "Title": "The Transformers Library: standardizing model definitions",
+    "Link": "https://huggingface.co/blog/transformers-model-definition",
+    "ImageUrl": "https://huggingface.co/blog/assets/transformers-model-definition/transformers-thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:25"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Incremental Refresh in Power BI, Part 2; Best Practice; Do NOT Publish Data Model Changes from Power BI Desktop",
-    "Link": "https://biinsight.com/incremental-refresh-in-power-bi-part-2-best-practice-do-not-publish-data-model-changes-from-power-bi-desktop/",
-    "ImageUrl": "https://biinsight.com/wp-content/uploads/2024/01/Snag_6f4f941a.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:28"
+    "Date": "2026-10-11 06:08:13"
   },
   {
     "Topic": "Economy",
-    "Title": "Trump's investment push hits Europe as Irish PM eyes next tariff break",
-    "Link": "https://www.foxbusiness.com/economy/trumps-investment-push-hits-europe-irish-pm-eyes-next-tariff-break",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/micheal-martin-ireland-trump.jpg?ve=1&amp;tl=1",
+    "Title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+    "Link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108377360-1791554018666-Screenshot_2026-10-09_at_95256_AM.png?v=1791554042&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:37"
+    "Date": "2026-10-11 06:08:20"
   },
   {
     "Topic": "Economy",
-    "Title": "US economy grew at a faster pace than expected in second quarter",
-    "Link": "https://www.foxbusiness.com/economy/us-economy-q2-2026-final",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/san-pedro-california-port.jpg?ve=1&amp;tl=1",
+    "Title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "Link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108382524-1791567907636-gettyimages-909209686-f0203154.jpeg?v=1791567990&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:41"
+    "Date": "2026-10-11 06:08:23"
   },
   {
     "Topic": "Economy",
-    "Title": "Pasar Serdang Segera Direvitalisasi, Pedagang Dapat Keringanan Pembayaran",
-    "Link": "https://ekonomi.republika.co.id/berita/tmn4ra416/pasar-serdang-segera-direvitalisasi-pedagang-dapat-keringanan-pembayaran",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kondisi-pasar-serdang-kemayoran-jakarta-pusat_260930171955-715.jpeg",
+    "Title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+    "Link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108301312-1777857625119-gettyimages-2092455726-ocr-l-ev-jg-09.jpeg?v=1777857669&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:45"
+    "Date": "2026-10-11 06:08:26"
   },
   {
     "Topic": "Economy",
-    "Title": "Fed's favored inflation gauge cooled in August but remained elevated",
-    "Link": "https://www.foxbusiness.com/economy/august-2026-pce-inflation",
-    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/nyc-grocery-store-bodega.png?ve=1&amp;tl=1",
+    "Title": "I work hard to stay close to my friends. A researcher says it’s good for my well-being—and these 3 habits can help",
+    "Link": "https://www.cnbc.com/make-it/2026/10/10/how-to-maintain-close-friendships.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108382932-1791575616350-260910_Friendship_v3.png?v=1791576241&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:48"
+    "Date": "2026-10-11 06:08:29"
   },
   {
     "Topic": "Economy",
-    "Title": "Khofifah Buka Cabang Bank Jatim di Balikpapan, Bidik Peluang Ekonomi IKN",
-    "Link": "https://ekonomi.republika.co.id/berita/tmn44b451/khofifah-buka-cabang-bank-jatim-di-balikpapan-bidik-peluang-ekonomi-ikn",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_251110215536-185.png",
+    "Title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "Link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108334692-1784035346683-gettyimages-2280676197-US-VIRGINIA-ARLINGTON-CPI-MAY-RISE.jpeg?v=1784046329&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:47:54"
+    "Date": "2026-10-11 06:08:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "UNDERTONE: The “Scariest Film You’ll Ever Hear” Doesn’t Quite Hit the Right Note",
+    "Link": "https://www.aintitcool.com/undertonereview2026-83643/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
+    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/8864814b-f3a7-9672-d6fb-085ab3ad137a_huge.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:08:39"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "10 Essential Hispanic American Films That Are Worth Watching",
+    "Link": "https://editorial.rottentomatoes.com/article/essential-hispanic-american-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/HHM_2026_Hispanic_American-Rep.png?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:08:42"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "60 Worst Horror Movies of All Time",
+    "Link": "https://editorial.rottentomatoes.com/guide/worst-horror-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2022/09/600Winnie2.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:08:45"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Silo Writer Hugh Howey Has 3 Potential Spin-Off Ideas For The Apple TV Series",
+    "Link": "https://www.slashfilm.com/2279352/silo-writer-hugh-howey-apple-tv-series-spin-off-ideas/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/silo-writer-hugh-howey-has-3-potential-spin-off-ideas-for-the-apple-tv-series/l-intro-1791316354.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:08:48"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Former UFC Star Tim Kennedy Shot During Ambush on Military Contractor in Congo",
+    "Link": "https://www.tmz.com/2026/10/10/tim-kennedy-shot-in-congo/",
+    "ImageUrl": "https://imagez.tmz.com/image/c7/16by9/2026/10/10/c7d9c8bf42924b209af7ee9f319cc1e3_xl.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:08:50"
   },
   {
     "Topic": "Astronomy",
-    "Title": "First light for PoET: shining (sun)light on exoplanet research",
-    "Link": "https://www.eso.org/public/news/eso2605/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2605a.jpg",
+    "Title": "Meet the Star Cluster That Defies Conventions",
+    "Link": "https://skyandtelescope.org/astronomy-news/meet-the-star-cluster-that-defies-conventions/",
+    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/cumulo-garro-04.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:05"
+    "Date": "2026-10-11 06:09:01"
   },
   {
     "Topic": "Astronomy",
-    "Title": "How to observe the 12 August 2026 solar eclipse",
-    "Link": "https://astronomynow.com/2026/08/07/how-to-observe-the-12-august-2026-solar-eclipse/",
+    "Title": "Rare Sight Ahead! Watch the Moon Occult Jupiter Early October 6th",
+    "Link": "https://skyandtelescope.org/astronomy-news/rare-sight-ahead-watch-the-moon-occult-jupiter-on-october-6th/",
+    "ImageUrl": "https://dq0hsqwjhea1.cloudfront.net/Jupiter-occultation-May-17-2023-wide-view-Steve-Bunn-v3.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:04"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Just Released 800 GB of Artemis II Moon Data, and Scientists Are Only Beginning to Explore It",
+    "Link": "https://dailygalaxy.com/2026/10/nasa-released-800-gb-artemis-ii-moon-data/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-10 06:48:09"
+    "Date": "2026-10-11 06:09:07"
   },
   {
     "Topic": "Astronomy",
-    "Title": "JWST’s ‘impossible’ early galaxies may be even more massive than we thought",
-    "Link": "https://astronomynow.com/2026/08/24/jwsts-impossible-early-galaxies-may-be-even-more-massive-than-we-thought/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/960px-CMB_Timeline300_no_WMAP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "A “Zombie Star” Is Sitting at the Center of One of the Milky Way’s Strangest Explosions",
+    "Link": "https://dailygalaxy.com/2026/10/zombie-star-at-the-milky-ways-explosions/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Supernova_2012Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-10 06:48:13"
+    "Date": "2026-10-11 06:09:10"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Happy New Year, Mars! The Red Planet is turning 39",
-    "Link": "https://astronomynow.com/2026/09/29/happy-new-year-mars-the-red-planet-is-turning-39/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/PXL_20231024_234448894.MP-EDIT.jpg/960px-PXL_20231024_234448894.MP-EDIT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-10 06:48:16"
+    "Title": "NASA Is Rethinking Its Moon Spacesuits, and the Reason Could Change the Artemis Timeline",
+    "Link": "https://dailygalaxy.com/2026/10/nasa-is-rethinking-its-moon-spacesuits/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-11 06:09:14"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Roman Space Telescope launches on mission to survey the Universe",
-    "Link": "https://astronomynow.com/2026/08/30/roman-space-telescope-launches-on-mission-to-survey-the-universe/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/960px-ROMANNewModelV8RomanStill00049.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-10 06:48:20"
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin falls to $82,000 as OpenAI revenue concerns and geopolitical tensions trigger nearly $1 billion in crypto liquidations",
+    "Link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134833645,width-1200,height-900,imgsize-103238,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:21"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The Price of Post-Quantum Agility: What Starknet Gives Up to Leave Ethereum",
+    "Link": "https://nulltx.com/the-price-of-post-quantum-agility-what-starknet-gives-up-to-leave-ethereum",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1791534271160-vjuyq5clok.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:27"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134841744,width-1200,height-900,imgsize-54436,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Pump.fun's $460M Buyback Threshold, Explained: Who It Actually Rewards",
+    "Link": "https://nulltx.com/pump-fun-460m-buyback-who-it-actually-rewards",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1791372261008-0rrlq7uznw2j.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:34"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Moonclave Works to Secure New Exchange Listing",
+    "Link": "https://nulltx.com/moonclave-securing-new-exchange-listing",
+    "ImageUrl": "https://cdn.nulltx.com/uploads/1790348398582-v5rvmremt3a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-11 06:09:38"
   },
   {
     "Topic": "Technology",
-    "Title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-    "Link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+    "Title": "Cloudflare Open Sources Decision Models for AI Agents",
+    "Link": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/10/clef-decision-models/en/headerimage/generatedHeaderImage-1791183801035.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:27"
+    "Date": "2026-10-11 06:11:47"
   },
   {
     "Topic": "Technology",
-    "Title": "Florida Lawsuits Target Chumba, Stake Over Sweepstakes Play",
-    "Link": "https://readwrite.com/florida-sweepstakes-casinos-lawsuits/",
-    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/florida-lawsuits-target-chumba-stake-over-sweepstakes-play.webp",
+    "Title": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU",
+    "Link": "https://www.infoq.com/news/2026/10/technological-sovereignity-panel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/10/technological-sovereignity-panel/en/card_header_image/generatedCard-1791431823481.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:30"
+    "Date": "2026-10-11 06:11:51"
   },
   {
     "Topic": "Technology",
-    "Title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
-    "Link": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/spacex-wants-to-become-a-major-mobile-carrier-with-low-band-spectrum-acquisition/l-intro-1791534538.jpg",
+    "Title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+    "Link": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/10/android-bench-2/en/headerimage/cloudflare-computer-agents-1791561634896.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:32"
+    "Date": "2026-10-11 06:11:55"
   },
   {
     "Topic": "Technology",
-    "Title": "ReviewBench: An open benchmark for AI code review",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png",
+    "Title": "The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+    "Link": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/",
+    "ImageUrl": "https://tim.blog/wp-content/uploads/2026/07/RandomShowJuly26_v6-1024x576.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:35"
+    "Date": "2026-10-11 06:11:58"
   },
   {
     "Topic": "Technology",
-    "Title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself",
-    "Link": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-soundbar-review-a-great-home-theater-option-all-by-itself/l-intro-1791567301.jpg",
+    "Title": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
+    "Link": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/10/shopify-web-components/en/card_header_image/generatedCard-1791535473649.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-10 06:48:38"
+    "Date": "2026-10-11 06:12:02"
   }
 ]
