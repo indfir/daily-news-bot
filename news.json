@@ -1,322 +1,322 @@
 [
   {
-    "Topic": "Technology",
-    "Title": "I Made Terrible Games With Google’s AI Playground",
-    "Link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "ImageUrl": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/191:100/w_1280,c_limit/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
+    "Topic": "Data / AI",
+    "Title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "Link": "https://huggingface.co/blog/muse-glimmer",
+    "ImageUrl": "https://huggingface.co/blog/assets/muse-glimmer/thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:45:45"
+    "Date": "2026-10-14 06:33:02"
   },
   {
-    "Topic": "Technology",
-    "Title": "13 Best Gifts Every Traveler Should Have (2026)",
-    "Link": "https://www.wired.com/story/best-gifts-for-travelers/",
-    "ImageUrl": "https://media.wired.com/photos/6ac9252e8ec0dcf9ff583b39/191:100/w_1280,c_limit/Best%20Gifts%20for%20Travelers%20102026%20top%20art%20SOURCE%20Amazon_Afform_Bearaby.jpg",
+    "Topic": "Data / AI",
+    "Title": "Introducing Decision Transformers on Hugging Face 🤗",
+    "Link": "https://huggingface.co/blog/decision-transformers",
+    "ImageUrl": "https://huggingface.co/blog/assets/58_decision-transformers/thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:45:47"
+    "Date": "2026-10-14 06:33:04"
   },
   {
-    "Topic": "Technology",
-    "Title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
-    "Link": "https://www.wired.com/gallery/best-smart-scales/",
-    "ImageUrl": "https://media.wired.com/photos/6ac7fce2f7f3ea1155d46e62/191:100/w_1280,c_limit/Update%20Best%20Smart%20Scales%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+    "Topic": "Data / AI",
+    "Title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+    "Link": "https://huggingface.co/blog/train-sparse-encoder",
+    "ImageUrl": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:45:50"
+    "Date": "2026-10-14 06:33:07"
   },
   {
-    "Topic": "Technology",
-    "Title": "Far-Right Election Groups Are Now Targeting Nursing Homes",
-    "Link": "https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/",
-    "ImageUrl": "https://media.wired.com/photos/6ac92cd871639cc251fda20c/191:100/w_1280,c_limit/GettyImages-2153933839.jpg",
+    "Topic": "Data / AI",
+    "Title": "Introducing HUGS - Scale your AI with Open Models",
+    "Link": "https://huggingface.co/blog/hugs",
+    "ImageUrl": "https://huggingface.co/blog/assets/hugs/thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:45:53"
+    "Date": "2026-10-14 06:33:10"
   },
   {
-    "Topic": "Technology",
-    "Title": "AlterMe Review: Fitness Built Around My DNA",
-    "Link": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
-    "ImageUrl": "https://media.wired.com/photos/6ac92d71650e34837a985f2d/191:100/w_1280,c_limit/Review%20AlterMe%20DNA-Powered%20Personalized%20Fitness%20and%20Wellness%20Program%20102026%20top%20art%20SOURCE%20AlterMe.jpg",
+    "Topic": "Data / AI",
+    "Title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "Link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/KdH3z5dRfyIAyxgGPN5Ey.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:45:55"
+    "Date": "2026-10-14 06:33:12"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists reveal what seven days of fasting does to the human body",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost-biochemistry-technology.webp",
+    "Topic": "Trading & Crypto",
+    "Title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation! ",
+    "Link": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
+    "ImageUrl": "https://cdn.jwplayer.com/v2/media/GVQVX2ND/poster.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:03"
+    "Date": "2026-10-14 06:33:25"
   },
   {
-    "Topic": "Science",
-    "Title": "A new way to fight gum disease without wiping out good bacteria",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/bacteria-on-tooth-surface.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:08"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:11"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/laser-plasma-beam-antenna.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:14"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:18"
-  },
-  {
-    "Topic": "General News",
-    "Title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-    "Link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230401203552-hamill-acosta-vpx.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:35"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-    "Link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/221208163100-20221208-twitter-verification-cost-dark.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:46:50"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Hinrichtung von Nidal Hasan: Mike Johnson spricht sich gegen Livestream von Hinrichtung aus",
-    "Link": "https://www.zeit.de/politik/ausland/2026-10/hinrichtung-livestream-mike-johnson-republikaner-todesstrafe-usa",
+    "Topic": "Trading & Crypto",
+    "Title": "Tether Freezes USDT Linked to Ledger User Thefts, MistTrack Says",
+    "Link": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-13 08:46:53"
+    "Date": "2026-10-14 06:33:28"
   },
   {
-    "Topic": "General News",
-    "Title": "Erdogan's political fate may be determined by Turkey's Kurds ",
-    "Link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403105239-mime-turkey-kurds-elections.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:07"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Champions League: Seltener Kunstrasen-Auftritt für den FC Bayern",
-    "Link": "https://www.zeit.de/news/2026-10/13/seltener-kunstrasen-auftritt-fuer-den-fc-bayern",
+    "Topic": "Trading & Crypto",
+    "Title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
+    "Link": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-13 08:47:10"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Building a safer path to autonomous industrial AI",
-    "Link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:18"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
-    "Link": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/FLOCK-04.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:21"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
-    "Link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-monitoring-embedding-drift-in-production-scikit-llm-pipelines-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:23"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-    "Link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-Tool-Calling-vs.-Code-Execution-for-AI-Agents-Choosing-the-Right-Action-Primitive-1024x586.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:26"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "'It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting",
-    "Link": "https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/",
-    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-08-at-11.05.19-AM@2x.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:28"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Goldman Sachs CEO succession planning faces one big problem",
-    "Link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108369799-1790711959824-Waldron_Solomon.jpg?v=1790712098&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-    "Link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108048072-1729022260550-gettyimages-2176702756-davis_112_091924.jpeg?v=1791234447&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:47"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Two Japan deep-tech startups complete Series B second closes",
-    "Link": "https://www.financeasia.com/article/two-japan-deep-tech-startups-complete-series-b-second-closes/508504",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2479993441.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1c794c1f63&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:50"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Firmus Technologies withdraws ASX IPO as investors question AI infrastructure risk",
-    "Link": "https://www.financeasia.com/article/firmus-technologies-withdraws-asx-ipo-as-investors-question-ai-infrastructure-ris/508508",
-    "ImageUrl": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2838194791.jpg&amp;h=630&amp;w=1200&amp;q=100&amp;v=1c794c1f63&amp;c=1",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:47:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-    "Link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108370319-1791325984516-108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1791326037&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:04"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Cygnus XL Cargo Spacecraft Released from Station by Canadarm2",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/09/cygnus-xl-cargo-spacecraft-released-from-station-by-canadarm2/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/blog-cygnusxl-release-100926.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:12"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The universe may have been building rocky planets almost from the start",
-    "Link": "https://www.sciencenews.org/article/universe-rocky-planets-formed-early",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082426_MJG_rockyplanets_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:15"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A quake on Mars may have set these rocks rolling",
-    "Link": "https://www.sciencenews.org/article/mars-quakes-falling-boulders",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100126_KK_marsboulder_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The U.S. has weapons in space. Here’s what that could mean",
-    "Link": "https://www.sciencenews.org/article/united-states-space-weapon-announcement",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091526_EC_spaceweapons_main.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The largest known galaxy is wider than 17 Milky Ways",
-    "Link": "https://www.sciencenews.org/article/largest-known-galaxy-wider-milky-way",
-    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080626_NO_largestgalaxy_main1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:23"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Florence Pugh’s Most Unhinged Horror Performance Is Officially Available for Free",
-    "Link": "https://collider.com/florence-pugh-horror-cult-classic-midsommar-free-streaming-pluto-tv-october-2026/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/florence-pugh.jpg?w=1600&amp;h=900&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:33"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Project Hail Mary's Rocky Actor Was 'Hellbent' On Nailing One Aspect Of The Movie [Exclusive]",
-    "Link": "https://www.slashfilm.com/2282167/project-hail-mary-rocky-actor-hellbent-aspect-movie/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/project-hail-marys-rocky-actor-was-hellbent-on-nailing-one-aspect-of-the-movie-exclusive/l-intro-1791554740.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:36"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "5 Best Movies To Watch After Anne Hathaway's Verity",
-    "Link": "https://www.slashfilm.com/2284651/best-movies-watch-after-anne-hathaway-verity/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/5-best-movies-to-watch-after-anne-hathaways-verity/l-intro-1791836231.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:39"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Stephen King’s 189-Minute Fantasy Epic Is Officially a Free Streaming Sensation",
-    "Link": "https://collider.com/stephen-king-fantasy-epic-the-green-mile-free-streaming-success-tubi-october-2026/",
-    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/graham-greene-the-green-mile.jpg?w=1200&amp;h=675&amp;fit=crop",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:42"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "10 Most Rewatchable '90s Movies, Ranked",
-    "Link": "https://www.slashfilm.com/2271221/most-rewatchable-90s-movies-ranked/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/10-most-rewatchable-90s-movies-ranked/l-intro-1790623078.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:45"
+    "Date": "2026-10-14 06:33:31"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-    "Link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:53"
+    "Title": "Standard Chartered Launches RLUSD Custody Through Dubai Branch",
+    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-rlusd-custody-through-dubai-branch",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784202324%29.jpg/960px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784202324%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-14 06:33:34"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-    "Link": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png",
+    "Title": "Kraken Expands Into the UAE After Clearing Dubai’s Final Regulatory Hurdle",
+    "Link": "https://cryptopotato.com/kraken-expands-into-the-uae-after-clearing-dubais-final-regulatory-hurdle/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/10/Kraken_UAE.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:56"
+    "Date": "2026-10-14 06:33:38"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-    "Link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
+    "Topic": "Technology",
+    "Title": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
+    "Link": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/presentations/ai-cloud-cost-economics/en/card_header_image/erik-peterson-twitter-card-1791451373591.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:48:58"
+    "Date": "2026-10-14 06:33:46"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC! ",
-    "Link": "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
-    "ImageUrl": "https://cdn.jwplayer.com/v2/media/50vopyFa/poster.jpg",
+    "Topic": "Technology",
+    "Title": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\"",
+    "Link": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/presentations/eve-observability-head-sampling/en/card_header_image/nicholas-herring-twitter-card-1791444748399.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:49:01"
+    "Date": "2026-10-14 06:33:49"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "Link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "Topic": "Technology",
+    "Title": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
+    "Link": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "ImageUrl": "https://res.infoq.com/news/2026/10/backstage-1-55-task-recovery/en/headerimage/header-1791490255579.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-10-13 08:49:03"
+    "Date": "2026-10-14 06:33:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "A new app experience is coming to cars with Google built-in",
+    "Link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_HorizontalUI_final.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:33:55"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+    "Link": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:33:57"
+  },
+  {
+    "Topic": "General News",
+    "Title": "See the world's deepest fish",
+    "Link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403111343-deepest-fish-ever-recorded-thumbnail-2.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:06"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Shania Twain calls for equal pay and more diversity in country music",
+    "Link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403130933-02-shania-twain-cmt-040223-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:09"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+    "Link": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/592e112b-0d16-4da2-8f37-671047ff649b/AAABoTPmV6c/AAABnSSvrFg/16x9-big/omar-106.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:12"
+  },
+  {
+    "Topic": "General News",
+    "Title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+    "Link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230327100109-ptsd-soldier-ukraine.jpg?c=16x9&q=w_800,c_fill",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:14"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
+    "Link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/d427cd7c-20c9-4e0d-9f52-76107f3b390c/AAABoTXWlaY/AAABnSSvrFg/16x9-big/miersch-klingbeil-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:17"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Play House Creatives, Cast on Tapping into Children's TV as Horror",
+    "Link": "https://bleedingcool.com/movies/play-house-creatives-cast-on-tapping-into-childrens-tv-as-horror/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/PLAY-HOUSE-1-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:28"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Marvel Television's NYCC Panel Was All Bark, No Bite &#038; Kinda Sad",
+    "Link": "https://bleedingcool.com/tv/marvel-televisions-nycc-panel-was-all-bark-no-bite-kinda-sad/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/2299274837-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:30"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Tubi Turning R.L. Stine's Story The Babysitter Into New TV Movie",
+    "Link": "https://bleedingcool.com/movies/tubi-turning-r-l-stines-story-the-babysitter-into-new-tv-movie/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-11-Oct-2026-01-29-PM-9244-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Vancouver Film Festival Audience Award Winners: ’I Play Rocky,’ ‘Ceremony’ Among Big Wins",
+    "Link": "https://variety.com/2026/film/global/vancouver-fest-audience-awards-i-play-rocky-ceremony-1236910509/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2025/10/I-play-Rocky-Anthony-Ippolito.jpg?crop=0px%2C41px%2C1200px%2C675px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:35"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Comebacker Adds Sterling K. Brown To The Cast Of Baseball Film",
+    "Link": "https://bleedingcool.com/movies/the-comebacker-adds-sterling-k-brown-to-the-cast-of-baseball-film/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/shutterstock-2758851385-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/mushroom-farm.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:46"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover a hidden factor that can make or break chemical reactions",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/electrosynthesis-through-local-ph-control.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:48"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists may have found a shortcut to fusion energy",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/nuclear-fusion-reactor-tokamak-heated-plasma.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:52"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/mithocondria-coating.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:55"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Your gut bacteria could be changing how many calories you absorb",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:34:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Micron’s stock extends declines as China competition heats up",
+    "Link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-14 06:35:07"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+    "Link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-14 06:35:12"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+    "Link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/21/Stock_market_crash_%282020%29.svg/960px-Stock_market_crash_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-14 06:35:15"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "BlackRock expands skilled trades push with new financial wellness partnership for 75,000 apprentices",
+    "Link": "https://www.foxbusiness.com/economy/blackrock-expands-skilled-trades-push-new-financial-wellness-partnership-75000-apprentices",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/electrictian-stock.png?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:35:18"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bond yields are hovering near multi-year highs: What it means for your wallet",
+    "Link": "https://www.foxbusiness.com/economy/bond-yields-hovering-near-multi-year-highs-what-means-your-wallet",
+    "ImageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/0/0/retirement.jpg?ve=1&amp;tl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:35:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronaut will miss birth of child during ISS mission",
+    "Link": "https://www.cbsnews.com/video/astronaut-will-miss-birth-of-child-during-iss-mission/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Edward_White_1966_%284x5_cropped%29.jpeg/960px-Edward_White_1966_%284x5_cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-14 06:35:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA chief outlines plans to build moon base in space race with China",
+    "Link": "https://www.cbsnews.com/video/nasa-chief-outlines-plans-to-build-moon-base-in-space-race-with-china/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jared_isaacman_official_portrait.jpg/960px-Jared_isaacman_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-14 06:35:37"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Meteorite that hit home contains \"alien world chemistry,\" experts say",
+    "Link": "https://www.cbsnews.com/news/new-jersey-meteorite-alien-world-chemistry/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/16/746b6645-2935-4235-b513-f2a63356f024/thumbnail/1200x630/f8839208e79972a3c403e01dc4979cfc/figure-4.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:35:40"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA launches its Roman Space Telescope to explore the hidden universe",
+    "Link": "https://www.cbsnews.com/news/nasa-launches-roman-space-telescope-explore-hidden-universe/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/30/7ef9a1a3-2c86-48c3-80ac-47bd2dd3d1cd/thumbnail/1200x630/21d529674ecf349dbd61bd78b896146e/083026-launch1-sfn.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:35:42"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX rocket accidentally collides with moon",
+    "Link": "https://www.cbsnews.com/video/spacex-rocket-accidentally-collides-with-moon/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/05/ed666b64-50db-4d4a-a423-d96532ff7781/thumbnail/1200x630/d73f718b09c47db68d78e1f676698f51/cbsn-fusion-spacex-rocket-accidentally-collides-with-moon-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-14 06:35:44"
   }
 ]
