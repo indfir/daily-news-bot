@@ -1,65 +1,5 @@
 [
   {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-    "SentDate": "2026-09-15 05:54:07"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-    "SentDate": "2026-09-15 05:54:09"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-    "SentDate": "2026-09-15 05:54:12"
-  },
-  {
-    "CanonicalKey": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-    "SentDate": "2026-09-15 05:54:15"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-    "SentDate": "2026-09-15 05:54:17"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-    "SentDate": "2026-09-15 05:54:44"
-  },
-  {
-    "CanonicalKey": "https://zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben",
-    "SentDate": "2026-09-15 05:54:46"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-    "SentDate": "2026-09-15 05:55:01"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-    "SentDate": "2026-09-15 05:55:03"
-  },
-  {
-    "CanonicalKey": "https://cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-    "SentDate": "2026-09-15 05:55:05"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/09/nasas-chandra-found-84-mysterious-objects-hiding-in-other-galaxies-scientists-have-never-seen-anything-like-them",
-    "SentDate": "2026-09-15 05:55:13"
-  },
-  {
-    "CanonicalKey": "https://universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
-    "SentDate": "2026-09-15 05:55:15"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/09/tiny-flash-detector-dark-matter-signal",
-    "SentDate": "2026-09-15 05:55:18"
-  },
-  {
-    "CanonicalKey": "https://universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy",
-    "SentDate": "2026-09-15 05:55:20"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/09/living-material-3d-print-first-homes-mars",
-    "SentDate": "2026-09-15 05:55:23"
-  },
-  {
     "CanonicalKey": "https://comingsoon.net/tv/news/2190922-percy-jackson-season-3-percy-nico-change-walker-scobell",
     "SentDate": "2026-09-15 05:55:40"
   },
@@ -4506,5 +4446,145 @@
   {
     "CanonicalKey": "https://cbsnews.com/video/spacex-rocket-accidentally-collides-with-moon",
     "SentDate": "2026-10-14 06:35:44"
+  },
+  {
+    "CanonicalKey": "https://screenrant.com/american-horror-story-season-13-plot-forgotten",
+    "SentDate": "2026-10-15 05:55:34"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/marvel-tv-by-tomatometer",
+    "SentDate": "2026-10-15 05:55:36"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/best-netflix-movies-to-watch-right-now",
+    "SentDate": "2026-10-15 05:55:39"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/new-movies-and-shows-streaming-in-october-2026-what-to-watch-on-netflix-prime-video-disney-hbo-max-and-more",
+    "SentDate": "2026-10-15 05:55:41"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/best-journalism-movies",
+    "SentDate": "2026-10-15 05:55:43"
+  },
+  {
+    "CanonicalKey": "https://futurism.com/artificial-intelligence/anthropic-warns-ai-worms",
+    "SentDate": "2026-10-15 05:55:52"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/09/30/gong-adds-auto-enrichment-and-event-driven-agents-to-its-revenue-intelligence-platform",
+    "SentDate": "2026-10-15 05:55:54"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/06/30/couchbases-ai-data-plane-aims-turn-fragmented-data-real-enterprise-agent-memory",
+    "SentDate": "2026-10-15 05:55:57"
+  },
+  {
+    "CanonicalKey": "https://siliconangle.com/2026/08/19/cloudera-anywhere-cloud-gives-ai-agents-safe-secure-access-sensitive-data-wherever-lives",
+    "SentDate": "2026-10-15 05:56:00"
+  },
+  {
+    "CanonicalKey": "https://futurism.com/artificial-intelligence/court-finds-copyrighted-material-training-data-fair-use",
+    "SentDate": "2026-10-15 05:56:04"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/crypto-groups-back-illinois-legal",
+    "SentDate": "2026-10-15 05:56:13"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/occ-report-links-debanking-actions",
+    "SentDate": "2026-10-15 05:56:15"
+  },
+  {
+    "CanonicalKey": "https://globalcryptopress.com/2026/08/bitcoin-etfs-bleed-300-million-while.html",
+    "SentDate": "2026-10-15 05:56:19"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/bitcoin-drops-under-82k-as",
+    "SentDate": "2026-10-15 05:56:21"
+  },
+  {
+    "CanonicalKey": "https://cryptobreaking.com/bitcoin-author-says-the-asset",
+    "SentDate": "2026-10-15 05:56:24"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/kenya-reports-second-ebola-case",
+    "SentDate": "2026-10-15 05:56:34"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league",
+    "SentDate": "2026-10-15 05:56:37"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/trump-sparks-outrage-over-ai-tiger-video-after-sharing-footage-of-fatal-uk-attack-1",
+    "SentDate": "2026-10-15 05:56:40"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+    "SentDate": "2026-10-15 05:56:43"
+  },
+  {
+    "CanonicalKey": "https://japantimes.co.jp/news/2023/07/22/business/corporate-business/toyota-moon-rover",
+    "SentDate": "2026-10-15 05:56:46"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/dicks-sporting-goods-stock-plunges-retailer-warns-athleticwear-demand-weakening",
+    "SentDate": "2026-10-15 05:56:54"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/october-could-be-a-huge-month-for-the-stock-market-heres-why",
+    "SentDate": "2026-10-15 05:56:58"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway",
+    "SentDate": "2026-10-15 05:57:07"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/if-youd-bought-10000-worth-of-amazon-stock-10-years-ago-heres-how-much-youd-have-today",
+    "SentDate": "2026-10-15 05:57:11"
+  },
+  {
+    "CanonicalKey": "https://foxbusiness.com/markets/union-pacific-ceo-makes-case-85b-norfolk-southern-merger-amid-pushback",
+    "SentDate": "2026-10-15 05:57:22"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/perseverance-mars-rover-driving-record-another-world",
+    "SentDate": "2026-10-15 05:57:29"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/video/europe-sees-total-solar-eclipse-very-grand-thing",
+    "SentDate": "2026-10-15 05:57:31"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/spacex-launches-starship-on-giant-rockets-first-flight-to-orbit",
+    "SentDate": "2026-10-15 05:57:34"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/soyuz-launches-space-station-crew-8-months",
+    "SentDate": "2026-10-15 05:57:36"
+  },
+  {
+    "CanonicalKey": "https://cbsnews.com/news/nasa-spacecraft-new-crater-moon",
+    "SentDate": "2026-10-15 05:57:38"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke",
+    "SentDate": "2026-10-15 05:58:00"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition",
+    "SentDate": "2026-10-15 05:58:02"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs",
+    "SentDate": "2026-10-15 05:58:05"
+  },
+  {
+    "CanonicalKey": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript",
+    "SentDate": "2026-10-15 05:58:08"
+  },
+  {
+    "CanonicalKey": "https://wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public",
+    "SentDate": "2026-10-15 05:58:11"
   }
 ]
