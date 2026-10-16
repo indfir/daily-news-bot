@@ -1,282 +1,258 @@
 [
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto firm Binance.US seeks to raise $100m at $1bn valuation",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/crypto-firm-binanceus-seeks-to-raise-100m-at-1bn-valuation-4952383",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Binance-BNB-Icon-Logo.wine.svg/960px-Binance-BNB-Icon-Logo.wine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-16 05:50:40"
+    "Topic": "Data / AI",
+    "Title": "Real-world grounding in agentic AI",
+    "Link": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/fefd037/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F00%2Ff3%2F0325df924561b91de469b0f01226%2Fgroundingaiagents-01-16x9.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:25:28"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Gold prices climb as U.S. bond rally weighs on dollar, overshadows hot PPI report",
-    "Link": "https://www.investing.com/news/commodities-news/gold-rebounds-after-inflationdriven-selloff-as-fed-ratehike-bets-rise-4950379",
+    "Topic": "Data / AI",
+    "Title": "Graph-centric agentic intelligence",
+    "Link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/30d8727/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F81%2F9e%2Fb5c68ee14cab93522c05fc9b534c%2Fnetwork-digital-twin.gif",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:25:45"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The Ideal AI Device",
+    "Link": "https://www.artificial-intelligence.blog/ai-news/the-ideal-ai-device",
+    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/69263642ac202a0119374486/1764111938657/ai-blog-the-ideal-ai-device.jpg?format=1500w",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Ground truth is a process, not a dataset",
+    "Link": "https://www.amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/12486c7/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F5f%2Ff8%2F59a7cece443baf28f80ccd607f6f%2Fevolvingbenchmark-16x9.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:16"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "When LLM judges agree, should we believe them?",
+    "Link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/116a8a4/2147483647/strip/true/crop/1228x645+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F70%2F22%2F5afbc05541c3bcdcf18bbfb49620%2Fagreement-fig1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "I Love Software Rendering",
+    "Link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Voxels.svg/960px-Voxels.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-17 05:26:37"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "/dev/null: social network for developers",
+    "Link": "https://dev-null.sh",
+    "ImageUrl": "https://dev-null.sh/og.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:41"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "Link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "Link": "https://github.com/cobanov/PS5LM",
+    "ImageUrl": "https://opengraph.githubassets.com/4ba8d8dc4d5e36e4c41e4306b52b8a95ba6273b1902d0c7c9293f59ae3cd0807/cobanov/PS5LM",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:48"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "What on Earth Is Dekton?",
+    "Link": "https://www.worksinprogress.news/p/porcelain",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!eBd_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dfe9441-3a38-4e69-9127-c829b4777e7f_2560x1707.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:26:50"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "White House aides scramble for Susie Wiles’ job as midterm losses loom, MAGA activists float martial law, and the GOP’s billion-dollar ad blitz fails to move polls",
+    "Link": "https://www.investmentwatchblog.com/white-house-aides-scramble-for-susie-wiles-job-as-midterm-losses-loom-maga-activists-float-martial-law-and-the-gops-billion-dollar-ad-blitz-fails-to-move-polls/",
+    "ImageUrl": "https://www.investmentwatchblog.com/wp-content/uploads/2026/10/White-House-aides-scramble-for-Susie-Wiles-job-as-midterm-losses-loom-MAGA-activists-float-martial-law-and-the-GOPs-billion-dollar-ad-blitz-fails-to-move-polls_1230161_42271.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:27:00"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "The AI trade unwinding could become the bond trade’s biggest catalyst.",
+    "Link": "https://www.investmentwatchblog.com/the-ai-trade-unwinding-could-become-the-bond-trades-biggest-catalyst/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-16 05:50:43"
+    "Date": "2026-10-17 05:27:03"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Copper tests $6.53-6.55 support with bearish momentum: Live levels",
-    "Link": "https://www.investing.com/news/commodities-news/copper-pinned-at-673-fib-level-amid-breakout-risk-live-levels-93CH-4943296",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/960px-NatCopper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Astronomy",
+    "Title": "Three Spacecraft, Six Telescopes, and 1.6 Million Miles: Here’s NASA’s Plan to Detect Hidden Gravitational Waves",
+    "Link": "https://dailygalaxy.com/2026/10/nasa-laser-space-detector-mission/",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-16 05:50:46"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "myXRP.fi Opens Public Access After 8.1 Million XRP Institutional Phase",
-    "Link": "https://www.investing.com/news/cryptocurrency-news/myxrpfi-opens-public-access-after-81-million-xrp-institutional-phase-4948538",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/NFT_diagram.svg/960px-NFT_diagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-16 05:50:49"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Dogecoin rebounds from $0.0800 as ETF outflows keep downside risks in focus",
-    "Link": "https://coinjournal.net/news/dogecoin-rebounds-from-0-0800-as-etf-outflows-keep-downside-risks-in-focus/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/10/Golden-Dogecoin-Rebound-on-Trading-Desk.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:50:51"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
-    "Link": "https://www.cnn.com/collections/intl-ukraine-030423/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Evan_Gershkovich_%282024%29_%28cropped%29.jpg/960px-Evan_Gershkovich_%282024%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-16 05:51:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "China Renaissance suspends trading, delays results after founder's disappearance ",
-    "Link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403145804-fan-bao-file.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:02"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Video shows moment of deadly explosion at cafe in Russia",
-    "Link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230402131233-01-russia-cafe-explosion-0402.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:05"
-  },
-  {
-    "Topic": "General News",
-    "Title": "These are the animals people most want to see photographed",
-    "Link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230331144947-the-new-big-5-polar-bears-hao-jiang-2.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:07"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season ",
-    "Link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403140106-01-graham-potter-chelsea-file-2022.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:10"
+    "Date": "2026-10-17 05:27:11"
   },
   {
     "Topic": "Astronomy",
-    "Title": " Astrophotographer captures 110 galaxies, star clusters and nebulas in stunning 352-hour mosaic (photo) ",
-    "Link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-110-galaxies-star-clusters-and-nebulas-in-stunning-352-hour-mosaic-photo",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/2isXTbmTpLXhKEFUzDXekf-2000-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn ",
-    "Link": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/GUAZebtyW4wJ7Zet9qDvif-2560-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:22"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Fermi Explorer: Building the First Mission to Another Star?",
-    "Link": "https://www.centauri-dreams.org/2026/09/02/fermi-explorer-building-the-first-mission-to-another-star/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/960px-Enrico_Fermi_1943-49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-16 05:51:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " 'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier ",
-    "Link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/NAZYusmisB9G4RE3CTnRj5-2560-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": " SpaceX's Starship just turned 10 years old. When will it go to Mars? ",
-    "Link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
-    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-2560-80.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:30"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "AQUA Dorong Ekonomi Sirkular Inklusif Saat Kunjungan Delegasi Internasional INC Plastic Pollution",
-    "Link": "https://www.jpnn.com/news/aqua-dorong-ekonomi-sirkular-inklusif-saat-kunjungan-delegasi-internasional-inc-plastic-pollution",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/10/15/delegasi-13-negara-mengunjungi-koperasi-pemulung-berdaya-di-ypko.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:51:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Soal Dugaan Penyalahgunaan Data Pribadi, Akulaku Finance Gandeng Kepolisian",
-    "Link": "https://www.jpnn.com/news/soal-dugaan-penyalahgunaan-data-pribadi-akulaku-finance-gandeng-kepolisian",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2024/05/01/perusahaan-pembiayaan-berbasis-digital-bagian-dari-akulaku-g-5bad.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pengamat Nilai RI Perlu Tangkap Peluang Investasi dari Wilayah Timur Tengah",
-    "Link": "https://www.jpnn.com/news/pengamat-nilai-ri-perlu-tangkap-peluang-investasi-dari-wilayah-timur-tengah",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/03/18/ilustrasi-rudal-iran-untuk-serangan-balasan-terhadap-sejumla-teiw.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:08"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Gaji PNS dan PPPK Berstatus Pegawai Pemda Jangan Lewat Kopdes",
-    "Link": "https://www.jpnn.com/news/gaji-pns-dan-pppk-berstatus-pegawai-pemda-jangan-lewat-kopdes",
-    "ImageUrl": "https://cloud.jpnn.com/photo/galeri/watermark/2026/03/12/warga-melakukan-penukaran-uang-di-gerai-bank-muamalat-hall-l-rue9.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:14"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Kanwil DJP DIY Kejar Target Penerimaan Pajak Rp 6 Triliun",
-    "Link": "https://jogja.jpnn.com/jogja-terkini/15027/kanwil-djp-diy-kejar-target-penerimaan-pajak-rp-6-triliun",
-    "ImageUrl": "https://cloud.jpnn.com/photo/jatim/news/normal/2026/10/15/direktorat-jenderal-pajak-diy-bertemu-dengan-gubernur-diy-sr-0rug.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:31"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The next developer interface is ambient intelligence",
-    "Link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-12.28.43-PM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "CitizenLab details new spyware triggered by online advertising",
-    "Link": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/citizenlab-details-new-spyware-triggered-by-online-advertising/l-intro-1792068524.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:40"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-    "Link": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:43"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "A Conversation With Ari Emanuel About Entertainment and AI",
-    "Link": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
-    "Link": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
-    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:48"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-consciousness-signal-processing.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:55"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Cancer is rising in younger adults, and scientists can't fully explain why",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/cancer-cells-hiding-on-tissue.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:52:58"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists uncover the 2.3-billion-year-old secret that helped keep Earth habitable",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/pseudoasaphus-praecurrens.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:00"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists discover vanilla’s hidden healing potential",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/aromatic-vanilla-sticks-and-flowers-on-wooden-board.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:03"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Jev Your Engines: Seven Open Decision Models vs. a Generative LLM",
-    "Link": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+    "Title": "Look Up This Week: A Galaxy 2.5 Million Light-Years Away Is Visible Without a Telescope",
+    "Link": "https://dailygalaxy.com/2026/10/look-up-this-week-a-galaxy-is-visible/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-16 05:53:06"
+    "Date": "2026-10-17 05:27:15"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI breakthroughs in robotics won’t change your life any time soon",
-    "Link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+    "Topic": "Astronomy",
+    "Title": "SpaceX Dragon Cargo Mission Approaching Station",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-cargo-mission-approaching-station/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/iss074e0603650/iss074e0603650~large.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:13"
+    "Date": "2026-10-17 05:27:17"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Bringing predictive analytics to the agentic AI era ",
-    "Link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600",
+    "Topic": "Astronomy",
+    "Title": "SpaceX Dragon Docks with Science, Supplies, and Roll-Out Solar Arrays",
+    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/blog-spacex-crs35-approach-101526.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:16"
+    "Date": "2026-10-17 05:27:19"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "People really hate AI, so why can’t they get enough?",
-    "Link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
-    "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:18"
+    "Topic": "Astronomy",
+    "Title": "NASA Is Sending Tiny Human Brains Into Space to Answer a Troubling Question",
+    "Link": "https://dailygalaxy.com/2026/10/nasa-is-sending-tiny-human-brains-space/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg/960px-Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-17 05:27:22"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Connecting AI agents to enterprise knowledge",
-    "Link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Social-Card-1.png?resize=1200,600",
+    "Topic": "Trading & Crypto",
+    "Title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
+    "Link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
+    "ImageUrl": "https://investinglive.com/cms/media/Processed/Categories/featured/EUWRAP%20161026-featured-1792151485.jpg?width=960&amp;format=webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:20"
+    "Date": "2026-10-17 05:27:41"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Open challenges in LLM research",
-    "Link": "https://huyenchip.com//2023/08/16/llm-research-open-challenges.html",
-    "ImageUrl": "https://huyenchip.com/assets/pics/llm-research/10-open-challenges-llm-research.png",
+    "Topic": "Trading & Crypto",
+    "Title": "Gold prices slip for the week as oil gains offset weaker dollar, U.S. bond rally",
+    "Link": "https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-17 05:27:44"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin’s Issuance Rate Drops Below Gold’s After Recent Halving: Glassnode",
+    "Link": "https://bitcoinwarrior.net/2024/04/bitcoins-issuance-rate-drops-below-golds-after-recent-halving-glassnode/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-17 05:27:51"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key moving averages",
+    "Link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-falls-despite-hot-inflation-usdjpy-slips-below-key-moving-averages/",
+    "ImageUrl": "https://investinglive.com/cms/media/2026-10-16_05-19-51.jpg?width=960&amp;format=webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-16 05:53:23"
+    "Date": "2026-10-17 05:27:55"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Silver pinched below resistance at $57.19: Live levels",
+    "Link": "https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-17 05:27:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Why Did the “Urgency of Normal” Stop Caring About the Mental, Social, Emotional, and Behavioral Health of our Children?",
+    "Link": "https://sciencebasedmedicine.org/genuine-concern-is-consistent-concern/?utm_source=rss&utm_medium=rss&utm_campaign=genuine-concern-is-consistent-concern",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-3.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:05"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Climate scientists issue a sobering diagnosis about Earth's 'vital signs'",
+    "Link": "https://www.scientificamerican.com/article/climate-scientists-issue-a-sobering-diagnosis-about-earths-vital-signs/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/2bd4d77f-19a4-4719-b523-dfa0a046f934/indonesia-flood.jpg?m=1791989296.871&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:07"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Vaccine Advocates Didn’t Advocate for Moderna’s Failed CMV Vaccine. What Does That Reveal About the Vaccines We Do Advocate For?",
+    "Link": "https://sciencebasedmedicine.org/vaccineadvocatescult/?utm_source=rss&utm_medium=rss&utm_campaign=vaccineadvocatescult",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-14.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:10"
+  },
+  {
+    "Topic": "Science",
+    "Title": "RFK Jr. is definitely coming for your vaccines (part 12): The new NIH vaccine injury clinic is likely a sham",
+    "Link": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/rfk-jr-vaccine-injuries-nih.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:13"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists worry AI is stealing their ideas",
+    "Link": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:16"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘Michael’ to Receive Musical Tribute at 2026 Gotham Film Awards",
+    "Link": "https://variety.com/2026/awards/news/michael-gotham-musical-tribute-1236914181/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/001-mkt-001-cin-v0037-cnpt-1002.jpg?crop=0px%2C15px%2C1920px%2C1080px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:24"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Selma Blair’s Rep Speaks Out After Actress’ Arrest and Plane Incident: ‘Selma Did Not Intend to Harm Anyone’",
+    "Link": "https://variety.com/2026/film/news/selma-blair-rep-speaks-out-arrest-plane-incident-1236909381/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2024/10/MAB_7086.jpg?crop=0px%2C39px%2C1000px%2C562px&#038;resize=1000%2C563",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:27"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "‘The Conners’ Premiered 8 Years Ago Today: A Look at the Follow Up to a Classic Sitcom",
+    "Link": "https://cordcuttersnews.com/the-conners-premiered-8-years-ago-today-a-look-at-the-follow-up-to-a-classic-sitcom/",
+    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2023/08/Crackle-The-Conners-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:30"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Stream It Or Skip It: ‘Tulsa King’ Season 4 On Paramount+, Where Dwight And Crew Try To Go Legit As A Tragedy Rocks His World",
+    "Link": "https://decider.com/2026/10/16/tulsa-king-season-4-paramount-plus-review/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/10/TulsaKing_401_SS_1117_0678_RT-1-resize.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "One Of 2026's Best Movies May Be Overshadowed At The Box Office This Weekend (But You Should See It)",
+    "Link": "https://www.slashfilm.com/2289097/sense-and-sensibility-2026-box-office-worth-watching/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/one-of-2026s-best-movies-may-be-overshadowed-at-the-box-office-this-weekend-but-you-should-see-it/l-intro-1792175386.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-17 05:28:34"
   }
 ]
