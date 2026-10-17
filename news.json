@@ -1,258 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Real-world grounding in agentic AI",
-    "Link": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/fefd037/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F00%2Ff3%2F0325df924561b91de469b0f01226%2Fgroundingaiagents-01-16x9.png",
+    "Topic": "Technology",
+    "Title": "Public Resistance Puts US Prediction Markets Under Pressure",
+    "Link": "https://readwrite.com/election-betting-poll-opposition/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/public-resistance-us-prediction-markets-pressure.webp",
     "ImageSource": "og:image",
-    "Date": "2026-10-17 05:25:28"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Graph-centric agentic intelligence",
-    "Link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/30d8727/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F81%2F9e%2Fb5c68ee14cab93522c05fc9b534c%2Fnetwork-digital-twin.gif",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:25:45"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "The Ideal AI Device",
-    "Link": "https://www.artificial-intelligence.blog/ai-news/the-ideal-ai-device",
-    "ImageUrl": "http://static1.squarespace.com/static/62ec2bc76a27db7b37a2b32f/t/69263642ac202a0119374486/1764111938657/ai-blog-the-ideal-ai-device.jpg?format=1500w",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:02"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Ground truth is a process, not a dataset",
-    "Link": "https://www.amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/12486c7/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F5f%2Ff8%2F59a7cece443baf28f80ccd607f6f%2Fevolvingbenchmark-16x9.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "When LLM judges agree, should we believe them?",
-    "Link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/116a8a4/2147483647/strip/true/crop/1228x645+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F70%2F22%2F5afbc05541c3bcdcf18bbfb49620%2Fagreement-fig1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:19"
+    "Date": "2026-10-18 04:56:01"
   },
   {
     "Topic": "Technology",
-    "Title": "I Love Software Rendering",
-    "Link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Voxels.svg/960px-Voxels.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "CFTC Draws a Federal-State Line for Prediction Markets",
+    "Link": "https://readwrite.com/prediction-markets-cftc-rules/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/cftc-federal-state-line-prediction-markets.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:05"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Choose an Express API Error Tracking Service for Rollback-Safe Scheduled Fintech Node.js Imports",
+    "Link": "https://dev.to/leiferiksson8493/choose-an-express-api-error-tracking-service-for-rollback-safe-scheduled-fintech-nodejs-imports-3a93",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80orff55n2ob46t8y8qf.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:07"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Lawmakers Seek FanDuel VIP Data After Harper Video Concern",
+    "Link": "https://readwrite.com/fanduel-vip-program-scrutiny/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/lawmakers-seek-fanduel-vip-data.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:11"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Who Controls Prediction Markets? Federal and State Powers Collide",
+    "Link": "https://readwrite.com/prediction-markets-regulation-fight/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/prediction-markets-federal-state-powers.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Pluto TV Now Has Over 400 Free Live Channels: A Great Way To Save Money After Disney+’s Recent Price Hike",
+    "Link": "https://cordcuttersnews.com/pluto-tv-now-has-over-400-free-live-channels-a-great-way-to-save-money-after-disneys-recent-price-hike/",
+    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2024/02/Untitled-design-2024-02-05T095738.972.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:24"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Weekend Box Office: Other Mommy Scares Up an Impressive Debut",
+    "Link": "https://editorial.rottentomatoes.com/article/weekend-box-office-other-mommy-week-1/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/Other_Mommy_BO1-Rep.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:26"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Rotten Tomatoes’ Ridiculously Early Oscar Nominations Predictions",
+    "Link": "https://editorial.rottentomatoes.com/article/ridiculously-early-oscar-nominations-predictions-2027/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/05/Obsession600_2.jpg?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:29"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "The Best Free Movies to Stream on Fandango Right Now",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-free-movies-fandango/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/M8DGHOS_EC007-600x314-1.png?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:33"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Best New Horror Movies of 2026",
+    "Link": "https://editorial.rottentomatoes.com/guide/best-new-horror-movies-2026/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/MCDOTMO_UV009-600x314-1.png?w=600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:36"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Why enterprise agentic AI  needs an evidence standard.",
+    "Link": "https://www.aiacceleratorinstitute.com/why-enterprise-agentic-ai-needs-an-evidence-standard/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Website_Article_Images_Author_Highlight--5--1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:44"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "From prompt to performance: The five stages of agentic merchandising",
+    "Link": "https://www.aiacceleratorinstitute.com/the-five-stages-of-agentic-merchandising/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/COVEO-NEW-META.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:47"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+    "Link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!EHqU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f97789d-b769-45fe-b884-ba0f7941da9e_1846x1230.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:50"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "7 reasons small language models belong in your  2027 AI roadmap",
+    "Link": "https://www.aiacceleratorinstitute.com/7-reasons-small-language-models-belong-in-your-2027-ai-roadmap/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Website_Article_Images_Doodles--4--2.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:52"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "6 questions that expose agent  washing in any AI vendor demo.",
+    "Link": "https://www.aiacceleratorinstitute.com/6-questions-that-expose-agent-washing-in-any-ai-vendor-demo/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Website_Article_Images_Doodles--3-.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:56:56"
+  },
+  {
+    "Topic": "General News",
+    "Title": "El ensordecedor silencio de Alemania ante los crímenes de Gaza",
+    "Link": "https://elpais.com/ideas/2026-10-15/el-ensordecedor-silencio-de-alemania-ante-los-crimenes-de-gaza.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:06"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Adiós a los pelos rebeldes con las mejores pinzas de depilar: hemos probado 6 modelos y estas son nuestras favoritas",
+    "Link": "https://elpais.com/escaparate/comparativas/mejores-pinzas-de-depilar.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:09"
+  },
+  {
+    "Topic": "General News",
+    "Title": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
+    "Link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:13"
+  },
+  {
+    "Topic": "General News",
+    "Title": "El sindicato de maquinistas Semaf llama a una huelga de 24 horas en Renfe para el día 29",
+    "Link": "https://elpais.com/economia/2026-10-17/el-sindicato-de-maquinistas-semaf-llama-a-una-huelga-de-24-horas-en-renfe-para-el-dia-29.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:16"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Cuando un ‘smartwatch’ se convierte en mucho más que un complemento para la aventura diaria",
+    "Link": "https://elpais.com/smoda/2026-09-17/cuando-un-smartwatch-se-convierte-en-mucho-mas-que-un-complemento-para-la-aventura-diaria.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/960px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-17 05:26:37"
+    "Date": "2026-10-18 04:57:20"
   },
   {
-    "Topic": "Technology",
-    "Title": "/dev/null: social network for developers",
-    "Link": "https://dev-null.sh",
-    "ImageUrl": "https://dev-null.sh/og.png",
+    "Topic": "Science",
+    "Title": "The Brain is a Composite Organ",
+    "Link": "https://sciencebasedmedicine.org/the-brain-is-a-composite-organ/?utm_source=rss&utm_medium=rss&utm_campaign=the-brain-is-a-composite-organ",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/thebrain.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:41"
+    "Date": "2026-10-18 04:57:29"
   },
   {
-    "Topic": "Technology",
-    "Title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-    "Link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-    "ImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:44"
+    "Topic": "Science",
+    "Title": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
+    "Link": "https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:33"
   },
   {
-    "Topic": "Technology",
-    "Title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "Link": "https://github.com/cobanov/PS5LM",
-    "ImageUrl": "https://opengraph.githubassets.com/4ba8d8dc4d5e36e4c41e4306b52b8a95ba6273b1902d0c7c9293f59ae3cd0807/cobanov/PS5LM",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:48"
+    "Topic": "Science",
+    "Title": "Scientists uncover mystery of how snail shells coil to the right or to the left",
+    "Link": "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:39"
   },
   {
-    "Topic": "Technology",
-    "Title": "What on Earth Is Dekton?",
-    "Link": "https://www.worksinprogress.news/p/porcelain",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!eBd_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dfe9441-3a38-4e69-9127-c829b4777e7f_2560x1707.jpeg",
+    "Topic": "Science",
+    "Title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "Link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-1152x648-1792007515.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-17 05:26:50"
+    "Date": "2026-10-18 04:57:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
+    "Link": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-18 04:57:46"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum Protocol Fellowship Cohort 4 Recap",
+    "Link": "https://blog.ethereum.org/en/2024/04/22/epf-4-recap",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_ef8a5602779302657f773c9b6715e749.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:57:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The Latest EVM: “Ethereum Is A Trust-Free Closure System”",
+    "Link": "https://blog.ethereum.org/en/2014/03/20/the-latest-evm-ethereum-is-a-trust-free-closure-system",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:00"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Announcing Supporters & Impact Booths",
+    "Link": "https://blog.ethereum.org/en/2022/10/10/devcon-impact-supporters",
+    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_0c64bf4c9178e2cb9b59fc1e3da7d40f.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:03"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum Research Update",
+    "Link": "https://blog.ethereum.org/en/2016/12/04/ethereum-research-update",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:06"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Secured no. 1",
+    "Link": "https://blog.ethereum.org/en/2021/09/09/secured-no-1",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/upload_630d77544672a1e0df792c0d71489bd6.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:09"
   },
   {
     "Topic": "Economy",
-    "Title": "White House aides scramble for Susie Wiles’ job as midterm losses loom, MAGA activists float martial law, and the GOP’s billion-dollar ad blitz fails to move polls",
-    "Link": "https://www.investmentwatchblog.com/white-house-aides-scramble-for-susie-wiles-job-as-midterm-losses-loom-maga-activists-float-martial-law-and-the-gops-billion-dollar-ad-blitz-fails-to-move-polls/",
-    "ImageUrl": "https://www.investmentwatchblog.com/wp-content/uploads/2026/10/White-House-aides-scramble-for-Susie-Wiles-job-as-midterm-losses-loom-MAGA-activists-float-martial-law-and-the-GOPs-billion-dollar-ad-blitz-fails-to-move-polls_1230161_42271.jpg",
+    "Title": "HDFC Bank Q2 Results: Net profit rises 5% YoY to Rs 19,510 crore; NII grows 10%",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-135010637,width-1200,height-900,imgsize-191224,overlay-etmarkets/articleshow.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-17 05:27:00"
+    "Date": "2026-10-18 04:58:19"
   },
   {
     "Topic": "Economy",
-    "Title": "The AI trade unwinding could become the bond trade’s biggest catalyst.",
-    "Link": "https://www.investmentwatchblog.com/the-ai-trade-unwinding-could-become-the-bond-trades-biggest-catalyst/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-17 05:27:03"
+    "Title": "LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134995033,width-1200,height-900,imgsize-7354,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:22"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134998552,width-1200,height-900,imgsize-81604,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:25"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Big US bank stocks head for longest weekly losing streak since 2008",
+    "Link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-135002597,width-1200,height-900,imgsize-3818941,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:28"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Cult.fit receives Sebi approval for proposed IPO",
+    "Link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
+    "ImageUrl": "https://img.etimg.com/thumb/msid-134997194,width-1200,height-900,imgsize-108178,overlay-etmarkets/articleshow.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:33"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Three Spacecraft, Six Telescopes, and 1.6 Million Miles: Here’s NASA’s Plan to Detect Hidden Gravitational Waves",
-    "Link": "https://dailygalaxy.com/2026/10/nasa-laser-space-detector-mission/",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "Title": "One Year Crew Returns from International Space Station",
+    "Link": "https://irishspaceblog.blogspot.com/2016/03/one-year-crew-returns-from.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuRFAaj0Xv3N-EPD8PnFccUQt-uyRkSCswznFK28QQdffBkAtOQkXyRF17SS3SAyCVD56j9hzgHKE5tw5g7FGIAIs6tscaDVge-W1or1I3nzbnWay_32EAjSYSQFDfvrP7eiAx1VEaCc/w1200-h630-p-k-no-nu/news-030116a.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-18 04:58:42"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "India's mission for understanding the dynamics of the Sun",
+    "Link": "https://www.thespacereview.com/article/4720/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Prime_Minister_of_India_Narendra_Modi.jpg/960px-Prime_Minister_of_India_Narendra_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-17 05:27:11"
+    "Date": "2026-10-18 04:58:46"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Look Up This Week: A Galaxy 2.5 Million Light-Years Away Is Visible Without a Telescope",
-    "Link": "https://dailygalaxy.com/2026/10/look-up-this-week-a-galaxy-is-visible/",
+    "Title": "The whole world looking up: inspiration from the Moon",
+    "Link": "https://www.thespacereview.com/article/5264/1",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-17 05:27:15"
+    "Date": "2026-10-18 04:58:49"
   },
   {
     "Topic": "Astronomy",
-    "Title": "SpaceX Dragon Cargo Mission Approaching Station",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-cargo-mission-approaching-station/",
-    "ImageUrl": "https://images-assets.nasa.gov/image/iss074e0603650/iss074e0603650~large.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:27:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX Dragon Docks with Science, Supplies, and Roll-Out Solar Arrays",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/blog-spacex-crs35-approach-101526.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:27:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Is Sending Tiny Human Brains Into Space to Answer a Troubling Question",
-    "Link": "https://dailygalaxy.com/2026/10/nasa-is-sending-tiny-human-brains-space/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg/960px-Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Flying under the radar: Russia's tacit reliance on Chinese SAR satellites (part 1)",
+    "Link": "https://www.thespacereview.com/article/5335/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/OH-58D_Kiowa_Treetop.jpg/960px-OH-58D_Kiowa_Treetop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-17 05:27:22"
+    "Date": "2026-10-18 04:58:54"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
-    "Link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
-    "ImageUrl": "https://investinglive.com/cms/media/Processed/Categories/featured/EUWRAP%20161026-featured-1792151485.jpg?width=960&amp;format=webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:27:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Gold prices slip for the week as oil gains offset weaker dollar, U.S. bond rally",
-    "Link": "https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-17 05:27:44"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin’s Issuance Rate Drops Below Gold’s After Recent Halving: Glassnode",
-    "Link": "https://bitcoinwarrior.net/2024/04/bitcoins-issuance-rate-drops-below-golds-after-recent-halving-glassnode/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-17 05:27:51"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key moving averages",
-    "Link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-falls-despite-hot-inflation-usdjpy-slips-below-key-moving-averages/",
-    "ImageUrl": "https://investinglive.com/cms/media/2026-10-16_05-19-51.jpg?width=960&amp;format=webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:27:55"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Silver pinched below resistance at $57.19: Live levels",
-    "Link": "https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-17 05:27:57"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Why Did the “Urgency of Normal” Stop Caring About the Mental, Social, Emotional, and Behavioral Health of our Children?",
-    "Link": "https://sciencebasedmedicine.org/genuine-concern-is-consistent-concern/?utm_source=rss&utm_medium=rss&utm_campaign=genuine-concern-is-consistent-concern",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-3.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:05"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Climate scientists issue a sobering diagnosis about Earth's 'vital signs'",
-    "Link": "https://www.scientificamerican.com/article/climate-scientists-issue-a-sobering-diagnosis-about-earths-vital-signs/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/2bd4d77f-19a4-4719-b523-dfa0a046f934/indonesia-flood.jpg?m=1791989296.871&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:07"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Vaccine Advocates Didn’t Advocate for Moderna’s Failed CMV Vaccine. What Does That Reveal About the Vaccines We Do Advocate For?",
-    "Link": "https://sciencebasedmedicine.org/vaccineadvocatescult/?utm_source=rss&utm_medium=rss&utm_campaign=vaccineadvocatescult",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-14.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:10"
-  },
-  {
-    "Topic": "Science",
-    "Title": "RFK Jr. is definitely coming for your vaccines (part 12): The new NIH vaccine injury clinic is likely a sham",
-    "Link": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/rfk-jr-vaccine-injuries-nih.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:13"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists worry AI is stealing their ideas",
-    "Link": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Michael’ to Receive Musical Tribute at 2026 Gotham Film Awards",
-    "Link": "https://variety.com/2026/awards/news/michael-gotham-musical-tribute-1236914181/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/001-mkt-001-cin-v0037-cnpt-1002.jpg?crop=0px%2C15px%2C1920px%2C1080px&#038;resize=1000%2C563",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:24"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Selma Blair’s Rep Speaks Out After Actress’ Arrest and Plane Incident: ‘Selma Did Not Intend to Harm Anyone’",
-    "Link": "https://variety.com/2026/film/news/selma-blair-rep-speaks-out-arrest-plane-incident-1236909381/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2024/10/MAB_7086.jpg?crop=0px%2C39px%2C1000px%2C562px&#038;resize=1000%2C563",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:27"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘The Conners’ Premiered 8 Years Ago Today: A Look at the Follow Up to a Classic Sitcom",
-    "Link": "https://cordcuttersnews.com/the-conners-premiered-8-years-ago-today-a-look-at-the-follow-up-to-a-classic-sitcom/",
-    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2023/08/Crackle-The-Conners-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:30"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘Tulsa King’ Season 4 On Paramount+, Where Dwight And Crew Try To Go Legit As A Tragedy Rocks His World",
-    "Link": "https://decider.com/2026/10/16/tulsa-king-season-4-paramount-plus-review/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/10/TulsaKing_401_SS_1117_0678_RT-1-resize.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "One Of 2026's Best Movies May Be Overshadowed At The Box Office This Weekend (But You Should See It)",
-    "Link": "https://www.slashfilm.com/2289097/sense-and-sensibility-2026-box-office-worth-watching/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/one-of-2026s-best-movies-may-be-overshadowed-at-the-box-office-this-weekend-but-you-should-see-it/l-intro-1792175386.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-17 05:28:34"
+    "Topic": "Astronomy",
+    "Title": "A small step forward for space-based solar power technology",
+    "Link": "https://www.thespacereview.com/article/4691/1",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Apollo_11_Landing_-_first_steps_on_the_moon.ogv/250px--Apollo_11_Landing_-_first_steps_on_the_moon.ogv.jpg",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-18 04:58:58"
   }
 ]
