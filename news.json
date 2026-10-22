@@ -1,298 +1,322 @@
 [
   {
+    "Topic": "Data / AI",
+    "Title": "3 ways to prep for your next big race with Search",
+    "Link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:54:48"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The latest AI news we announced in August 2026",
+    "Link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:54:51"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Southeast Asia’s digital economy to hit $368 billion",
+    "Link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_e-Conomy_SEA_2026.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:54:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "New insights from Google’s AI & Economy ATLAS",
+    "Link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:54:57"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "Link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:55:00"
+  },
+  {
     "Topic": "Astronomy",
-    "Title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-    "Link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Tesla Built a Car That Sticks to Ceilings and Flies Like a Rocket, and Its Driver Was a Mannequin in a Spacesuit",
+    "Link": "https://dailygalaxy.com/2026/10/tesla-roadster-flying-rocket-thrusters/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NextGenTeslaRoadster_%28cropped%29.jpg/960px-NextGenTeslaRoadster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-22 05:58:30"
+    "Date": "2026-10-23 05:55:09"
   },
   {
     "Topic": "Astronomy",
-    "Title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
-    "Link": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Fishing_Rods.jpg/960px-Fishing_Rods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
+    "Link": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/082526_MK_SwiftObs_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:55:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Five Years Into Its Journey, NASA’s Lucy Has Already Made a Discovery No One Expected",
+    "Link": "https://dailygalaxy.com/2026/10/five-years-lucy-discovery-none-expected/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-23 05:55:15"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Divers Find Bronze Ring in Egypt’s Sunken Palace With a Rare Image of a Lost Wonder of the Ancient World",
+    "Link": "https://dailygalaxy.com/2026/10/egypt-alexandria-lighthouse-ancient-ring/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-23 05:55:18"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Halley’s Comet Is Sending a Meteor Shower Toward Earth This Week: Here’s When to Look",
+    "Link": "https://dailygalaxy.com/2026/10/halleys-comet-meteor-shower-this-week/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/960px-Comet_Hale-Bopp_1995O1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-22 05:58:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX Dragon Counts Down to Launch for Station Resupply Mission",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/13/spacex-dragon-counts-down-to-launch-for-station-resupply-mission/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260515-ph-spx01-0002update-crs34-release.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:58:35"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
-    "Link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
-    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_1200-637_AI-SI.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:58:38"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-    "Link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:58:40"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pembunuh Wanita di Putat Jaya Surabaya, Ngaku Sakit Hati Saat Tagih Utang",
-    "Link": "https://jatim.jpnn.com/kriminal/49575/pembunuh-wanita-di-putat-jaya-surabaya-ngaku-sakit-hati-saat-tagih-utang",
-    "ImageUrl": "https://cloud.jpnn.com/photo/jatim/news/normal/2026/10/21/pembunuh-wanita-di-jalan-putat-jaya-gang-lebar-saat-melakuka-10zm.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Strategi Pemkot Tangsel Memulihkan Kawasan Pasar Cimanggis",
-    "Link": "https://www.jpnn.com/news/strategi-pemkot-tangsel-memulihkan-kawasan-pasar-cimanggis",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/06/29/kepala-dinas-komunikasi-dan-informatika-kominfo-kota-tangera-svxy.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:13"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pakar Kriminologi Sebut Larangan Total Vape Berisiko Picu Pasar Gelap",
-    "Link": "https://www.jpnn.com/news/pakar-kriminologi-sebut-larangan-total-vape-berisiko-picu-pasar-gelap",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2022/12/01/ilustrasi-pengguna-vape-foto-philip-fong-afp-3d6vp-xth6.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:19"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Tanoto Foundation Dorong Pemda Perkuat Layanan Anak Usia Dini, Soroti Keterbatasan Anggaran",
-    "Link": "https://www.jpnn.com/news/tanoto-foundation-dorong-pemda-perkuat-layanan-anak-usia-dini-soroti-keterbatasan-anggaran",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/watermark/2026/10/21/head-of-early-childhood-education-and-development-eced-tanot-4d1r.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:23"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Wamensos Agus Jabo Mendorong Penguatan Pemberdayaan Lansia Lewat Ekonomi Perak",
-    "Link": "https://www.jpnn.com/news/wamensos-agus-jabo-mendorong-penguatan-pemberdayaan-lansia-lewat-ekonomi-perak",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/10/21/wakil-menteri-sosial-agus-jabo-priyono-saat-menghadiri-perin-2d6q.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:27"
+    "Date": "2026-10-23 05:55:21"
   },
   {
     "Topic": "Movies",
-    "Title": "Battlestar Galactica: Fleet Commander Is Keeping The Series Alive",
-    "Link": "https://screenrant.com/battlestar-galactica-fleet-commander-fan-project/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/battlestar-galactica-season-1-still.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "Forget Modern Sci-Fi, 'Klara and the Sun's Jenna Ortega and Taika Waititi Find Soul in Classic Cinema",
+    "Link": "https://collider.com/klara-and-the-sun-interview-taika-waititi-and-jenna-ortega/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/klara-and-the-sun-jenna-ortega-taika-waititi-interview.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:35"
+    "Date": "2026-10-23 05:55:30"
   },
   {
     "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘Moana’ on Disney+, a Disney ‘Live Action’ Remake Boasting an Even Bigger and Buffer Dwayne Johnson",
-    "Link": "https://decider.com/2026/10/21/moana-disney-review-stream-it-or-skip-it/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/10/moana-2.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "VisionQuest First Reviews: A Must-See Marvel Show Full of Surprises and Stellar Performances",
+    "Link": "https://editorial.rottentomatoes.com/article/visionquest-first-reviews/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/VisionQuest_Reviews-Rep2.jpg?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:38"
+    "Date": "2026-10-23 05:55:32"
   },
   {
     "Topic": "Movies",
-    "Title": "‘Slow Horses’ Season 7 Release Date Info, ‘Bad Actors’ Book Summary, And More",
-    "Link": "https://decider.com/2026/10/20/slow-horses-season-7-release-date-info-bad-actors-book-summary/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/10/slowhorses_dd5918.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "Video Game Movies Ranked by Tomatometer",
+    "Link": "https://editorial.rottentomatoes.com/guide/video-game-movies/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/MCDSTFI_PA054-600x314-1.png?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:41"
+    "Date": "2026-10-23 05:55:35"
   },
   {
     "Topic": "Movies",
-    "Title": "Netflix’s Supernatural Series Redeems Walking Dead Tragedy In New Casting Update",
-    "Link": "https://screenrant.com/netflix-pagans-show-steven-yeun-logan-kim-walking-dead-cast/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/glenn-rhee-rick-grimes-and-daryl-dixon-in-the-walking-dead-season-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "‘Black Shine, From ‘State of Silence’ Director Santiago Maza, ’ Delves Into the Aftermath of a 2006 Mining Tragedy That Buried 63 Miners",
+    "Link": "https://variety.com/2026/film/global/morelia-film-festival-black-shine-aftermath-mining-tragedy-1236918375/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-19.53.43.jpeg?w=1000&#038;h=536&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:44"
+    "Date": "2026-10-23 05:55:37"
   },
   {
     "Topic": "Movies",
-    "Title": "Chris Pratt & Glen Powell's Billion Dollar Fantasy Hit Officially Coming To Netflix Sooner Than Expected",
-    "Link": "https://screenrant.com/chris-pratt-glen-powell-super-mario-galaxy-movie-netflix-streaming-release-november-2026/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/glen-powell-smiling-at-a-red-carpet.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "20 Years Later, Christopher Nolan's Most Underrated Movie Is a Different Experience Every Time",
+    "Link": "https://collider.com/christopher-nolan-the-prestige-anniversary/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/08/the-prestige.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:48"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The new Apple iPhone Duo is $1,000 off with this wild preorder deal — how to claim now",
-    "Link": "https://mashable.com/tech/oct-21-apple-iphone-duo-best-preorder-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06forGnJnb44gVvnEMHAgYq/hero-image.fill.size_1200x675.v1792595014.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:55"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Gemini 4 Argon for Robotics",
-    "Link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 05:59:59"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to watch the 2026-2027 NBA season: Your guide to streaming every game",
-    "Link": "https://mashable.com/entertainment/how-to-watch-nba-games-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05hnNKWxiBi0gsAdgtFeYdp/hero-image.fill.size_1200x675.v1792168356.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:03"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Developing Gemini 4 Argon responsibly and safely",
-    "Link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:06"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to check or reload your Amazon gift card balance",
-    "Link": "https://mashable.com/article/check-amazon-gift-card-balance-website-app",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02ViYwX4g9HBpEv6PtEnWhP/hero-image.fill.size_1200x675.v1781795437.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:09"
+    "Date": "2026-10-23 05:55:40"
   },
   {
     "Topic": "Science",
-    "Title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
-    "Link": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/QuantumPhaseTransition.svg/960px-QuantumPhaseTransition.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-22 06:00:16"
+    "Title": "Are you addicted to your phone? What scientists say about screen time and social media",
+    "Link": "https://www.scientificamerican.com/podcast/episode/are-you-addicted-to-your-phone-what-scientists-say-about-screen-time-and-social-media/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/df0d58e1-d534-49ec-bf05-b64ccb26bd5a/2610_SQ_FRI_SOCIAL_MEDIA.png?m=1792094455.949&w=1200",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:55:48"
   },
   {
     "Topic": "Science",
-    "Title": "SpaceX just delivered some very strange cargo to the International Space Station",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/spacex-dragon-spacecraft-approaches-iss.webp",
+    "Title": "This ‘living drug’ could change the course of autoimmune disease",
+    "Link": "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_SPS_feature_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:19"
+    "Date": "2026-10-23 05:55:51"
   },
   {
     "Topic": "Science",
-    "Title": "Generic GLP-1s are here (for some)",
-    "Link": "https://sciencebasedmedicine.org/generic-glp-1s-are-here-for-some/?utm_source=rss&utm_medium=rss&utm_campaign=generic-glp-1s-are-here-for-some",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/qimono-syringe-1884758_1280.jpg",
+    "Title": "Brain implants are helping people who’ve lost their voice",
+    "Link": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_podcast_feat.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:22"
+    "Date": "2026-10-23 05:55:54"
   },
   {
     "Topic": "Science",
-    "Title": "The EBM Gurus, RCT Zealots, & “Sensible” Doctors Who Gave Us Kennedy’s Chemtrails, Wakefield’s Wins, Paxton’s Prosecutions, & Schwartz’s Study",
-    "Link": "https://sciencebasedmedicine.org/the-ebm-gurus-andmaha/?utm_source=rss&utm_medium=rss&utm_campaign=the-ebm-gurus-andmaha",
-    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/image-1.png",
+    "Title": "A nanoparticle revealed the tiny impact of a single gas atom",
+    "Link": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_EC_gasmolecule_main.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:24"
+    "Date": "2026-10-23 05:55:57"
   },
   {
     "Topic": "Science",
-    "Title": "Scientists discover that male and female skin play by different rules",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/man-woman-skincare-beauty.webp",
+    "Title": "Google’s quantum Willow chip may be able to grow ‘magic states’",
+    "Link": "https://www.scientificamerican.com/article/googles-quantum-willow-chip-may-be-able-to-grow-magic-states/",
+    "ImageUrl": "https://static.scientificamerican.com/dam/asset/566bfebd-ee41-4d63-bcef-6d50246be553/quantum-computing-magic-state.jpg?m=1792086592.174&w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:27"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum Foundation Internal Update",
-    "Link": "https://blog.ethereum.org/en/2016/01/07/2394",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:40"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Gav’s Ethereum ÐΞV Update V",
-    "Link": "https://blog.ethereum.org/en/2015/03/02/gavs-ethereum-dev-update-v",
-    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:44"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "NEAR AI tops 1 million tokens staked as rewards fund AI inference",
-    "Link": "https://crypto.news/near-ai-1-million-near-staked-inference/",
-    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-Mechanism-design-is-the-missing-bridge-between-cooperative-AI-and-web3-option01.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:47"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The ethereum.org Translatathon is back",
-    "Link": "https://blog.ethereum.org/en/2024/07/25/translatathon",
-    "ImageUrl": "https://blog.ethereum.org/images/posts/2024/07/translatathon-hero-image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum Protocol Studies 2026",
-    "Link": "https://blog.ethereum.org/en/2026/02/17/ethereum-protocol-studies-26",
-    "ImageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_90861cf71a023ade96e2cc7fb49b82e1.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:00:53"
+    "Date": "2026-10-23 05:55:59"
   },
   {
     "Topic": "General News",
-    "Title": " Nissan management shake-up plans reported as sharks circle   ",
-    "Link": "https://www.japantimes.co.jp/business/2025/02/27/companies/nissan-ceo-change/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/02/27/454474.jpg?v=3.1",
+    "Title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+    "Link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:01"
+    "Date": "2026-10-23 05:56:07"
   },
   {
     "Topic": "General News",
-    "Title": " British PM Rishi Sunak avoids wipeout in key local elections ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/politics/uk-sunak-avoids-wipeout-local-elections/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240844.JPG?v=3.1",
+    "Title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+    "Link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/867f/live/90056bb0-ce3c-11f1-a64c-550be9e3c66b.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:05"
+    "Date": "2026-10-23 05:56:10"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
-    "Link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/34de22a/2147483647/strip/true/crop/2270x1192+0+43/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F48%2Ffc%2Fcf86b92b484f9da3927d4c06f537%2Fstate-composition-16x9.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:13"
+    "Topic": "General News",
+    "Title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
+    "Link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/French_Air_Force_Mirage_F1_returns_to_it%27s_mission_after_receiving_fuel_from_a_KC-10_Extender.jpg/960px-French_Air_Force_Mirage_F1_returns_to_it%27s_mission_after_receiving_fuel_from_a_KC-10_Extender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-23 05:56:13"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI startup Vectorial lands $3M in funding to simulate human behavior for consumer research",
-    "Link": "https://siliconangle.com/2026/10/20/ai-startup-vectorial-lands-3m-in-funding-to-simulate-human-behavior-for-consumer-research/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-16-10-22-45.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:16"
+    "Topic": "General News",
+    "Title": "L’Autorité de sûreté nucléaire ne voit pas d’obstacle, pour l’heure, à la poursuite du fonctionnement des réacteurs au-delà de 60 ans",
+    "Link": "https://www.lemonde.fr/planete/article/2026/10/22/l-autorite-de-surete-nucleaire-ne-voit-pas-d-obstacle-pour-l-heure-a-la-poursuite-du-fonctionnement-des-reacteurs-au-dela-de-60-ans_6798652_3244.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/ASNR-map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-23 05:56:16"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "A kernel-centric path to real-time video generation on Trainium",
-    "Link": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/f844dca/2147483647/strip/true/crop/1672x878+0+32/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F64%2F06%2F65de2b8949c5ad6788d04e1cd813%2Ftrainium-cover.png",
+    "Topic": "General News",
+    "Title": "How Arab parties could hold critical balance of power in Israeli election",
+    "Link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:18"
+    "Date": "2026-10-23 05:56:18"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
-    "Link": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/openaiorchestrabio.png",
+    "Topic": "Trading & Crypto",
+    "Title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+    "Link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:21"
+    "Date": "2026-10-23 05:56:26"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI startup Firefly secures $20M to make the physical world a safer place",
-    "Link": "https://siliconangle.com/2026/10/20/ai-startup-firefly-secures-20m-to-make-the-physical-world-a-safer-place/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-20-09-48-41.png",
+    "Topic": "Trading & Crypto",
+    "Title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+    "Link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-22 06:01:23"
+    "Date": "2026-10-23 05:56:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+    "Link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:32"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+    "Link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/02/strategy-microstrategy-learn-gID_7-pID_5.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+    "Link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/OCC-gID_7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:37"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Digelar di 38 Provinsi, Gerakan Pangan Murah Nasional Bidik Stabilisasi Harga Gerakan Pasar Murah Untuk Tekan Harga Bawang Merah",
+    "Link": "https://www.liputan6.com/bisnis/read/8318911/digelar-di-38-provinsi-gerakan-pangan-murah-nasional-bidik-stabilisasi-harga",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/pzpxXWQHFnwS4oZ52fWjahffmvk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4823389/original/093315500_1714990090-Gerakan_pasar_murah_untuk_tekan_harga_bawang_merah_yang_masih_tinggi-ANGGA_5.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:46"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Danantara Bidik 40-50% dari Target Investasi Rp 541 Triliun New Asia Forum Managing Director Global Relations & Communications BPI Danantara, Pahala Mansury",
+    "Link": "https://www.liputan6.com/bisnis/read/8318973/danantara-bidik-40-50-dari-target-investasi-rp-541-triliun-new-asia-forum",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/-JGivnj8TUBPgairyNCsSiFUvfA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9379850/original/001910300_1792649796-danantara2.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:49"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "OJK Lapor Prabowo: Kredit Bank Melesat 13%, Tertinggi Dalam 10 Tahun Ketua Dewan Komisioner OJK, Friderica Widyasari Dewi. (Liputan6.com/Tira Santia)",
+    "Link": "https://www.liputan6.com/bisnis/read/8319251/ojk-lapor-prabowo-kredit-bank-melesat-13-tertinggi-dalam-10-tahun",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/aLCxrFQ3POpKFVGJJJMDwo15xZk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9380315/original/096652100_1792667288-IMG_5444.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:53"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "BRI bersama Pemerintah Perluas Peluang Bisnis Internasional, Dukung Korporasi dan UMKM Tembus Pasar Global BRI Perluas Peluang Bisnis Internasional, Dukung Korporasi dan UMKM Tembus Pasar Global",
+    "Link": "https://www.liputan6.com/bisnis/read/8319112/bri-bersama-pemerintah-perluas-peluang-bisnis-internasional-dukung-korporasi-dan-umkm-tembus-pasar-global",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/FXfxweRR8ylg10FgbTmwXXzQwjo=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9380168/original/033389000_1792660384-WhatsApp_Image_2026-10-21_at_08.38.29...jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:56:56"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Kadin Soroti Investasi Padat Modal di Tengah Penurunan Pekerja Formal Ketua Umum Kadin Indonesia Anindya Bakrie dan pengurus Kadin lainnya dalam konferensi pers Rapimnas Kadin 2026 di Menara Kadin, Jakarta, Kamis (22/10/2026). (Liputan6.com/Tian)",
+    "Link": "https://www.liputan6.com/bisnis/read/8319337/kadin-soroti-investasi-padat-modal-di-tengah-penurunan-pekerja-formal",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/87IfcQ9ZfscBNSsAN4uHho-02Lc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9380194/original/045370000_1792661320-email-attachment_2026_10_22_immanuel-christian_berkaca-pada-1998-kadin-bahas-penguatan-umkm-di-rapimnas_IMG_8180.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:57:00"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "Link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-23 05:57:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Prediction Markets Face Google Ads Limits in Five States",
+    "Link": "https://readwrite.com/prediction-markets-google-ads/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/prediction-markets-google-ads-limits-five-states.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:57:25"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Start building with Gemini 3",
+    "Link": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_dev-blog_meta-01-dark.width-1300.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:57:28"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Treatment funds in proposed South Carolina online betting plan",
+    "Link": "https://readwrite.com/south-carolina-sports-betting-plan/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/10/treatment-funds-south-carolina-online-betting-plan.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-23 05:57:33"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Revealing a key protein behind heart disease",
+    "Link": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-23 05:57:41"
   }
 ]
