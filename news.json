@@ -1,266 +1,322 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Strengthening AI safety evaluation through independent third-party review",
-    "Link": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/3299451/2147483647/strip/true/crop/1344x706+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F75%2Fa3%2F2bf26f074b729cd42d7c68cca6d7%2Fmagnifying-glass-with-checklist.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:15"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-    "Link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/d2f0165/2147483647/strip/true/crop/1947x1022+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fec%2Fd2%2F7abb6a1e4fe29c9cb3c14f33098f%2Fcollaborative-workflow-16x9.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:18"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Amazon launches research initiative with Stanford University to advance AI and science",
-    "Link": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/9dfa94b/2147483647/strip/true/crop/7598x3989+0+540/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F57%2F26%2Fb1f0162a4fcfaa048d7089cb7c17%2F20231114-big-game-week-n6a2693-2.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:21"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
-    "Link": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/cf81c8b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Ffd%2F70%2F3a65a679455aba2bf7e351dff7aa%2Fbiodiscovery-16x9.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:24"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Generative AI Strategy",
-    "Link": "https://huyenchip.com//2023/06/07/generative-ai-strategy.html",
-    "ImageUrl": "https://huyenchip.com/assets/pics/rlhf/1-chatgpt-training.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:27"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Thoughts on Brown Dwarfs, Science Fiction and New Telescopes",
-    "Link": "https://www.centauri-dreams.org/2026/10/14/thoughts-on-brown-dwarfs-science-fiction-and-new-telescopes/",
+    "Topic": "General News",
+    "Title": "1 million Hong Kong employees to get ‘full portability’ of MPF funds in December",
+    "Link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372056/1-million-hong-kong-employees-get-full-portability-mpf-funds-december",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-25 05:11:37"
+    "Date": "2026-10-26 05:13:50"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "Musings on White Dwarfs and Planetary Survival",
-    "Link": "https://www.centauri-dreams.org/2026/10/07/musings-on-white-dwarfs-and-planetary-survival/",
+    "Topic": "General News",
+    "Title": "Beijing pledges to back Taiwan’s pro-unification ‘patriots’ as it marks key anniversary",
+    "Link": "https://www.scmp.com/news/china/politics/article/3372065/beijing-commemorates-end-japanese-rule-over-taiwan-call-reunification",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-25 05:11:43"
+    "Date": "2026-10-26 05:13:54"
   },
   {
     "Topic": "General News",
-    "Title": "Don't fall for this - how to protect yourself from AI scams",
-    "Link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+    "Title": "Israel will Westjordanland am Wahltag abriegeln",
+    "Link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1280",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:52"
+    "Date": "2026-10-26 05:13:59"
   },
   {
     "Topic": "General News",
-    "Title": "Man Utd not an unmanageable club - Carrick",
-    "Link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-    "Link": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
-    "ImageUrl": "https://i.guim.co.uk/img/media/5949b37784145f170b9a40cdf06c532b40e2925d/10_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d796de74babf8cb83395b8b3774f487",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:11:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-    "Link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-    "ImageUrl": "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09ee9b56d012070fb27052dd7f548670",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
-    "Link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:02"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
-    "Link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
-    "ImageUrl": "https://media.wired.com/photos/6ad93d4fded54679300f8db7/191:100/w_1280,c_limit/GettyImages-53043931.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:11"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "No Signs of AI Payoff Outside the Tech Sector",
-    "Link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "ImageUrl": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:16"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-    "Link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-25 05:12:21"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Introducing Google Antigravity 2.0",
-    "Link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-25 05:12:24"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
-    "Link": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
-    "ImageUrl": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/191:100/w_1280,c_limit/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:27"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin holds near $83k as easing bearish momentum puts $89,337 in focus",
-    "Link": "https://coinjournal.net/news/bitcoin-holds-near-83k-as-easing-bearish-momentum-puts-89337-in-focus/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/10/Crypto-Trader-Watches-Bitcoin-Rise.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:36"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "U.S. Congress Advances Strategic Bitcoin Reserve Initiative: A Historic Shift in National Financial Policy",
-    "Link": "https://webscrypto.com/u-s-congress-advances-strategic-bitcoin-reserve-initiative-a-historic-shift-in-national-financial-policy/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-5.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:39"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SHIB Consolidates in Triangle, Burn Surge Fuels Hopes for 142% Rally",
-    "Link": "https://webscrypto.com/shib-consolidates-in-triangle-burn-surge-fuels-hopes-for-142-rally/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:43"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The Q4 Crypto Playbook: 11 Major Narratives That Already Transformed 2025",
-    "Link": "https://webscrypto.com/the-q4-crypto-playbook-11-major-narratives-that-already-transformed-2025/",
-    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/10/image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:45"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Ethereum reclaims $2,400 as falling Treasury yields ease inflation pressure",
-    "Link": "https://coinjournal.net/news/ethereum-reclaims-2400-as-falling-treasury-yields-ease-inflation-pressure/",
-    "ImageUrl": "https://coinjournal.net/wp-content/uploads/2026/10/Traders-Analyze-Ethereums-Bullish-Rally.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:48"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Applied Materials: It's Time To Double Down (Earnings Preview)",
-    "Link": "https://seekingalpha.com/article/4957224-applied-materials-its-time-to-double-down-earnings-preview?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246017119/image_2246017119.jpg?io=getty-c-w1536",
-    "ImageSource": "og:image",
-    "Date": "2026-10-25 05:12:57"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
-    "Link": "https://seekingalpha.com/article/4957196-fed-decision-microsoft-alphabet-earnings-highlight-blockbuster-week?source=feed_all_articles",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Campus%2C_Mountain_View%2C_CA.jpg/960px-Google_Campus%2C_Mountain_View%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "How China’s regional leadership changes offer clues to the future of the Communist Party",
+    "Link": "https://www.scmp.com/news/china/politics/article/3372064/how-chinas-regional-leadership-changes-offer-clues-future-communist-party",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Danghui.svg/960px-Danghui.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-25 05:13:03"
+    "Date": "2026-10-26 05:14:02"
   },
   {
-    "Topic": "Economy",
-    "Title": "Klasemen Akhir Asian Para Games 2026: Indonesia Raih 15 Emas, Finis di Posisi 8",
-    "Link": "https://www.viva.co.id/sport/1938401-klasemen-akhir-asian-para-games-2026-indonesia-raih-15-emas-finis-di-posisi-8",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6adcf7f18710d-pasangan-ganda-campuran-para-bulu-tangkis-indonesia-subhanrina-marlina-berhasil-raih-medali-emas-asian-para-games-2026_gemini_1265_711.jpg",
+    "Topic": "General News",
+    "Title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners ",
+    "Link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoW2eYRA/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1280",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:06"
+    "Date": "2026-10-26 05:14:05"
   },
   {
-    "Topic": "Economy",
-    "Title": "Tesla Plus SpaceX: 5 Reasons This Merger Is A Terrible Idea",
-    "Link": "https://seekingalpha.com/article/4957241-tesla-plus-spacex-5-reasons-this-merger-is-a-terrible-idea?source=feed_all_articles",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NextGenTeslaRoadster_%28cropped%29.jpg/960px-NextGenTeslaRoadster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-25 05:13:11"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Hasil Isenmulang FC Vs PSIM Jogja 0-0: Laskar Mataram Masih Puasa Tripoin",
-    "Link": "https://www.viva.co.id/bola/1938334-hasil-isenmulang-fc-vs-psim-jogja-0-0-laskar-mataram-masih-puasa-tripoin",
-    "ImageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/24/6adc962ddc317-laga-isenmulang-fc-vs-psim-jogja_gemini_1265_711.jpg",
+    "Topic": "Data / AI",
+    "Title": "How deeptech companies can use  AI for smarter R&D bets",
+    "Link": "https://www.aiacceleratorinstitute.com/how-deeptech-companies-can-use-ai-for-smarter-r-d-bets/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Website_Article_Images_Author_Highlight--5--2.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:14"
+    "Date": "2026-10-26 05:14:15"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Renting GPUs felt smart in 2023:  The math has moved",
+    "Link": "https://www.aiacceleratorinstitute.com/renting-gpus-felt-smart-in-2023-the-math-has-moved/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Website_Article_Images_Doodles--4--3.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:20"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The hidden network powering AI: Why fiber is the new bottleneck",
+    "Link": "https://www.aiacceleratorinstitute.com/the-hidden-network-powering-ai/",
+    "ImageUrl": "https://storage.ghost.io/c/26/b3/26b323cb-c378-4831-bc7d-27e29def746a/content/images/2026/10/AIAI_Event_Hub_Images--8--3.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:23"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "The hidden complexity of a daily average in DAX",
+    "Link": "https://www.sqlbi.com/tv/the-hidden-complexity-of-a-daily-average-in-dax/",
+    "ImageUrl": "https://i.ytimg.com/vi/ajsAULaG_3s/maxresdefault.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:27"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Continuous axis for any Date table in Power BI",
+    "Link": "https://www.sqlbi.com/articles/continuous-axis-for-any-date-table-in-power-bi/",
+    "ImageUrl": "https://www.sqlbi.com/wp-content/uploads/C0310-11.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:30"
   },
   {
     "Topic": "Science",
-    "Title": "Could On-Policy Self-Distillation Revolutionize Post-Training?",
-    "Link": "https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/960px-Dampfturbine_Montage01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/radiation-warning-sign-dead-trees-chernobyl-exclusion-zone-close.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:40"
+  },
+  {
+    "Topic": "Science",
+    "Title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/reinjection-caldera.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:43"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Birds are more afraid of women than men. Scientists have no idea why",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/smiling-man-feeding-pigeons-in-front-of-historic-cathedral.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:47"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Honey bees are bullying other bees, scientists discover",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/bee-flapping-wings-cooling-hive.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:50"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:14:53"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "PHP Flaw Shakes Internet, Bitcoin Flashes Bull Signal, and More – Weekly Recap",
+    "Link": "https://news.bitcoin.com/featured/php-flaw-shakes-internet-bitcoin-flashes-bull-signal-and-more-weekly-recap/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/php-flaw-shakes-internet-bitcoin-flashes-bull-signal-and-more--weekly-recap-scaled.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:10"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "X Forced Every US Creator Into X Money on Sept 2, and Within 12 Days a Memecoin Hit $36 Million by Routing Fees Through It",
+    "Link": "https://dailycoinpost.com/x-money-creator-fees-paid-memecoin-36-million-september-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/paid.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:13"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin ETFs Lose $138M as Zcash Extends 3-Day Inflow Streak",
+    "Link": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-138m-as-zcash-extends-3-day-inflow-streak/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-etfs-lose-138m-as-zcash-extends-3-day-inflow-streak.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:18"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "UnitedHealth: Fundamentals Are Healing, Now the Chart Must Agree",
+    "Link": "https://fxopen.com/blog/en/an-unitedhealth-fundamentals-are-healing-now-the-chart-must-agree/",
+    "ImageUrl": "https://fxopen.com/blog/en/content/images/2026/09/UnitedHealth--2-.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:22"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Peter Schiff Warns Bitcoin Could Hit $75K After BTC Fell Below $80K",
+    "Link": "https://news.bitcoin.com/market-updates/peter-schiff-warns-bitcoin-could-hit-75k-after-btc-fell-below-80k/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-price-oct-24.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:26"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "Link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:34"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "See the top style searches from people in big fashion capitals.",
+    "Link": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-1440x810.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:38"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+    "Link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thumbnail.max-1440x810.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:41"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Foundations of Scalable AI",
+    "Link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "ImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Expanding our defenses against financial scam ads",
+    "Link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada_herosocial.width-1300.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:47"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Indonesia Resmi Pangkas Ekspor Gas ke Singapura Mulai Hari Ini Ilustrasi Wilayah Kerja Minyak dan Gas Bumi atau blok migas. (Dok Kementerian ESDM)",
+    "Link": "https://www.liputan6.com/bisnis/read/8320341/indonesia-resmi-pangkas-ekspor-gas-ke-singapura-mulai-hari-ini",
+    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/dYBxKPpQi_4lX8Rled-AiSnJqBA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5452614/original/031841000_1766410968-WhatsApp_Image_2025-12-22_at_19.29.00__1_.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:15:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "When Cyber Becomes an Earnings Event: The Board’s Role in Enterprise Resilience",
+    "Link": "https://www.nasdaq.com/articles/governance/when-cyber-becomes-an-earnings-event-board-resilience",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-26 05:16:04"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "U.S. Treasury Clearing Mandate: Key Considerations for Market Participants ",
+    "Link": "https://www.nasdaq.com/articles/fintech/us-treasury-clearing-mandate-key-considerations",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-10-26 05:16:10"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Pertamina Amankan Impor BBM Hingga Awal 2027 Harga BBM Naik, Pertalite Jadi Rp 10.000, Pertamax Jadi 14.500, Solar Jadi 6.800",
+    "Link": "https://www.liputan6.com/bisnis/read/8320537/pertamina-amankan-impor-bbm-hingga-awal-2027",
+    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/lKO7GP-EuFmgW8i3XTt_xd7EjXA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4145397/original/045304300_1662189220-Harga_BBM_Naik-Faizal-1.JPG",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:16:14"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "These ProShares ETFs Let You Unlock More from the Nasdaq-100",
+    "Link": "https://www.nasdaq.com/articles/global-indexes/these-proshares-etfs-let-you-unlock-more-nasdaq-100",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vereinigte_Ostindische_Compagnie_bond_-_Middelburg_-_Amsterdam_-_1622.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-25 05:13:26"
+    "Date": "2026-10-26 05:16:21"
   },
   {
     "Topic": "Movies",
-    "Title": "‘Crawl 2’ Adds Sarah Niles, Ray Panthaki and 3 More Ahead of 2027 Paramount Release (Exclusive)",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/crawl-2-sarah-niles-ray-panthaki-flula-borg-sequel-1236739368/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Crawl-Casting-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "Title": "D'Orc Live-Action Rights Acquired By Sony, Brett Bean Will Adapt",
+    "Link": "https://bleedingcool.com/movies/dorc-live-action-rights-acquired-by-sony-brett-bean-will-adapt/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/12/dorc_2-A-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:40"
+    "Date": "2026-10-26 05:16:30"
   },
   {
     "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘The Invite’ on HBO Max, a Robust Four-Hander Comedy Directed by and Starring Olivia Wilde",
-    "Link": "https://decider.com/2026/10/23/the-invite-hbo-max-review-stream-it-or-skip-it/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/08/the-invite-streaming-hbo-max-release-date.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "After Street Fighter, Hulu Is Bringing Back This Overlooked $240M Video Game Movie",
+    "Link": "https://www.comingsoon.net/movies/news/2211022-hulu-assassins-creed-streaming-return-release-date",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/MixCollage-23-Oct-2026-09-35-AM-6698.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:42"
+    "Date": "2026-10-26 05:16:34"
   },
   {
     "Topic": "Movies",
-    "Title": "'The Ultimatum' Star Vanessa Papa Arrested For Operating A Vehicle While Intoxicated",
-    "Link": "https://www.tmz.com/2026/10/24/vanessa-papa-arrested/",
-    "ImageUrl": "https://imagez.tmz.com/image/db/16by9/2026/10/24/db7e17ad871f4fdbb4b91c3824f036ea_xl.jpg",
+    "Title": "The Penguin Showrunner Being Eyed for DCU Poison Ivy Series: Report",
+    "Link": "https://bleedingcool.com/tv/the-penguin-showrunner-being-eyed-for-dcu-poison-ivy-series-report/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-21-Oct-2026-03-07-PM-1974-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:46"
+    "Date": "2026-10-26 05:16:38"
   },
   {
     "Topic": "Movies",
-    "Title": "‘The Invite’ Movie Ending Explained: Do Olivia Wilde and Seth Rogen Break Up?",
-    "Link": "https://decider.com/2026/10/23/the-invite-movie-ending-explained-do-olivia-wilde-and-seth-rogen-break-up/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/10/the-invite-movie-ending-explained.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "Hudson Williams Says He’s Writing a Film Featuring an ‘Ex-Hockey Player’ and Is ‘Getting Tripped Up’ by ‘Heated Rivalry’ Parallels",
+    "Link": "https://variety.com/2026/film/news/hudson-williams-new-film-heated-rivalry-parallel-1236930742/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/01/GettyImages-2255766028-e1769776466257.jpg?w=990&#038;h=555&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:48"
+    "Date": "2026-10-26 05:16:42"
   },
   {
     "Topic": "Movies",
-    "Title": "New ‘Alien’ Movie in the Works With Writer Aaron Guzikowski (Exclusive)",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/new-alien-movie-in-the-works-1236739216/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Aaron-Guzikowski-Xenomorph-Split-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "Title": "Soccer Drama ‘Forza,’ With AC Milan Great Alessandro Costacurta, Heads to Tokyo Market With EST N8 (EXCLUSIVE)",
+    "Link": "https://variety.com/2026/film/news/soccer-drama-forza-ac-milan-alessandro-costacurta-tokyo-market-est-n8-1236930538/",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2026/10/Forza.jpg?w=1000&#038;h=563&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-10-25 05:13:51"
+    "Date": "2026-10-26 05:16:45"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA's Mars rover Perseverance has broken a landmark distance record",
+    "Link": "https://www.npr.org/2026/10/13/nx-s1-6000190/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:16:54"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "MIT built a ring of copper wire around Earth in 1963, and more than 20 clumps of it are still in orbit",
+    "Link": "https://spacedaily.com/mit-built-a-ring-of-copper-wire-around-earth-in-1963-and-more-than-20-clumps-of-it-are-still-in-orbit/",
+    "ImageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/westford-dipole-dispenser-udvar-hazy.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:16:58"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "The latest in space science: We look back at the Big Bang",
+    "Link": "https://www.npr.org/2026/10/23/nx-s1-6008076/the-latest-in-space-science-we-look-back-at-the-big-bang",
+    "ImageUrl": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:17:02"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "To reach Jupiter, Juice took a detour past Venus, then returned to Earth on 28 September for a successful gravity boost while using our Moon to rehearse the navigation it will need around Jupiter’s icy moons.",
+    "Link": "https://spacedaily.com/t-juice-venus-earth-moon-navigation-rehearsal/",
+    "ImageUrl": "https://spacedaily.com/wp-content/uploads/2026/09/esa-juice-flies-past-earth-2026-1024x440.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:17:06"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Astronauts on the Moon could shelter from radiation, micrometeoroids and extreme temperatures inside a lava tube, and NASA is sending a suite called GIMLI to scan beneath the Marius Hills Pit to see whether the pit opens into one",
+    "Link": "https://spacedaily.com/marius-hills-pit-gimli-lava-tube/",
+    "ImageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/marius-hills-pit-nasa-lroc-asu-public-domain.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-26 05:17:10"
   }
 ]
