@@ -1,165 +1,5 @@
 [
   {
-    "CanonicalKey": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-    "SentDate": "2026-09-28 05:44:57"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
-    "SentDate": "2026-09-28 05:44:59"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
-    "SentDate": "2026-09-28 05:45:02"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-    "SentDate": "2026-09-28 05:45:04"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
-    "SentDate": "2026-09-28 05:45:06"
-  },
-  {
-    "CanonicalKey": "https://irishspaceblog.blogspot.com/2016/06/space-station-trio-return-to-earth.html",
-    "SentDate": "2026-09-28 05:45:14"
-  },
-  {
-    "CanonicalKey": "https://irishspaceblog.blogspot.com/2017/07/in-conversation-with-astronaut-paolo.html",
-    "SentDate": "2026-09-28 05:45:16"
-  },
-  {
-    "CanonicalKey": "https://irishspaceblog.blogspot.com/2016/01/astronauts-complete-spacewalk-to.html",
-    "SentDate": "2026-09-28 05:45:19"
-  },
-  {
-    "CanonicalKey": "https://irishspaceblog.blogspot.com/2016/10/dream-big-space-limerick-and-two-mens.html",
-    "SentDate": "2026-09-28 05:45:21"
-  },
-  {
-    "CanonicalKey": "https://irishspaceblog.blogspot.com/2015/12/see-space-station-over-uk-and-ireland.html",
-    "SentDate": "2026-09-28 05:45:23"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/tech/best-early-amazon-october-prime-day-gaming-deals-2026",
-    "SentDate": "2026-09-28 05:45:31"
-  },
-  {
-    "CanonicalKey": "https://wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law",
-    "SentDate": "2026-09-28 05:45:33"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/entertainment/pokemon-characters-weirdest-little-freaks-series-history",
-    "SentDate": "2026-09-28 05:45:35"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/life/best-early-amazon-october-prime-day-trading-card-deals-2026",
-    "SentDate": "2026-09-28 05:45:38"
-  },
-  {
-    "CanonicalKey": "https://mashable.com/life/taylor-swift-pink-clouding-lyrics-meaning-theories",
-    "SentDate": "2026-09-28 05:45:40"
-  },
-  {
-    "CanonicalKey": "https://theguardian.com/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani",
-    "SentDate": "2026-09-28 05:45:47"
-  },
-  {
-    "CanonicalKey": "https://zeit.de/politik/ausland/2026-09/aleksandar-vucic-ruecktritt-serbien-praesident-parlamentswahl",
-    "SentDate": "2026-09-28 05:45:49"
-  },
-  {
-    "CanonicalKey": "https://zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu",
-    "SentDate": "2026-09-28 05:45:51"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-    "SentDate": "2026-09-28 05:45:54"
-  },
-  {
-    "CanonicalKey": "https://france24.com/en/poland-fears-ukraine-war-could-spill-over",
-    "SentDate": "2026-09-28 05:45:56"
-  },
-  {
-    "CanonicalKey": "https://leaprate.com/cryptocurrency/moonpay-to-acquire-north-capital-adding-sec-licensed-broker-dealer-and-ats-to-tokenisation-push",
-    "SentDate": "2026-09-28 05:46:12"
-  },
-  {
-    "CanonicalKey": "https://globalcryptopress.com/2026/09/wall-street-keeps-buying-bitcoin-even.html",
-    "SentDate": "2026-09-28 05:46:14"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/bitcoin-hashrate-falls-to-3-week-low-as-miners-cut-btc",
-    "SentDate": "2026-09-28 05:46:16"
-  },
-  {
-    "CanonicalKey": "https://crypto.news/south-korea-weighs-liquidity-rules-for-won-stablecoins",
-    "SentDate": "2026-09-28 05:46:19"
-  },
-  {
-    "CanonicalKey": "https://leaprate.com/financial-services/exchanges/nyse-signs-preliminary-mou-with-blockchain-com-to-distribute-tokenised-us-stocks",
-    "SentDate": "2026-09-28 05:46:24"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs",
-    "SentDate": "2026-09-28 05:46:32"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments",
-    "SentDate": "2026-09-28 05:46:34"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/2026-could-be-the-turning-point-on-climate-action-al-gore-says",
-    "SentDate": "2026-09-28 05:46:37"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/scientists-just-found-a-bizarre-cosmic-object-hiding-in-plain-sight",
-    "SentDate": "2026-09-28 05:46:39"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/what-a-trump-order-to-put-political-appointees-in-charge-of-nih-funding-would-mean-for-science",
-    "SentDate": "2026-09-28 05:46:42"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2197631-werwulf-robert-eggers-horror-movie-alternate-reality-game-spin-off",
-    "SentDate": "2026-09-28 05:46:59"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2197315-cameron-diaz-kate-winslet-jude-law-the-holiday-coming-hulu",
-    "SentDate": "2026-09-28 05:47:01"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/tv/news/2197861-saturday-night-live-season-52-new-cast-peacock-premiere",
-    "SentDate": "2026-09-28 05:47:04"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2196455-new-netflix-releases-this-week-september-28-october-4",
-    "SentDate": "2026-09-28 05:47:06"
-  },
-  {
-    "CanonicalKey": "https://comingsoon.net/movies/news/2197442-sam-claflin-william-hope-supernatural-horror-movie-peacock",
-    "SentDate": "2026-09-28 05:47:08"
-  },
-  {
-    "CanonicalKey": "https://viva.co.id/bisnis/1931435-bobby-nasution-ajak-ikm-sumut-perkuat-ekonomi-keumatan-dan-industri-halal",
-    "SentDate": "2026-09-28 05:47:16"
-  },
-  {
-    "CanonicalKey": "https://viva.co.id/bisnis/1931425-kembangkan-ekonomi-lokal-warga-kawasan-transmigrasi-papua-barat-dilatih-olah-biji-pala-jadi-hand-sanitizer",
-    "SentDate": "2026-09-28 05:47:21"
-  },
-  {
-    "CanonicalKey": "https://viva.co.id/berita/nasional/1931456-sindikat-penyelundupan-bbm-subsidi-solar-dibongkar-modusnya-borong-beli-di-spbu-lalu-jual-harga-industri",
-    "SentDate": "2026-09-28 05:47:25"
-  },
-  {
-    "CanonicalKey": "https://viva.co.id/otomotif/1931466-suku-cadang-buatan-indonesia-mulai-dibidik-pasar-global-ini-negara-tujuannya",
-    "SentDate": "2026-09-28 05:47:30"
-  },
-  {
-    "CanonicalKey": "https://foxbusiness.com/markets/continental-resources-strikes-venezuela-oil-development-deal",
-    "SentDate": "2026-09-28 05:47:34"
-  },
-  {
     "CanonicalKey": "https://scientificamerican.com/podcast/episode/growing-ai-energy-demands-the-search-for-subatomic-particles-and-the-hottest-amoeba",
     "SentDate": "2026-09-29 07:07:12"
   },
@@ -4486,5 +4326,145 @@
   {
     "CanonicalKey": "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html",
     "SentDate": "2026-10-27 06:33:35"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+    "SentDate": "2026-10-28 06:25:35"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues",
+    "SentDate": "2026-10-28 06:25:38"
+  },
+  {
+    "CanonicalKey": "https://ameera.republika.co.id/berita/tnktv3348/the-longest-wait-kisah-di-balik-perjalanan-timnas-indonesia-diputar-terbatas-di-bioskop-hari-ini",
+    "SentDate": "2026-10-28 06:25:41"
+  },
+  {
+    "CanonicalKey": "https://france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
+    "SentDate": "2026-10-28 06:25:44"
+  },
+  {
+    "CanonicalKey": "https://esgnow.republika.co.id/berita/tnla1a370/warga-terkaya-dunia-sumbang-polusi-karbon-tertinggi",
+    "SentDate": "2026-10-28 06:25:47"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/10/27/the-one-about-matthew-perry-netflix-review",
+    "SentDate": "2026-10-28 06:25:55"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/10/27/from-season-4-on-netflix-release-date-from-season-5-next-season-mgm-plus-netflix",
+    "SentDate": "2026-10-28 06:25:58"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/10/27/yaga-on-amc-stream-it-or-skip-it",
+    "SentDate": "2026-10-28 06:26:00"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/10/27/nocturne-review-apple-tv",
+    "SentDate": "2026-10-28 06:26:02"
+  },
+  {
+    "CanonicalKey": "https://decider.com/2026/10/27/verity-prime-video-and-streaming-review-stream-it-or-skip-it",
+    "SentDate": "2026-10-28 06:26:04"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/blogs/missions/2026/10/13/nasa-completes-artemis-iii-booster-stacking-shares-status-update",
+    "SentDate": "2026-10-28 06:26:14"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/10/iss-roundup-102226",
+    "SentDate": "2026-10-28 06:26:17"
+  },
+  {
+    "CanonicalKey": "https://theguardian.com/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
+    "SentDate": "2026-10-28 06:26:19"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/10/launch-preview-102626",
+    "SentDate": "2026-10-28 06:26:22"
+  },
+  {
+    "CanonicalKey": "https://skyandtelescope.org/astronomy-news/did-venus-and-the-hyades-star-cluster-inspire-van-goghs-the-starry-night",
+    "SentDate": "2026-10-28 06:26:24"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/roundup/best-wireless-earbuds-expert-tested-reviewed-2026",
+    "SentDate": "2026-10-28 06:26:31"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/everything-announced-m6-macbook-event",
+    "SentDate": "2026-10-28 06:26:33"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/iphone-duo-screen-crack-robot-fold-livestream",
+    "SentDate": "2026-10-28 06:26:35"
+  },
+  {
+    "CanonicalKey": "https://stratechery.com/2026/do-you-trust-apple",
+    "SentDate": "2026-10-28 06:26:38"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/life/dominos-minecraft-collab-free-game-how-to-claim",
+    "SentDate": "2026-10-28 06:26:40"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261024222024.htm",
+    "SentDate": "2026-10-28 06:26:49"
+  },
+  {
+    "CanonicalKey": "https://phys.org/news/2026-10-brain-ghosts-science-bloody-mary.html",
+    "SentDate": "2026-10-28 06:26:52"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261022081306.htm",
+    "SentDate": "2026-10-28 06:26:54"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261025222339.htm",
+    "SentDate": "2026-10-28 06:26:57"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261021231248.htm",
+    "SentDate": "2026-10-28 06:27:00"
+  },
+  {
+    "CanonicalKey": "https://analyticsindiamag.com/ai-news/coforge-revenue-rises-54-as-ai-engineering-and-deal-bookings-gain-momentum",
+    "SentDate": "2026-10-28 06:27:09"
+  },
+  {
+    "CanonicalKey": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
+    "SentDate": "2026-10-28 06:27:12"
+  },
+  {
+    "CanonicalKey": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
+    "SentDate": "2026-10-28 06:27:15"
+  },
+  {
+    "CanonicalKey": "https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai",
+    "SentDate": "2026-10-28 06:27:17"
+  },
+  {
+    "CanonicalKey": "https://analyticsindiamag.com/it-services/infosyss-52-billion-deal-wins-fail-to-lift-fy27-outlook",
+    "SentDate": "2026-10-28 06:27:19"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2015/11/15/merkling-in-ethereum",
+    "SentDate": "2026-10-28 06:27:26"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2015/03/20/ethereum-builders-experiment",
+    "SentDate": "2026-10-28 06:27:29"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2014/06/05/ethereum-project-update",
+    "SentDate": "2026-10-28 06:27:32"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2023/05/03/secured-5-disclosures-update",
+    "SentDate": "2026-10-28 06:27:34"
+  },
+  {
+    "CanonicalKey": "https://blog.ethereum.org/en/2020/12/09/ef-supported-teams-research-and-development-update-2020-pt-2",
+    "SentDate": "2026-10-28 06:27:37"
   }
 ]
