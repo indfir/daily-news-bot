@@ -1,322 +1,218 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "Phobos and Deimos, the moons of Mars",
-    "Link": "https://www.planetary.org/worlds/phobos-and-deimos",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/hope-deimos-over-mars.jpg?mtime=1753480628",
+    "Topic": "Data / AI",
+    "Title": "Agents",
+    "Link": "https://huyenchip.com//2025/01/07/agents.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/agents/2-agent-pattern.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:12"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Meet the next generation of Mars exploration",
-    "Link": "https://www.planetary.org/articles/the-new-faces-of-mars",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/phobos-over-olympus-mons.jpg?mtime=1753481675",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Who knew there were so many more moons?",
-    "Link": "https://www.planetary.org/the-downlink/who-knew-there-were-so-many-more-moons",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/ngr-deployment.jpg?mtime=1788378670",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:18"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The best images from the 2026 solar eclipse",
-    "Link": "https://www.planetary.org/articles/the-best-images-from-the-2026-solar-eclipse",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/the-moon-and-the-suns-corona.jpg?mtime=1786659115",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The best space images of the month",
-    "Link": "https://www.planetary.org/space-images/the-best-space-images-of-the-month",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/iss-over-mt-shuksan.jpg?mtime=1790901938",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:24"
+    "Date": "2026-10-30 06:45:11"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Teaching LLMs to reason like Bayesians",
-    "Link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+    "Link": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+    "ImageUrl": "https://cdn.amazon.science/dims4/default/59f4542/2147483647/strip/true/crop/2640x1386+0+50/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F1e%2F87%2F9bb4772c49c0ac4043d219fd994c%2Fproject-rainier-ai-trainium-chips-compute-cluster.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:33"
+    "Date": "2026-10-30 06:45:14"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Empowering frontline maternal care with AI-assisted ultrasound",
-    "Link": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "Predictive Human Preference: From Model Ranking to Model Routing",
+    "Link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
+    "ImageUrl": "https://huyenchip.com/assets/pics/predictive-preference/8-easy-hard-prompts.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:36"
+    "Date": "2026-10-30 06:45:17"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Sovereign AI is an architecture decision",
-    "Link": "https://www.datarobot.com/blog/solution-ai-architecture-decision/",
-    "ImageUrl": "https://www.datarobot.com/wp-content/uploads/2026/10/Architecture-comparison@2x-1024x427.png",
+    "Title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/23/ML-22246-featured-image.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:39"
+    "Date": "2026-10-30 06:45:20"
   },
   {
     "Topic": "Data / AI",
-    "Title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-    "Link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-    "ImageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+    "Title": "DAX LLM Benchmark v2",
+    "Link": "https://www.sqlbi.com/blog/marco/2026/10/27/dax-llm-benchmark-v2/",
+    "ImageUrl": "https://www.sqlbi.com/wp-content/uploads/daxbench-v2-03.png",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:42"
+    "Date": "2026-10-30 06:45:23"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence",
-    "Link": "https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "Yes, James Gunn Answers Your The Suicide Squad/DCU Canon Questions",
+    "Link": "https://bleedingcool.com/tv/yes-james-gunn-answers-your-the-suicide-squad-dcu-canon-questions/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-29-Oct-2026-09-06-AM-1112-2000x1125.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-10-29 06:48:44"
+    "Date": "2026-10-30 06:45:44"
   },
   {
-    "Topic": "General News",
-    "Title": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes  ",
-    "Link": "https://elpais.com/espana/2026-10-28/el-accidente-de-dos-trenes-de-alta-velocidad-en-toledo-en-imagenes.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/BBAZ56W6WJHT5IMWDWHPVSNDRM.jpeg?auth=b1d420627a9cef9eb7f46ac7238a888b7868c30941ad1711a1145f3ab9626906&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:02"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Merawat Jangkar Persatuan, Menempa Pemuda yang Patriotik, Tanggung dan Berempati di Era Polarasisasi",
-    "Link": "https://opini.republika.co.id/berita/tnm39t377/merawat-jangkar-persatuan-menempa-pemuda-yang-patriotik-tanggung-dan-berempati-di-era-polarasisasi",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/015030600-1793168668-830-556.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:06"
-  },
-  {
-    "Topic": "General News",
-    "Title": "PSSI Cari Alternatif Uji Coba Timnas Indonesia di Luar Negeri",
-    "Link": "https://news.republika.co.id/berita/tnmn8s348/pssi-cari-alternatif-uji-coba-timnas-indonesia-di-luar-negeri",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_261028233730-214.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:10"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Huawei’s Tau Scaling Law roll-out reaches base stations in blow to US chip curbs",
-    "Link": "https://www.scmp.com/tech/big-tech/article/3372454/huaweis-tau-scaling-law-roll-out-reaches-base-stations-blow-us-chip-curbs",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-29 06:49:13"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Los agricultores suspenden la protesta ante el Ministerio de Agricultura por el accidente ferroviario",
-    "Link": "https://elpais.com/economia/2026-10-28/los-agricultores-suspenden-la-protesta-ante-el-ministerio-de-agricultura-por-el-accidente-ferroviario.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/H5FQRXNMW5AMFNWMNPQL7J5N7U.JPG?auth=c578cb7fe8f88a8e1b8101b395c27e6f812ac31bf7a4b0c4d6cc235e3dcfa194&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:18"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Your RAG Pipeline Is Missing a 1994 Algorithm",
-    "Link": "https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-29 06:49:27"
-  },
-  {
-    "Topic": "Science",
-    "Title": "The phantom lighthouse: New research explains one of Australia's strangest illusions",
-    "Link": "https://phys.org/news/2026-10-phantom-lighthouse-australia-strangest-illusions.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "Topic": "Movies",
+    "Title": "Polka-Dot Man TV Show Gets Surprising James Gunn Update, But There’s a Catch",
+    "Link": "https://www.comingsoon.net/tv/news/2215300-polka-dot-man-tv-show-surprising-james-gunn-update-catch",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Buddy_Guy_2008_%283x4_cropped%29.jpg/960px-Buddy_Guy_2008_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-29 06:49:29"
+    "Date": "2026-10-30 06:45:47"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists count more than 2 million eels on one underwater mountain",
-    "Link": "https://phys.org/news/2026-10-scientists-million-eels-underwater-mountain.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-29 06:49:33"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",
-    "Link": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Physics-informed_nerural_networks.png/960px-Physics-informed_nerural_networks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Movies",
+    "Title": "Zachary Levi & Parks and Rec Star Cast in Faith-Based Comedy TV Show, Shazam! Star Gives Statement",
+    "Link": "https://www.comingsoon.net/tv/news/2215353-zachary-levi-parks-and-rec-star-cast-faith-based-comedy-tv-show-shazam-star-statement",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Zachary_Levi_%2854238375564%29.jpg/960px-Zachary_Levi_%2854238375564%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-10-29 06:49:41"
+    "Date": "2026-10-30 06:45:50"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "DCU Is About Telling \"THAT story,\" Not the Next Story: James Gunn",
+    "Link": "https://bleedingcool.com/tv/dcu-is-about-telling-that-story-not-the-next-story-james-gunn/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2025/08/MixCollage-20-Aug-2025-04-44-PM-2320-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:45:52"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Why Dave Bautista Turned Down Peacemaker DC Role Explained by James Gunn",
+    "Link": "https://www.comingsoon.net/movies/news/2215422-why-dave-bautista-turned-down-peacemaker-dc-role-james-gunn",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-10-30 06:45:55"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "Link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1792414277&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:03"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "Link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108220143-1761932982247-gettyimages-2243837894-DALLAS_FED_SPEAK.jpeg?v=1761933060&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:07"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "After a yearslong slump, China's real estate market may be set for a turnaround",
+    "Link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108374648-1791426877493-gettyimages-2294885269-cfoto-realesta260915_npyUu.jpeg?v=1791426916&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:09"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "Link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108228681-17635880692025-11-19t213101z_1449560909_rc2vzhasrx93_rtrmadp_0_usa-trump-epstein-summers.jpeg?v=1787325550&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:12"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+    "Link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108091506-1737654883210-1U8A2251.JPG?v=1737655004&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:14"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX Dragon Returns to Flight Bound for the International Space Station",
+    "Link": "https://irishspaceblog.blogspot.com/2016/04/spacex-dragon-returns-to-flight-bound.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQo_AVeenwmEZtl2bJfNo7TABieZXa1pzVyJjZojDwTKdbAmI0kL2tVL26_B6hHELUN4fZHPqrlzRCQx5AZODPKO6-kuvaKZChZZGXI-vBOGcUMxi58OyPh5FZIfyz4U7wbEx80O6etMoV/w1200-h630-p-k-no-nu/crs-8.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Summer of Quantum: Building momentum for space-based QKD",
+    "Link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:24"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Space Station Trio Return to Earth",
+    "Link": "https://irishspaceblog.blogspot.com/2016/06/space-station-trio-return-to-earth.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwjovlkZFhE6WAYcizFgr5EjbSi2Bg8kLh5iAqGkCG4i_yjxigCBr9EKzwZB-PwC8-ikWChF0cYd-BB2mEq-IUAg834hHwTD50tZvRSGRStp3FRYMqmX_0joTx9BDdLucajQfDelt3hxVv/w1200-h630-p-k-no-nu/soyuztma19m.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:26"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Cygnus Cargo Craft Departs International Space Station",
+    "Link": "https://irishspaceblog.blogspot.com/2016/02/cygnus-cargo-craft-departs.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0KDXSeGCxCNkiu0uV6iJ-ya2RFcwmDa6wgp0C16j7DHqU6mI22iNTXDeC7BGRBP6JjsAtJchSFbg-05LhZPNltz24gE78yYd9L-zwP3zbsOXedGmm3IQuDMQC-t334A-0kGygLYesrd5K/w1200-h630-p-k-no-nu/Cbk2aukVIAA3S6H.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:28"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "See the Space Station over the UK and Ireland in December",
+    "Link": "https://irishspaceblog.blogspot.com/2015/12/see-space-station-over-uk-and-ireland.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjunJ1T1HyNI7LGdKknMY8wJbEyISwWOEtiHbnVoluiUaZcANksrCPnqME5xyuujbIZ0qqzpdxag1NV4NCn1ncBHOYG96WCuE5bEHI3vSONdAlZvi9WQ2J0yz-4MrLVgH_QasQ8UGCT7vsb/w1200-h630-p-k-no-nu/iss.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:30"
   },
   {
     "Topic": "Science",
-    "Title": "Customizable DNA labels can selectively guide drug carriers to cancer cells",
-    "Link": "https://phys.org/news/2026-10-customizable-dna-drug-carriers-cancer.html",
+    "Title": "5 Docker Containers You Need for a Home AI Lab",
+    "Link": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/mlm-context-managers-beyond-opening-files-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:38"
+  },
+  {
+    "Topic": "Science",
+    "Title": "7 Advanced Python Design Patterns for Data Scientists",
+    "Link": "https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists",
+    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-7-advanced-python-design-patterns-for-data-scientists-feature.png",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "XRP Ledger adds Flare to validator list as Anodos steps down",
+    "Link": "https://crypto.news/xrp-ledger-flare-validator-list-anodos/",
+    "ImageUrl": "https://media.crypto.news/2026/06/XRPnew1.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:48"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+    "Link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-29 06:49:43"
+    "Date": "2026-10-30 06:46:51"
   },
   {
-    "Topic": "Movies",
-    "Title": "Mike Flanagan Confirms Hidden Dark Tower Easter Egg in Carrie TV Show",
-    "Link": "https://www.comingsoon.net/tv/news/2214539-mike-flanagan-hidden-dark-tower-easter-egg-carrie-tv-show",
+    "Topic": "Trading & Crypto",
+    "Title": "Tether freezes $971M USDT amid suspected Binance hack as crypto sells off",
+    "Link": "https://investinglive.com/cryptocurrency/tether-freezes-971m-usdt-amid-suspected-binance-hack-as-crypto-sells-off/",
+    "ImageUrl": "https://investinglive.com/cms/media/Processed/Categories/featured/btc%20lower%20suspected%20hack%2030%20October%202026-featured-1793308488.jpg?width=960&amp;format=webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:54"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "CryptoBilis Ledger hack: $95 million stolen, $10 million frozen",
+    "Link": "https://crypto.news/cryptobilis-ledger-drainer-95m-stolen-funds/",
+    "ImageUrl": "https://media.crypto.news/2025/01/crypto-news-hack-scam-option06.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-10-30 06:46:56"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+    "Link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-10-29 06:49:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Dune Movies Get Rerelease News Timothée Chalamet Fans Have Been Waiting for Before Dune: Part Three",
-    "Link": "https://www.comingsoon.net/movies/news/2214516-dune-films-imax-rerelease-dune-part-3-sneak-peek",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/02/MixCollage-23-Feb-2026-10-37-AM-2441.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:53"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Nicole Kidman Brings Her Beloved Fantasy Movie Back to Theaters, But There’s a Catch",
-    "Link": "https://www.comingsoon.net/movies/news/2214616-nicole-kidman-fantasy-sequel-theaters-one-weekend",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Nicole-Kidman.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:55"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Popular Bong Joon Ho Movie That Parasite Fans Love Gets New Trailer for 4K Theatrical Rerelease",
-    "Link": "https://www.comingsoon.net/movies/news/2214463-popular-bong-joon-ho-movie-parasite-fans-love-trailer-4k-theatrical-rerelease",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Popular-Bong-Joon-Ho-Movie-That-Parasite-Fans-Love-Gets-New-Trailer-for-4K-Theatrical-Rerelease.jpg?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:49:58"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Check Out This Trailer for THE DEPUTY!!",
-    "Link": "https://www.aintitcool.com/thedeputytrailer2026-83663/?utm_source=full-feed&utm_medium=feed&utm_term=coolnews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/mail-2_huge.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:01"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin’s STH-Realized Price Creates A Strong Support Around $60K! Will BTC Price Rebound?",
-    "Link": "https://bitcoinwarrior.net/2024/04/bitcoins-sth-realized-price-creates-a-strong-support-around-60k-will-btc-price-rebound/",
-    "ImageUrl": "https://lh7-us.googleusercontent.com/4ybifNwSn0GZWx4uHoPdUmrPNor537GwQmcw2d9fgCMiwRbPRpp_eEOTr9rw9I0je011Np8bOWefqO2f7BassSwcMlLNj2F_tqMITj_y_n3HusiNdNi58X-3XBMq7UBnl2MjGi0VRMbtr1x0mp6aeEs",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:10"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Wasabi Wallet developer bars U.S. users amidst regulatory concerns",
-    "Link": "https://bitcoinwarrior.net/2024/04/wasabi-wallet-developer-bars-u-s-users-amidst-regulatory-concerns/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-29 06:50:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "The October 2025 Crypto ETF Wave Split: Commodity S-1s Advance, Staking Funds Stall",
-    "Link": "https://nulltx.com/the-october-2025-crypto-etf-wave-split-commodity-s-1s-advance-staking-funds-stall",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1792403892001-x3kwlp6k2gh.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Pump.fun Perps on Hyperliquid: How the 0.10% Builder Fee Works",
-    "Link": "https://nulltx.com/pumpfun-perps-on-hyperliquid-how-the-010-builder-fee-works",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1792591431014-b3uus6wrwf.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:23"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Staggered Agency Filings Squeeze Stablecoin Issuers as Fed Misses Statutory Rulemaking Target",
-    "Link": "https://nulltx.com/staggered-agency-filings-squeeze-stablecoin-issuers-as-fed-misses-statutory-rulemaking-target",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1792405268581-8my9ytcpdwn.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:27"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents",
-    "Link": "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-    "ImageUrl": "https://res.infoq.com/news/2026/10/digitalocean-self-improving-ai/en/headerimage/digitalocean-managed-agents-1793035926117.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:35"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "DraftKings gets four-month Louisiana license extension amid AI review",
-    "Link": "https://readwrite.com/draftkings-louisiana-license-extension/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-10-29 06:50:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-    "Link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:41"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "A hidden ocean change near Antarctica could have global consequences",
-    "Link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:44"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
-    "Link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:48"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "monday.com Ltd. (MNDY) Investor Q&A: AI Agent Adoption and Services Strategy Transcript",
-    "Link": "https://seekingalpha.com/article/4958859-monday-com-ltd-mndy-investor-q-and-a-ai-agent-adoption-and-services-strategy-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:50:58"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Houlihan Lokey, Inc. (HLI) Q2 2027 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4958927-houlihan-lokey-inc-hli-q2-2027-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/MGM_Tower.jpg/960px-MGM_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-10-29 06:51:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "First Commonwealth Financial Corporation (FCF) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4958844-first-commonwealth-financial-corporation-fcf-q3-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:51:03"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "When Market Structure Matters, Companies Keep Choosing Nasdaq",
-    "Link": "https://www.nasdaq.com/economic-institute/the-print/companies-keep-choosing-nasdaq",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2026/08/21/Economic%20Institute_Banner.webp?198403776",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:51:09"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Canada Packers Inc. (CPKR:CA) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4958967-canada-packers-inc-cpkr-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-10-29 06:51:12"
+    "Date": "2026-10-30 06:46:58"
   }
 ]
