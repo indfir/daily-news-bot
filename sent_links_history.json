@@ -1,157 +1,5 @@
 [
   {
-    "CanonicalKey": "https://technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
-    "SentDate": "2026-10-02 06:37:43"
-  },
-  {
-    "CanonicalKey": "https://readwrite.com/prediction-markets-nfl-betting",
-    "SentDate": "2026-10-02 06:37:46"
-  },
-  {
-    "CanonicalKey": "https://readwrite.com/polymarket-lawsuit-new-york-gambling",
-    "SentDate": "2026-10-02 06:37:49"
-  },
-  {
-    "CanonicalKey": "https://readwrite.com/dkex-prediction-market-challenge",
-    "SentDate": "2026-10-02 06:37:51"
-  },
-  {
-    "CanonicalKey": "https://technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
-    "SentDate": "2026-10-02 06:37:53"
-  },
-  {
-    "CanonicalKey": "https://elpais.com/us/2026-09-30/la-agencia-de-proteccion-al-consumidor-de-ee-uu-investiga-a-openai-anthropic-y-otros-gigantes-de-la-ia.html",
-    "SentDate": "2026-10-02 06:38:00"
-  },
-  {
-    "CanonicalKey": "https://elpais.com/internacional/2026-09-29/google-maps-ya-muestra-la-destruccion-mas-reciente-de-gaza-los-mapas-del-antes-y-el-despues.html",
-    "SentDate": "2026-10-02 06:38:03"
-  },
-  {
-    "CanonicalKey": "https://elpais.com/clima-y-medio-ambiente/2026-09-30/las-rutas-migratorias-de-la-contaminacion-asi-se-saltan-las-fronteras-el-ozono-el-polvo-sahariano-y-el-humo-de-los-incendios.html",
-    "SentDate": "2026-10-02 06:38:07"
-  },
-  {
-    "CanonicalKey": "https://elpais.com/economia/negocios/2026-09-26/nik-storonsky-el-visionario-que-vino-de-rusia-para-revolucionar-la-industria-financiera-con-revolut-en-los-bancos-tradicionales-es-practicamente-imposible-hacer-algo-nuevo.html",
-    "SentDate": "2026-10-02 06:38:10"
-  },
-  {
-    "CanonicalKey": "https://elpais.com/espana/catalunya/2026-10-01/los-mossos-describen-como-nerviosa-y-obstaculizadora-a-la-pareja-de-juanpere-el-dia-de-su-muerte.html",
-    "SentDate": "2026-10-02 06:38:13"
-  },
-  {
-    "CanonicalKey": "http://sciencebasedmedicine.org/the-brain-is-a-composite-organ",
-    "SentDate": "2026-10-02 06:38:23"
-  },
-  {
-    "CanonicalKey": "http://sciencebasedmedicine.org/vaccineadvocatescult",
-    "SentDate": "2026-10-02 06:38:27"
-  },
-  {
-    "CanonicalKey": "http://sciencebasedmedicine.org/jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease",
-    "SentDate": "2026-10-02 06:38:32"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/ai-day-singapore",
-    "SentDate": "2026-10-02 06:38:41"
-  },
-  {
-    "CanonicalKey": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-    "SentDate": "2026-10-02 06:38:43"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-    "SentDate": "2026-10-02 06:38:46"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-    "SentDate": "2026-10-02 06:38:48"
-  },
-  {
-    "CanonicalKey": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-    "SentDate": "2026-10-02 06:38:50"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5118/1",
-    "SentDate": "2026-10-02 06:38:58"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4933/1",
-    "SentDate": "2026-10-02 06:39:01"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5062/1",
-    "SentDate": "2026-10-02 06:39:03"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/4988/1",
-    "SentDate": "2026-10-02 06:39:06"
-  },
-  {
-    "CanonicalKey": "https://thespacereview.com/article/5283/1",
-    "SentDate": "2026-10-02 06:39:09"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/institutional-forex/trading-technologies-buys-trafix-to-fill-equities-gap-in-multi-asset-platform",
-    "SentDate": "2026-10-02 06:39:16"
-  },
-  {
-    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
-    "SentDate": "2026-10-02 06:39:19"
-  },
-  {
-    "CanonicalKey": "https://financemagnates.com/thought-leadership/mega-fusion-to-showcase-solutions-at-ifx-expo-asia-2026",
-    "SentDate": "2026-10-02 06:39:24"
-  },
-  {
-    "CanonicalKey": "https://investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432si-4926120",
-    "SentDate": "2026-10-02 06:39:28"
-  },
-  {
-    "CanonicalKey": "https://dailycoinpost.com/bitcoin-86000-leverage-perpetual-futures-risk-september-2026",
-    "SentDate": "2026-10-02 06:39:31"
-  },
-  {
-    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/essential-zombie-movies",
-    "SentDate": "2026-10-02 06:39:37"
-  },
-  {
-    "CanonicalKey": "https://screenrant.com/fast-and-furious-new-tv-series-peacock",
-    "SentDate": "2026-10-02 06:39:40"
-  },
-  {
-    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/100-essential-columbia-pictures-films",
-    "SentDate": "2026-10-02 06:39:42"
-  },
-  {
-    "CanonicalKey": "https://editorial.rottentomatoes.com/article/essential-argentine-movies",
-    "SentDate": "2026-10-02 06:39:45"
-  },
-  {
-    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/resident-evil-movies-ranked-by-tomatometer",
-    "SentDate": "2026-10-02 06:39:47"
-  },
-  {
-    "CanonicalKey": "https://financeasia.com/article/bursa-malaysia-investor-awards-ir-awards-2026-winners-and-highlights/508434",
-    "SentDate": "2026-10-02 06:39:57"
-  },
-  {
-    "CanonicalKey": "https://financeasia.com/article/nses-ipo-launches-at-46-9bn-valuation/508436",
-    "SentDate": "2026-10-02 06:40:01"
-  },
-  {
-    "CanonicalKey": "https://ekonomi.republika.co.id/berita/tm82ld522/industri-perdagangan-berjangka-didorong-perkuat-literasi-masyarakat",
-    "SentDate": "2026-10-02 06:40:05"
-  },
-  {
-    "CanonicalKey": "https://marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d",
-    "SentDate": "2026-10-02 06:40:08"
-  },
-  {
-    "CanonicalKey": "https://financeasia.com/article/hong-kong-issues-record-digital-green-bond/508456",
-    "SentDate": "2026-10-02 06:40:12"
-  },
-  {
     "CanonicalKey": "https://eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
     "SentDate": "2026-10-03 06:30:01"
   },
@@ -4558,5 +4406,165 @@
   {
     "CanonicalKey": "https://tagesschau.de/kultur/horror-serien-hype-100.html",
     "SentDate": "2026-11-01 06:01:01"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "SentDate": "2026-11-02 06:17:25"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "SentDate": "2026-11-02 06:17:29"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "SentDate": "2026-11-02 06:17:33"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "SentDate": "2026-11-02 06:17:37"
+  },
+  {
+    "CanonicalKey": "https://cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "SentDate": "2026-11-02 06:17:42"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261030002931.htm",
+    "SentDate": "2026-11-02 06:17:50"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261026225615.htm",
+    "SentDate": "2026-11-02 06:17:54"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261028232719.htm",
+    "SentDate": "2026-11-02 06:17:57"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261027063704.htm",
+    "SentDate": "2026-11-02 06:18:00"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/10/261026225606.htm",
+    "SentDate": "2026-11-02 06:18:03"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/best-early-black-friday-self-emptying-vacuum-deals-2026",
+    "SentDate": "2026-11-02 06:18:11"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/oct-30-legend-of-zelda-ocarina-of-time-preorder-last-chance-deal",
+    "SentDate": "2026-11-02 06:18:13"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/life/creative-and-fun-halloween-costumes",
+    "SentDate": "2026-11-02 06:18:16"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "SentDate": "2026-11-02 06:18:19"
+  },
+  {
+    "CanonicalKey": "https://mashable.com/tech/oct-31-early-black-friday-apple-airtags-deal",
+    "SentDate": "2026-11-02 06:18:21"
+  },
+  {
+    "CanonicalKey": "https://irishspaceblog.blogspot.com/2016/05/how-to-see-transit-of-mercury-on-may-9.html",
+    "SentDate": "2026-11-02 06:18:31"
+  },
+  {
+    "CanonicalKey": "https://earthsky.org/space/did-comets-seed-life-on-earth-prebiotic-molecules-alma",
+    "SentDate": "2026-11-02 06:18:34"
+  },
+  {
+    "CanonicalKey": "https://irishspaceblog.blogspot.com/2017/02/spacex-dragon-launches-from-apollo-pad.html",
+    "SentDate": "2026-11-02 06:18:36"
+  },
+  {
+    "CanonicalKey": "https://nasaspaceflight.com/2026/10/construction-timeline-comparisons",
+    "SentDate": "2026-11-02 06:18:40"
+  },
+  {
+    "CanonicalKey": "https://irishspaceblog.blogspot.com/2016/02/veteran-cosmonauts-complete-spacewalk.html",
+    "SentDate": "2026-11-02 06:18:43"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation",
+    "SentDate": "2026-11-02 06:18:54"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression",
+    "SentDate": "2026-11-02 06:18:58"
+  },
+  {
+    "CanonicalKey": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries",
+    "SentDate": "2026-11-02 06:19:02"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+    "SentDate": "2026-11-02 06:19:05"
+  },
+  {
+    "CanonicalKey": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+    "SentDate": "2026-11-02 06:19:08"
+  },
+  {
+    "CanonicalKey": "https://thelocal.com/20261031/spanish-inflation-stays-at-three-year-high-before-election",
+    "SentDate": "2026-11-02 06:19:28"
+  },
+  {
+    "CanonicalKey": "https://thelocal.com/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
+    "SentDate": "2026-11-02 06:19:32"
+  },
+  {
+    "CanonicalKey": "https://thelocal.com/20261030/eu-to-slap-new-e2-fee-on-online-shopping-orders-from-outside-europe",
+    "SentDate": "2026-11-02 06:19:37"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
+    "SentDate": "2026-11-02 06:19:41"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+    "SentDate": "2026-11-02 06:19:44"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
+    "SentDate": "2026-11-02 06:19:52"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+    "SentDate": "2026-11-02 06:19:55"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/hacks/cz-says-binance-hack-leaves-2-billion-gap-points-to-spacex-shares",
+    "SentDate": "2026-11-02 06:19:59"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
+    "SentDate": "2026-11-02 06:20:02"
+  },
+  {
+    "CanonicalKey": "https://thedefiant.io/news/security/trezor-urges-cryptobilis-buyers-to-move-funds-after-implant-report",
+    "SentDate": "2026-11-02 06:20:05"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/movies-certified-fresh-verified-hot",
+    "SentDate": "2026-11-02 06:20:13"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/popular-tv-shows",
+    "SentDate": "2026-11-02 06:20:17"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/weekend-box-office-street-fighter-week-1",
+    "SentDate": "2026-11-02 06:20:20"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/article/slashers-and-monsters-and-gore-oh-my-which-horror-subgenre-is-the-best",
+    "SentDate": "2026-11-02 06:20:23"
+  },
+  {
+    "CanonicalKey": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order",
+    "SentDate": "2026-11-02 06:20:25"
   }
 ]

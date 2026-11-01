@@ -1,242 +1,322 @@
 [
   {
-    "Topic": "Trading & Crypto",
-    "Title": "38 companies oppose OKXICE tokenized stocks amid Nasdaq lobbying claims",
-    "Link": "https://crypto.news/nasdaq-okxice-tokenized-stock-trading-objections/",
-    "ImageUrl": "https://media.crypto.news/2025/03/crypto-news-Nasdaq-option02.webp",
+    "Topic": "Economy",
+    "Title": "The world’s finance chiefs see new risks — and less China angst",
+    "Link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108430921-1792381620758-gettyimages-2299896463-AA_16102026_2996185.jpeg?v=1792381800&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:16"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Varun Beverages Q3 net profit rises 13% YoY, but margins fall",
-    "Link": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-135387177,width-1200,height-900,imgsize-2378997,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
-    "Link": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
-    "ImageUrl": "https://img.etimg.com/thumb/msid-135386804,width-1200,height-900,imgsize-2216329,overlay-etmarkets/articleshow.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:25"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin treasuries hold 1.3M BTC as Bitfinex flags funding risk",
-    "Link": "https://crypto.news/bitcoin-treasuries-strategy-strive-preferred-shares/",
-    "ImageUrl": "https://media.crypto.news/2025/08/crypto-news-Bitcoin-treasury-capital-option03.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin ETFs shed $643m in biggest daily outflow since June",
-    "Link": "https://crypto.news/bitcoin-etfs-643-million-outflows-october-30/",
-    "ImageUrl": "https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option04.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:31"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "Link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:39"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-    "Link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogHeader_2.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:42"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "GitHub availability report: September 2026",
-    "Link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "How to continue a GitHub Copilot app session in VS Code",
-    "Link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-    "ImageUrl": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:58:48"
+    "Date": "2026-11-02 06:17:25"
   },
   {
     "Topic": "Economy",
-    "Title": "Nasdaq-100® Inside the Index: Airbnb (ABNB)",
-    "Link": "https://www.nasdaq.com/articles/global-indexes/inside-the-index/abnb",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/960px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+    "Link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:29"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+    "Link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:33"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds ",
+    "Link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:37"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+    "Link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108340023-17849188482026-07-24t145944z_940041411_rc2dkma3djbf_rtrmadp_0_usa-stocks.jpeg?v=1788450583&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:42"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Astronauts just gave the International Space Station a powerful upgrade",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/spacewalkers-install-iss-roll-out-solar-array-for-power-generation.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:50"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover a hidden 100-million-year-old volcanic system",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/deep-earthquake-magma-fissures.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:54"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Einstein's equations may explain the universe without dark energy",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/albert-einstein-quantum-cosmology.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:17:57"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover a hidden reason why muscles weaken with age",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:00"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Common drugs may help dangerous viruses spread through the body",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:03"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The best early Black Friday self-emptying robot vacuum deals you can shop right now",
+    "Link": "https://mashable.com/tech/best-early-black-friday-self-emptying-vacuum-deals-2026",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/025nSOhQCAZuCdnaZaWaiNJ/hero-image.fill.size_1200x675.v1793372088.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:11"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Last chance to save $10 on preorders of Nintendos The Legend of Zelda: Ocarina of Time remake",
+    "Link": "https://mashable.com/tech/oct-30-legend-of-zelda-ocarina-of-time-preorder-last-chance-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04PO7EHpjkrWmOwjuWsTPyU/hero-image.fill.size_1200x675.v1793366025.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:13"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Here are some the internets best Halloween costumes",
+    "Link": "https://mashable.com/life/creative-and-fun-halloween-costumes",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04A5pGlmpuahDn3zbetv8ZF/hero-image.fill.size_1200x675.v1793469900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+    "Link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "The Apple AirTag 4-Pack is usually $99, but you can buy for $69.99 this weekend",
+    "Link": "https://mashable.com/tech/oct-31-early-black-friday-apple-airtags-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04X7E8MabZ6bxXwfUa7HjfL/hero-image.fill.size_1200x675.v1793375125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "How to See the Transit of Mercury on May 9",
+    "Link": "https://irishspaceblog.blogspot.com/2016/05/how-to-see-transit-of-mercury-on-may-9.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOb0DY9shcw4MGj0KxaeznRz4I6aoz3XLnnweg5o7TC1e1UvnBUUtiC2XKdBHFFTH00CZhoNdFIYdpjM7FQVcHMmALks5s7FxFWtYf4ztMmEQTUwhJ-ztQ_CuaTTYdX1XzSQatg8mqMB6/w1200-h630-p-k-no-nu/Mercury-transit-disk-plot-3.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:31"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Did comets seed life on Earth? A new study says — probably not",
+    "Link": "https://earthsky.org/space/did-comets-seed-life-on-earth-prebiotic-molecules-alma/",
+    "ImageUrl": "https://earthsky.org/upl/2026/10/comet-Earth-ALMA-August-13-2025.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX Dragon Launches from Apollo Pad to Resupply Space Station",
+    "Link": "https://irishspaceblog.blogspot.com/2017/02/spacex-dragon-launches-from-apollo-pad.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMl7gF0dH7BUlk8pZuS30ZPGhtnQXcKwjNjpbii1yxznz-wyRR6b2xE3hcZOx7xCG-Ta6_Scr8jB1DBkpUE3zgjOVM-cMPe7R-z_sAGtwDKpBj7enUiBFU7Ywy-HKTYhEbx6spIIz5fIiU/w1200-h630-p-k-no-nu/32863903762_13f8879589_k-1024x927.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:36"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+    "Link": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Launch_pad_40_awaiting_Falcon_9_rocket.jpg/960px-Launch_pad_40_awaiting_Falcon_9_rocket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-11-01 05:59:03"
+    "Date": "2026-11-02 06:18:40"
   },
   {
-    "Topic": "Economy",
-    "Title": "MainStreet Bancshares, Inc. (MNSB) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4960635-mainstreet-bancshares-inc-mnsb-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "Topic": "Astronomy",
+    "Title": "Veteran Cosmonauts Complete Spacewalk to Deploy and Retrieve Experiements on ISS",
+    "Link": "https://irishspaceblog.blogspot.com/2016/02/veteran-cosmonauts-complete-spacewalk.html",
+    "ImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiaSv25QtB4UWP0M-2Ism9Wyd20nU0rQJJKzKNFPdeDcZU4eV-RPYKvghM-diz1naqigQzMLyaqbmyiA3UqPSgU8lXOtA9MogOmewN59Die0dADLRqGr2XUfbZFtyO55cSc27FGzGPKG6s/w1200-h630-p-k-no-nu/24650164995_5d0a1a2962_o.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:43"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
+    "Link": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:54"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "Link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:18:58"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "How AI trained on birds is surfacing underwater mysteries",
+    "Link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:02"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/27/ML-21246-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:05"
+  },
+  {
+    "Topic": "Data / AI",
+    "Title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+    "Link": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/",
+    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/28/ML-22175-featured-image.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:08"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Spanish inflation stays at three-year high before election\n        ",
+    "Link": "\n            https://www.thelocal.com/20261031/spanish-inflation-stays-at-three-year-high-before-election\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20200317__1PZ0TT__v1__MidRes__SpainHealthVirus.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:28"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Europeans and Canadians set to get more opportunities to move across Atlantic\n        ",
+    "Link": "\n            https://www.thelocal.com/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20261029__D4UR2ZU__v1__MidRes__EuCanadaSummit-1.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:32"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            EU to slap new €2 fee on online shopping orders from outside Europe\n        ",
+    "Link": "\n            https://www.thelocal.com/20261030/eu-to-slap-new-e2-fee-on-online-shopping-orders-from-outside-europe\n        ",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Monty_Python_Fish-Slapping_Dance_plaque_Teddington_Lock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-02 06:19:37"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Wahlkampf der US-Demokraten: Links, rechts - oder am besten in der Mitte?",
+    "Link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/53ee875f-561a-4284-a66b-b3ccd56d5537/AAABoY2wzlk/AAABnSSvrFg/16x9-big/melat-kiros-wahlhelfer-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:41"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
+    "Link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+    "ImageUrl": "https://images.tagesschau.de/image/d58a1485-ef31-40e7-8aa0-018bd151dc5a/AAABoZEFuVo/AAABnSSvrFg/16x9-big/ebola-kongo-204.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-11-02 06:19:44"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack",
+    "Link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-01 05:59:07"
+    "Date": "2026-11-02 06:19:52"
   },
   {
-    "Topic": "Economy",
-    "Title": "It Costs (About) 10 Cents to Trade $10,000",
-    "Link": "https://www.nasdaq.com/economic-institute/the-print/costs-10-cents-to-trade-10000",
-    "ImageUrl": "https://www.nasdaq.com/sites/acquia.prod/files/2026/06/15/Full_Abstract_266236841.webp?1983703508",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:59:23"
+    "Topic": "Trading & Crypto",
+    "Title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+    "Link": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Anthrax_letter_sent_to_Senator_Leahy.jpg/960px-Anthrax_letter_sent_to_Senator_Leahy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-02 06:19:55"
   },
   {
-    "Topic": "Economy",
-    "Title": "Palfinger AG (PLFRF) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4960660-palfinger-ag-plfrf-q3-2026-earnings-call-transcript?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 05:59:25"
+    "Topic": "Trading & Crypto",
+    "Title": "CZ Says Binance Hack Leaves $2 Billion Gap, Points to SpaceX Shares",
+    "Link": "https://thedefiant.io/news/hacks/cz-says-binance-hack-leaves-2-billion-gap-points-to-spacex-shares",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Binance-BNB-Icon-Logo.wine.svg/960px-Binance-BNB-Icon-Logo.wine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-02 06:19:59"
   },
   {
-    "Topic": "Economy",
-    "Title": "Puig Brands, S.A. (PUGBY) Analyst/Investor Day Transcript",
-    "Link": "https://seekingalpha.com/article/4960548-puig-brands-s-a-pugby-analyst-investor-day-transcript?source=feed_all_articles",
+    "Topic": "Trading & Crypto",
+    "Title": "Uniswap Volume Tops $5.97 Billion as Ethereum Trading Surges",
+    "Link": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-01 05:59:31"
+    "Date": "2026-11-02 06:20:02"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Trezor Urges CryptoBilis Buyers to Move Funds After Implant Report",
+    "Link": "https://thedefiant.io/news/security/trezor-urges-cryptobilis-buyers-to-move-funds-after-implant-report",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-02 06:20:05"
   },
   {
     "Topic": "Movies",
-    "Title": "The 5 Best Streaming Services for Horror Movies",
-    "Link": "https://cordcuttersnews.com/the-5-best-streaming-services-for-horror-movies/",
-    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2017/10/Halloween.jpg",
+    "Title": "150 Movies Certified Fresh & Verified Hot",
+    "Link": "https://editorial.rottentomatoes.com/guide/movies-certified-fresh-verified-hot/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/MCDYOCA_EC129-600x314-1.png?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 05:59:41"
+    "Date": "2026-11-02 06:20:13"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-    "Link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
-    "ImageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20483-featured-image.png",
+    "Topic": "Movies",
+    "Title": "25 Most Popular TV Shows Right Now: What to Watch on Streaming",
+    "Link": "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/CrystalLake_S01_Teaser-600x314-1.png?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 05:59:50"
+    "Date": "2026-11-02 06:20:17"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
-    "Link": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "Weekend Box Office: Street Fighter Delivers a Knockout",
+    "Link": "https://editorial.rottentomatoes.com/article/weekend-box-office-street-fighter-week-1/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/Street_Fighter_BO1-Rep.jpg?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 05:59:54"
+    "Date": "2026-11-02 06:20:20"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-    "Link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "Slashers and Monsters and Gore, Oh My: Which Horror Subgenre Is the Best?",
+    "Link": "https://editorial.rottentomatoes.com/article/slashers-and-monsters-and-gore-oh-my-which-horror-subgenre-is-the-best/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2021/06/Horror_Subgenres_Data-Rep.jpg?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:00"
+    "Date": "2026-11-02 06:20:23"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
-    "Link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Topic": "Movies",
+    "Title": "How to Watch the DCU in Order",
+    "Link": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
+    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/clayface-600x314-1.jpg?w=600",
     "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:03"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Bringing foundational models to the front lines of TB screening",
-    "Link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Lemons to bitter lemonade: from the Samos E-5 to the LANYARD reconnaissance satellite (part 2)",
-    "Link": "https://www.thespacereview.com/article/5286/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lemonade_-_27682817724.jpg/960px-Lemonade_-_27682817724.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-01 06:00:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Frank Strang and SaxaVord: Europe's first fully licensed vertical launch site",
-    "Link": "https://www.thespacereview.com/article/5040/1",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lamba_Ness_from_above_Norwick_-_geograph.org.uk_-_1458380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-01 06:00:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "My suborbital life, part 1: Childhood's end, perseverance pays",
-    "Link": "https://www.thespacereview.com/article/4675/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/960px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-01 06:00:24"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Lunar science is entering a new active phase with commercial launches of landers",
-    "Link": "https://www.thespacereview.com/article/4739/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Moon_Soft_Landings.svg/960px-Moon_Soft_Landings.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-01 06:00:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "3D printing will help space pioneers make homes, tools, and other stuff they need to colonize the Moon and Mars ",
-    "Link": "https://www.thespacereview.com/article/4957/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Robot_3D_print_timelapse_on_RepRapPro_Fisher.webm/960px--Robot_3D_print_timelapse_on_RepRapPro_Fisher.webm.jpg",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-01 06:00:31"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-    "Link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:46"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-    "Link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-    "ImageUrl": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:50"
-  },
-  {
-    "Topic": "General News",
-    "Title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-    "Link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/6630d35e-9b1e-437a-bfb0-9450202270ff/AAABoYeVsmk/AAABnSSvrFg/16x9-big/chatgpt-156.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
-    "Link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/2d526192-947c-4d07-80de-f48bd78bab07/AAABoUewl5k/AAABnSSvrFg/16x9-big/un-sicherheitsrat-384.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:00:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Warum Horror-Serien die Streaming-Charts dominieren",
-    "Link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/2a9301b0-af99-4735-a342-7b913839c942/AAABoY4Z08Y/AAABnSSvrFg/16x9-big/carrie-horrorserie-100.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-01 06:01:01"
+    "Date": "2026-11-02 06:20:25"
   }
 ]
