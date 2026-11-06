@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Trading & Crypto",
-    "Title": "NEXO is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/nexo-is-available-for-trading",
-    "ImageUrl": "https://blog.kraken.com/wp-content/uploads/2026/10/f1708e2e-e5ff-422a-bf51-adc9c390f014.png",
+    "Topic": "Economy",
+    "Title": "Marc Lore's Wonder confidentially files for IPO",
+    "Link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1793890557&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:40:48"
+    "Date": "2026-11-06 07:39:07"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-    "Link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-    "ImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+    "Topic": "Economy",
+    "Title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+    "Link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108304012-1778187024448-gettyimages-2218742796-TFSPI_08062025-8041.jpeg?v=1778187094&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:40:52"
+    "Date": "2026-11-06 07:39:09"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "EURCV is available for trading!",
-    "Link": "https://blog.kraken.com/product/asset-listings/eurcv-is-available-for-trading",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-05 07:40:55"
+    "Topic": "Economy",
+    "Title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+    "Link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&amp;w=1920&amp;h=1080",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:39:12"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Crypto tracks stocks higher after Democrat midterm wins",
-    "Link": "https://www.investing.com/news/forex-news/crypto-dips-on-democrat-midterm-wins-binance-hack-dent-optimism-4997586",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-05 07:40:58"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Oil falls over 8% as traders weigh impact on Iran war of Democratic midterms sweep",
-    "Link": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/AMA_Cascada_de_San_Rafael_limite_provincial_de_Napo_y_Sucumb%C3%ADos_%288227381138%29.jpg/960px-AMA_Cascada_de_San_Rafael_limite_provincial_de_Napo_y_Sucumb%C3%ADos_%288227381138%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Economy",
+    "Title": "Thailand to Raise Imported EV Taxes to 35% in Push to protect Local Production",
+    "Link": "https://www.thailand-business-news.com/trade/338353-thailand-to-raise-imported-ev-taxes-to-35-in-push-to-protect-local-production",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-11-05 07:41:01"
+    "Date": "2026-11-06 07:39:15"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?",
-    "Link": "https://huggingface.co/blog/leaderboard-contextual",
-    "ImageUrl": "https://huggingface.co/blog/assets/leaderboards-on-the-hub/thumbnail_contextual.png",
+    "Topic": "Economy",
+    "Title": "IRS unveils higher capital gains tax brackets for 2027",
+    "Link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108373442-1791303538609-gettyimages-2279051159-flx09346.jpeg?v=1791303559&amp;w=1920&amp;h=1080",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:08"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Patch Time Series Transformer in Hugging Face",
-    "Link": "https://huggingface.co/blog/patchtst",
-    "ImageUrl": "https://huggingface.co/blog/assets/patchtst/thumbnail.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:11"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "Link": "https://huggingface.co/blog/allenai/benchmirt",
-    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:13"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
-    "Link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/63a369d98c0c89dcae3b8329/XeSYoUIf7wyFTWr4Py09D.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:16"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "MosaicLeaks: Can your research agent keep a secret?",
-    "Link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:18"
+    "Date": "2026-11-06 07:39:18"
   },
   {
     "Topic": "General News",
-    "Title": "US midterm elections: 'Maybe the best colour for Texas is purple'",
-    "Link": "https://www.france24.com/en/us-midterm-elections-maybe-the-best-colour-for-texas-is-purple",
+    "Title": "Facing 2 years as a lame duck, what can Trump do to stay in control?",
+    "Link": "https://www.scmp.com/news/china/diplomacy/article/3373425/facing-two-years-lame-duck-what-can-trump-do-stay-control",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg/960px-Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:39:26"
+  },
+  {
+    "Topic": "General News",
+    "Title": "The US-China tech contest has moved – to the gatekeeping product testers",
+    "Link": "https://www.scmp.com/opinion/china-opinion/article/3373171/us-china-tech-contest-has-moved-gatekeeping-product-testers",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/China_USA_Locator.svg/960px-China_USA_Locator.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:39:29"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Hong Kong developer Hysan’s Lee Garden Eight draws law firm out of Central: sources",
+    "Link": "https://www.scmp.com/business/article/3373395/hong-kong-developer-hysans-lee-garden-eight-draws-law-firm-out-central-sources",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-05 07:41:36"
+    "Date": "2026-11-06 07:39:32"
   },
   {
     "Topic": "General News",
-    "Title": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
-    "Link": "https://www.lemonde.fr/afrique/article/2026/11/04/en-rdc-l-oms-alerte-sur-la-pire-epidemie-de-cholera-depuis-des-decennies-avec-1-800-morts-sur-fond-de-crise-liee-a-ebola_6806432_3212.html",
+    "Title": "Chinese scientists chill atoms to record low on Tiangong space station",
+    "Link": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Antarctic_iceberg%2C_2001_-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:39:35"
+  },
+  {
+    "Topic": "General News",
+    "Title": "British actor Russell Brand faces prison after rape, sexual assault conviction",
+    "Link": "https://www.scmp.com/news/world/europe/article/3373453/british-actor-russell-brand-faces-prison-after-rape-sexual-assault-conviction",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-05 07:41:39"
+    "Date": "2026-11-06 07:39:38"
   },
   {
-    "Topic": "General News",
-    "Title": "US Midterms: How will Trump manage working with Democrats?",
-    "Link": "https://www.france24.com/en/us-midterms-how-will-trump-manage-working-with-democrats",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Oklahoma_general_election_ballot_for_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-05 07:41:42"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
-    "Link": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/960px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-05 07:41:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Israël : des partis arabes dénoncent une « persécution » après la mise en cause d’un de leurs piliers",
-    "Link": "https://www.lemonde.fr/international/article/2026/11/04/israel-la-liste-unifiee-denonce-une-persecution-politique-apres-les-accusations-de-fraude-contre-un-ancien-depute-arabe_6806427_3210.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Alexandre_Isra%C3%ABl-1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-05 07:41:48"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Scientists can now rewire living brains",
-    "Link": "https://www.scientificamerican.com/article/scientists-can-now-rewire-living-brains/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/de037fbe-ad03-4b89-b9f1-9e8153c38247/Neurons-firing.jpg?m=1793216430.205&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "eth2 quick update no. 4",
+    "Link": "https://blog.ethereum.org/en/2019/11/21/eth2-quick-update-no-4",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/kumiko-background.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:55"
+    "Date": "2026-11-06 07:39:47"
   },
   {
-    "Topic": "Science",
-    "Title": "Landmark study finds three in four NFL players die with CTE",
-    "Link": "https://www.scientificamerican.com/article/landmark-study-finds-three-in-four-nfl-players-die-with-cte/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/98b891c6-9c45-4b16-9834-f74e39b1e600/football-helmet.jpg?m=1793199576.231&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "Secret Sharing DAOs: The Other Crypto 2.0",
+    "Link": "https://blog.ethereum.org/en/2014/12/26/secret-sharing-daos-crypto-2-0",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:41:57"
+    "Date": "2026-11-06 07:39:50"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Smart Contract Security",
+    "Link": "https://blog.ethereum.org/en/2016/06/10/smart-contract-security",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:39:53"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Microsoft to Sponsor Ethereum’s DEVCON1",
+    "Link": "https://blog.ethereum.org/en/2015/10/28/microsoft-to-sponsor-ethereums-devcon1-2",
+    "ImageUrl": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:39:57"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ethereum turns 5 🎂",
+    "Link": "https://blog.ethereum.org/en/2020/07/30/ethereum-turns-5",
+    "ImageUrl": "https://blog.ethereum.org/images/posts/upload_26ec7ca3794b9563416d2559b8a14a83.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:00"
   },
   {
     "Topic": "Science",
-    "Title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
-    "Link": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
+    "Title": "A surprising discovery could help aging muscles repair themselves",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/body-rejuvenation-strength-boost.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:08"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/bifidobacteria-gut-microbiome-probiotic-bacteria.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:11"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists say a forgotten particle may explain why the universe exists",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:13"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Kids who eat more ultra-processed foods show a troubling brain response",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cute-boy-donut-eyes.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:16"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/masripithecus-moghraensis-reconstruction.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "ESA’s Euclid captures the Milky Way’s crowded heart ",
+    "Link": "https://www.esa.int/articles/about-us/directorates/science/euclid/esa-s-euclid-captures-the-milky-way-s-crowded-heart",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Euclid_looking_into_the_Universe_ESA24697255.jpeg/960px-Euclid_looking_into_the_Universe_ESA24697255.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:40:28"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Euclid discovers new comet",
+    "Link": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-discovers-new-comet",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Euclid_looking_into_the_Universe_ESA24697255.jpeg/960px-Euclid_looking_into_the_Universe_ESA24697255.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:40:31"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Japan’s sample return mission to Phobos may also collect some Mars dust",
+    "Link": "https://www.sciencenews.org/article/japan-mission-mars-moon",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_MB_mmxmission_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-06 07:40:34"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX closes out October with 700th Falcon 9 launch to date",
+    "Link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Unsold_Cybertrucks.jpg/960px-Unsold_Cybertrucks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-06 07:40:37"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Webb reveals stunning panorama of star formation",
+    "Link": "https://www.esa.int/articles/about-us/directorates/science/webb/webb-reveals-stunning-panorama-of-star-formation",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-05 07:42:01"
-  },
-  {
-    "Topic": "Science",
-    "Title": "What a historic ‘blue wave’ midterm means for climate action",
-    "Link": "https://www.scientificamerican.com/article/what-a-historic-blue-wave-midterm-means-for-climate-action/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/f0d3a06f-60e5-49b5-b223-69452aa95da7/James-Tallarico-reaction-midterm-2026.jpeg?m=1793816156.156&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:03"
-  },
-  {
-    "Topic": "Science",
-    "Title": "How to tell if a voice recording is AI-generated",
-    "Link": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/09e21147-be42-4e80-bc96-caee7c15c47b/AI-voice-clone_graphic_leadImage.png?m=1793628091.076&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:06"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Rare meteorite from Mars gives us a view into its ancient crust",
-    "Link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:15"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronauts Are Go For Thursday’s Power Upgrade Spacewalk",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/28/astronauts-are-go-for-thursdays-power-upgrade-spacewalk/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/preview-menon-kutryk-102926a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:17"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Spacewalkers Install Roll-Out Solar Array for Power Generation",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/blog-useva100-102926e.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:20"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:23"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Astronauts Suit Up to Prepare for Power Upgrade Spacewalk",
-    "Link": "https://www.nasa.gov/blogs/spacestation/2026/10/29/astronauts-suit-up-to-prepare-for-power-upgrade-spacewalk/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/preview-menon-kutryk-102926b-1.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:25"
+    "Date": "2026-11-06 07:40:40"
   },
   {
     "Topic": "Technology",
-    "Title": "Best gift ideas for the woman in your life that are more than just another bathrobe",
-    "Link": "https://mashable.com/gifts/best-gifts-for-her",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/roundups/03adb0GY9tjOpJ1RL75EhVZ/hero-image.fill.size_1200x675.v1782318086.jpg",
+    "Title": "The Google Pixel 10 is $200 off at Amazon — buy now for $599",
+    "Link": "https://mashable.com/tech/nov-5-google-pixel-10-early-black-friday-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/06LSMjojUoI9Te2jJ5mlsdM/hero-image.fill.size_1200x675.v1793873364.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:35"
+    "Date": "2026-11-06 07:40:48"
   },
   {
     "Topic": "Technology",
-    "Title": "The best early Black Friday drone deals have landed — save on DJI, Ruko, Antigravity, and more",
-    "Link": "https://mashable.com/tech/best-early-black-friday-drone-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/004g7l8FRFHlZOQkQqyhlTy/hero-image.fill.size_1200x675.v1793724749.png",
+    "Title": "Burger King’s viral holiday advent calendar is back: How to buy the internet’s mini obsession",
+    "Link": "https://mashable.com/life/burger-king-2026-holiday-advent-calendar-how-to-buy",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04glgTAxbQ10UVuHukLEqN3/hero-image.fill.size_1200x675.v1793895393.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:38"
+    "Date": "2026-11-06 07:40:50"
   },
   {
     "Topic": "Technology",
-    "Title": "Best early Black Friday cordless power tool deals: Get a free tool or battery with select kits at Home Depot and more",
-    "Link": "https://mashable.com/life/best-early-black-friday-cordless-power-tool-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07x73suRqNmTB3CMrHngXjN/hero-image.fill.size_1200x675.v1792508615.png",
+    "Title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "Link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:40"
+    "Date": "2026-11-06 07:40:53"
   },
   {
     "Topic": "Technology",
-    "Title": "Fewer pop-ups, a lot more privacy — this AdGuard bundle is just $39.97",
-    "Link": "https://mashable.com/tech/nov-4-adguard-vpn-ad-blocker-family-security-suite",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/048p9bAKrSfwQ8t3Ufzr19N/hero-image.fill.size_1200x675.v1793609338.jpg",
+    "Title": "Tidy up your floors with $500 off the Roborock Qrevo Edge 3 Pro robot vacuum",
+    "Link": "https://mashable.com/tech/nov-4-roborock-qrevo-edge-3-pro-deal",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05ZAnWyXSxtYR3PE0pKLg0B/hero-image.fill.size_1200x675.v1793810647.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:43"
+    "Date": "2026-11-06 07:40:56"
   },
   {
     "Topic": "Technology",
-    "Title": "Amazon has slashed $200 off the M5 MacBook Air ahead of Black Friday",
-    "Link": "https://mashable.com/tech/nov-4-apple-macbook-air-early-black-friday-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/02skqYQbkNpCQ6FVc9hyC1v/hero-image.fill.size_1200x675.v1793785152.jpg",
+    "Title": "A teen used her school Chromebook and Google AI Mode to plan her suicide, lawsuit alleges",
+    "Link": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/019gmdUlnPfcIe8AzJJgtEC/hero-image.fill.size_1200x675.v1793904988.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:45"
+    "Date": "2026-11-06 07:40:58"
   },
   {
     "Topic": "Movies",
-    "Title": "This Cult Sci-Fi Horror Series With Stephen King Vibes Has Become A Major Netflix Hit",
-    "Link": "https://www.slashfilm.com/2307281/from-cult-hit-sci-fi-horror-series-stephen-king-vibes-netflix-streaming-hit/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/this-cult-hit-sci-fi-horror-series-with-stephen-king-vibes-has-become-a-major-netflix-hit/l-intro-1793831754.jpg",
+    "Title": "Keanu Reeves' Constantine 2 Could Be Dead After A Major DC Studios Development",
+    "Link": "https://www.slashfilm.com/2308597/john-constantine-movie-dc-studios-keanu-reeves-sequel-dead/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/keanu-reeves-constantine-2-could-be-dead-after-a-major-dc-studios-development/l-intro-1793914130.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:54"
+    "Date": "2026-11-06 07:41:06"
   },
   {
     "Topic": "Movies",
-    "Title": "DC Studios Officially Casts Mason Thames As Robin — Will He Play Him In Live-Action?",
-    "Link": "https://www.slashfilm.com/2306080/mason-thames-robin-dynamic-duo-movie-dc-studios-live-action-potential/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/dc-studios-officially-casts-mason-thames-as-robin-but-will-he-play-him-in-live-action/l-intro-1793745723.jpg",
+    "Title": "Is the ‘Ramayana’ Movie Streaming on Netflix or Amazon Prime Video?",
+    "Link": "https://decider.com/2026/11/05/watch-ramayana-movie-streaming-where-to-watch-ramayana-rise-of-a-legend/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/11/watch-ramayana-movie-streaming.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:56"
+    "Date": "2026-11-06 07:41:09"
   },
   {
     "Topic": "Movies",
-    "Title": "Daniel Craig's Early-Career Miniseries Is A Masterpiece Every British TV Fan Has To Watch",
-    "Link": "https://www.slashfilm.com/2296400/daniel-craig-must-watch-british-miniseries-our-friends-in-the-north/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/daniel-craigs-early-career-miniseries-is-a-masterpiece-every-british-tv-fan-has-to-watch/l-intro-1792970798.jpg",
+    "Title": "Is the ‘Wild Horse Nine’ Movie Streaming on Netflix or Amazon Prime Video?",
+    "Link": "https://decider.com/2026/11/05/watch-wild-horse-nine-movie-streaming-netflix-amazon-prime-video/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/11/watch-wild-horse-nine-movie-streaming.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:42:59"
+    "Date": "2026-11-06 07:41:11"
   },
   {
     "Topic": "Movies",
-    "Title": "Will Ebenezer Be The Box Office Hit Johnny Depp's Hollywood Comeback Needs?",
-    "Link": "https://www.slashfilm.com/2305949/johnny-depp-movie-ebenezer-a-christmas-carol-box-office-preview/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/will-ebenezer-be-the-box-office-hit-johnny-depps-hollywood-comeback-needs/l-intro-1793739673.jpg",
+    "Title": "Jurassic Park's Lost Animated Series Pitch Has Finally Surfaced In Video Form",
+    "Link": "https://www.slashfilm.com/2306055/jurassic-park-lost-animated-series-pitch-video/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/jurassic-parks-lost-animated-series-pitch-has-finally-surfaced-in-video-form/l-intro-1793744514.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:43:01"
+    "Date": "2026-11-06 07:41:14"
   },
   {
     "Topic": "Movies",
-    "Title": "Jake Gyllenhaal's 124-Minute Sci-Fi Disaster Movie Is Officially Netflix's Biggest Streaming Hit",
-    "Link": "https://www.slashfilm.com/2305743/jake-gyllenhaal-sci-fi-disaster-movie-the-day-after-tomorrow-streaming-netflix-november-2026/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/jake-gyllenhaals-124-minute-sci-fi-disaster-movie-is-officially-netflixs-biggest-streaming-hit/l-intro-1793734150.jpg",
+    "Title": "5 Years Ago Today: Marvel Released One Of The Most Polarizing Superhero Movies In History",
+    "Link": "https://www.slashfilm.com/2301734/eternals-marvel-superhero-movie-5-year-anniversary/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/5-years-ago-today-marvel-released-one-of-the-most-polarizing-superhero-movies-in-history/l-intro-1793883819.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-05 07:43:05"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Industri Nasional Miliki Kemampuan Produksi Pipa Seamless, Kuota Impor Diminta Hapus",
-    "Link": "https://ekbis.sindonews.com/read/1768455/34/industri-nasional-miliki-kemampuan-produksi-pipa-seamless-kuota-impor-diminta-hapus-1793805113",
-    "ImageUrl": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/04/34/1768455/industri-nasional-miliki-kemampuan-produksi-pipa-seamless-kuota-impor-diminta-hapus-wwg.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:43:34"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Bitget Hadirkan Anthropic di Platform IPO Prime Menjelang Pencatatan Saham Perdana",
-    "Link": "https://www.jpnn.com/news/bitget-hadirkan-anthropic-di-platform-ipo-prime-menjelang-pencatatan-saham-perdana",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/11/04/bitget-secara-resmi-mengumumkan-masuknya-raksasa-kecerdasan-wnke.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:43:47"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Pelaku Industri Minta Pemberian Masterlist dan Kuota Impor Pipa Seamless Dihapus",
-    "Link": "https://www.jpnn.com/news/pelaku-industri-minta-pemberian-masterlist-dan-kuota-impor-pipa-seamless-dihapus",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/11/04/direktur-pt-indo-sino-internasional-michael-johan-gary-memin-ibmh.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:43:53"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Udang Vaname Indonesia Tembus Pasar Amerika, Curi Perhatian di KRISTAinterFood 2026",
-    "Link": "https://bali.jpnn.com/bali-terkini/45451/udang-vaname-indonesia-tembus-pasar-amerika-curi-perhatian-di-kristainterfood-2026",
-    "ImageUrl": "https://cloud.jpnn.com/photo/bali/news/watermark/2026/11/05/middle-management-pt-sekar-bumi-tbk-tria-mirianti-mendamping-rbdn.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:44:01"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "PRUProsper dari Prudential Solusi Perlindungan dan Perencanaan Keuangan Berbasis USD",
-    "Link": "https://www.jpnn.com/news/pruprosper-dari-prudential-solusi-perlindungan-dan-perencanaan-keuangan-berbasis-usd",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/11/04/prudential-indonesia-menghadirkan-pruprosper-solusi-perlindu-rixi.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-05 07:44:20"
+    "Date": "2026-11-06 07:41:16"
   }
 ]
