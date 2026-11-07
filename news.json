@@ -1,322 +1,282 @@
 [
   {
-    "Topic": "Trading & Crypto",
-    "Title": "Russia proposes adding crypto assets to anti-money laundering system",
-    "Link": "https://crypto.news/russia-proposes-adding-crypto-assets-to-anti-money-laundering-system/",
-    "ImageUrl": "https://media.crypto.news/2024/12/crypto-news-coins-Russia-option06.webp",
+    "Topic": "Data / AI",
+    "Title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+    "Link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:54:50"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Hyperscale Data Buys 67 Bitcoin Bringing Bitcoin Treasury to Approximately 849 Bitcoin",
-    "Link": "https://cryptocurrencynews.com/crypto/hyperscale-data-buys-67-bitcoin-bringing-bitcoin-treasury-to-approximately-849-bitcoin/",
-    "ImageUrl": "https://cryptocurrencynews.com/wp-content/uploads/2026/08/330ca044430b2a7cb53a269fb5b724cc.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:54:52"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "IREN stock falls 17% as Bitcoin mining revenue drops 58%",
-    "Link": "https://crypto.news/iren-stock-falls-as-bitcoin-mining-revenue-drops-58/",
-    "ImageUrl": "https://media.crypto.news/2024/11/crypto-news-Rethinking-energy-storage-with-Bitcoin-mining-option04.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:54:55"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Former FBI agent pleads guilty to stealing $2.47M in crypto from 35 investigations",
-    "Link": "https://crypto.news/former-fbi-agent-pleads-guilty-247m-crypto-theft/",
-    "ImageUrl": "https://media.crypto.news/2022/09/Arrest.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:54:57"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Why is Bitcoin price down today?",
-    "Link": "https://crypto.news/why-is-bitcoin-price-down-today-4/",
-    "ImageUrl": "https://media.crypto.news/2025/07/crypto-news-Bitcoin-bear-option04.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:54:59"
+    "Date": "2026-11-08 06:19:32"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
-    "Link": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+    "Link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!6wCM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b841d26-5b2d-4be9-9710-d89d4f023f0c_1600x900.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:10"
+    "Date": "2026-11-08 06:19:34"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Planetary prediction engine: Automating global models via Earth AI",
-    "Link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+    "Link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!UeSO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F380ad0cc-566e-4e54-8862-00e2de6f269b_2670x1398.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:14"
+    "Date": "2026-11-08 06:19:36"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
-    "Link": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+    "Link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:18"
+    "Date": "2026-11-08 06:19:38"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
-    "Link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
-    "ImageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+    "Title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+    "Link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!c7Za!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1748fa24-e946-47fb-bf1b-e488d08547fd_1764x1244.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:21"
+    "Date": "2026-11-08 06:19:41"
   },
   {
-    "Topic": "Data / AI",
-    "Title": "AI’s Next Trick? Speaking Dolphin",
-    "Link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-    "ImageUrl": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/191:100/w_1280,c_limit/WWF-Denise-Herzig-1.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:25"
+    "Topic": "Trading & Crypto",
+    "Title": "US Gov Finalizes Stablecoin Rules - Companies Now Need to Apply, and Receive Approval to Issue Tokens...",
+    "Link": "https://www.globalcryptopress.com/2026/10/us-gov-finalizes-stablecoin-rules.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg/960px-Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-08 06:19:54"
   },
   {
-    "Topic": "Science",
-    "Title": "How your brain can turn your own reflection into something unrecognizable",
-    "Link": "https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/c75faaf1-5a7d-4614-bc0e-0704b56eadb8/mirror-image.jpg?m=1793387609.429&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
+    "Link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
+    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bee89f48bf368de3d2f4d0ec9d86995f52f85889-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:33"
+    "Date": "2026-11-08 06:19:56"
   },
   {
-    "Topic": "Science",
-    "Title": "Animal-borne Shamonda virus infects and kills a human for the first time",
-    "Link": "https://www.scientificamerican.com/article/animal-borne-shamonda-virus-infects-and-kills-a-human-for-the-first-time/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/a04fa69c-683a-4511-a8c9-dbed4b05e90d/shamonda-virus.jpg?m=1793206350.872&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery",
+    "Link": "https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery",
+    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7496d601f781f2aae46ff9760f8caad09fab7bd1-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:37"
+    "Date": "2026-11-08 06:19:59"
   },
   {
-    "Topic": "Science",
-    "Title": "The Great Pacific Garbage Patch is changing the color of the ocean",
-    "Link": "https://www.scientificamerican.com/article/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/04a7b155-8b1e-4fd6-9960-e4eff8d44a53/sea-turtle.jpg?m=1793901923.03&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",
+    "Link": "https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low",
+    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43d244edf6331236982981213fda74f67c6a0abe-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:39"
+    "Date": "2026-11-08 06:20:02"
   },
   {
-    "Topic": "Science",
-    "Title": "These are the doctors and scientists elected in the 2026 midterms",
-    "Link": "https://www.scientificamerican.com/article/these-are-the-doctors-and-scientists-elected-in-the-2026-midterms/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/a70984cb-36ad-4c90-a468-10173415baa6/capital.jpg?m=1793899755.172&w=1200",
+    "Topic": "Trading & Crypto",
+    "Title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
+    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
+    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7bb36f0365fb43ac1dbeea4a59c4d607f666fa9d-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:42"
-  },
-  {
-    "Topic": "Science",
-    "Title": "‘Paleo lighting’ can fix your brain’s clock after daylight savings",
-    "Link": "https://www.scientificamerican.com/article/paleo-lighting-can-fix-your-brains-clock-after-daylight-savings/",
-    "ImageUrl": "https://static.scientificamerican.com/dam/asset/940fee31-f194-4854-afad-d5bab46cf166/shutterstock_2344285819.jpg?m=1793375339.493&w=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:45"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Comemos cordero y gambas, pero nos asquean el mono o los insectos: ¿quién decide qué es comida?",
-    "Link": "https://elpais.com/gastronomia/el-comidista/2026-11-04/comemos-cordero-y-gambas-pero-nos-asquean-el-mono-o-los-insectos-quien-decide-que-es-comida.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/CKD3I7NAY5CRXOYOCJYG7NCDSE.jpg?auth=3e2b90b241b951d0f610eaaf4714009150a6850349e1b412d386edf95176fc26&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:54"
-  },
-  {
-    "Topic": "General News",
-    "Title": "El Rey cree que hay que aprender a ser iberoamericanos: “La plenitud de nuestro espacio es lo que el mundo necesita”",
-    "Link": "https://elpais.com/espana/2026-11-06/el-rey-anima-a-iberoamerica-a-alcanzar-mayores-cotas-de-concertacion-politica-la-plenitud-de-nuestro-espacio-es-lo-que-el-mundo-necesita.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/VA3QCQJ5LZAK7MD2H6IPKVAO5U.jpg?auth=c4bb9df7b6ff232e126ff708cd57fa12c5275454f4f9ec7897c31b07112d7c71&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:55:57"
-  },
-  {
-    "Topic": "General News",
-    "Title": "HSBC's top execs face tense shareholders calling for a breakup",
-    "Link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403074317-01-hsbc-hong-kong-032023-restricted.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:00"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Aló Comidista: “¿Es bueno pasar la pasta por agua fría después de cocerla?”",
-    "Link": "https://elpais.com/gastronomia/el-comidista/2026-11-06/alo-comidista-es-bueno-pasar-la-pasta-por-agua-fria-despues-de-cocerla.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/3CJYQ6HX2RBPHKGCY3Y34CNYEU.jpg?auth=37facc44a26dc3729a0d14d70e866aa8d35d5856ae612becd307a0cd165a6a04&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "¿Pasas el día frente al ordenador? Hemos probado tres escritorios elevables que pueden cambiar tu forma de trabajar",
-    "Link": "https://elpais.com/escaparate/comparativas/mejores-escritorios-elevables.html",
-    "ImageUrl": "https://imagenes.elpais.com/resizer/v2/HUFKO3RUNBD3JIBKLZ5B6K2IWQ.png?auth=801b11ce62ccd5763ad22aac72699f8cd84814e39ca103b78daa715d30962ee2&amp;width=1200",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:07"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "An ocean of stars",
-    "Link": "https://www.planetary.org/the-downlink/an-ocean-of-stars",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/vera-c-rubin-ocean-of-stars-cutout.jpg?mtime=1782933395",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Cosmic neighborhood watch",
-    "Link": "https://www.planetary.org/the-downlink/cosmic-neighborhood-watch",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/mccarthy-artemis2-moon-closeup.jpg?mtime=1787171887",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research ",
-    "Link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:21"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Older than the Sun: Astronomers find new clues to the origin of interstellar comet 3I/ATLAS",
-    "Link": "https://www.eso.org/public/news/eso2608/",
-    "ImageUrl": "https://cdn.eso.org/images/screen/eso2608a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:25"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "M30’s Sparkling Stars",
-    "Link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:28"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "You'll soon be able to text Alexa to shop on Amazon",
-    "Link": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/l-intro-1793985022.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:35"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
-    "Link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/perplexitys-teammates-are-its-ai-agents-for-ongoing-work/l-intro-1793962197.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:38"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Airbnb is threatening to launch an AI travel agent next year",
-    "Link": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:40"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
-    "Link": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:42"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
-    "Link": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
-    "ImageUrl": "https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:45"
+    "Date": "2026-11-08 06:20:05"
   },
   {
     "Topic": "Movies",
-    "Title": "Dune: Part Three's Official Runtime Confirms It's The Shortest Movie In The Series",
-    "Link": "https://www.slashfilm.com/2306919/dune-part-three-runtime/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/dune-part-threes-official-runtime-confirms-its-the-shortest-movie-in-the-series/l-intro-1793818389.jpg",
+    "Title": "Sylvester Stallone's Long-Delayed Movie Gets Major Update 55 Years After Development Began",
+    "Link": "https://screenrant.com/sylvester-stallone-edgar-allan-poe-delayed-movie-update-2026/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/sylvester-stallone.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:53"
+    "Date": "2026-11-08 06:20:12"
   },
   {
     "Topic": "Movies",
-    "Title": "Project Hail Mary's Andy Weir Has Tried To Write Screenplays, But Feels 'Constrained' By This Obstacle [Exclusive]",
-    "Link": "https://www.slashfilm.com/2304260/project-hail-mary-andy-weir-screenplays-obstacle/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/project-hail-marys-andy-weir-has-tried-to-write-screenplays-but-feels-constrained-by-this-obstacle-exclusive/l-intro-1793640402.jpg",
+    "Title": "Stream It Or Skip It: ‘It Gets Worse’ On Paramount+, A Comedy About A Trio Of Roommates Who Realize That Adulting Sucks",
+    "Link": "https://decider.com/2026/11/06/it-gets-worse-paramount-plus-review/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/11/it-gets-worse-1.jpg?quality=75&#038;strip=all&#038;w=1200",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:56:56"
+    "Date": "2026-11-08 06:20:14"
   },
   {
     "Topic": "Movies",
-    "Title": "Bill Skarsgård Addresses X-Men Casting Rumors And His Interest In A Major DC Comics Superhero Role",
-    "Link": "https://www.slashfilm.com/2308412/bill-skarsgard-x-men-casting-rumors-dc-comics-role-john-constantine/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/bill-skarsgrd-addresses-x-men-casting-rumors-and-his-interest-in-a-major-dc-comics-superhero-role/l-intro-1793908141.jpg",
+    "Title": "Incubus Frontman Brandon Boyd Making Feature Scoring Debut With Sci-Fi Thriller ‘Unknown Company’ (Exclusive)",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/incubus-frontman-brandon-boyd-making-feature-scoring-debut-with-sci-fi-thriller-unknown-company-exclusive-1236749151/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Brandon_Portrait1309-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:00"
+    "Date": "2026-11-08 06:20:16"
   },
   {
     "Topic": "Movies",
-    "Title": "Stranger Things Spin-Off Series Ordered At Netflix - Title & First Details Revealed",
-    "Link": "https://www.slashfilm.com/2308956/stranger-things-spin-off-series-netflix-title-details-other-worlds/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/stranger-things-spin-off-series-ordered-at-netflix-title-first-details-revealed/l-intro-1793975443.jpg",
+    "Title": "DC’s Next Superman Is Here, And He’s Nothing Like The Original",
+    "Link": "https://screenrant.com/dc-next-superman-jon-kent-perfect-scene/",
+    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/superman-logo-chest.jpg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:02"
+    "Date": "2026-11-08 06:20:19"
   },
   {
     "Topic": "Movies",
-    "Title": "Aaron Eckhart's 83-Minute Gritty Neo-Western Becomes A Global Streaming Hit",
-    "Link": "https://www.slashfilm.com/2307333/aaron-eckhart-neo-western-thieves-highway-global-streaming-hit-paramount-plus/",
-    "ImageUrl": "https://www.slashfilm.com/img/gallery/aaron-eckharts-83-minute-gritty-neo-western-is-paramount-s-biggest-streaming-hit/l-intro-1793829591.jpg",
+    "Title": "Stream It Or Skip It: ‘Motor City’ on AMC+, an Alan Ritchson Dialogue-Free Action Stylegasm",
+    "Link": "https://decider.com/2026/11/06/motor-city-amc-review-stream-it-or-skip-it/",
+    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/where-to-watch-motor-city-movie.jpg?quality=75&#038;strip=all&#038;w=1156",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:05"
+    "Date": "2026-11-08 06:20:21"
   },
   {
-    "Topic": "Economy",
-    "Title": "Jaket Bulu Angsa Jadi Ladang Cuan Saat Musim Liburan Ingin Liburan Musim Dingin dengan Nyaman? Ini Persiapan Tepat yang Perlu Dibawa! (Foto: Freepik/lifeforstock)",
-    "Link": "https://www.liputan6.com/bisnis/read/8330167/jaket-bulu-angsa-jadi-ladang-cuan-saat-musim-liburan",
-    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/s5VCS0aycUSKCDCcA1uE_Q5quzs=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5070233/original/073740400_1735441627-portrait-young-beautiful-asian-woman-smile-happy-travel-enjoy-with-snow-winter-season.jpg",
+    "Topic": "Technology",
+    "Title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+    "Link": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+    "ImageUrl": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/11/20261105_Sharp_Tech299-JM-Edit_00_09_5128-scaled.jpg?fit=1200%2C675&#038;ssl=1",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:17"
+    "Date": "2026-11-08 06:20:37"
   },
   {
-    "Topic": "Economy",
-    "Title": "BI Harap Aturan Devisa Hasil Ekspor Perkuat Cadangan Devisa dan Rupiah Deputi Gubernur Bank Indonesia Aida S Budiman",
-    "Link": "https://www.liputan6.com/bisnis/read/8330097/bi-harap-aturan-devisa-hasil-ekspor-perkuat-cadangan-devisa-dan-rupiah",
-    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/0eBMsA4m1A1TsxR7z7bWkQEToOE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4178553/original/009309300_1664767985-Screenshot_2022-10-03-11-05-23-095_com.google.android.youtube.jpg",
+    "Topic": "Technology",
+    "Title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "Link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:21"
+    "Date": "2026-11-08 06:20:40"
   },
   {
-    "Topic": "Economy",
-    "Title": "ERIA Usulkan Cadangan Minyak Bersama ASEAN, Berpotensi Pangkas Biaya Han Phoumin - Senior Energy Economist at Economic Research Institute for ASEAN and East Asia",
-    "Link": "https://www.liputan6.com/bisnis/read/8329972/eria-usulkan-cadangan-minyak-bersama-asean-berpotensi-pangkas-biaya",
-    "ImageUrl": "https://cdn1-production-images-kly.akamaized.net/POnwuClylh-ia-YzjkAFxz570Ho=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9391854/original/088794000_1793954097-DSC00082.jpg",
+    "Topic": "Technology",
+    "Title": "The Duo apps are coming, says Apple",
+    "Link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:24"
+    "Date": "2026-11-08 06:20:42"
   },
   {
-    "Topic": "Economy",
-    "Title": "Biweekly Investment Insights: It’s complicated…",
-    "Link": "https://www.nasdaq.com/articles/global-indexes/biweekly-investment-insights/its-complicated",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-07 06:57:32"
+    "Topic": "Technology",
+    "Title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "Link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:20:44"
   },
   {
-    "Topic": "Economy",
-    "Title": "Harga Pangan 6 November 2026: Beras Premium Rp 18.000 per Kg Harga beras dan sembako di Pasar Gondangdia",
-    "Link": "https://www.liputan6.com/bisnis/read/8329769/harga-pangan-6-november-2026-beras-premium-rp-18000-per-kg",
-    "ImageUrl": "https://cdn0-production-images-kly.akamaized.net/qct-Xgc4wNbnnXxdEyzjd_S_D9g=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9386130/original/036407300_1793332296-6278471090258515359.jpg",
+    "Topic": "Technology",
+    "Title": "Asahi Linux Progress Linux 7.3",
+    "Link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "ImageUrl": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-07 06:57:36"
+    "Date": "2026-11-08 06:20:46"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Extra weight may be aging your brain faster than you think",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/male-brain-scan-obesity.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:20:53"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists identify two overlooked skills that predict reading success",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/happy-girl-reading-book.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:20:56"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/3d-human-liver-anatomy.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:20:58"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists just found dinosaur blood that survived 115 million years",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:01"
+  },
+  {
+    "Topic": "Science",
+    "Title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/mit-nanoparticle-assembly.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:03"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA's Artemis moon craft, built out of LEGO, lands at Henry Ford museum",
+    "Link": "https://www.collectspace.com/news/news-101626a-artemis-adventure-lego-bricks-museum-exhibit.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/960px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-08 06:21:10"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Opens Astronaut Applications for Its Next Class",
+    "Link": "https://nasawatch.com/2026/11/07/nasa-astronaut-applications-next-class/",
+    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/11/nasa_space_inventions_ar-.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:13"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "'At Home in Space' opens, capping Air and Space Museum renovation",
+    "Link": "https://www.collectspace.com/news/news-103026a-at-home-in-space-smithsonian-renovation.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/SearsHouse115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-08 06:21:16"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "John Larsen on writing 'Earthrise,' Jeremy Hansen's inside account of Artemis II",
+    "Link": "https://www.collectspace.com/news/news-102726a-earthrise-artemis-ii-jeremy-hansen-john-larsen-book-interview.html",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sea-wolf_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-08 06:21:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Northrop Grumman names Cygnus cargo capsule after astronaut James Lovell",
+    "Link": "https://www.collectspace.com/news/news-110126a-northrop-grumman-ng25-james-a-lovell.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cygnus_NG-25_Patch.png/960px-Cygnus_NG-25_Patch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-08 06:21:21"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Netanyahu Tersingkir, Presiden Israel Menunjuk Gadi Eisenkot untuk Membentuk Pemerintahan Baru",
+    "Link": "https://news.republika.co.id/berita/to5k3r483/netanyahu-tersingkir-presiden-israel-menunjuk-gadi-eisenkot-untuk-membentuk-pemerintahan-baru",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/pemimpin-partai-yashar-gadi-eisenkot-merayakan-hasil-pemilu-israel_261103152621-290.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:30"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pemprov Jabar Bangun 21 Unit Rumah Bagi Masyarakat Terdampak Bencana di Majalengka",
+    "Link": "https://rejabar.republika.co.id/berita/to52y2282/pemprov-jabar-bangun-21-unit-rumah-bagi-masyarakat-terdampak-bencana-di-majalengka",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kadisdik-jabar-dedi_220520162025-884.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:33"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Sapma Pemuda Pancasila Dukung Program Polri Bersama Masyarakat",
+    "Link": "https://news.republika.co.id/berita/to5kc1484/sapma-pemuda-pancasila-dukung-program-polri-bersama-masyarakat",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_261108050948-616.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:36"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Kebakaran Hanguskan 289 Hektare Kawasan Hutan Gunung Ciremai ",
+    "Link": "https://rejabar.republika.co.id/berita/to54ov282/kebakaran-hanguskan-289-hektare-kawasan-hutan-gunung-ciremai",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kebakaran-hutan-dan-lahan-karhutla-yang-melanda-kawasan-taman_260908235356-988.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:39"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Ruang Panel Listrik Stasiun Gambir Terbakar",
+    "Link": "https://news.republika.co.id/berita/to52gx370/ruang-panel-listrik-stasiun-gambir-terbakar",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/059157800-1777353882-830-556.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-08 06:21:42"
   }
 ]
