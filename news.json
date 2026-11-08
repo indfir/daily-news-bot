@@ -1,282 +1,282 @@
 [
   {
-    "Topic": "Data / AI",
-    "Title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-    "Link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
+    "Topic": "Movies",
+    "Title": "This X-Men-Esque '80s Sci-Fi Series Launched Courteney Cox's Career",
+    "Link": "https://www.slashfilm.com/2300145/courteney-cox-80s-sci-fi-series-x-men-launch-carreer-misfits-of-science/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/this-x-men-esque-80s-sci-fi-series-launched-courteney-coxs-career/l-intro-1793211563.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:32"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-    "Link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!6wCM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b841d26-5b2d-4be9-9710-d89d4f023f0c_1600x900.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:34"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
-    "Link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!UeSO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F380ad0cc-566e-4e54-8862-00e2de6f269b_2670x1398.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:36"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-    "Link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:38"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-    "Link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!c7Za!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1748fa24-e946-47fb-bf1b-e488d08547fd_1764x1244.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "US Gov Finalizes Stablecoin Rules - Companies Now Need to Apply, and Receive Approval to Issue Tokens...",
-    "Link": "https://www.globalcryptopress.com/2026/10/us-gov-finalizes-stablecoin-rules.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg/960px-Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-08 06:19:54"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
-    "Link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
-    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bee89f48bf368de3d2f4d0ec9d86995f52f85889-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:56"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery",
-    "Link": "https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery",
-    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7496d601f781f2aae46ff9760f8caad09fab7bd1-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:19:59"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",
-    "Link": "https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low",
-    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43d244edf6331236982981213fda74f67c6a0abe-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:02"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
-    "Link": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
-    "ImageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7bb36f0365fb43ac1dbeea4a59c4d607f666fa9d-2048x1152.png?w=1200&amp;fit=max&amp;fm=jpg&amp;q=75&amp;bg=ffffff",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:05"
+    "Date": "2026-11-09 06:22:36"
   },
   {
     "Topic": "Movies",
-    "Title": "Sylvester Stallone's Long-Delayed Movie Gets Major Update 55 Years After Development Began",
-    "Link": "https://screenrant.com/sylvester-stallone-edgar-allan-poe-delayed-movie-update-2026/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/sylvester-stallone.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "Janusz Kaminski, the Polish Cameraman Who Taught Hollywood How to See",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-features/janusz-kaminski-thr-visionary-cinematographer-award-1236750373/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2018/04/gettyimages-926298558_copy_-_h_2018.jpg?w=1296&#038;h=730&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:12"
+    "Date": "2026-11-09 06:22:38"
   },
   {
     "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘It Gets Worse’ On Paramount+, A Comedy About A Trio Of Roommates Who Realize That Adulting Sucks",
-    "Link": "https://decider.com/2026/11/06/it-gets-worse-paramount-plus-review/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/11/it-gets-worse-1.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "Title": "Patrick Stewart's '90s Fantasy Movie With Neve Campbell Is Streaming For Free",
+    "Link": "https://www.slashfilm.com/2306342/patrick-stewart-90s-fantasy-movie-neve-campbell-streaming-free-the-canterville-ghost/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/patrick-stewarts-90s-fantasy-movie-with-neve-campbell-is-streaming-for-free/l-intro-1793799460.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:14"
+    "Date": "2026-11-09 06:22:41"
   },
   {
     "Topic": "Movies",
-    "Title": "Incubus Frontman Brandon Boyd Making Feature Scoring Debut With Sci-Fi Thriller ‘Unknown Company’ (Exclusive)",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/incubus-frontman-brandon-boyd-making-feature-scoring-debut-with-sci-fi-thriller-unknown-company-exclusive-1236749151/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Brandon_Portrait1309-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "Title": "To Make a Doc About a Nomadic Cyclist, the ‘Perfect Road’ Filmmakers Spent 3 Months in a Campervan",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-directors-spent-months-in-campervan-poff-1236744367/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Perfect-Road-3-Dogwoof-H-2026.webp?w=500&#038;h=281&#038;crop=1",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:16"
+    "Date": "2026-11-09 06:22:44"
   },
   {
     "Topic": "Movies",
-    "Title": "DC’s Next Superman Is Here, And He’s Nothing Like The Original",
-    "Link": "https://screenrant.com/dc-next-superman-jon-kent-perfect-scene/",
-    "ImageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/superman-logo-chest.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "Title": "Disney Tried To Resurrect A Groundbreaking '60s Sitcom With A Movie That Bombed",
+    "Link": "https://www.slashfilm.com/2305184/disney-60s-sitcom-my-favorite-martian-movie-bomb/",
+    "ImageUrl": "https://www.slashfilm.com/img/gallery/disney-tried-to-resurrect-a-groundbreaking-60s-sitcom-with-a-movie-that-bombed/l-intro-1793715200.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:19"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Stream It Or Skip It: ‘Motor City’ on AMC+, an Alan Ritchson Dialogue-Free Action Stylegasm",
-    "Link": "https://decider.com/2026/11/06/motor-city-amc-review-stream-it-or-skip-it/",
-    "ImageUrl": "https://decider.com/wp-content/uploads/2026/07/where-to-watch-motor-city-movie.jpg?quality=75&#038;strip=all&#038;w=1156",
-    "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:21"
+    "Date": "2026-11-09 06:22:47"
   },
   {
     "Topic": "Technology",
-    "Title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
-    "Link": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
-    "ImageUrl": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/11/20261105_Sharp_Tech299-JM-Edit_00_09_5128-scaled.jpg?fit=1200%2C675&#038;ssl=1",
+    "Title": "Illinois appeals Pacold injunction blocking its prediction-market licensing and tax regime",
+    "Link": "https://readwrite.com/illinois-appeals-pacold-injunction-blocking-its-prediction-market-licensing-and-tax-regime/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/11/match-651706.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:37"
+    "Date": "2026-11-09 06:22:53"
   },
   {
     "Topic": "Technology",
-    "Title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "Link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+    "Title": "The biggest disadvantages of using AI glasses",
+    "Link": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/the-biggest-disadvantages-of-using-ai-glasses/l-intro-1793976467.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:40"
+    "Date": "2026-11-09 06:22:56"
   },
   {
     "Topic": "Technology",
-    "Title": "The Duo apps are coming, says Apple",
-    "Link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+    "Title": "Suno AI music generator sued again for copyright infringement",
+    "Link": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+    "ImageUrl": "https://www.engadget.com/img/gallery/suno-ai-music-generator-sued-again-for-copyright-infringement/l-intro-1794166799.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:42"
+    "Date": "2026-11-09 06:22:59"
   },
   {
     "Topic": "Technology",
-    "Title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "Link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+    "Title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
+    "Link": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+    "ImageUrl": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/191:100/w_1280,c_limit/102916-Iran%20War%20US.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:44"
+    "Date": "2026-11-09 06:23:03"
   },
   {
     "Topic": "Technology",
-    "Title": "Asahi Linux Progress Linux 7.3",
-    "Link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-    "ImageUrl": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+    "Title": "Arkansas sues VGW and Kalshi, citing $66 million in VGW taxable sales in one year",
+    "Link": "https://readwrite.com/arkansas-sues-vgw-and-kalshi-citing-66-million-in-vgw-taxable-sales-in-one-year/",
+    "ImageUrl": "https://readwrite.com/wp-content/uploads/2026/11/match-654421.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:46"
+    "Date": "2026-11-09 06:23:06"
   },
   {
-    "Topic": "Science",
-    "Title": "Extra weight may be aging your brain faster than you think",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/male-brain-scan-obesity.webp",
+    "Topic": "Data / AI",
+    "Title": "The Open Arabic LLM Leaderboard 2",
+    "Link": "https://huggingface.co/blog/leaderboard-arabic-v2",
+    "ImageUrl": "https://huggingface.co/blog/assets/leaderboards-on-the-hub/thumbnail_arabic.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:53"
+    "Date": "2026-11-09 06:23:14"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists identify two overlooked skills that predict reading success",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/happy-girl-reading-book.webp",
+    "Topic": "Data / AI",
+    "Title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "Link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "ImageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:56"
+    "Date": "2026-11-09 06:23:16"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
-    "Link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/3d-human-liver-anatomy.webp",
+    "Topic": "Data / AI",
+    "Title": "How to Use Transformers.js in a Chrome Extension",
+    "Link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "ImageUrl": "https://huggingface.co/blog/assets/transformersjs-chrome-extension/thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:20:58"
+    "Date": "2026-11-09 06:23:18"
   },
   {
-    "Topic": "Science",
-    "Title": "Scientists just found dinosaur blood that survived 115 million years",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
+    "Topic": "Data / AI",
+    "Title": "Training Stable Diffusion with Dreambooth using Diffusers",
+    "Link": "https://huggingface.co/blog/dreambooth",
+    "ImageUrl": "https://huggingface.co/blog/assets/sd_dreambooth_training/thumbnail.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:01"
+    "Date": "2026-11-09 06:23:22"
   },
   {
-    "Topic": "Science",
-    "Title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/mit-nanoparticle-assembly.webp",
+    "Topic": "Data / AI",
+    "Title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "Link": "https://huggingface.co/blog/multi-vector-encoder",
+    "ImageUrl": "https://huggingface.co/blog/assets/multi-vector-encoder/st-hf-lighton-thumbnail.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:03"
+    "Date": "2026-11-09 06:23:25"
   },
   {
     "Topic": "Astronomy",
-    "Title": "NASA's Artemis moon craft, built out of LEGO, lands at Henry Ford museum",
-    "Link": "https://www.collectspace.com/news/news-101626a-artemis-adventure-lego-bricks-museum-exhibit.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/960px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Title": " NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals ",
+    "Link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/jCTxGyAkTNHDNQViyQuhVj-1920-80.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:23:33"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": " On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force ",
+    "Link": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1088-80.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:23:36"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "First radio waves seen from an exoplanet hint at otherworldly auroras",
+    "Link": "https://www.sciencenews.org/article/exoplanet-aurora-radio-waves",
+    "ImageUrl": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091826_EC_exoplanet_main.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:23:39"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": " Star Wars is experiencing a golden age of video games ",
+    "Link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/2mBxyAdP8FEoQwDfPuQ728-2000-80.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:23:42"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": " China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race? ",
+    "Link": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+    "ImageUrl": "https://cdn.mos.cms.futurecdn.net/cTJYivq9mYM2y7WWZFSME7-1775-80.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:23:46"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Broke $86,000 and the Leverage That Carried It There Is Now the Risk",
+    "Link": "https://dailycoinpost.com/bitcoin-86000-leverage-perpetual-futures-risk-september-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/btc-leverage.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Whale Wallets Just Hit an All-Time Record and Binance Shorts Just Hit Their Highest Level Since $62,000 and One of These Trades Is About to Be Very Wrong",
+    "Link": "https://dailycoinpost.com/bitcoin-whale-wallets-record-shorts-october-2026/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/10/Whale-Wallets-shorts.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "BestWallet Review 2026: Is This the Best Monero Wallet?",
+    "Link": "https://dailycoinpost.com/bestwallet-review-2026-is-this-the-best-monero-wallet/",
+    "ImageUrl": "https://dailycoinpost.com/wp-content/uploads/2026/09/Best-Monero-Wallet.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:38"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Crypto Exchange GOPAX Halts Trading and Standard Withdrawals After Hacking Threat",
+    "Link": "https://www.financemagnates.com/trending/crypto-exchange-gopax-halts-trading-and-standard-withdrawals-after-hacking-threat/",
+    "ImageUrl": "https://images.financemagnates.com/images/Gopax%2C%20crypto%20exchange%2C%20South%20Korea_id_c5ddc383-872d-420d-9884-fff4f47cfe0f_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:41"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Nigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens",
+    "Link": "https://www.financemagnates.com/cryptocurrency/regulation/nigeria-erects-strict-stablecoin-wall-demanding-11m-local-subsidiaries-for-us-dollar-tokens/",
+    "ImageUrl": "https://images.financemagnates.com/images/Nigeria%2C%20Securities%20and%20Exchange%20Commission_id_6b587954-32e2-4874-b955-5be043bedbc9_size900.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:44"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Video: Tekanan Jual Masih Tinggi, Gimana Prospek Saham Perbankan?",
+    "Link": "https://www.cnbcindonesia.com/market/20261105104039-19-782527/video-tekanan-jual-masih-tinggi-gimana-prospek-saham-perbankan",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/11/05/tekanan-jual-masih-tinggi-gimana-prospek-saham-perbankan-emiten-konglomerat-1793850118482_169.png?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:54"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "SpaceX dan Tesla Dibuang Investor, Harta Elon Musk Sisa Rp14.000 Triliun",
+    "Link": "https://www.cnbcindonesia.com/market/20261108162018-17-783297/spacex-tesla-dibuang-investor-harta-elon-musk-sisa-rp14000-triliun",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/05/14/putra-miliarder-teknologi-elon-musk-yang-berusia-enam-tahun-xa-xii-mencuri-perhatian-dalam-pertemuan-bisnis-tingkat-tinggi-di--1778771100496_169.png?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:27:57"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+    "Link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Norwich_Market_-_geograph.org.uk_-_2224675.jpg/960px-Norwich_Market_-_geograph.org.uk_-_2224675.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-11-08 06:21:10"
+    "Date": "2026-11-09 06:28:02"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "NASA Opens Astronaut Applications for Its Next Class",
-    "Link": "https://nasawatch.com/2026/11/07/nasa-astronaut-applications-next-class/",
-    "ImageUrl": "https://nasawatch.com/wp-content/uploads/2026/11/nasa_space_inventions_ar-.jpg",
+    "Topic": "Economy",
+    "Title": "Marketplace dan Celah Transparansi Informasi Halal",
+    "Link": "https://www.cnbcindonesia.com/opini/20261108215558-14-783329/marketplace-dan-celah-transparansi-informasi-halal",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2022/03/21/logo-halal_169.jpeg?w=650&q=90",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:13"
+    "Date": "2026-11-09 06:28:04"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "'At Home in Space' opens, capping Air and Space Museum renovation",
-    "Link": "https://www.collectspace.com/news/news-103026a-at-home-in-space-smithsonian-renovation.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/SearsHouse115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-08 06:21:16"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "John Larsen on writing 'Earthrise,' Jeremy Hansen's inside account of Artemis II",
-    "Link": "https://www.collectspace.com/news/news-102726a-earthrise-artemis-ii-jeremy-hansen-john-larsen-book-interview.html",
-    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sea-wolf_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-08 06:21:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Northrop Grumman names Cygnus cargo capsule after astronaut James Lovell",
-    "Link": "https://www.collectspace.com/news/news-110126a-northrop-grumman-ng25-james-a-lovell.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cygnus_NG-25_Patch.png/960px-Cygnus_NG-25_Patch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-08 06:21:21"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Netanyahu Tersingkir, Presiden Israel Menunjuk Gadi Eisenkot untuk Membentuk Pemerintahan Baru",
-    "Link": "https://news.republika.co.id/berita/to5k3r483/netanyahu-tersingkir-presiden-israel-menunjuk-gadi-eisenkot-untuk-membentuk-pemerintahan-baru",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/pemimpin-partai-yashar-gadi-eisenkot-merayakan-hasil-pemilu-israel_261103152621-290.jpg",
+    "Topic": "Economy",
+    "Title": "Anak Muda RI Ramai-Ramai Serbu Pasar Tanah Abang, Bangun Bisnis Ini",
+    "Link": "https://www.cnbcindonesia.com/news/20261104165730-4-782352/anak-muda-ri-ramai-ramai-serbu-pasar-tanah-abang-bangun-bisnis-ini",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/11/04/sejumlah-pakaian-tanpa-merek-terpajang-di-pusat-grosir-metro-tanah-abang-pgmta-jakarta-pusat-rabu-4112026-1793784184744_169.jpeg?w=650&q=90",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:30"
+    "Date": "2026-11-09 06:28:06"
   },
   {
-    "Topic": "General News",
-    "Title": "Pemprov Jabar Bangun 21 Unit Rumah Bagi Masyarakat Terdampak Bencana di Majalengka",
-    "Link": "https://rejabar.republika.co.id/berita/to52y2282/pemprov-jabar-bangun-21-unit-rumah-bagi-masyarakat-terdampak-bencana-di-majalengka",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kadisdik-jabar-dedi_220520162025-884.jpg",
+    "Topic": "Science",
+    "Title": "Scientists trick cancer cells into making the drugs that kill them",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cancer-killing-drug-made-inside-tumor-cells.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:33"
+    "Date": "2026-11-09 06:28:14"
   },
   {
-    "Topic": "General News",
-    "Title": "Sapma Pemuda Pancasila Dukung Program Polri Bersama Masyarakat",
-    "Link": "https://news.republika.co.id/berita/to5kc1484/sapma-pemuda-pancasila-dukung-program-polri-bersama-masyarakat",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_261108050948-616.png",
+    "Topic": "Science",
+    "Title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/teeth-dental-cavities-mouth-tongue.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:36"
+    "Date": "2026-11-09 06:28:16"
   },
   {
-    "Topic": "General News",
-    "Title": "Kebakaran Hanguskan 289 Hektare Kawasan Hutan Gunung Ciremai ",
-    "Link": "https://rejabar.republika.co.id/berita/to54ov282/kebakaran-hanguskan-289-hektare-kawasan-hutan-gunung-ciremai",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/kebakaran-hutan-dan-lahan-karhutla-yang-melanda-kawasan-taman_260908235356-988.jpg",
+    "Topic": "Science",
+    "Title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/newly-prepared-oxoborane.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:39"
+    "Date": "2026-11-09 06:28:20"
   },
   {
-    "Topic": "General News",
-    "Title": "Ruang Panel Listrik Stasiun Gambir Terbakar",
-    "Link": "https://news.republika.co.id/berita/to52gx370/ruang-panel-listrik-stasiun-gambir-terbakar",
-    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/059157800-1777353882-830-556.jpg",
+    "Topic": "Science",
+    "Title": "Scientists discover that a clogged filter could revolutionize oil refining",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-08 06:21:42"
+    "Date": "2026-11-09 06:28:22"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Scientists discover a hidden warning sign of cannabis addiction",
+    "Link": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-09 06:28:25"
   }
 ]
