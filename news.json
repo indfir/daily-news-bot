@@ -1,290 +1,322 @@
 [
   {
-    "Topic": "Science",
-    "Title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
-    "Link": "https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/",
-    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/image1.jpg",
+    "Topic": "Data / AI",
+    "Title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+    "Link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/hybrid-quantum-system-loop.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-11 07:22:48"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Jon Stewart reveals where hed be if he hadnt gone into comedy",
-    "Link": "https://mashable.com/entertainment/jon-stewart-behind-the-scenes-job-fired",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/videos/00rWUwJAmSjnGbTI1sOI2E9/hero-image.fill.size_1200x675.v1794223536.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:22:57"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Amazon just slashed $250 off Apples M5 MacBook Air before Black Friday",
-    "Link": "https://mashable.com/tech/nov-9-apple-macbook-air-m5-early-black-friday-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03xireO5XCoWzikR816dKuj/hero-image.fill.size_1200x675.v1794231418.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:00"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-    "Link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-    "ImageUrl": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/191:100/w_1280,c_limit/103026-AI%20Mouse%2002.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:04"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
-    "Link": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
-    "ImageUrl": "https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/191:100/w_1280,c_limit/492210506",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:08"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Tesla launches Robotaxi service in San Antonio",
-    "Link": "https://mashable.com/tech/tesla-robotaxi-san-antonio",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/05jr6Vldjqzu2HJh8y9Iqm3/hero-image.fill.size_1200x675.v1794302854.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:11"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "The best space images of the month: September 2026",
-    "Link": "https://www.planetary.org/articles/the-best-space-images-of-the-month-september-2026",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/iss-over-mt-shuksan.jpg?mtime=1790901938",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:19"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Portraits of the red planet",
-    "Link": "https://www.planetary.org/the-downlink/portraits-of-the-red-planet",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/viking-first-mars-image.jpg?mtime=1784750457",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:22"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-    "Link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-    "ImageUrl": "https://spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:27"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Politics, cool space photos, and more politics",
-    "Link": "https://www.planetary.org/the-downlink/politics-cool-space-photos-and-more-politics",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/cats-head-nebula.jpg?mtime=1793874996",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:29"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Mars moon mission set to launch with tech funded by Planetary Society on board",
-    "Link": "https://www.planetary.org/articles/mars-moon-mission-set-to-launch-with-tech-funded-by-planetary-society-onboard",
-    "ImageUrl": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/mmx-sampling.jpeg?mtime=1791298039",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:32"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "James Gunn’s Exit Makes DC’s Biggest Batman Mistake Even Harder to Ignore",
-    "Link": "https://www.comingsoon.net/movies/features/2221090-james-gunns-exit-makes-dcs-biggest-batman-mistake-even-harder-to-ignore",
-    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Untitled-design-2026-09-01T043820.764.png?resize=1200,630",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:41"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "APPOFENIACS - A Technology Movie about Human Behavior",
-    "Link": "https://www.aintitcool.com/appofeniacsreview2026-83671/?utm_source=full-feed&utm_medium=feed&utm_term=reviews",
-    "ImageUrl": "https://media.aintitcool.com/media/_versions/articleimages2026/barbarells/appofeniacs10_huge.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:43"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Melissa McCarthy’s Daughter Making Bank On Mom’s Christmas Movie",
-    "Link": "https://www.tmz.com/2026/11/10/melissa-mccarthy-s-daughter-making-bank-on-mom-s-christmas-movie/",
-    "ImageUrl": "https://imagez.tmz.com/image/df/16by9/2026/11/10/df37ddfe7b4646df85eb3b6743207a01_xl.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:47"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Bad Day: Official Trailer, Poster, And Images Released",
-    "Link": "https://bleedingcool.com/movies/bad-day-official-trailer-poster-and-images-released/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/11/bad-day-feature-image-2000x1125.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:50"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Holiday TV and Streaming Guide 2026",
-    "Link": "https://editorial.rottentomatoes.com/article/holiday-tv-and-streaming-guide-2026/",
-    "ImageUrl": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/10/Holiday_Programming_Guide-Rep.jpg?w=600",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:23:53"
+    "Date": "2026-11-12 08:45:46"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
-    "Link": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/bala-kdn-time-series-python-libraries.png",
+    "Title": "This new chip survives 1300°F (700°C) and could change AI forever",
+    "Link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+    "ImageUrl": "https://www.sciencedaily.com/images/1920/hot-lava-computer-memory-chip.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:01"
+    "Date": "2026-11-12 08:45:50"
   },
   {
     "Topic": "Data / AI",
-    "Title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-    "Link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Technique-5-Right-Sizing-Your-GPU-scaled.png",
+    "Title": "Controlling Reasoning Effort in LLMs",
+    "Link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!jWb-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F286a0beb-32b2-41fc-8bcf-6bae189b53f2_1488x840.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:04"
+    "Date": "2026-11-12 08:45:53"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How to Give Your AI Agent Memory",
-    "Link": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/awan_give_ai_agent_memory_2.png",
+    "Title": "Beyond Standard LLMs",
+    "Link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+    "ImageUrl": "https://substackcdn.com/image/fetch/$s_!vFov!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1732960-2119-429d-96e7-bafee7f79283_5862x3699.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:06"
+    "Date": "2026-11-12 08:45:56"
   },
   {
     "Topic": "Data / AI",
-    "Title": "How to Use AI for Enterprise BI",
-    "Link": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/LANSA-KD-Nuggets-Hero.png",
+    "Title": "ChatGPT Business Agents: A New Front Door for Brands That Want to Be Found",
+    "Link": "https://datafloq.com/chatgpt-business-agents-a-new-front-door-for-brands-that-want-to-be-found/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/openai-chatgpt-sponsored-business-agents-gtm.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:11"
-  },
-  {
-    "Topic": "Data / AI",
-    "Title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
-    "Link": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm-feature.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:14"
-  },
-  {
-    "Topic": "General News",
-    "Title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
-    "Link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230403120057-artemis-ii-crew-official-portrait.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:23"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Nobel-winning UK scientist launches programme to develop hepatitis C vaccine in Hong Kong",
-    "Link": "https://www.scmp.com/news/hong-kong/health-environment/article/3373966/nobel-winning-uk-scientist-launches-programme-develop-hepatitis-c-vaccine-hong-kong",
-    "ImageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/10/1bc30a95-4123-47c9-bde3-93e0a3b2af83_2ab2c09c.jpg?itok=_GlbiqHG&amp;v=1794309018",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:25"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
-    "Link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
-    "ImageUrl": "https://images.tagesschau.de/image/04fb5198-54f4-440b-be52-62232f73736b/AAABocTzaJA/AAABnSSvrFg/16x9-big/bilger-144.jpg?width=1280",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:29"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-    "Link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-    "ImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:32"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
-    "Link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
-    "ImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230211075054-chinese-spy-balloon-recovery-020523.jpg?c=16x9&q=w_800,c_fill",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:36"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "BULOG Tegaskan Sikap Tolak Impor, Perkuat Komitmen Swasembada Pangan Berkelanjutan",
-    "Link": "https://www.jpnn.com/news/bulog-tegaskan-sikap-tolak-impor-perkuat-komitmen-swasembada-pangan-berkelanjutan",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/11/11/perum-bulog-bersama-para-pemangku-kepentingan-pangan-nasiona-34ci.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:47"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Desa Sejahtera Astra Sasak Ende Gerakkan Ekonomi Warga Lewat Budaya Lokal",
-    "Link": "https://www.jpnn.com/news/desa-sejahtera-astra-sasak-ende-gerakkan-ekonomi-warga-lewat-budaya-lokal",
-    "ImageUrl": "https://cloud.jpnn.com/photo/arsip/normal/2026/11/10/kerajinan-tenun-kuliner-tradisional-dan-wisata-budaya-menjad-j2yx.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:53"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-    "Link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108416314-1792099131626-gettyimages-2299775963-SWEDEN_NVIDIA.jpeg?v=1792099225&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:24:59"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Thailand Business News — Morning Briefing",
-    "Link": "https://www.thailand-business-news.com/banking/339346-thailand-business-news-morning-briefing-8",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/08/buildingone-with-botlogo.jpg?fit=1200%2C800&amp;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:25:03"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Gulat Surabaya Borong 11 Medali POPDA Jatim 2026, Ini Daftar 4 Atlet Peraih Emas",
-    "Link": "https://jatim.jpnn.com/olahraga/50133/gulat-surabaya-borong-11-medali-popda-jatim-2026-ini-daftar-4-atlet-peraih-emas",
-    "ImageUrl": "https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/10/tim-gulat-surabaya-seusai-mengikuti-ajang-popda-xv-jatim-202-namm.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:25:08"
+    "Date": "2026-11-12 08:46:00"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Near AI Confirms Security Breach Affecting 100 Users and 18 Agents",
-    "Link": "https://news.bitcoin.com/security/near-ai-confirms-security-breach-affecting-100-users-18-agents/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/near-ai-confirms-security-breach-affecting-100-users-and-18-agents.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:25:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "If Bitcoin Breaks Above $73K, This Is The Price Target: 10x Research",
-    "Link": "https://bitcoinwarrior.net/2024/04/if-bitcoin-breaks-above-73k-this-is-the-price-target-10x-research/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bitcoin_transactions_per_month.svg/960px-Bitcoin_transactions_per_month.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-11 07:25:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Could Rally Before Rate Cuts Begin, Binance Research Says",
-    "Link": "https://news.bitcoin.com/featured/bitcoin-could-rally-before-rate-cuts-begin-binance-research/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/bitcoin-token-over-price-chart.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:25:37"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Bitcoin Price Crashes to $72,787 After Hotter-Than-Expected CPI",
-    "Link": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-72787-hotter-than-expected-cpi/",
-    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-price-nov10-2026.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-11 07:25:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "SEC has regarded Ethereum as security for at least a year: report",
-    "Link": "https://bitcoinwarrior.net/2024/04/sec-has-regarded-ethereum-as-security-for-at-least-a-year-report/",
+    "Title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+    "Link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-11 07:25:47"
+    "Date": "2026-11-12 08:46:08"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+    "Link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-12 08:46:10"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "Link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Michael_Novogratz.jpg/960px-Michael_Novogratz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-12 08:46:12"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "European wheat futures climb amid stalled shipping talks",
+    "Link": "https://www.investing.com/news/commodities-news/european-wheat-futures-climb-amid-stalled-shipping-talks-93CH-5019806",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/960px-Flag_of_Iran_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-12 08:46:16"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+    "Link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-12 08:46:18"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+    "Link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/6ff38c86-714d-4360-8e0f-c36586271710/AAABnRpKHEY/AAABnSSvrFg/16x9-big/bgh-karlsruhe-106.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:27"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+    "Link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
+    "ImageUrl": "https://images.tagesschau.de/image/ec537cd6-2a8f-439b-b007-490f00dd7670/AAABmuVO3W0/AAABnSSvrFg/16x9-big/eu-kommission-gebaeude-102.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:31"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Danareksa Pastikan Konsolidasi Empat MI BUMN tak Ganggu Persaingan dengan Swasta",
+    "Link": "https://ekonomi.republika.co.id/berita/tod7yz490/danareksa-pastikan-konsolidasi-empat-mi-bumn-tak-ganggu-persaingan-dengan-swasta",
+    "ImageUrl": "https://static.republika.co.id/uploads/images/kanal_slide/_261112082458-437.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:34"
+  },
+  {
+    "Topic": "General News",
+    "Title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+    "Link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+    "ImageUrl": "https://images.tagesschau.de/image/8daf5cdf-3b51-4153-88b9-43b617f57f6e/AAABocowM4k/AAABnSSvrFg/16x9-big/fehrs-ekd-synode-100.jpg?width=1280",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:37"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Collision of two trains in Egypt kills at least seven",
+    "Link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+    "ImageUrl": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034a0f8d3305abc1d2f7454ff0a5026f",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:40"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Jay Bhattacharya, October 2020: “Let People Face the Risk of the Disease.”",
+    "Link": "http://sciencebasedmedicine.org/jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease/?utm_source=rss&utm_medium=rss&utm_campaign=jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-16.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:50"
+  },
+  {
+    "Topic": "Science",
+    "Title": "RFK Jr. is definitely coming for your vaccines (part 12): The new NIH vaccine injury clinic is likely a sham",
+    "Link": "http://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham/?utm_source=rss&utm_medium=rss&utm_campaign=rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/rfk-jr-vaccine-injuries-nih.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:53"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Idaho allows faith-based medical neglect to kill children",
+    "Link": "http://sciencebasedmedicine.org/idaho-allows-faith-based-medical-neglect-to-kill-children/?utm_source=rss&utm_medium=rss&utm_campaign=idaho-allows-faith-based-medical-neglect-to-kill-children",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2024/03/Edvard_Munch_-_The_Sick_Child_-_MM.M.00051_-_Munch_Museum.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:46:59"
+  },
+  {
+    "Topic": "Science",
+    "Title": "The EBM Gurus, RCT Zealots, & “Sensible” Doctors Who Gave Us Kennedy’s Chemtrails, Wakefield’s Wins, Paxton’s Prosecutions, & Schwartz’s Study",
+    "Link": "http://sciencebasedmedicine.org/the-ebm-gurus-andmaha/?utm_source=rss&utm_medium=rss&utm_campaign=the-ebm-gurus-andmaha",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/image-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:01"
+  },
+  {
+    "Topic": "Science",
+    "Title": "What is the greatest threat to science in the US?",
+    "Link": "http://sciencebasedmedicine.org/what-is-the-greatest-threat-to-science-in-the-us/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-greatest-threat-to-science-in-the-us",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/11/RussellVoughtDonaldTrump.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:04"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
+    "Link": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:10"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+    "Link": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+    "ImageUrl": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:14"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+    "Link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+    "ImageUrl": "https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/191:100/w_1280,c_limit/science_michigan_utilities_money_politics2.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "4DX Movies Are Entering Their Thirsty Romance Era",
+    "Link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+    "ImageUrl": "https://media.wired.com/photos/6af2567ae8695dca9334016b/191:100/w_1280,c_limit/4DX-is-For-Horny-Girlies-Now-Culture.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:20"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+    "Link": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+    "ImageUrl": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/191:100/w_1280,c_limit/swiftnasa.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:23"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Jessica Chastain Found Freedom in Breaking All the Rules in Netflix’s Heartland | Interview",
+    "Link": "https://www.comingsoon.net/movies/features/2221367-jessica-chastain-heartland-interview",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Heartland_n_00_18_26_08_R.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:31"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Avengers Endgame: Encore Will Premiere On Disney+ November 13th",
+    "Link": "https://bleedingcool.com/movies/avengers-endgame-encore-will-premiere-on-disney-november-13th/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/08/ENRR-Disney-27x40-SilverPayoff-FIN10a-FinalFiles-Mech14-1-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:34"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "DC Studios Rumor Reaction: James Gunn Did Right by Jim Lee &#038; DC Comics",
+    "Link": "https://bleedingcool.com/tv/dc-studios-rumor-reaction-james-gunn-did-right-by-jim-lee-dc-comics/",
+    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/11/MixCollage-10-Nov-2026-03-58-PM-7874-2000x1125.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:36"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "8 Military Discounts for Streaming & Wireless on Veterans Day 2026",
+    "Link": "https://cordcuttersnews.com/8-military-discounts-for-streaming-wireless-on-veterans-day-2026/",
+    "ImageUrl": "https://cordcuttersnews.com/wp-content/uploads/2018/10/iStock-866913638-e1538513990847.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:40"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Shaquille O’Neal Gets Bizarre New TV Show From ABC Featuring a Nearly Impossible Task",
+    "Link": "https://www.comingsoon.net/tv/news/2221229-shaq-new-tv-show-can-you-hide-him",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/sn.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:47:43"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view",
+    "Link": "https://www.investing.com/news/economy-news/japan-wholesale-inflation-accelerates-keeps-alive-boj-ratehike-view-5020108",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/FRED_Inflation_Rate_-_1960_to_present.png/960px-FRED_Inflation_Rate_-_1960_to_present.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-12 08:47:51"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Stocks end higher as CoreWeave results ease AI spending worries",
+    "Link": "https://www.investing.com/news/economy-news/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-5018288",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-12 08:47:55"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+    "Link": "https://seekingalpha.com/article/4966723-coreweave-earnings-alleviate-some-ai-spending-fears?source=feed_all_articles",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-12 08:47:58"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "CoreWeave’s debt and interest payment is growing 20%~30% QoQ. Can they increase their price by 25% every quarter?",
+    "Link": "https://www.investmentwatchblog.com/coreweaves-debt-and-interest-payment-is-growing-2030-qoq-can-they-increase-their-price-by-25-every-quarter/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2025_AI_Bubble_Speculation_2.png/960px-2025_AI_Bubble_Speculation_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-12 08:48:01"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Hyliion Holdings Corp. (HYLN) Q3 2026 Earnings Call Transcript",
+    "Link": "https://seekingalpha.com/article/4966722-hyliion-holdings-corp-hyln-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-12 08:48:05"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Starts Artemis III Engine Install; Boosters, Crew Training Advance",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:48:12"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Artemis III Moon Rocket Hardware Arrives, Artemis II Capsule Returns to Kennedy",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/04/28/nasas-artemis-iii-moon-rocket-hardware-arrives-artemis-ii-capsule-returns-to-kennedy/",
+    "ImageUrl": "https://images-assets.nasa.gov/image/KSC-20260428-PH-GEB02_0010/KSC-20260428-PH-GEB02_0010~large.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:48:15"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion",
+    "Link": "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/",
+    "ImageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/orion-earth-image.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:48:17"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Thinking about Sunshades, Starships and the EarthCup L1 Project",
+    "Link": "https://www.centauri-dreams.org/2026/11/05/thinking-about-sunshades-starships-and-the-earthcup-l1-project/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/MarsTransitionV.jpg/960px-MarsTransitionV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-12 08:48:21"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+    "Link": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+    "ImageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261105-Menon-on-Arm-1024x759.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-12 08:48:23"
   }
 ]
