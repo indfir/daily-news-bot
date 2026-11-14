@@ -1,298 +1,322 @@
 [
   {
-    "Topic": "Astronomy",
-    "Title": "State-owned enterprises and commercial space in China ",
-    "Link": "https://www.thespacereview.com/article/5124/1",
+    "Topic": "General News",
+    "Title": "Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market",
+    "Link": "https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-13 07:50:20"
+    "Date": "2026-11-14 07:36:02"
   },
   {
-    "Topic": "Astronomy",
-    "Title": "The long recovery from a launcher crisis",
-    "Link": "https://www.thespacereview.com/article/5018/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-13 07:50:24"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Bounders and RAMs: satellites track a unique bomber at the Soviet Ramenskoye flight test center (part 1)",
-    "Link": "https://www.thespacereview.com/article/5334/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-13 07:50:28"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Review: Our Moon",
-    "Link": "https://www.thespacereview.com/article/4766/1",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-13 07:50:33"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "India is on the Moon, but needs to avoid the \"Moon Race\" trap",
-    "Link": "https://www.thespacereview.com/article/4645/1",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/960px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "General News",
+    "Title": "US Air Force responds to suspected drone activity over UK airbase",
+    "Link": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/U.S._Air_Force_service_mark.svg/960px-U.S._Air_Force_service_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-11-13 07:50:37"
+    "Date": "2026-11-14 07:36:06"
   },
   {
-    "Topic": "Economy",
-    "Title": "GCT Semiconductor Holding, Inc. (GCTS) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4967402-gct-semiconductor-holding-inc-gcts-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "Topic": "General News",
+    "Title": "America’s AI bubble is a Ponzi scheme",
+    "Link": "https://www.scmp.com/opinion/world-opinion/article/3373996/americas-ai-bubble-ponzi-scheme",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2025_AI_Bubble_Speculation_2.png/960px-2025_AI_Bubble_Speculation_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-14 07:36:10"
+  },
+  {
+    "Topic": "General News",
+    "Title": "\n            Why does Germany's carnival season start on November 11th at 11:11am?\n        ",
+    "Link": "\n            https://www.thelocal.com/20251111/why-does-germanys-carnival-season-start-on-november-11th-at-1111am\n        ",
+    "ImageUrl": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/11/watermarks-logo-AFP__20251111__83NC79Q__v1__MidRes__GermanyTraditionCarnival.jpg@webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:36:16"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
+    "Link": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-13 07:50:45"
+    "Date": "2026-11-14 07:36:19"
   },
   {
-    "Topic": "Economy",
-    "Title": "Nortech Systems Incorporated (NSYS) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4967408-nortech-systems-incorporated-nsys-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "Topic": "Trading & Crypto",
+    "Title": "Binance restores all $6.3 billion stolen in October hack",
+    "Link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-14 07:36:30"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
+    "Link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-nov-2026/liveblog/135787308.cms",
+    "ImageUrl": "https://economictimes.indiatimes.com/thumb/msid-135787308,width-1200,height-900,resizemode-4,imglength-16358/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-nov-2026.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:36:35"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "MicroStrategy Stumbles as ‘Diamond Hands’ Myth Cracks: Company Signals Potential Bitcoin Sale Amid Liquidity Push",
+    "Link": "https://webscrypto.com/microstrategy-stumbles-as-diamond-hands-myth-cracks-company-signals-potential-bitcoin-sale-amid-liquidity-push/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/12/MicroStrategy-Stumbles-as-‘Diamond-Hands-Myth-Cracks.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:36:40"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "The Great Squeeze: As Margins Vanish, Crypto Miners Look to Tax Strategy for Survival",
+    "Link": "https://webscrypto.com/the-great-squeeze-as-margins-vanish-crypto-miners-look-to-tax-strategy-for-survival/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/12/OJGDfUmFQuGezKKXq8xm8A.webp",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:36:45"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin vs Ethereum Weekly Showdown: Navigating Volatility, ETF Flows, and Institutional Momentum",
+    "Link": "https://webscrypto.com/bitcoin-vs-ethereum-weekly-showdown-navigating-volatility-etf-flows-and-institutional-momentum/",
+    "ImageUrl": "https://webscrypto.com/wp-content/uploads/2025/09/image-1.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:36:50"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Unstable plasma heats itself with waves it generates, experiments reveal",
+    "Link": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-13 07:50:49"
+    "Date": "2026-11-14 07:37:00"
   },
   {
-    "Topic": "Economy",
-    "Title": "TMC the metals company Inc. 2026 Q3 - Results - Earnings Call Presentation",
-    "Link": "https://seekingalpha.com/article/4967551-tmc-the-metals-company-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-    "ImageUrl": "https://static.seekingalpha.com/uploads/sa_presentations/477/139477/slides/1.jpg?ts=1794530377",
+    "Topic": "Science",
+    "Title": "Bloggers With No Medical Training Honestly Warned About MAHA/MAGA Doctors. Prominent Medical “Leaders” Glorified Them.",
+    "Link": "https://sciencebasedmedicine.org/medical-leaders-enabled-maha/?utm_source=rss&utm_medium=rss&utm_campaign=medical-leaders-enabled-maha",
+    "ImageUrl": "https://sciencebasedmedicine.org/wp-content/uploads/2026/11/image-7.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:50:52"
+    "Date": "2026-11-14 07:37:04"
   },
   {
-    "Topic": "Economy",
-    "Title": "FactSet Research Systems Inc. (FDS) Analyst/Investor Day - Slideshow",
-    "Link": "https://seekingalpha.com/article/4967530-factset-research-systems-inc-fds-analyst-investor-day-slideshow?source=feed_all_articles",
-    "ImageUrl": "https://static1.seekingalpha.com/uploads/sa_presentations/465/139465/slides/1.jpg?ts=1794527395",
+    "Topic": "Science",
+    "Title": "Fruit fly sleep protein yields peptides that inhibit drug-resistant bacteria in lab tests",
+    "Link": "https://phys.org/news/2026-11-fruit-fly-protein-yields-peptides.html",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bessenbandzweefvlieg_Vrouwtje_%282%29.JPG/960px-Bessenbandzweefvlieg_Vrouwtje_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-14 07:37:06"
+  },
+  {
+    "Topic": "Science",
+    "Title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+    "Link": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-14 07:37:10"
+  },
+  {
+    "Topic": "Science",
+    "Title": "IBM to offer access to a dual-processor quantum system in 2027",
+    "Link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:50:55"
+    "Date": "2026-11-14 07:37:14"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Ben Stiller Gives Update on His New York Knicks Documentary: “The Pressure Is on”",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/ben-stiller.jpg?w=1440&#038;h=810&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:23"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Drew Barrymore & Chris O’Donnell Recreate Iconic Movie Poster 30 Years Later",
+    "Link": "https://www.comingsoon.net/movies/news/2223392-drew-barrymore-chris-odonnell-mad-love-poster-recreation",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Drew-Barrymore-Chris-ODonnell-Recreate-Iconic-Movie-Poster-30-Years-Later.jpg?resize=1200,630",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:26"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Bustin' Babe For Friday The 13th -- Guess The Horror Film Hottie",
+    "Link": "https://www.tmz.com/2026/11/13/jennifer-tilly-hot-chucky-picture/",
+    "ImageUrl": "https://imagez.tmz.com/image/12/16by9/2026/11/13/122de8647c614677a6503d7439c29186_xl.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:29"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Aaron Pierre Starrer ‘Fairytale in New York’ Lands at Netflix",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-pierre-fairytale-in-new-york-netflix-lionsgate-1236754634/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2263011041-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:32"
+  },
+  {
+    "Topic": "Movies",
+    "Title": "Horror Man Gary Dauberman Signs First-Look Deal With Blumhouse Atomic (Exclusive)",
+    "Link": "https://www.hollywoodreporter.com/movies/movie-news/gary-dauberman-signs-first-look-deal-blumhouse-atomic-1236755092/",
+    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/UPDATED-Gary-Dauberman-Jason-Blum-James-Wan-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:35"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "US National Weather Service reports nationwide internet, communications issues",
+    "Link": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/US-NationalWeatherService-Logo.svg/960px-US-NationalWeatherService-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-14 07:37:44"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "How we made a small static site readable for ChatGPT: llms.txt, Markdown twins and answer-first pages",
+    "Link": "https://dev.to/wowpriced/how-we-made-a-small-static-site-readable-for-chatgpt-llmstxt-markdown-twins-and-answer-first-1na9",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe8k8znx4lg8s5ebnnck.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:47"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "A 120B Model Ran About 4x Faster Than a 27B One: 8 Local LLMs on a Surface Laptop Ultra",
+    "Link": "https://dev.to/maruhana/a-120b-model-ran-about-4x-faster-than-a-27b-one-8-local-llms-on-a-surface-laptop-ultra-5cpg",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstatic.zenn.studio%2Fuser-upload%2Fdeployed-images%2F98b46dbab55763668ce0f553.png%3Fsha%3D6dcf9fd390b0a30045b8413cbdf98313d825ccd4",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:50"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "SOVA — A Focus and Recovery App That Notices Your Breathing Before You Do",
+    "Link": "https://dev.to/therichworth/sova-a-focus-and-recovery-app-that-notices-your-breathing-before-you-do-1a0b",
+    "ImageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7hkqc0yf46wh9v077i3.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:37:52"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+    "Link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-14 07:37:56"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
+    "Link": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+    "ImageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Swift_in_space_14.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:38:07"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+    "Link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+    "ImageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:38:10"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Evidence of active volcanoes on Mars may boost chances of finding life",
+    "Link": "https://www.newscientist.com/article/2597667-evidence-of-active-volcanoes-on-mars-may-boost-chances-of-finding-life/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+    "ImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319532373.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:38:15"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "SpaceX aims to safely land Starship and booster stage after orbital flight",
+    "Link": "https://www.newscientist.com/article/2598233-spacex-aims-to-safely-land-starship-and-booster-stage-after-orbital-flight/?utm_campaign=RSS|NSNS&utm_content=space&utm_medium=RSS&utm_source=NSNS",
+    "ImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320289737.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:38:19"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+    "Link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+    "ImageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-14 07:38:23"
   },
   {
     "Topic": "Economy",
-    "Title": "M-tron Industries, Inc. (MPTI) Q3 2026 Earnings Call Transcript",
-    "Link": "https://seekingalpha.com/article/4967416-m-tron-industries-inc-mpti-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "Title": "Nasdaq-100® Inside the Index: Nvidia (NVDA)",
+    "Link": "https://www.nasdaq.com/articles/global-indexes/inside-the-index/nvda",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/960px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ImageSource": "wikipedia",
+    "Date": "2026-11-14 07:38:44"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "OptimumBank Holdings, Inc. (OPHC) Q3 2026 Earnings Call Transcript",
+    "Link": "https://seekingalpha.com/article/4968082-optimumbank-holdings-inc-ophc-q3-2026-earnings-call-transcript?source=feed_all_articles",
     "ImageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:50:58"
+    "Date": "2026-11-14 07:38:47"
   },
   {
-    "Topic": "Movies",
-    "Title": "New Clarity About Amanda Seyfried’s ‘You Can See Everything’ Awards Eligibility, Actress Is Excited to Campaign: “They’re Going to Let Me Loose” (Exclusive)",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-23045719211.jpg?w=1440&#038;h=810&#038;crop=1",
+    "Topic": "Economy",
+    "Title": "adesso SE 2026 Q3 - Results - Earnings Call Presentation",
+    "Link": "https://seekingalpha.com/article/4968094-adesso-se-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+    "ImageUrl": "https://static.seekingalpha.com/uploads/sa_presentations/624/139624/slides/1.jpg?ts=1794613681",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:07"
+    "Date": "2026-11-14 07:38:51"
   },
   {
-    "Topic": "Movies",
-    "Title": "Kaylee Hottle’s Sister Will Step in to Finish ‘Godzilla vs. Kong’ Actress’ Final Movie Following Her Death",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-star-kaylee-hottle-sister-finish-final-movie-death-1236754194/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Kaylee-Hottle-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:09"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Ebenezer’ Review: Johnny Depp Gets a Creepily Effective Comeback Vehicle in Ti West’s Horror-Tinged Take on Dickens’ Yuletide Classic",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-reviews/ebenezer-review-johnny-depp-ti-west-christmas-carol-1236751830/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/EBZR-06275R-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:13"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "Skyler Gisondo Reacts to James Gunn, Peter Safran’s DC Exits: “There’s a Lot I Still Don’t Know”",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/skyler-gisondo-james-gunn-dc-exit-man-of-tomorrow-gorilla-1236753353/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Skyler-Gisondo-and-James-Gunn-and-Peter-Safran-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:16"
-  },
-  {
-    "Topic": "Movies",
-    "Title": "‘Ebenezer’ Reviews Roundup: Johnny Depp’s Comeback Gets a Chilly Reception",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/ebenezer-reviews-johnny-depp-1236754299/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/EBZR-02234R-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:20"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Webull Bolsters Platform with Nasdaq Basic Canada to Boost Market Visibility",
-    "Link": "https://www.fintech.ca/2026/11/10/webull-nasdaq-basic-canada-to-platform-market-visibility/",
-    "ImageUrl": "https://www.fintech.ca/wp-content/uploads/2026/11/nasdaqxx.jpeg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:28"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Reconciling the OCC’s Final Stablecoin Reserve Floors Against the Fed’s Proposal",
-    "Link": "https://nulltx.com/reconciling-the-occs-final-stablecoin-reserve-floors-against-the-feds-proposal",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1793345333150-vahl07yjbvp.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:33"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Yield-Bearing eZAR Blurs the Line Between Stablecoin and Investment Product",
-    "Link": "https://nulltx.com/yield-bearing-ezar-blurs-the-line-between-stablecoin-and-investment-product",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1793712327000-5z7mhqaypuj.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:37"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Canton Coin Gets SEC \"Digital Commodity\" Label: Here's What the Two Prongs Actually Mean",
-    "Link": "https://nulltx.com/canton-coin-gets-sec-digital-commodity-label-heres-what-the-two-prongs-actually-mean",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1793799774181-s2e4vtzmt09.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:41"
-  },
-  {
-    "Topic": "Trading & Crypto",
-    "Title": "Loopscale Pauses Protocol After kySOL Collateral Was Priced as zBTC in a 4,597 SOL Loan",
-    "Link": "https://nulltx.com/loopscale-pauses-protocol-after-kysol-collateral-was-priced-as-zbtc-in-a-4597-sol-loan",
-    "ImageUrl": "https://cdn.nulltx.com/uploads/1794053630213-v1z82pxf4n.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:45"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "Link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:53"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-    "Link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-    "ImageUrl": "https://mehmetince.net/wp-content/uploads/2026/11/postgresql-composite-type-confusion-primitive-rce-cve-2026-6460.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:51:57"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "Link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:01"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Norwest pushes deeper into AI with new $4B fund",
-    "Link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "ImageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/norwest_team-partner-offsite-2026-1-copy.jpg?resize=1200,805",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:03"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-    "Link": "https://github.com/cerulion-inc/cerulion",
-    "ImageUrl": "https://opengraph.githubassets.com/c1c7b3b546a61bb26fa6e3d5d4c1adf308b2f47f39b3dca5dd63bde3e09d8fe3/cerulion-inc/cerulion",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:06"
-  },
-  {
-    "Topic": "General News",
-    "Title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-    "Link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-    "ImageUrl": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20931fd38e83d3f2218b7fd7195cdc05",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:14"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
-    "Link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
-    "ImageUrl": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ba119f82d1b44b0f279041e80f16ac4",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:16"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Darth Vader’s lightsaber used in ‘I am your father’ duel sells for nearly US$5 million",
-    "Link": "https://www.scmp.com/news/world/europe/article/3374272/darth-vaders-lightsaber-used-i-am-your-father-duel-sells-nearly-us5-million",
+    "Topic": "Economy",
+    "Title": "What Are Nasdaq Event Options? ",
+    "Link": "https://www.nasdaq.com/articles/market-servies/what-are-nasdaq-event-options",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-13 07:52:20"
+    "Date": "2026-11-14 07:38:59"
   },
   {
-    "Topic": "General News",
-    "Title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
-    "Link": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
-    "ImageUrl": "https://i.guim.co.uk/img/media/318a7571aaf58a51d5597de23c3e8e795c29e3fa/401_226_2845_2276/master/2845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8397162f04141911568d4ce62a692082",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:23"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Indonesia police say enough evidence for treason charges in wiretap scandal",
-    "Link": "https://www.scmp.com/news/asia/southeast-asia/article/3374237/indonesia-police-say-enough-evidence-treason-charges-wiretap-scandal",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2025_Indonesia_Gelap_protests_21_February_%28cropped%29.jpg/960px-2025_Indonesia_Gelap_protests_21_February_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "Topic": "Economy",
+    "Title": "Understanding Nasdaq Event Options Strategies ",
+    "Link": "https://www.nasdaq.com/articles/market-services/understanding-nasdaq-event-options-strategies",
+    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/CBOE_Volatlity_Index%2C_VIX.png/960px-CBOE_Volatlity_Index%2C_VIX.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ImageSource": "wikipedia",
-    "Date": "2026-11-13 07:52:27"
+    "Date": "2026-11-14 07:39:07"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Komprise combats ‘MCP bloat’ with a universal interface for AI agents to access enterprise data",
-    "Link": "https://siliconangle.com/2026/09/29/komprise-combats-mcp-bloat-with-a-universal-interface-for-ai-agents-to-access-enterprise-data/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-28-10-21-26.png",
+    "Title": "How Earth Lost a Billion Years of Its History",
+    "Link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-2158cee5-7359-4931-bfd9-e34d4615ba4e-1.jpeg",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:34"
+    "Date": "2026-11-14 07:39:16"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Continuous axis for any Date table in Power BI",
-    "Link": "https://www.sqlbi.com/tv/continuous-axis-for-any-date-table-in-power-bi/",
-    "ImageUrl": "https://i.ytimg.com/vi/W_mQVl5KQoM/maxresdefault.jpg",
+    "Title": "Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause",
+    "Link": "https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Social_Media_Kids_Trial_26050035832286.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:38"
+    "Date": "2026-11-14 07:39:19"
   },
   {
     "Topic": "Data / AI",
-    "Title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group",
-    "Link": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
-    "ImageUrl": "https://cdn.amazon.science/dims4/default/0263d6a/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F66%2F44%2Fc609e8ee4579bc81d085e29ebca3%2Farg10year-image02-16x9.png",
+    "Title": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+    "Link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+    "ImageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-10-at-6.20.18-AM@2x.png",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:41"
+    "Date": "2026-11-14 07:39:23"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Cloudera brings Mistral AI’s frontier models into its secure hybrid data environments",
-    "Link": "https://siliconangle.com/2026/09/09/cloudera-brings-mistral-ais-frontier-models-into-its-secure-hybrid-data-environments/",
-    "ImageUrl": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-07-08-55-17.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:45"
+    "Title": "Why Data Engineering Roles Stay Open So Long, and How Teams Fill the Gap in the Meantime",
+    "Link": "https://datafloq.com/why-data-engineering-roles-stay-open-so-long-and-how-teams-fill-the-gap-in-the-meantime/",
+    "ImageUrl": null,
+    "ImageSource": "none",
+    "Date": "2026-11-14 07:39:28"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Creating DAX functions with AI to remove duplicated code",
-    "Link": "https://www.sqlbi.com/tv/creating-dax-functions-with-ai-to-remove-duplicated-code/",
-    "ImageUrl": "https://i.ytimg.com/vi/sp8Bx2yL3lw/maxresdefault.jpg",
+    "Title": "Microsoft 365 Outage: Failing Server Health Checks Took Down Outlook, Teams and Copilot",
+    "Link": "https://datafloq.com/microsoft-365-outage-failing-server-health-checks-took-down-outlook-teams-and-copilot/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/microsoft-365-outage-outlook-teams-copilot-server-health-checks.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-13 07:52:50"
-  },
-  {
-    "Topic": "Science",
-    "Title": "AI confirms a long-suspected limit on quantum computers’ advantages",
-    "Link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "ImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320282515.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:53:03"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Economics, not climate summits, will dictate the net-zero transition",
-    "Link": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-    "ImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320413701.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-13 07:53:15"
+    "Date": "2026-11-14 07:39:33"
   }
 ]
