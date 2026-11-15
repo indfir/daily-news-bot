@@ -1,133 +1,5 @@
 [
   {
-    "CanonicalKey": "https://amazon.science/blog/real-world-grounding-in-agentic-ai",
-    "SentDate": "2026-10-17 05:25:28"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/graph-centric-agentic-intelligence",
-    "SentDate": "2026-10-17 05:25:45"
-  },
-  {
-    "CanonicalKey": "https://artificial-intelligence.blog/ai-news/the-ideal-ai-device",
-    "SentDate": "2026-10-17 05:26:02"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
-    "SentDate": "2026-10-17 05:26:16"
-  },
-  {
-    "CanonicalKey": "https://amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "SentDate": "2026-10-17 05:26:19"
-  },
-  {
-    "CanonicalKey": "https://jamesfmackenzie.com/2026/10/13/i-love-software-rendering",
-    "SentDate": "2026-10-17 05:26:37"
-  },
-  {
-    "CanonicalKey": "https://dev-null.sh",
-    "SentDate": "2026-10-17 05:26:41"
-  },
-  {
-    "CanonicalKey": "https://cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france",
-    "SentDate": "2026-10-17 05:26:44"
-  },
-  {
-    "CanonicalKey": "https://github.com/cobanov/ps5lm",
-    "SentDate": "2026-10-17 05:26:48"
-  },
-  {
-    "CanonicalKey": "https://worksinprogress.news/p/porcelain",
-    "SentDate": "2026-10-17 05:26:50"
-  },
-  {
-    "CanonicalKey": "https://investmentwatchblog.com/white-house-aides-scramble-for-susie-wiles-job-as-midterm-losses-loom-maga-activists-float-martial-law-and-the-gops-billion-dollar-ad-blitz-fails-to-move-polls",
-    "SentDate": "2026-10-17 05:27:00"
-  },
-  {
-    "CanonicalKey": "https://investmentwatchblog.com/the-ai-trade-unwinding-could-become-the-bond-trades-biggest-catalyst",
-    "SentDate": "2026-10-17 05:27:03"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/10/nasa-laser-space-detector-mission",
-    "SentDate": "2026-10-17 05:27:11"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/10/look-up-this-week-a-galaxy-is-visible",
-    "SentDate": "2026-10-17 05:27:15"
-  },
-  {
-    "CanonicalKey": "https://nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-cargo-mission-approaching-station",
-    "SentDate": "2026-10-17 05:27:17"
-  },
-  {
-    "CanonicalKey": "https://nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays",
-    "SentDate": "2026-10-17 05:27:19"
-  },
-  {
-    "CanonicalKey": "https://dailygalaxy.com/2026/10/nasa-is-sending-tiny-human-brains-space",
-    "SentDate": "2026-10-17 05:27:22"
-  },
-  {
-    "CanonicalKey": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher",
-    "SentDate": "2026-10-17 05:27:41"
-  },
-  {
-    "CanonicalKey": "https://investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-    "SentDate": "2026-10-17 05:27:44"
-  },
-  {
-    "CanonicalKey": "https://bitcoinwarrior.net/2024/04/bitcoins-issuance-rate-drops-below-golds-after-recent-halving-glassnode",
-    "SentDate": "2026-10-17 05:27:51"
-  },
-  {
-    "CanonicalKey": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-falls-despite-hot-inflation-usdjpy-slips-below-key-moving-averages",
-    "SentDate": "2026-10-17 05:27:55"
-  },
-  {
-    "CanonicalKey": "https://investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93ch-4943300",
-    "SentDate": "2026-10-17 05:27:57"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/genuine-concern-is-consistent-concern",
-    "SentDate": "2026-10-17 05:28:05"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/climate-scientists-issue-a-sobering-diagnosis-about-earths-vital-signs",
-    "SentDate": "2026-10-17 05:28:07"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/vaccineadvocatescult",
-    "SentDate": "2026-10-17 05:28:10"
-  },
-  {
-    "CanonicalKey": "https://sciencebasedmedicine.org/rfk-jr-is-definitely-coming-for-your-vaccines-part-12-the-new-nih-vaccine-injury-clinic-is-likely-a-sham",
-    "SentDate": "2026-10-17 05:28:13"
-  },
-  {
-    "CanonicalKey": "https://scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas",
-    "SentDate": "2026-10-17 05:28:16"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/awards/news/michael-gotham-musical-tribute-1236914181",
-    "SentDate": "2026-10-17 05:28:24"
-  },
-  {
-    "CanonicalKey": "https://variety.com/2026/film/news/selma-blair-rep-speaks-out-arrest-plane-incident-1236909381",
-    "SentDate": "2026-10-17 05:28:27"
-  },
-  {
-    "CanonicalKey": "https://cordcuttersnews.com/the-conners-premiered-8-years-ago-today-a-look-at-the-follow-up-to-a-classic-sitcom",
-    "SentDate": "2026-10-17 05:28:30"
-  },
-  {
-    "CanonicalKey": "https://decider.com/2026/10/16/tulsa-king-season-4-paramount-plus-review",
-    "SentDate": "2026-10-17 05:28:32"
-  },
-  {
-    "CanonicalKey": "https://slashfilm.com/2289097/sense-and-sensibility-2026-box-office-worth-watching",
-    "SentDate": "2026-10-17 05:28:34"
-  },
-  {
     "CanonicalKey": "https://readwrite.com/election-betting-poll-opposition",
     "SentDate": "2026-10-18 04:56:01"
   },
@@ -4462,5 +4334,165 @@
   {
     "CanonicalKey": "https://hollywoodreporter.com/movies/movie-news/cookie-queens-alysa-nahmias-scad-savannah-film-festival-1236751877",
     "SentDate": "2026-11-15 06:37:05"
+  },
+  {
+    "CanonicalKey": "https://economicprism.com/from-pharaohs-to-the-fed",
+    "SentDate": "2026-11-16 06:41:41"
+  },
+  {
+    "CanonicalKey": "https://economicprism.com/how-to-profit-when-the-oil-market-splits",
+    "SentDate": "2026-11-16 06:41:45"
+  },
+  {
+    "CanonicalKey": "https://economicprism.com/how-demographics-are-driving-americas-long-term-fiscal-illness",
+    "SentDate": "2026-11-16 06:41:51"
+  },
+  {
+    "CanonicalKey": "https://economicprism.com/why-americas-money-supply-would-vanish-without-debt",
+    "SentDate": "2026-11-16 06:41:57"
+  },
+  {
+    "CanonicalKey": "https://economicprism.com/how-government-intervention-destroys-markets-and-mandates-scarcity",
+    "SentDate": "2026-11-16 06:42:01"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/03/260317064512.htm",
+    "SentDate": "2026-11-16 06:42:10"
+  },
+  {
+    "CanonicalKey": "https://sqlbi.com/tools/sqlbi-whiteboard",
+    "SentDate": "2026-11-16 06:42:14"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/05/260504023844.htm",
+    "SentDate": "2026-11-16 06:42:17"
+  },
+  {
+    "CanonicalKey": "https://sciencedaily.com/releases/2026/04/260429102035.htm",
+    "SentDate": "2026-11-16 06:42:20"
+  },
+  {
+    "CanonicalKey": "https://sqlbi.com/blog/marco/2026/11/02/dax-with-ai-scenarios-is-now-available",
+    "SentDate": "2026-11-16 06:42:23"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch",
+    "SentDate": "2026-11-16 06:42:35"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence",
+    "SentDate": "2026-11-16 06:42:38"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/5-free-open-source-alternatives-to-jev",
+    "SentDate": "2026-11-16 06:42:40"
+  },
+  {
+    "CanonicalKey": "https://kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
+    "SentDate": "2026-11-16 06:42:43"
+  },
+  {
+    "CanonicalKey": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant",
+    "SentDate": "2026-11-16 06:42:52"
+  },
+  {
+    "CanonicalKey": "https://engadget.com/2313927/13-year-old-solving-solar-panel-limitation",
+    "SentDate": "2026-11-16 06:42:59"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/motorcity-casino-gains-15-6-as-mgm-and-greektown-slip-in-detroits-october-revenue",
+    "SentDate": "2026-11-16 06:43:03"
+  },
+  {
+    "CanonicalKey": "https://engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth",
+    "SentDate": "2026-11-16 06:43:06"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/betrivers-owner-rush-street-grows-revenue-39-but-sees-october-at-low-end-of-2026-guidance",
+    "SentDate": "2026-11-16 06:43:09"
+  },
+  {
+    "CanonicalKey": "https://readwrite.com/betmgm-cash-reaches-mgm-as-strip-earnings-fall-12-and-us-igaming-growth-slows",
+    "SentDate": "2026-11-16 06:43:13"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+    "SentDate": "2026-11-16 06:43:22"
+  },
+  {
+    "CanonicalKey": "https://cnbcindonesia.com/market/20261115081856-17-785317/anak-pejabat-ri-rela-hidup-melarat-daripada-jual-nama-besar-orang-tua",
+    "SentDate": "2026-11-16 06:43:26"
+  },
+  {
+    "CanonicalKey": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+    "SentDate": "2026-11-16 06:43:29"
+  },
+  {
+    "CanonicalKey": "https://cnbcindonesia.com/lifestyle/20261114170501-33-785245/penjualan-mobil-di-ri-bakal-tembus-900-ribu-unit-pada-2026",
+    "SentDate": "2026-11-16 06:43:32"
+  },
+  {
+    "CanonicalKey": "https://cnbcindonesia.com/news/20261115165908-4-785365/mind-id-jajaki-kolaborasi-pengembangan-industri-mineral-rendah-karbon",
+    "SentDate": "2026-11-16 06:43:36"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/off-the-cuff-tom-lists-top-5-reboots-wishlist-83655",
+    "SentDate": "2026-11-16 06:43:45"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/appofeniacstrailer2026-83659",
+    "SentDate": "2026-11-16 06:43:48"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/neverafterdarktrailer2026-83662",
+    "SentDate": "2026-11-16 06:43:52"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/interview-kevin-dunn-eric-mcclanahan-mermaid-83651",
+    "SentDate": "2026-11-16 06:43:56"
+  },
+  {
+    "CanonicalKey": "https://aintitcool.com/interview-shane-brady-christopher-dudley-mceric-83652",
+    "SentDate": "2026-11-16 06:43:59"
+  },
+  {
+    "CanonicalKey": "https://space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+    "SentDate": "2026-11-16 06:44:08"
+  },
+  {
+    "CanonicalKey": "https://space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
+    "SentDate": "2026-11-16 06:44:12"
+  },
+  {
+    "CanonicalKey": "https://space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
+    "SentDate": "2026-11-16 06:44:15"
+  },
+  {
+    "CanonicalKey": "https://nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program",
+    "SentDate": "2026-11-16 06:44:18"
+  },
+  {
+    "CanonicalKey": "https://universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+    "SentDate": "2026-11-16 06:44:21"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+    "SentDate": "2026-11-16 06:44:31"
+  },
+  {
+    "CanonicalKey": "https://cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
+    "SentDate": "2026-11-16 06:44:34"
+  },
+  {
+    "CanonicalKey": "https://cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
+    "SentDate": "2026-11-16 06:44:38"
+  },
+  {
+    "CanonicalKey": "https://cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
+    "SentDate": "2026-11-16 06:44:41"
+  },
+  {
+    "CanonicalKey": "https://tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
+    "SentDate": "2026-11-16 06:44:45"
   }
 ]
