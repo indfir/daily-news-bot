@@ -1,322 +1,290 @@
 [
   {
     "Topic": "Data / AI",
-    "Title": "Fine-Tuning Gemma 4 with QLoRA for Customer Support",
-    "Link": "https://pyimagesearch.com/2026/09/21/fine-tuning-gemma-4-with-qlora-for-customer-support/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/09/fine-tuning-gemma-4-qlora-customer-support-featured.png",
+    "Title": "Australia’s AI Safety Regulator: How a Medicare Portal Breach Exposed a Gap in the Law",
+    "Link": "https://datafloq.com/australias-ai-safety-regulator-how-a-medicare-portal-breach-exposed-a-gap-in-the-law/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/australia-ai-safety-regulator-medicare-breach-84-days.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:18"
+    "Date": "2026-11-23 07:33:41"
   },
   {
     "Topic": "Data / AI",
-    "Title": "YOLO26 Object Detection Tutorial: Benchmarking on macOS",
-    "Link": "https://pyimagesearch.com/2026/10/26/yolo26-object-detection-tutorial-benchmarking-on-macos/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/10/yolo26-object-detection-benchmarking-macos-featured.png",
+    "Title": "NVIDIA GR00T 2: Human Video Helps Robots Learn, but the Savings Remain Unmeasured",
+    "Link": "https://datafloq.com/nvidia-gr00t-2-human-video-helps-robots-learn-but-the-savings-remain-unmeasured/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/nvidia-groot-2-human-video-robot-learning-cost-savings.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:21"
+    "Date": "2026-11-23 07:33:45"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Build a Real-Time Video Analytics Pipeline with YOLO26 and ByteTrack",
-    "Link": "https://pyimagesearch.com/2026/11/02/build-a-real-time-video-analytics-pipeline-with-yolo26-and-bytetrack/",
-    "ImageUrl": "https://pyimagesearch.com/wp-content/uploads/2026/11/build-real-time-video-analytics-pipeline-yolo26-bytetrack-featured_v2.png",
+    "Title": "ChatGPT Wallet: Card Networks Give AI Agents a Way to Pay, With a Biometric Gate",
+    "Link": "https://datafloq.com/chatgpt-wallet-card-networks-give-ai-agents-a-way-to-pay-with-a-biometric-gate/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/chatgpt-wallet-biometric-payment-checkout.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:24"
+    "Date": "2026-11-23 07:33:49"
   },
   {
     "Topic": "Data / AI",
-    "Title": "Decision AI Explained in 5 Minutes",
-    "Link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/awan_decision_ai_explained_5_minutes_2.png",
+    "Title": "Chainstack’s Breach Disclosure Names the AI Tool but Not the Attacker",
+    "Link": "https://datafloq.com/chainstacks-breach-disclosure-names-the-ai-tool-but-not-the-attacker/",
+    "ImageUrl": "https://datafloq.com/datafloq/wp-content/uploads/2026/11/chainstack-breach-ai-agent-mcp-server-exposure.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:27"
+    "Date": "2026-11-23 07:33:52"
   },
   {
     "Topic": "Data / AI",
-    "Title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-    "Link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-    "ImageUrl": "https://www.kdnuggets.com/wp-content/uploads/kdn-ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning-hero.webp",
+    "Title": "Serving Scikit-LLM Pipelines as REST APIs with FastAPI",
+    "Link": "https://machinelearningmastery.com/serving-scikit-llm-pipelines-as-rest-apis-with-fastapi/",
+    "ImageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-serving-scikit-llm-pipelines-as-rest-apis-with-fastapi-feature.webp",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:29"
+    "Date": "2026-11-23 07:33:56"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "USD/CAD Pair Jumps as Canada-U.S. Trade Talks Near Deadline",
-    "Link": "https://www.forexnews.world/usd-cad-canada-u-s-trade-talks-near-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=usd-cad-canada-u-s-trade-talks-near-deadline",
-    "ImageUrl": "https://www.forexnews.world/wp-content/uploads/2026/08/USDCAD-Rises-as-Canada-U.S.-Tariff-Deadline-Approaches.webp",
+    "Topic": "Technology",
+    "Title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+    "Link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:01:39"
+    "Date": "2026-11-23 07:34:13"
   },
   {
-    "Topic": "Trading & Crypto",
-    "Title": "‘Took Guts To Own Bitcoin:’ SkyBridge’s Anthony Scaramucci Says It Would Need ‘Brains’ To Reap BTC Rally",
-    "Link": "https://bitcoinwarrior.net/2024/04/took-guts-to-own-bitcoin-skybridges-anthony-scaramucci-says-it-would-need-brains-to-reap-btc-rally/",
+    "Topic": "Technology",
+    "Title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+    "Link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:16"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+    "Link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:19"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+    "Link": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+    "ImageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:22"
+  },
+  {
+    "Topic": "Technology",
+    "Title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+    "Link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+    "ImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:25"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Pengakuan dan Harta Kapolsek Rantau Pandan AKP Deni Saepudin Setor Rp700 Juta Demi Anak Jadi Polisi",
+    "Link": "https://www.tribunnews.com/regional/7915064/pengakuan-dan-harta-kapolsek-rantau-pandan-akp-deni-saepudin-setor-rp700-juta-demi-anak-jadi-polisi",
+    "ImageUrl": "https://asset.tribunnews.com/l6I9tdZIhtkH5Ne5xhLMafyWp_8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/ilustrasi-polisi-001.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:33"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Antisemitismus: Israels Botschafter würdigt Mut von verletzter Aktivistin",
+    "Link": "https://www.zeit.de/news/2026-11/22/israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-22 07:01:45"
+    "Date": "2026-11-23 07:34:36"
+  },
+  {
+    "Topic": "General News",
+    "Title": "2 Mimpi Buruk dalam Remontada Kilat Barcelona Lawan Villarreal",
+    "Link": "https://skor.id/posts/793846/2-mimpi-buruk-dalam-remontada-kilat-barcelona-lawan-villarreal",
+    "ImageUrl": "https://cdn.skor.id/uploads/member/images/news/thumbnail400/260831140012-791.jpeg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:40"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Adrien Rabiot Menjelma Jadi Kaka, Pio Esposito Jadi Ronaldo Nazario",
+    "Link": "https://skor.id/posts/793847/adrien-rabiot-menjelma-jadi-kaka-pio-esposito-jadi-ronaldo-nazario",
+    "ImageUrl": "https://cdn.skor.id/uploads/member/images/news/thumbnail400/medium_COVER_BERITA_ricardo_kaka_15c5db67ee.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:44"
+  },
+  {
+    "Topic": "General News",
+    "Title": "Prakiraan Cuaca Kota Sorong Hari Ini, Senin 23 November 2026: Berawan dan Hujan Ringan",
+    "Link": "https://www.tribunnews.com/regional/7915051/prakiraan-cuaca-kota-sorong-hari-ini-senin-23-november-2026-berawan-dan-hujan-ringan",
+    "ImageUrl": "https://asset.tribunnews.com/6_sKMNKjZJK-Sq5t0zOWVO0Ja8Q=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/cuaca-di-kota-sorong232.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:47"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Video: Punya Potensi Jumbo, Danantra Incar Investasi Material Maju",
+    "Link": "https://www.cnbcindonesia.com/tech/20261118151721-39-786347/video-punya-potensi-jumbo-danantra-incar-investasi-material-maju",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/11/18/punya-potensi-jumbo-danantra-incar-ekspansi-investasi-material-maju-semikonduktor-1794990654967_169.png?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:55"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "10 Sentimen Bayangi IHSG dan Rupiah: Era Baru RI vs Uni Eropa-Isu Wapres",
+    "Link": "https://www.cnbcindonesia.com/research/20261122223954-128-787381/10-sentimen-bayangi-ihsg-rupiah-era-baru-ri-vs-uni-eropa-isu-wapres",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/02/18/ilustrasi-trading-dok-mifx-1771387554138_169.jpeg?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:34:59"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "BI Rate Naik dan Leasing Minta DP Lebih Besar, Kredit Mobil Makin Susah",
+    "Link": "https://www.cnbcindonesia.com/market/20261122145550-17-787317/bi-rate-naik-leasing-minta-dp-lebih-besar-kredit-mobil-makin-susah",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/11/22/daihatsu-kumpul-sahabat-makassar-di-trans-studio-mall-makassar-minggu-22112026-1795333679772_169.jpeg?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:02"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Catatan Pascabanjir Aceh: Ketahanan Wilayah hingga Ekonomi Rakyat",
+    "Link": "https://www.cnbcindonesia.com/opini/20261123034717-14-787395/catatan-pascabanjir-aceh-ketahanan-wilayah-hingga-ekonomi-rakyat",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/11/17/kondisi-banjir-yang-melanda-wilayah-desa-lhok-raya-dan-desa-seuneubok-pusaka-di-kabupaten-aceh-selatan-provinsi-aceh-minggu-15-1794901456394_169.jpeg?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:04"
+  },
+  {
+    "Topic": "Economy",
+    "Title": "Dulu Berharap Cepat Kaya, Investasi Emas Sekarang Bikin Jantungan",
+    "Link": "https://www.cnbcindonesia.com/research/20261122131022-128-787305/dulu-berharap-cepat-kaya-investasi-emas-sekarang-bikin-jantungan",
+    "ImageUrl": "https://awsimages.detik.net.id/visual/2026/09/25/pt-antam-persero-tbk-antm-membeli-9-ton-emas-dari-fasilitas-precious-metal-refinery-pmr-pt-freeport-indonesia-1790339763180_169.jpeg?w=650&q=90",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:07"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+    "Link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=2560%2C2560&ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:15"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+    "Link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
+    "ImageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1436%2C1440&ssl=1",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:18"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Spectacular launch sends cargo ship on voyage to space station",
+    "Link": "https://www.cbsnews.com/news/spacex-launches-cargo-ship-international-space-station/",
+    "ImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/13/f2430664-4b4d-4ce7-8979-1cce59fd8b44/thumbnail/1200x630g2/42e1d8ee922c9756f9888b882ed60ea7/jellyfish-3.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:22"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "NASA is recruiting new astronauts. Here are the qualifications.",
+    "Link": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/05/08/bd6dbd3c-fc2b-48f9-a491-19318ed3cc20/thumbnail/1200x630/da67764a1d95a05f9077d55cc0fb6c14/GettyImages-903955770.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:25"
+  },
+  {
+    "Topic": "Astronomy",
+    "Title": "Will SpaceX's blockbuster IPO soar or sputter? Past IPOs offer clues.",
+    "Link": "https://www.cbsnews.com/news/spacex-stock-ipo-what-investors-can-expect/",
+    "ImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/05/08900e83-3047-41b3-9220-2f046184c034/thumbnail/1200x630/5f39ca86d7388a68780a029072dfa21f/cbsn-fusion-as-spacex-plans-go-public-addresses-data-centers-water-thumbnail.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:27"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Ether Posts Weekly Gain Against Bitcoin Amid Drop in BTC Market Dominance",
-    "Link": "https://bitcoinwarrior.net/2024/04/ether-posts-weekly-gain-against-bitcoin-amid-drop-in-btc-market-dominance/",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Fluoxetine.svg/960px-Fluoxetine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-22 07:01:52"
+    "Title": "Bitcoin Price Analysis: Is the Bottom In After BTC Reclaims $60K?",
+    "Link": "https://cryptopotato.com/bitcoin-price-analysis-is-the-bottom-in-after-btc-reclaims-60k/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2026/11/BTC-D-7.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:36"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "Bitcoin payments app Strike is now available in Europe",
-    "Link": "https://bitcoinwarrior.net/2024/04/bitcoin-payments-app-strike-is-now-available-in-europe/",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-22 07:01:58"
+    "Title": "Bitcoin’s Big Holders Signal Strength, But One Red Flag Looms",
+    "Link": "https://cryptopotato.com/bitcoins-big-holders-signal-strength-but-one-red-flag-looms/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2025/09/bitcoin_whale_cover.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:39"
   },
   {
     "Topic": "Trading & Crypto",
-    "Title": "The 3rd-Largest Bitcoin (BTC) Wallet Bought 1,400 More BTC Last Month",
-    "Link": "https://bitcoinwarrior.net/2024/04/the-3rd-largest-bitcoin-btc-wallet-bought-1400-more-btc-last-month/",
+    "Title": "Short Traders Get Wrecked Too as Bitcoin Climbs Past $60K in Whipsaw Move",
+    "Link": "https://cryptopotato.com/short-traders-get-wrecked-too-as-bitcoin-climbs-past-60k-in-whipsaw-move/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_Rollercoaster.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:42"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Bitcoin Price Plunges to $55.5K for the First Time Since September 2024",
+    "Link": "https://cryptopotato.com/bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024/",
+    "ImageUrl": "https://cryptopotato.com/wp-content/uploads/2024/04/Bitcoin_Bear.jpg",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:45"
+  },
+  {
+    "Topic": "Trading & Crypto",
+    "Title": "Solo Bitcoin Miner Wins $190K Jackpot Against 130 Million-to-One Odds",
+    "Link": "https://news.bitcoin.com/mining/solo-bitcoin-miner-wins-190k-jackpot-against-130-million-to-one-odds/",
+    "ImageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/solo-bitcoin-miner-wins-190k-jackpot-against-130-million-to-one-odds.png",
+    "ImageSource": "og:image",
+    "Date": "2026-11-23 07:35:48"
+  },
+  {
+    "Topic": "Science",
+    "Title": "How AI Changes the Four Types of Analytics for Data Scientists",
+    "Link": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
     "ImageUrl": null,
     "ImageSource": "none",
-    "Date": "2026-11-22 07:02:03"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Apple TVs Black Friday deal goes hard: Get 6 months of streaming for over 50% off",
-    "Link": "https://mashable.com/tech/best-black-friday-apple-tv-deal-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07IyTESVOKz8lyPyjw9H0y6/hero-image.fill.size_1200x675.v1795187032.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:20"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The best early Black Friday Pokémon deals: Shop live deals on 30th Celebration, Delta Reign, and more",
-    "Link": "https://mashable.com/life/best-early-black-friday-pokemon-live-deals-2026",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/07B3nWtl6IXRY3wsPJL2YRS/hero-image.fill.size_1200x675.v1794912586.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:22"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "Teenage girl gift ideas that are actually unique",
-    "Link": "https://mashable.com/gifts/best-gifts-for-teenage-girls",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/roundups/07E98Frc7IBRchTVKQK7mom/hero-image.fill.size_1200x675.v1785957172.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:25"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "The Ecovacs Deebot T90 Pro Omni robot vacuum and mop drops back to its $499 Prime Day low — save 38% for Black Friday",
-    "Link": "https://mashable.com/tech/nov-20-ecovacs-deebot-t90-pro-omni-early-black-friday-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/03FvEQ7BkwoxZPQftRtPP3g/hero-image.fill.size_1200x675.v1795164501.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:28"
-  },
-  {
-    "Topic": "Technology",
-    "Title": "These rechargeable hand warmers are perfect stocking stuffers  — and theyre on sale for Black Friday",
-    "Link": "https://mashable.com/tech/nov-20-orastone-hand-warmer-early-black-friday-deal",
-    "ImageUrl": "https://helios-i.mashable.com/imagery/articles/04Hig3Ce4dUmvnIaIp8X4sb/hero-image.fill.size_1200x675.v1795164551.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:30"
+    "Date": "2026-11-23 07:35:56"
   },
   {
     "Topic": "Movies",
-    "Title": "One Second After: Josh Holloway Drama Will Release In April 2027",
-    "Link": "https://bleedingcool.com/movies/one-second-after-josh-holloway-drama-will-release-in-april-2027/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/11/unnamed-3-2000x1125.jpg",
+    "Title": "HBO Officially Makes Severus Snape the New Harry Potter",
+    "Link": "https://collider.com/hbo-harry-potter-severus-snape-forehead-scar-new-posters/",
+    "ImageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/harry-potter-paapa-essiedu-severus-snape-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:39"
+    "Date": "2026-11-23 07:36:03"
   },
   {
     "Topic": "Movies",
-    "Title": "DC Studios Fallout: James Gunn \"Strictly Writer/Director\" Now",
-    "Link": "https://bleedingcool.com/tv/dc-studios-fallout-james-gunn-strictly-writer-director-now/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/10/MixCollage-05-Oct-2026-09-22-AM-5106-2000x1125.jpg",
+    "Title": "Michael Bay’s Highly Underrated Actioner & More Peacock Releases This Week",
+    "Link": "https://www.comingsoon.net/movies/news/2228059-new-peacock-releases-this-week-november-23-29",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-2026-11-20T123823.864.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:42"
+    "Date": "2026-11-23 07:36:06"
   },
   {
     "Topic": "Movies",
-    "Title": "Grand Theft Auto VI TV/Film Adapt? Take-Two \"Very, Very Selective\"",
-    "Link": "https://bleedingcool.com/tv/grand-theft-auto-vi-tv-film-adapt-take-two-very-very-selective/",
-    "ImageUrl": "https://bleedingcool.com/wp-content/uploads/2026/11/MixCollage-18-Nov-2026-10-49-AM-3799-2000x1125.jpg",
+    "Title": "New Season of Ethan Hawke’s Batman Show & More HBO Max Releases This Week",
+    "Link": "https://www.comingsoon.net/tv/news/2227151-new-hbo-max-releases-this-week-november-23-29",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/Ethan-Hawke-Batwheels.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:47"
+    "Date": "2026-11-23 07:36:09"
   },
   {
     "Topic": "Movies",
-    "Title": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
-    "Link": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/",
-    "ImageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2271636255-e1795218750877.jpg?w=1440&#038;h=810&#038;crop=1",
+    "Title": "Emma Watson’s $1.034 Billion Movie Is Getting an Elaborate Remake Very Soon",
+    "Link": "https://www.comingsoon.net/movies/news/2226082-emma-watson-harry-potter-remake-hbo-release-date",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-94.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:49"
+    "Date": "2026-11-23 07:36:12"
   },
   {
     "Topic": "Movies",
-    "Title": "Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million",
-    "Link": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
-    "ImageUrl": "https://variety.com/wp-content/uploads/2026/04/Solstice_Final-Trailer-Grab_00004RC-1.jpg?crop=0px%2C0px%2C1000px%2C562px&#038;resize=1000%2C563",
+    "Title": "Chris Pratt’s New Warrior Movie & More Apple TV Releases This Week",
+    "Link": "https://www.comingsoon.net/movies/news/2228150-new-apple-tv-releases-this-week-november-23-29",
+    "ImageUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-2026-11-20T133238.118.jpg?resize=1200,630",
     "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:52"
-  },
-  {
-    "Topic": "General News",
-    "Title": " British PM Rishi Sunak avoids wipeout in key local elections ",
-    "Link": "https://www.japantimes.co.jp/news/2023/07/21/world/politics/uk-sunak-avoids-wipeout-local-elections/",
-    "ImageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/07/22/240844.JPG?v=3.1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:02:59"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït",
-    "Link": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html",
-    "ImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Fayolle_Jean.jpg/960px-Fayolle_Jean.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ImageSource": "wikipedia",
-    "Date": "2026-11-22 07:03:03"
-  },
-  {
-    "Topic": "General News",
-    "Title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-    "Link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-    "ImageUrl": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78eb5d69f39f51f852f83e5549e2f527",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:05"
-  },
-  {
-    "Topic": "General News",
-    "Title": "California investigates Nvidia over whether chip exports ended up in China",
-    "Link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-    "ImageUrl": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:07"
-  },
-  {
-    "Topic": "General News",
-    "Title": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique ; la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
-    "Link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
-    "ImageUrl": null,
-    "ImageSource": "none",
-    "Date": "2026-11-22 07:03:11"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A rare disease reveals a hidden flaw in the immune system",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:18"
-  },
-  {
-    "Topic": "Science",
-    "Title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/stonehenge-mysterious-altar-stone.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:21"
-  },
-  {
-    "Topic": "Science",
-    "Title": "A 3-million-year-old child just made human evolution far more complicated",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/taung-child.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:24"
-  },
-  {
-    "Topic": "Science",
-    "Title": "New discovery reveals what may be holding back room-temperature superconductors",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/neon-lights-cube-superconductor.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:27"
-  },
-  {
-    "Topic": "Science",
-    "Title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
-    "Link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-    "ImageUrl": "https://www.sciencedaily.com/images/1920/earth-structure-layers.webp",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:30"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A Star 12,000 Light-Years Away Is Entering Its Final Act, and ALMA Just Revealed Its Final Transformation",
-    "Link": "https://dailygalaxy.com/2026/11/a-star-12000-light-years-away-final-act/",
-    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/11/A-Star-12000-Light-Years-Away-Is-Entering-Its-Final-Act-and-ALMA-Just-Revealed-Its-Final-Transformation-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:41"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "SpaceX Sends a Secret Payload Into Orbit as the U.S. Military Keeps Its Mission Under Wraps",
-    "Link": "https://dailygalaxy.com/2026/11/spacex-sends-a-secret-payload-into-orbit/",
-    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/11/SpaceX-Sends-a-Secret-Payload-Into-Orbit-as-the-U.S.-Military-Keeps-Its-Mission-Under-Wraps-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:43"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "Europe’s Euclid Telescope Just Released a Map of 900 Million Galaxies, and It’s Only 14% of What This Telescope Will Survey",
-    "Link": "https://dailygalaxy.com/2026/11/euclid-telescope-map-900-million-galaxies/",
-    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/11/Europes-Euclid-Telescope-Just-Released-a-Map-of-900-Million-Galaxies-and-Its-Only-14_-of-What-This-Telescope-Will-Survey-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:46"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "A Mysterious Dark Horse Emerges From a Sea of Cosmic Fire 1,500 Light-Years Away",
-    "Link": "https://dailygalaxy.com/2026/11/dark-horse-emerges-from-sea-of-cosmic-fire/",
-    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/11/A-Mysterious-Dark-Horse-Emerges-From-a-Sea-of-Cosmic-Fire-1500-Light-Years-Away-scaled.png",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:49"
-  },
-  {
-    "Topic": "Astronomy",
-    "Title": "This Asteroid Sample Contains Almost None of the Beads Found in Most Meteorites, and Scientists Now Think It Is Older Than They Are",
-    "Link": "https://dailygalaxy.com/2026/11/this-asteroid-sample-contains-almost-none-of-the-beads-found-in-most-meteorites-and-scientists-now-think-it-is-older-than-they-are/",
-    "ImageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/11/This-Asteroid-Sample-Contains-Almost-None-of-the-Beads-Found-in-Most-Meteorites-and-Scientists-Now-Think-It-Is-Older-Than-They-Are-scaled.jpg",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:03:52"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-    "Link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:04:02"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Thailand’s Data Centre Expansion to Foster a Stronger Industrial Base",
-    "Link": "https://www.thailand-business-news.com/business/341028-thailands-data-centre-expansion-may-foster-a-stronger-industrial-base-data-reveals",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/11/data-center.jpg?fit=1600%2C900&amp;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:04:04"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-    "Link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:04:09"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Nvidia Scandal Highlights Geopolitical Battle Over AI and Chip Exports",
-    "Link": "https://www.thailand-business-news.com/companies/341402-nvidia-scandal-highlights-geopolitical-battle-over-ai-and-chip-exports",
-    "ImageUrl": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/11/huang-huang-nvidia-feat.jpg?fit=1280%2C658&amp;ssl=1",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:04:12"
-  },
-  {
-    "Topic": "Economy",
-    "Title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-    "Link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-    "ImageUrl": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&amp;w=1920&amp;h=1080",
-    "ImageSource": "og:image",
-    "Date": "2026-11-22 07:04:15"
+    "Date": "2026-11-23 07:36:15"
   }
 ]
